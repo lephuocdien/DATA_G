@@ -1,0 +1,402 @@
+[
+  {
+    "Level": 1,
+    "EXP": 0,
+    "Skill name": "",
+    "Description": "Increase HP",
+    "Range": 1,
+    "Cooldown": 30
+  },
+  {
+    "Level": 2,
+    "EXP": 1000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 3,
+    "EXP": 2000,
+    "Skill name": "",
+    "Description": "Create Shield",
+    "Range": 1,
+    "Cooldown": 30
+  },
+  {
+    "Level": 4,
+    "EXP": 2000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 5,
+    "EXP": 2000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 6,
+    "EXP": 3000,
+    "Skill name": "",
+    "Description": "Damage AoE",
+    "Range": 2,
+    "Cooldown": 30
+  },
+  {
+    "Level": 7,
+    "EXP": 4000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 8,
+    "EXP": 4000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 9,
+    "EXP": 4000,
+    "Skill name": "",
+    "Description": "Increase ATK",
+    "Range": 1,
+    "Cooldown": 40
+  },
+  {
+    "Level": 10,
+    "EXP": 4000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 11,
+    "EXP": 4000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 12,
+    "EXP": 5000,
+    "Skill name": "",
+    "Description": "Stun AoE",
+    "Range": 2,
+    "Cooldown": 50
+  },
+  {
+    "Level": 13,
+    "EXP": 6000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 14,
+    "EXP": 6000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 15,
+    "EXP": 6000,
+    "Skill name": "",
+    "Description": "Increase Energy",
+    "Range": 1,
+    "Cooldown": 60
+  },
+  {
+    "Level": 16,
+    "EXP": 7000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 17,
+    "EXP": 8000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 18,
+    "EXP": 8000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 19,
+    "EXP": 8000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 20,
+    "EXP": 9000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 21,
+    "EXP": 10000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 22,
+    "EXP": 10000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 23,
+    "EXP": 11000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 24,
+    "EXP": 12000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 25,
+    "EXP": 13000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 26,
+    "EXP": 14000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 27,
+    "EXP": 14000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 28,
+    "EXP": 15000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 29,
+    "EXP": 16000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 30,
+    "EXP": 17000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 31,
+    "EXP": 18000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 32,
+    "EXP": 19000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 33,
+    "EXP": 20000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 34,
+    "EXP": 21000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 35,
+    "EXP": 22000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 36,
+    "EXP": 23000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 37,
+    "EXP": 24000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 38,
+    "EXP": 25000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 39,
+    "EXP": 26000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 40,
+    "EXP": 27000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 41,
+    "EXP": 28000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 42,
+    "EXP": 29000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 43,
+    "EXP": 31000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 44,
+    "EXP": 33000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 45,
+    "EXP": 34000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 46,
+    "EXP": 35000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 47,
+    "EXP": 37000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 48,
+    "EXP": 38000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 49,
+    "EXP": 39000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  },
+  {
+    "Level": 50,
+    "EXP": 41000,
+    "Skill name": "",
+    "Description": "",
+    "Range": "",
+    "Cooldown": ""
+  }
+]
