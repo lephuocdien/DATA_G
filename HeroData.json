@@ -97,7 +97,7 @@
     "enemy_block_number": 4,
     "deploy_cost": 17,
     "redeploy_time": 5,
-    "hp": 1665,
+    "hp": 1926,
     "defense": 20,
     "range": 0.6,
     "attack": 0,
@@ -107,7 +107,7 @@
     "passive_skill_2": "Guardian Gift",
     "auto_skill_1": "Rock Fortress",
     "auto_skill_2": "Stone Aegis",
-    "combat_power": 1466
+    "combat_power": 1458
   },
   {
     "id": "Warrior_Expert_2",
@@ -207,7 +207,7 @@
     "enemy_block_number": 4,
     "deploy_cost": 13,
     "redeploy_time": 5,
-    "hp": 1445,
+    "hp": 1667,
     "defense": 19,
     "range": 0.6,
     "attack": 0,
@@ -217,7 +217,7 @@
     "passive_skill_2": "Ember Shield",
     "auto_skill_1": "Ember Fortitude",
     "auto_skill_2": "Blazing Resolve",
-    "combat_power": 1177
+    "combat_power": 1169
   },
   {
     "id": "Magician_Expert_3",
@@ -273,7 +273,7 @@
     "enemy_block_number": 4,
     "deploy_cost": 10,
     "redeploy_time": 5,
-    "hp": 1170,
+    "hp": 1429,
     "defense": 17,
     "range": 0.6,
     "attack": 0,
@@ -283,7 +283,7 @@
     "passive_skill_2": "Stone Skin",
     "auto_skill_1": "Gaia Bastion",
     "auto_skill_2": "Terra Bulwark",
-    "combat_power": 1149
+    "combat_power": 1162
   },
   {
     "id": "Warrior_Mystic_4",
@@ -471,7 +471,7 @@
     "enemy_block_number": 4,
     "deploy_cost": 18,
     "redeploy_time": 5,
-    "hp": 1606,
+    "hp": 1956,
     "defense": 21,
     "range": 0.6,
     "attack": 0,
@@ -481,7 +481,7 @@
     "passive_skill_2": "Flame Surge",
     "auto_skill_1": "Inferno Bastion",
     "auto_skill_2": "Flame Guard",
-    "combat_power": 1272
+    "combat_power": 1289
   },
   {
     "id": "Magician_Mystic_1",
@@ -559,7 +559,7 @@
     "enemy_block_number": 4,
     "deploy_cost": 16,
     "redeploy_time": 5,
-    "hp": 1635,
+    "hp": 1997,
     "defense": 21,
     "range": 0.6,
     "attack": 0,
@@ -569,7 +569,7 @@
     "passive_skill_2": "Cyclone Strike",
     "auto_skill_1": "Cyclone Guard",
     "auto_skill_2": "Storm Resilience",
-    "combat_power": 1481
+    "combat_power": 1499
   },
   {
     "id": "Magician_Mystic_2",
@@ -647,7 +647,7 @@
     "enemy_block_number": 4,
     "deploy_cost": 13,
     "redeploy_time": 5,
-    "hp": 1425,
+    "hp": 1677,
     "defense": 19,
     "range": 0.6,
     "attack": 0,
@@ -657,7 +657,7 @@
     "passive_skill_2": "Storm Surge",
     "auto_skill_1": "Storm Resilience",
     "auto_skill_2": "Gale Barrier",
-    "combat_power": 1171
+    "combat_power": 1172
   },
   {
     "id": "Warrior_Mystic_1",
@@ -757,7 +757,7 @@
     "enemy_block_number": 4,
     "deploy_cost": 13,
     "redeploy_time": 5,
-    "hp": 1475,
+    "hp": 1651,
     "defense": 18,
     "range": 0.6,
     "attack": 0,
@@ -767,7 +767,7 @@
     "passive_skill_2": "Dusk Armor",
     "auto_skill_1": "Shadow Veil",
     "auto_skill_2": "Dusk Barrier",
-    "combat_power": 1362
+    "combat_power": 1341
   },
   {
     "id": "Warrior_Mystic_2",
@@ -845,7 +845,7 @@
     "enemy_block_number": 4,
     "deploy_cost": 17,
     "redeploy_time": 5,
-    "hp": 1668,
+    "hp": 1950,
     "defense": 20,
     "range": 0.6,
     "attack": 0,
@@ -855,7 +855,7 @@
     "passive_skill_2": "Phantom Strike",
     "auto_skill_1": "Shadow Veil",
     "auto_skill_2": "Abyssal Guard",
-    "combat_power": 1267
+    "combat_power": 1264
   },
   {
     "id": "Warrior_Novice_1",
@@ -955,7 +955,7 @@
     "enemy_block_number": 4,
     "deploy_cost": 16,
     "redeploy_time": 5,
-    "hp": 1661,
+    "hp": 1947,
     "defense": 21,
     "range": 0.6,
     "attack": 0,
@@ -965,7 +965,7 @@
     "passive_skill_2": "Tidal Shield",
     "auto_skill_1": "Glacial Fortitude",
     "auto_skill_2": "Frost Aegis",
-    "combat_power": 1289
+    "combat_power": 1287
   },
   {
     "id": "Warrior_Novice_2",
@@ -1043,7 +1043,7 @@
     "enemy_block_number": 4,
     "deploy_cost": 10,
     "redeploy_time": 5,
-    "hp": 1191,
+    "hp": 1469,
     "defense": 17,
     "range": 0.6,
     "attack": 0,
@@ -1053,7 +1053,7 @@
     "passive_skill_2": "Soothing Aura",
     "auto_skill_1": "Frost Aegis",
     "auto_skill_2": "Aqua Barrier",
-    "combat_power": 1055
+    "combat_power": 1072
   },
   {
     "id": "Warrior_Expert_4",
