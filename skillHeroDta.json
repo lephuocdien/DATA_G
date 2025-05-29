@@ -1,0 +1,812 @@
+[
+  {
+    "Skill Name": "Power Slash",
+    "X": 100,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Cleaving Strike",
+    "X": 150,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Sigil Blast",
+    "X": 150,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Arcane Burst",
+    "X": 130,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Rapid Shot",
+    "X": 3,
+    "Y": 40,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Piercing Bullet",
+    "X": 110,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Iron Wall",
+    "X": 25,
+    "Y": 1,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Taunt",
+    "X": 3,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Healing Light",
+    "X": 5,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Inspire",
+    "X": 10,
+    "Y": 3,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Burning Fury",
+    "X": 15,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Ember Shield",
+    "X": 10,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Ignite",
+    "X": 5,
+    "Y": 10,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Flame Surge",
+    "X": 5,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Phoenix Spirit",
+    "X": 2,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Flowing Guard",
+    "X": 15,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Soothing Aura",
+    "X": 50,
+    "Y": 5,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Frostbite",
+    "X": 30,
+    "Y": 10,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Ocean Grace",
+    "X": 10,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Tidal Shield",
+    "X": 15,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Sturdy Resolve",
+    "X": 15,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Stone Skin",
+    "X": 25,
+    "Y": 50,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Rooted Strike",
+    "X": 3,
+    "Y": 5,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Earthen Might",
+    "X": 10,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Guardian Gift",
+    "X": 5,
+    "Y": 20,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Gale Force",
+    "X": 15,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Feather Step",
+    "X": 10,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Cyclone Strike",
+    "X": 10,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Breeze Barrier",
+    "X": 20,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Storm Surge",
+    "X": 20,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Shadow Power",
+    "X": 25,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Curse Mark",
+    "X": 3,
+    "Y": 10,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Life Drain",
+    "X": 15,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Dusk Armor",
+    "X": 20,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Phantom Strike",
+    "X": 30,
+    "Y": 30,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Inferno Slash",
+    "X": 225,
+    "Y": 25,
+    "Z": 4
+  },
+  {
+    "Skill Name": "Blazing Cleave",
+    "X": 255,
+    "Y": 20,
+    "Z": 4
+  },
+  {
+    "Skill Name": "Flame Crash",
+    "X": 230,
+    "Y": 2,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Scorching Strike",
+    "X": 250,
+    "Y": 10,
+    "Z": 2
+  },
+  {
+    "Skill Name": "Tidal Slash",
+    "X": 245,
+    "Y": 25,
+    "Z": 4
+  },
+  {
+    "Skill Name": "Aqua Smash",
+    "X": 260,
+    "Y": 2,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Ocean Fury",
+    "X": 240,
+    "Y": 17.5,
+    "Z": 3
+  },
+  {
+    "Skill Name": "Wave Strike",
+    "X": 275,
+    "Y": 7.5,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Stone Slam",
+    "X": 250,
+    "Y": 3,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Rock Breaker",
+    "X": 260,
+    "Y": 10,
+    "Z": 5
+  },
+  {
+    "Skill Name": "Seismic Smash",
+    "X": 225,
+    "Y": 12.5,
+    "Z": 5
+  },
+  {
+    "Skill Name": "Terra Strike",
+    "X": 205,
+    "Y": 15,
+    "Z": 3
+  },
+  {
+    "Skill Name": "Cyclone Slash",
+    "X": 200,
+    "Y": 2,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Gale Strike",
+    "X": 230,
+    "Y": 7.5,
+    "Z": 5
+  },
+  {
+    "Skill Name": "Tempest Crash",
+    "X": 260,
+    "Y": 2,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Wind Cutter",
+    "X": 240,
+    "Y": 25,
+    "Z": 3
+  },
+  {
+    "Skill Name": "Shadow Slash",
+    "X": 200,
+    "Y": 15,
+    "Z": 4
+  },
+  {
+    "Skill Name": "Dusk Cleave",
+    "X": 210,
+    "Y": 25,
+    "Z": 3
+  },
+  {
+    "Skill Name": "Abyssal Strike",
+    "X": 225,
+    "Y": 25,
+    "Z": 3
+  },
+  {
+    "Skill Name": "Nightfall Crush",
+    "X": 200,
+    "Y": 20,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Flame Burst",
+    "X": 100,
+    "Y": 35,
+    "Z": 5
+  },
+  {
+    "Skill Name": "Scorching Wave",
+    "X": 185,
+    "Y": 15,
+    "Z": 5
+  },
+  {
+    "Skill Name": "Infernal Chains",
+    "X": 160,
+    "Y": 3,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Meteor Shower",
+    "X": 75,
+    "Y": 5,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Tidal Surge",
+    "X": 190,
+    "Y": 25,
+    "Z": 3
+  },
+  {
+    "Skill Name": "Freezing Blast",
+    "X": 170,
+    "Y": 4,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Aqua Whirl",
+    "X": 260,
+    "Y": 2,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Frost Nova",
+    "X": 220,
+    "Y": 20,
+    "Z": 4
+  },
+  {
+    "Skill Name": "Quake Wave",
+    "X": 270,
+    "Y": 3,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Boulder Crash",
+    "X": 200,
+    "Y": 30,
+    "Z": 3
+  },
+  {
+    "Skill Name": "Stone Rain",
+    "X": 90,
+    "Y": 4,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Petrify Hex",
+    "X": 300,
+    "Y": 3,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Storm Strike",
+    "X": 250,
+    "Y": 2,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Cyclone Vortex",
+    "X": 150,
+    "Y": 2.5,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Thunder Surge",
+    "X": 240,
+    "Y": 4,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Gale Shock",
+    "X": 250,
+    "Y": 40,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Shadow Explosion",
+    "X": 90,
+    "Y": 25,
+    "Z": 4
+  },
+  {
+    "Skill Name": "Curse of the Abyss",
+    "X": 300,
+    "Y": 25,
+    "Z": 5
+  },
+  {
+    "Skill Name": "Phantom Grasp",
+    "X": 60,
+    "Y": 25,
+    "Z": 4
+  },
+  {
+    "Skill Name": "Nightfall Curse",
+    "X": 165,
+    "Y": 3,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Blazing Shot",
+    "X": 105,
+    "Y": 30,
+    "Z": 3
+  },
+  {
+    "Skill Name": "Rapid Inferno",
+    "X": 3,
+    "Y": 75,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Searing Barrage",
+    "X": 125,
+    "Y": 10,
+    "Z": 2
+  },
+  {
+    "Skill Name": "Ember Ricochet",
+    "X": 160,
+    "Y": 4,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Aqua Piercer",
+    "X": 110,
+    "Y": 20,
+    "Z": 3
+  },
+  {
+    "Skill Name": "Frost Barrage",
+    "X": 145,
+    "Y": 30,
+    "Z": 3
+  },
+  {
+    "Skill Name": "Frozen Precision",
+    "X": 170,
+    "Y": 15,
+    "Z": 2
+  },
+  {
+    "Skill Name": "Tidal Wave Shot",
+    "X": 125,
+    "Y": 75,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Rock Bullet",
+    "X": 160,
+    "Y": 2,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Ricochet Shot",
+    "X": 140,
+    "Y": 5,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Cracked Shot",
+    "X": 150,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Piercing Stone",
+    "X": 200,
+    "Y": 25,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Piercing Wind",
+    "X": 175,
+    "Y": 35,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Twin Arrows",
+    "X": 3,
+    "Y": 100,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Windwalker Shot",
+    "X": 150,
+    "Y": 12.5,
+    "Z": 6
+  },
+  {
+    "Skill Name": "Gale Barrage",
+    "X": 225,
+    "Y": 4,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Phantom Shot",
+    "X": 200,
+    "Y": 8,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Death Spiral",
+    "X": 275,
+    "Y": 5,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Shadow Volley",
+    "X": 4,
+    "Y": 75,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Soulpiercer Shot",
+    "X": 350,
+    "Y": 50,
+    "Z": 3
+  },
+  {
+    "Skill Name": "Flame Guard",
+    "X": 17,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Ember Fortitude",
+    "X": 20,
+    "Y": 8,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Inferno Bastion",
+    "X": 100,
+    "Y": 4,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Blazing Resolve",
+    "X": 12,
+    "Y": 18,
+    "Z": 6
+  },
+  {
+    "Skill Name": "Aqua Barrier",
+    "X": 13,
+    "Y": 3,
+    "Z": 4
+  },
+  {
+    "Skill Name": "Tidal Resilience",
+    "X": 20,
+    "Y": 7,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Frost Aegis",
+    "X": 10,
+    "Y": 40,
+    "Z": 5
+  },
+  {
+    "Skill Name": "Glacial Fortitude",
+    "X": 24,
+    "Y": 5,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Stone Aegis",
+    "X": 30,
+    "Y": 6,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Rock Fortress",
+    "X": 20,
+    "Y": 6,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Terra Bulwark",
+    "X": 10,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Gaia Bastion",
+    "X": 22,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Wind Ward",
+    "X": 10,
+    "Y": 20,
+    "Z": 4
+  },
+  {
+    "Skill Name": "Gale Barrier",
+    "X": 10,
+    "Y": 2,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Storm Resilience",
+    "X": 4,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Cyclone Guard",
+    "X": 18,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Shadow Veil",
+    "X": 20,
+    "Y": 8,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Dusk Barrier",
+    "X": 15,
+    "Y": 8,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Void Fortification",
+    "X": 10,
+    "Y": 15,
+    "Z": 4
+  },
+  {
+    "Skill Name": "Abyssal Guard",
+    "X": 20,
+    "Y": 2,
+    "Z": 4
+  },
+  {
+    "Skill Name": "Flame Harmony",
+    "X": 14,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Ember Vitality",
+    "X": 20,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Phoenix Renewal",
+    "X": 3,
+    "Y": 5,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Blazing Courage",
+    "X": 5,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Ocean Embrace",
+    "X": 5,
+    "Y": 15,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Mist of Serenity",
+    "X": 18,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Tidal Blessing",
+    "X": 10,
+    "Y": 99,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Frost Sanctuary",
+    "X": 5,
+    "Y": 15,
+    "Z": 5
+  },
+  {
+    "Skill Name": "Nature Grace",
+    "X": 20,
+    "Y": 5,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Gaia Protection",
+    "X": 10,
+    "Y": 5,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Verdant Rejuvenation",
+    "X": 3,
+    "Y": 5,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Stone Shelter",
+    "X": 30,
+    "Y": 6,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Zephyr Touch",
+    "X": 30,
+    "Y": 8,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Soothing Breeze",
+    "X": 8,
+    "Y": "",
+    "Z": ""
+  },
+  {
+    "Skill Name": "Skyward Blessing",
+    "X": 15,
+    "Y": 20,
+    "Z": 4
+  },
+  {
+    "Skill Name": "Cloudburst Aura",
+    "X": 30,
+    "Y": 8,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Twilight Recovery",
+    "X": 10,
+    "Y": 20,
+    "Z": 3
+  },
+  {
+    "Skill Name": "Abyssal Sanctuary",
+    "X": 15,
+    "Y": 2,
+    "Z": ""
+  },
+  {
+    "Skill Name": "Shadow Mend",
+    "X": 20,
+    "Y": 20,
+    "Z": 6
+  },
+  {
+    "Skill Name": "Dusk Rebirth",
+    "X": 20,
+    "Y": "",
+    "Z": ""
+  }
+]
