@@ -626,8 +626,8 @@
   {
     "Skill Name": "Rock Fortress",
     "X": 20,
-    "Y": 6,
-    "Z": ""
+    "Y": "",
+    "Z": 6
   },
   {
     "Skill Name": "Terra Bulwark",
