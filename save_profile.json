@@ -133,10 +133,15 @@
      ]
   },
   "userCurrency": {
-  "CurrencyItemDatas": [
-    { "currencyType": 0, "amount": 0 },
-    { "currencyType": 2, "amount": 0 }, 
-    { "currencyType": 1, "amount": 0 }
-  ]
-}
+	  "CurrencyItemDatas": [
+		{ "currencyType": 0, "amount": 0 },
+		{ "currencyType": 2, "amount": 0 }, 
+		{ "currencyType": 1, "amount": 0 }
+	  ]
+	},
+	"userStamina": {
+    "currentStamina": 50,
+    "lastStaminaUpdate": 1748942426000,   
+  },
+  "playerLevel": 1
 }
