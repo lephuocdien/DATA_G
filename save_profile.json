@@ -1,147 +1,152 @@
 {
-  "userSetting": {
-    "gameSpeedMultiplier": 1,
-    "isTurnOnSound": false,
-    "isTurnOnBgMusic": false,
-    "isTurnOnVibration": false
-  },
-  "gameProgress": {
-    "currentWorld": 1,
-    "highestLevelUnlocked": 2,
-    "lastCompletedLevel": 1,
-    "baseHP": 10,
-	 "levelProgresses":null
-  },
-  "heroContainer": {
-    "heroes": [
-      {
-        "id": "Warrior_Expert_3",       
-        "currentLevel": 10
-      },
-      {
-        "id": "Support_Novice_2",       
-        "currentLevel": 10
-      },
-      {
-        "id": "Magician_Expert_1",       
-        "currentLevel": 10
-      },
-      {
-        "id": "Shooter_Expert_3",       
-        "currentLevel": 10
-      },
-      {
-        "id": "Tanker_Mystic_3",       
-        "currentLevel": 10
-      }
-    ]
-  },
-  "skillsUnlocked": {
-    "Warrior_Expert_3": [
-      {
-        "skillType": "Basic",
-        "skills": [
-          "CleavingStrike"
+    "userSetting": {
+        "gameSpeedMultiplier": 1,
+        "isTurnOnSound": false,
+        "isTurnOnBgMusic": false,
+        "isTurnOnVibration": false
+    },
+    "gameProgress": {
+        "currentWorld": 1,
+        "highestLevelUnlocked": 2,
+        "lastCompletedLevel": 1,
+        "baseHP": 10,
+        "levelProgresses": null
+    },
+    "heroContainer": {
+        "heroes": [
+            {
+                "id": "Warrior_Expert_3",
+                "currentLevel": 10
+            },
+            {
+                "id": "Support_Novice_2",
+                "currentLevel": 10
+            },
+            {
+                "id": "Magician_Expert_1",
+                "currentLevel": 10
+            },
+            {
+                "id": "Shooter_Expert_3",
+                "currentLevel": 10
+            },
+            {
+                "id": "Tanker_Mystic_3",
+                "currentLevel": 10
+            }
         ]
-      },
-      {
-        "skillType": "Passive",
-        "skills": []
-      },
-      {
-        "skillType": "Auto",
-        "skills": [
-          "ScorchingStrike"
-		  
+    },
+    "skillsUnlocked": {
+        "Warrior_Expert_3": [
+            {
+                "skillType": "Basic",
+                "skills": [
+                    "CleavingStrike"
+                ]
+            },
+            {
+                "skillType": "Passive",
+                "skills": []
+            },
+            {
+                "skillType": "Auto",
+                "skills": [
+                    "ScorchingStrike"
+                ]
+            }
+        ],
+        "Support_Novice_2": [
+            {
+                "skillType": "Basic",
+                "skills": [
+                    "HealingLight"
+                ]
+            },
+            {
+                "skillType": "Passive",
+                "skills": []
+            },
+            {
+                "skillType": "Auto",
+                "skills": [
+                    "SkywardBlessing"
+                ]
+            }
+        ],
+        "Magician_Expert_1": [
+            {
+                "skillType": "Basic",
+                "skills": [
+                    "SigilBlast"
+                ]
+            },
+            {
+                "skillType": "Passive",
+                "skills": []
+            },
+            {
+                "skillType": "Auto",
+                "skills": [
+                    "CycloneVortex"
+                ]
+            }
+        ],
+        "Shooter_Expert_3": [
+            {
+                "skillType": "Basic",
+                "skills": [
+                    "PiercingBullet"
+                ]
+            },
+            {
+                "skillType": "Passive",
+                "skills": []
+            },
+            {
+                "skillType": "Auto",
+                "skills": [
+                    "FrostBarrage"
+                ]
+            }
+        ],
+        "Tanker_Mystic_3": [
+            {
+                "skillType": "Basic",
+                "skills": [
+                    "IronWall"
+                ]
+            },
+            {
+                "skillType": "Passive",
+                "skills": []
+            },
+            {
+                "skillType": "Auto",
+                "skills": [
+                    "RockFortress"
+                ]
+            }
         ]
-      }
-    ],
-    "Support_Novice_2": [
-      {
-        "skillType": "Basic",
-        "skills": [
-          "HealingLight"
+    },
+    "userCurrency": {
+        "CurrencyItemDatas": [
+            {
+                "currencyType": 0,
+                "amount": 0
+            },
+            {
+                "currencyType": 2,
+                "amount": 0
+            },
+            {
+                "currencyType": 1,
+                "amount": 0
+            }
         ]
-      },
-      {
-        "skillType": "Passive",
-        "skills": []
-      },
-      {
-        "skillType": "Auto",
-        "skills": [
-          "SkywardBlessing"
-		 
-        ]
-      }
-    ],
-	 "Magician_Expert_1": [
-      {
-        "skillType": "Basic",
-        "skills": [
-          "SigilBlast"
-        ]
-      },
-      {
-        "skillType": "Passive",
-        "skills": []
-      },
-      {
-        "skillType": "Auto",
-        "skills": [
-          "CycloneVortex"
-          
-        ]
-      }
-    ],
-    "Shooter_Expert_3": [
-       {
-         "skillType": "Basic",
-         "skills": [
-           "PiercingBullet"
-         ]
-       },
-       {
-         "skillType": "Passive",
-         "skills": []
-       },
-       {
-         "skillType": "Auto",
-         "skills": [
-           "FrostBarrage"
-           
-         ]
-       }
-     ],
-    "Tanker_Mystic_3": [
-       {
-         "skillType": "Basic",
-         "skills": [
-           "IronWall"
-         ]
-       },
-       {
-         "skillType": "Passive",
-         "skills": []
-       },
-       {
-         "skillType": "Auto",
-         "skills": [
-           "RockFortress"           
-         ]
-       }
-     ]
-  },
-  "userCurrency": {
-	  "CurrencyItemDatas": [
-		{ "currencyType": 0, "amount": 0 },
-		{ "currencyType": 2, "amount": 0 }, 
-		{ "currencyType": 1, "amount": 0 }
-	  ]
-	},
-	"userStamina": {
-    "currentStamina": 1,
-    "lastStaminaUpdate": 1748942426000,   
-  },
-  "playerLevel": 1
+    },
+    "userStamina": {
+        "currentStamina": 50,
+        "lastStaminaUpdate": 1748942426000
+    },
+    "playerLevel": 1
 }
