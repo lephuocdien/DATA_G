@@ -145,7 +145,7 @@
         ]
     },
     "userStamina": {
-        "currentStamina": 50,
+        "currentStamina": 5,
         "lastStaminaUpdate": 1748942426000
     },
     "playerLevel": 1
