@@ -1,0 +1,8 @@
+{
+  "regen_interval": 10,
+  "init_stamina_cap": 50,
+  "stamina_cap_increase_per_level": 1,
+  "stamina_cap_max": 60,
+  "bonus_stamina_per_level_up_ratio": 0.5,
+  "bonus_stamina_from_ads": 3
+}
