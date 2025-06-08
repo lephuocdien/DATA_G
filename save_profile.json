@@ -132,7 +132,7 @@
     "CurrencyItemDatas": [
       {
         "currencyType": "sc",
-        "amount": 0
+        "amount": 5000
       },
       {
         "currencyType": "hc",
