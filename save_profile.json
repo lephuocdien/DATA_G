@@ -151,27 +151,11 @@
         "amount": 0
       },
       {
-        "currencyType": "material_all_common_orb",
-        "amount": 0
-      },      
-      {
-        "currencyType": "chest_legendary",
+        "currencyType": "summon_ticket",
         "amount": 0
       },
       {
-        "currencyType": "chest_rare",
-        "amount": 0
-      },
-      {
-        "currencyType": "chest_epic",
-        "amount": 0
-      },
-      {
-        "currencyType": "chest_normal",
-        "amount": 0
-      },
-      {
-        "currencyType": "recruit_ticket",
+        "currencyType": "spin_ticket",
         "amount": 0
       }
     ]
