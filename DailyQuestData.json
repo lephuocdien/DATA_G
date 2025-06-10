@@ -68,7 +68,7 @@
     "condition": "Complete {0} daily quests",
     "x": 2,
     "reward_amount": 1,
-    "reward_type": "chest_normal",
+    "reward_type": "consumable_chest_reward_common",
     "redirect_to": ""
   },
   {
@@ -76,7 +76,7 @@
     "condition": "Complete {0} daily quests",
     "x": 4,
     "reward_amount": 1,
-    "reward_type": "chest_rare",
+    "reward_type": "consumable_chest_reward_rare",
     "redirect_to": ""
   },
   {
