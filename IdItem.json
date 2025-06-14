@@ -1,0 +1,632 @@
+[
+  {
+    "id": "equipment_warrior_common_head_1",
+    "hero_class": "warrior",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_warrior_common_armor_1",
+    "hero_class": "warrior",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_warrior_common_ring_1",
+    "hero_class": "warrior",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_warrior_uncommon_head_1",
+    "hero_class": "warrior",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_warrior_uncommon_armor_1",
+    "hero_class": "warrior",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_warrior_uncommon_ring_1",
+    "hero_class": "warrior",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_warrior_rare_head_1",
+    "hero_class": "warrior",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_warrior_rare_armor_1",
+    "hero_class": "warrior",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_warrior_rare_ring_1",
+    "hero_class": "warrior",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_warrior_epic_head_1",
+    "hero_class": "warrior",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_warrior_epic_armor_1",
+    "hero_class": "warrior",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_warrior_epic_ring_1",
+    "hero_class": "warrior",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_warrior_legendary_head_1",
+    "hero_class": "warrior",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment_warrior_legendary_armor_1",
+    "hero_class": "warrior",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment_warrior_legendary_ring_1",
+    "hero_class": "warrior",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment_magician_common_head_1",
+    "hero_class": "magician",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_magician_common_armor_1",
+    "hero_class": "magician",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_magician_common_ring_1",
+    "hero_class": "magician",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_magician_uncommon_head_1",
+    "hero_class": "magician",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_magician_uncommon_armor_1",
+    "hero_class": "magician",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_magician_uncommon_ring_1",
+    "hero_class": "magician",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_magician_rare_head_1",
+    "hero_class": "magician",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_magician_rare_armor_1",
+    "hero_class": "magician",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_magician_rare_ring_1",
+    "hero_class": "magician",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_magician_epic_head_1",
+    "hero_class": "magician",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_magician_epic_armor_1",
+    "hero_class": "magician",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_magician_epic_ring_1",
+    "hero_class": "magician",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_magician_legendary_head_1",
+    "hero_class": "magician",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment_magician_legendary_armor_1",
+    "hero_class": "magician",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment_magician_legendary_ring_1",
+    "hero_class": "magician",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment_shooter_common_head_1",
+    "hero_class": "shooter",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_shooter_common_armor_1",
+    "hero_class": "shooter",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_shooter_common_ring_1",
+    "hero_class": "shooter",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_shooter_uncommon_head_1",
+    "hero_class": "shooter",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_shooter_uncommon_armor_1",
+    "hero_class": "shooter",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_shooter_uncommon_ring_1",
+    "hero_class": "shooter",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_shooter_rare_head_1",
+    "hero_class": "shooter",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_shooter_rare_armor_1",
+    "hero_class": "shooter",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_shooter_rare_ring_1",
+    "hero_class": "shooter",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_shooter_epic_head_1",
+    "hero_class": "shooter",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_shooter_epic_armor_1",
+    "hero_class": "shooter",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_shooter_epic_ring_1",
+    "hero_class": "shooter",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_shooter_legendary_head_1",
+    "hero_class": "shooter",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment_shooter_legendary_armor_1",
+    "hero_class": "shooter",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment_shooter_legendary_ring_1",
+    "hero_class": "shooter",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment_tanker_common_head_1",
+    "hero_class": "tanker",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_tanker_common_armor_1",
+    "hero_class": "tanker",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_tanker_common_ring_1",
+    "hero_class": "tanker",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_tanker_uncommon_head_1",
+    "hero_class": "tanker",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_tanker_uncommon_armor_1",
+    "hero_class": "tanker",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_tanker_uncommon_ring_1",
+    "hero_class": "tanker",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_tanker_rare_head_1",
+    "hero_class": "tanker",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_tanker_rare_armor_1",
+    "hero_class": "tanker",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_tanker_rare_ring_1",
+    "hero_class": "tanker",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_tanker_epic_head_1",
+    "hero_class": "tanker",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_tanker_epic_armor_1",
+    "hero_class": "tanker",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_tanker_epic_ring_1",
+    "hero_class": "tanker",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_tanker_legendary_head_1",
+    "hero_class": "tanker",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment_tanker_legendary_armor_1",
+    "hero_class": "tanker",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment_tanker_legendary_ring_1",
+    "hero_class": "tanker",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment_supporter_common_head_1",
+    "hero_class": "supporter",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_supporter_common_armor_1",
+    "hero_class": "supporter",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_supporter_common_ring_1",
+    "hero_class": "supporter",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment_supporter_uncommon_head_1",
+    "hero_class": "supporter",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_supporter_uncommon_armor_1",
+    "hero_class": "supporter",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_supporter_uncommon_ring_1",
+    "hero_class": "supporter",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "equipment_supporter_rare_head_1",
+    "hero_class": "supporter",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_supporter_rare_armor_1",
+    "hero_class": "supporter",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_supporter_rare_ring_1",
+    "hero_class": "supporter",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment_supporter_epic_head_1",
+    "hero_class": "supporter",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_supporter_epic_armor_1",
+    "hero_class": "supporter",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_supporter_epic_ring_1",
+    "hero_class": "supporter",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment_supporter_legendary_head_1",
+    "hero_class": "supporter",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment_supporter_legendary_armor_1",
+    "hero_class": "supporter",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment_supporter_legendary_ring_1",
+    "hero_class": "supporter",
+    "rarity": "legendary"
+  },
+  {
+    "id": "material_all_common_orb",
+    "hero_class": "all",
+    "rarity": "common"
+  },
+  {
+    "id": "material_all_uncommon_orb",
+    "hero_class": "all",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "material_all_rare_orb",
+    "hero_class": "all",
+    "rarity": "rare"
+  },
+  {
+    "id": "material_all_epic_orb",
+    "hero_class": "all",
+    "rarity": "epic"
+  },
+  {
+    "id": "material_all_legendary_orb",
+    "hero_class": "all",
+    "rarity": "legendary"
+  },
+  {
+    "id": "material_warrior_common_1",
+    "hero_class": "warrior",
+    "rarity": "common"
+  },
+  {
+    "id": "material_warrior_uncommon_1",
+    "hero_class": "warrior",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "material_warrior_rare_1",
+    "hero_class": "warrior",
+    "rarity": "rare"
+  },
+  {
+    "id": "material_warrior_epic_1",
+    "hero_class": "warrior",
+    "rarity": "epic"
+  },
+  {
+    "id": "material_warrior_legendary_1",
+    "hero_class": "warrior",
+    "rarity": "legendary"
+  },
+  {
+    "id": "material_magician_common_1",
+    "hero_class": "magician",
+    "rarity": "common"
+  },
+  {
+    "id": "material_magician_uncommon_1",
+    "hero_class": "magician",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "material_magician_rare_1",
+    "hero_class": "magician",
+    "rarity": "rare"
+  },
+  {
+    "id": "material_magician_epic_1",
+    "hero_class": "magician",
+    "rarity": "epic"
+  },
+  {
+    "id": "material_magician_legendary_1",
+    "hero_class": "magician",
+    "rarity": "legendary"
+  },
+  {
+    "id": "material_shooter_common_1",
+    "hero_class": "shooter",
+    "rarity": "common"
+  },
+  {
+    "id": "material_shooter_uncommon_1",
+    "hero_class": "shooter",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "material_shooter_rare_1",
+    "hero_class": "shooter",
+    "rarity": "rare"
+  },
+  {
+    "id": "material_shooter_epic_1",
+    "hero_class": "shooter",
+    "rarity": "epic"
+  },
+  {
+    "id": "material_shooter_legendary_1",
+    "hero_class": "shooter",
+    "rarity": "legendary"
+  },
+  {
+    "id": "material_tanker_common_1",
+    "hero_class": "tanker",
+    "rarity": "common"
+  },
+  {
+    "id": "material_tanker_uncommon_1",
+    "hero_class": "tanker",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "material_tanker_rare_1",
+    "hero_class": "tanker",
+    "rarity": "rare"
+  },
+  {
+    "id": "material_tanker_epic_1",
+    "hero_class": "tanker",
+    "rarity": "epic"
+  },
+  {
+    "id": "material_tanker_legendary_1",
+    "hero_class": "tanker",
+    "rarity": "legendary"
+  },
+  {
+    "id": "material_supporter_common_1",
+    "hero_class": "supporter",
+    "rarity": "common"
+  },
+  {
+    "id": "material_supporter_uncommon_1",
+    "hero_class": "supporter",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "material_supporter_rare_1",
+    "hero_class": "supporter",
+    "rarity": "rare"
+  },
+  {
+    "id": "material_supporter_epic_1",
+    "hero_class": "supporter",
+    "rarity": "epic"
+  },
+  {
+    "id": "material_supporter_legendary_1",
+    "hero_class": "supporter",
+    "rarity": "legendary"
+  },
+  {
+    "id": "sc",
+    "hero_class": "",
+    "rarity": ""
+  },
+  {
+    "id": "hc",
+    "hero_class": "",
+    "rarity": ""
+  },
+  {
+    "id": "xp_book",
+    "hero_class": "",
+    "rarity": ""
+  },
+  {
+    "id": "skill_book",
+    "hero_class": "",
+    "rarity": ""
+  },
+  {
+    "id": "summon_ticket",
+    "hero_class": "",
+    "rarity": ""
+  },
+  {
+    "id": "spin_ticket",
+    "hero_class": "",
+    "rarity": ""
+  },
+  {
+    "id": "consumable_chest_material_common",
+    "hero_class": "",
+    "rarity": "common"
+  },
+  {
+    "id": "consumable_chest_material_uncommon",
+    "hero_class": "",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "consumable_chest_material_rare",
+    "hero_class": "",
+    "rarity": "rare"
+  },
+  {
+    "id": "consumable_chest_material_epic",
+    "hero_class": "",
+    "rarity": "epic"
+  },
+  {
+    "id": "consumable_chest_material_legendary",
+    "hero_class": "",
+    "rarity": "legendary"
+  },
+  {
+    "id": "consumable_chest_reward_common",
+    "hero_class": "",
+    "rarity": "common"
+  },
+  {
+    "id": "consumable_chest_reward_uncommon",
+    "hero_class": "",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "consumable_chest_reward_rare",
+    "hero_class": "",
+    "rarity": "rare"
+  },
+  {
+    "id": "consumable_chest_reward_epic",
+    "hero_class": "",
+    "rarity": "epic"
+  },
+  {
+    "id": "consumable_chest_reward_legendary",
+    "hero_class": "",
+    "rarity": "legendary"
+  },
+  {
+    "id": "consumable_chest_equipment_common",
+    "hero_class": "",
+    "rarity": "common"
+  },
+  {
+    "id": "consumable_chest_equipment_uncommon",
+    "hero_class": "",
+    "rarity": "uncommon"
+  },
+  {
+    "id": "consumable_chest_equipment_rare",
+    "hero_class": "",
+    "rarity": "rare"
+  },
+  {
+    "id": "consumable_chest_equipment_epic",
+    "hero_class": "",
+    "rarity": "epic"
+  },
+  {
+    "id": "consumable_chest_equipment_legendary",
+    "hero_class": "",
+    "rarity": "legendary"
+  }
+]
