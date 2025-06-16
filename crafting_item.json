@@ -1,0 +1,452 @@
+[
+  {
+    "id": "equipment_crafting_warrior_common_1",
+    "result": "set_warrior_common_1",
+    "components": [
+      {
+        "component_code": "material_all_common_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_warrior_common_1",
+        "component_quantity": 2
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_warrior_uncommon_1",
+    "result": "set_warrior_common_1",
+    "components": [
+      {
+        "component_code": "material_all_uncommon_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_warrior_uncommon_1",
+        "component_quantity": 4
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_warrior_rare_1",
+    "result": "set_warrior_rare_1",
+    "components": [
+      {
+        "component_code": "material_all_rare_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_warrior_rare_1",
+        "component_quantity": 6
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_warrior_epic_1",
+    "result": "set_warrior_epic_1",
+    "components": [
+      {
+        "component_code": "material_all_epic_orb",
+        "component_quantity": 1
+      },
+      {
+        "component_code": "material_warrior_epic_1",
+        "component_quantity": 8
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_warrior_legendary_1",
+    "result": "set_warrior_legendary_1",
+    "components": [
+      {
+        "component_code": "material_all_legendary_orb",
+        "component_quantity": 1
+      },
+      {
+        "component_code": "material_warrior_legendary_1",
+        "component_quantity": 10
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_magician_common_1",
+    "result": "set_magician_common_1",
+    "components": [
+      {
+        "component_code": "material_all_common_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_magician_common_1",
+        "component_quantity": 2
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_magician_uncommon_1",
+    "result": "set_magician_uncommon_1",
+    "components": [
+      {
+        "component_code": "material_all_uncommon_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_warrior_uncommon_1",
+        "component_quantity": 4
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_magician_rare_1",
+    "result": "set_magician_rare_1",
+    "components": [
+      {
+        "component_code": "material_all_rare_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_warrior_rare_1",
+        "component_quantity": 6
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_magician_epic_1",
+    "result": "set_magician_epic_1",
+    "components": [
+      {
+        "component_code": "material_all_epic_orb",
+        "component_quantity": 1
+      },
+      {
+        "component_code": "material_magician_epic_1",
+        "component_quantity": 8
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_magician_legendary_1",
+    "result": "set_magician_legendary_1",
+    "components": [
+      {
+        "component_code": "material_all_legendary_orb",
+        "component_quantity": 1
+      },
+      {
+        "component_code": "material_warrior_legendary_1",
+        "component_quantity": 10
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_shooter_common_1",
+    "result": "set_shooter_common_1",
+    "components": [
+      {
+        "component_code": "material_all_common_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_shooter_common_1",
+        "component_quantity": 2
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_shooter_uncommon_1",
+    "result": "set_shooter_uncommon_1",
+    "components": [
+      {
+        "component_code": "material_all_uncommon_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_warrior_uncommon_1",
+        "component_quantity": 4
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_shooter_rare_1",
+    "result": "set_shooter_rare_1",
+    "components": [
+      {
+        "component_code": "material_all_rare_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_warrior_rare_1",
+        "component_quantity": 6
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_shooter_epic_1",
+    "result": "set_shooter_epic_1",
+    "components": [
+      {
+        "component_code": "material_all_epic_orb",
+        "component_quantity": 1
+      },
+      {
+        "component_code": "material_shooter_epic_1",
+        "component_quantity": 8
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_shooter_legendary_1",
+    "result": "set_shooter_legendary_1",
+    "components": [
+      {
+        "component_code": "material_all_legendary_orb",
+        "component_quantity": 1
+      },
+      {
+        "component_code": "material_warrior_legendary_1",
+        "component_quantity": 10
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_tanker_common_1",
+    "result": "set_tanker_common_1",
+    "components": [
+      {
+        "component_code": "material_all_common_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_tanker_common_1",
+        "component_quantity": 2
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_tanker_uncommon_1",
+    "result": "set_tanker_uncommon_1",
+    "components": [
+      {
+        "component_code": "material_all_uncommon_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_warrior_uncommon_1",
+        "component_quantity": 4
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_tanker_rare_1",
+    "result": "set_tanker_rare_1",
+    "components": [
+      {
+        "component_code": "material_all_rare_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_warrior_rare_1",
+        "component_quantity": 6
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_tanker_epic_1",
+    "result": "set_tanker_epic_1",
+    "components": [
+      {
+        "component_code": "material_all_epic_orb",
+        "component_quantity": 1
+      },
+      {
+        "component_code": "material_tanker_epic_1",
+        "component_quantity": 8
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_tanker_legendary_1",
+    "result": "set_tanker_legendary_1",
+    "components": [
+      {
+        "component_code": "material_all_legendary_orb",
+        "component_quantity": 1
+      },
+      {
+        "component_code": "material_warrior_legendary_1",
+        "component_quantity": 10
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_supporter_common_1",
+    "result": "set_supporter_common_1",
+    "components": [
+      {
+        "component_code": "material_all_common_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_supporter_common_1",
+        "component_quantity": 2
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_supporter_uncommon_1",
+    "result": "set_supporter_uncommon_1",
+    "components": [
+      {
+        "component_code": "material_all_uncommon_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_warrior_uncommon_1",
+        "component_quantity": 4
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_supporter_rare_1",
+    "result": "set_supporter_rare_1",
+    "components": [
+      {
+        "component_code": "material_all_rare_orb",
+        "component_quantity": 2
+      },
+      {
+        "component_code": "material_warrior_rare_1",
+        "component_quantity": 6
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_supporter_epic_1",
+    "result": "set_supporter_epic_1",
+    "components": [
+      {
+        "component_code": "material_all_epic_orb",
+        "component_quantity": 1
+      },
+      {
+        "component_code": "material_supporter_epic_1",
+        "component_quantity": 8
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  },
+  {
+    "id": "equipment_crafting_supporter_legendary_1",
+    "result": "set_supporter_legendary_1",
+    "components": [
+      {
+        "component_code": "material_all_legendary_orb",
+        "component_quantity": 1
+      },
+      {
+        "component_code": "material_warrior_legendary_1",
+        "component_quantity": 10
+      }
+    ],
+    "cost": {
+      "cost_code": "sc",
+      "cost_quantity": 20
+    }
+  }
+]
