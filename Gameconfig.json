@@ -12,5 +12,6 @@
     "damage_normal_min": 0.8,
     "damage_normal_max": 1.2,
     "numberOfMoveHero": 3,
-    "minHeroMerge": 0.3
+    "minHeroMerge": 0.3,
+	"upEqipmentMultiplier":0.5
 }
