@@ -348,5 +348,225 @@
       "item_code": "equipment_supporter_legendary_ring_1",
       "item_chance": 33.34
     }
+  ],
+  "set_material_common_1": [
+    {
+      "item_code": "material_warrior_common_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_magician_common_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_shooter_common_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_tanker_common_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_supporter_common_1",
+      "item_chance": 20.0
+    }
+  ],
+  "set_material_uncommon_1": [
+    {
+      "item_code": "material_warrior_uncommon_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_magician_uncommon_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_shooter_uncommon_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_tanker_uncommon_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_supporter_uncommon_1",
+      "item_chance": 20.0
+    }
+  ],
+  "set_material_rare_1": [
+    {
+      "item_code": "material_warrior_rare_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_magician_rare_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_shooter_rare_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_tanker_rare_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_supporter_rare_1",
+      "item_chance": 20.0
+    }
+  ],
+  "set_material_epic_1": [
+    {
+      "item_code": "material_warrior_epic_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_magician_epic_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_shooter_epic_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_tanker_epic_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_supporter_epic_1",
+      "item_chance": 20.0
+    }
+  ],
+  "set_material_legendary_1": [
+    {
+      "item_code": "material_warrior_legendary_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_magician_legendary_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_shooter_legendary_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_tanker_legendary_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "material_supporter_legendary_1",
+      "item_chance": 20.0
+    }
+  ],
+  "set_equipment_common_1": [
+    {
+      "item_code": "set_warrior_common_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_magician_common_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_shooter_common_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_tanker_common_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_supporter_common_1",
+      "item_chance": 20.0
+    }
+  ],
+  "set_equipment_uncommon_1": [
+    {
+      "item_code": "set_warrior_uncommon_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_magician_uncommon_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_shooter_uncommon_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_tanker_uncommon_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_supporter_uncommon_1",
+      "item_chance": 20.0
+    }
+  ],
+  "set_equipment_rare_1": [
+    {
+      "item_code": "set_warrior_rare_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_magician_rare_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_shooter_rare_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_tanker_rare_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_supporter_rare_1",
+      "item_chance": 20.0
+    }
+  ],
+  "set_equipment_epic_1": [
+    {
+      "item_code": "set_warrior_epic_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_magician_epic_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_shooter_epic_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_tanker_epic_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_supporter_epic_1",
+      "item_chance": 20.0
+    }
+  ],
+  "set_equipment_legendary_1": [
+    {
+      "item_code": "set_warrior_legendary_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_magician_legendary_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_shooter_legendary_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_tanker_legendary_1",
+      "item_chance": 20.0
+    },
+    {
+      "item_code": "set_supporter_legendary_1",
+      "item_chance": 20.0
+    }
   ]
 }
