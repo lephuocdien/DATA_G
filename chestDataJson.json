@@ -1,0 +1,362 @@
+[
+  {
+    "id": "consumable_chest_reward_common",
+    "chance": "100%",
+    "min": 1000,
+    "max": 2000,
+    "item_code": "sc",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_common",
+    "chance": "0%",
+    "min": 0,
+    "max": 0,
+    "item_code": "hc",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_common",
+    "chance": "100%",
+    "min": 2,
+    "max": 3,
+    "item_code": "material_all_common_orb",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_common",
+    "chance": "100%",
+    "min": 500,
+    "max": 1000,
+    "item_code": "xp_book",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_common",
+    "chance": "100%",
+    "min": 500,
+    "max": 1000,
+    "item_code": "skill_book",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_common",
+    "chance": "0%",
+    "min": 1,
+    "max": 1,
+    "item_code": "summon_ticket",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_common",
+    "chance": "0%",
+    "min": 1,
+    "max": 1,
+    "item_code": "spin_ticket",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_uncommon",
+    "chance": "100%",
+    "min": 3000,
+    "max": 4000,
+    "item_code": "sc",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_uncommon",
+    "chance": "0%",
+    "min": 0,
+    "max": 0,
+    "item_code": "hc",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_uncommon",
+    "chance": "100%",
+    "min": 2,
+    "max": 3,
+    "item_code": "material_all_uncommon_orb",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_uncommon",
+    "chance": "100%",
+    "min": 1000,
+    "max": 2000,
+    "item_code": "xp_book",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_uncommon",
+    "chance": "100%",
+    "min": 1000,
+    "max": 2000,
+    "item_code": "skill_book",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_uncommon",
+    "chance": "0%",
+    "min": 1,
+    "max": 1,
+    "item_code": "summon_ticket",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_uncommon",
+    "chance": "0%",
+    "min": 1,
+    "max": 1,
+    "item_code": "spin_ticket",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_rare",
+    "chance": "100%",
+    "min": 5000,
+    "max": 6000,
+    "item_code": "sc",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_rare",
+    "chance": "0%",
+    "min": 0,
+    "max": 0,
+    "item_code": "hc",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_rare",
+    "chance": "100%",
+    "min": 2,
+    "max": 3,
+    "item_code": "material_all_rare_orb",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_rare",
+    "chance": "100%",
+    "min": 2000,
+    "max": 3000,
+    "item_code": "xp_book",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_rare",
+    "chance": "100%",
+    "min": 2000,
+    "max": 3000,
+    "item_code": "skill_book",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_rare",
+    "chance": "0%",
+    "min": 1,
+    "max": 1,
+    "item_code": "summon_ticket",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_rare",
+    "chance": "0%",
+    "min": 1,
+    "max": 1,
+    "item_code": "spin_ticket",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_epic",
+    "chance": "100%",
+    "min": 7000,
+    "max": 8000,
+    "item_code": "sc",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_epic",
+    "chance": "100%",
+    "min": 5,
+    "max": 10,
+    "item_code": "hc",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_epic",
+    "chance": "100%",
+    "min": 2,
+    "max": 3,
+    "item_code": "material_all_epic_orb",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_epic",
+    "chance": "100%",
+    "min": 3000,
+    "max": 4000,
+    "item_code": "xp_book",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_epic",
+    "chance": "100%",
+    "min": 3000,
+    "max": 4000,
+    "item_code": "skill_book",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_epic",
+    "chance": "100%",
+    "min": 1,
+    "max": 1,
+    "item_code": "summon_ticket",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_epic",
+    "chance": "0%",
+    "min": 1,
+    "max": 1,
+    "item_code": "spin_ticket",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_legendary",
+    "chance": "100%",
+    "min": 9000,
+    "max": 10000,
+    "item_code": "sc",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_legendary",
+    "chance": "100%",
+    "min": 10,
+    "max": 20,
+    "item_code": "hc",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_legendary",
+    "chance": "100%",
+    "min": 2,
+    "max": 3,
+    "item_code": "material_all_legendary_orb",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_legendary",
+    "chance": "100%",
+    "min": 4000,
+    "max": 5000,
+    "item_code": "xp_book",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_legendary",
+    "chance": "100%",
+    "min": 4000,
+    "max": 5000,
+    "item_code": "skill_book",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_legendary",
+    "chance": "100%",
+    "min": 1,
+    "max": 1,
+    "item_code": "summon_ticket",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_legendary",
+    "chance": "100%",
+    "min": 1,
+    "max": 1,
+    "item_code": "spin_ticket",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_material_common",
+    "chance": "100%",
+    "min": 2,
+    "max": 3,
+    "item_code": "set_material_common_1",
+    "item_type": "item_set"
+  },
+  {
+    "id": "consumable_chest_material_uncommon",
+    "chance": "100%",
+    "min": 2,
+    "max": 3,
+    "item_code": "set_material_uncommon_1",
+    "item_type": "item_set"
+  },
+  {
+    "id": "consumable_chest_material_rare",
+    "chance": "100%",
+    "min": 2,
+    "max": 3,
+    "item_code": "set_material_rare_1",
+    "item_type": "item_set"
+  },
+  {
+    "id": "consumable_chest_material_epic",
+    "chance": "100%",
+    "min": 2,
+    "max": 3,
+    "item_code": "set_material_epic_1",
+    "item_type": "item_set"
+  },
+  {
+    "id": "consumable_chest_material_legendary",
+    "chance": "100%",
+    "min": 2,
+    "max": 3,
+    "item_code": "set_material_legendary_1",
+    "item_type": "item_set"
+  },
+  {
+    "id": "consumable_chest_equipment_common",
+    "chance": "100%",
+    "min": 1,
+    "max": 1,
+    "item_code": "set_equipment_common_1",
+    "item_type": "item_set"
+  },
+  {
+    "id": "consumable_chest_equipment_uncommon",
+    "chance": "100%",
+    "min": 1,
+    "max": 1,
+    "item_code": "set_equipment_uncommon_1",
+    "item_type": "item_set"
+  },
+  {
+    "id": "consumable_chest_equipment_rare",
+    "chance": "100%",
+    "min": 1,
+    "max": 1,
+    "item_code": "set_equipment_rare_1",
+    "item_type": "item_set"
+  },
+  {
+    "id": "consumable_chest_equipment_epic",
+    "chance": "100%",
+    "min": 1,
+    "max": 1,
+    "item_code": "set_equipment_epic_1",
+    "item_type": "item_set"
+  },
+  {
+    "id": "consumable_chest_equipment_legendary",
+    "chance": "100%",
+    "min": 1,
+    "max": 1,
+    "item_code": "set_equipment_legendary_1",
+    "item_type": "item_set"
+  }
+]
