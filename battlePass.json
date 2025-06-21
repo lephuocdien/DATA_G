@@ -1,7 +1,7 @@
 [
   {
     "tier": 1,
-    "energy_spent": 10,
+    "stamina_spent": 10,
     "free_reward_amount": 100,
     "free_reward_type": "sc",
     "paid_reward_amount": 20,
