@@ -1,6 +1,5 @@
 {
-  "spin_cost_hc": 50,
-  "max_spin_per_user": 10,
+
   "rewards": [
     {
       "slot": 1,
