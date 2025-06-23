@@ -14,6 +14,6 @@
     "numberOfMoveHero": 3,
     "minHeroMerge": 0.3,
     "upEqipmentMultiplier":0.5,
-     "spin_cost_hc":50,
-     "max_spin_per_user":10	
+     "spinCostHc":50,
+     "maxSpinPerUser":10	
 }
