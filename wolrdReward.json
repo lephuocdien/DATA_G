@@ -1,0 +1,27 @@
+[
+  {
+    "star_require": 9,
+    "reward_amount": 20,
+    "reward_type": "hc"
+  },
+  {
+    "star_require": 18,
+    "reward_amount": 30,
+    "reward_type": "hc"
+  },
+  {
+    "star_require": 27,
+    "reward_amount": 1,
+    "reward_type": "summon_ticket"
+  },
+  {
+    "star_require": 36,
+    "reward_amount": 50,
+    "reward_type": "hc"
+  },
+  {
+    "star_require": 45,
+    "reward_amount": 1,
+    "reward_type": "summon_ticket"
+  }
+]
