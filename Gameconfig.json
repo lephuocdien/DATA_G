@@ -13,5 +13,7 @@
     "damage_normal_max": 1.2,
     "numberOfMoveHero": 3,
     "minHeroMerge": 0.3,
-	"upEqipmentMultiplier":0.5
+    "upEqipmentMultiplier":0.5,
+     "spin_cost_hc":50,
+     "max_spin_per_user":10	
 }
