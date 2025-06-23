@@ -1,0 +1,61 @@
+{
+  "spin_cost_hc": 50,
+  "max_spin_per_user": 10,
+  "rewards": [
+    {
+      "slot": 1,
+      "reward_amount": 200,
+      "reward_type": "sc",
+      "rate": 50
+    },
+    {
+      "slot": 2,
+      "reward_amount": 1,
+      "reward_type": "consumable_chest_reward_rare",
+      "rate": 20
+    },
+    {
+      "slot": 3,
+      "reward_amount": 50,
+      "reward_type": "hc",
+      "rate": 3
+    },
+    {
+      "slot": 4,
+      "reward_amount": 100,
+      "reward_type": "consumable_chest_reward_epic",
+      "rate": 4
+    },
+    {
+      "slot": 5,
+      "reward_amount": 1,
+      "reward_type": "xp_book",
+      "rate": 10
+    },
+    {
+      "slot": 6,
+      "reward_amount": 100,
+      "reward_type": "skill_book",
+      "rate": 10
+    },
+    {
+      "slot": 7,
+      "reward_amount": 1,
+      "reward_type": "consumable_chest_reward_legendary",
+      "rate": 1
+    },
+    {
+      "slot": 8,
+      "reward_amount": 100,
+      "reward_type": "summon_ticket",
+      "rate": 2
+    }
+  ],
+  "milestone_rewards": [
+    {
+      "spin_count": 10,
+      "reward_type": "consumable_chest_reward_epic",
+      "reward_amount": 1
+    }
+  ]
+}
