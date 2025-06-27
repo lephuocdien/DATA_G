@@ -1,6 +1,6 @@
 [
   {
-    "id": "achievment_1",
+    "id": "achievement_1",
     "x1": 1,
     "x2": 3,
     "x3": 5,
@@ -11,7 +11,7 @@
     "x8": 15
   },
   {
-    "id": "achievment_2",
+    "id": "achievement_2",
     "x1": 1,
     "x2": 3,
     "x3": 5,
@@ -22,7 +22,7 @@
     "x8": 15
   },
   {
-    "id": "achievment_3",
+    "id": "achievement_3",
     "x1": 1,
     "x2": 3,
     "x3": 5,
@@ -33,7 +33,7 @@
     "x8": 15
   },
   {
-    "id": "achievment_4",
+    "id": "achievement_4",
     "x1": 1,
     "x2": 3,
     "x3": 5,
@@ -44,7 +44,7 @@
     "x8": 15
   },
   {
-    "id": "achievment_5",
+    "id": "achievement_5",
     "x1": 1,
     "x2": 3,
     "x3": 5,
@@ -55,7 +55,7 @@
     "x8": 15
   },
   {
-    "id": "achievment_6",
+    "id": "achievement_6",
     "x1": 1,
     "x2": 3,
     "x3": 5,
@@ -66,7 +66,7 @@
     "x8": 15
   },
   {
-    "id": "achievment_7",
+    "id": "achievement_7",
     "x1": 1,
     "x2": 3,
     "x3": 5,
@@ -77,7 +77,7 @@
     "x8": 15
   },
   {
-    "id": "achievment_8",
+    "id": "achievement_8",
     "x1": 5,
     "x2": 10,
     "x3": 20,
@@ -88,7 +88,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_9",
+    "id": "achievement_9",
     "x1": 5,
     "x2": 10,
     "x3": 20,
@@ -99,7 +99,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_10",
+    "id": "achievement_10",
     "x1": 5,
     "x2": 10,
     "x3": 20,
@@ -110,7 +110,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_11",
+    "id": "achievement_11",
     "x1": 5,
     "x2": 10,
     "x3": 20,
@@ -121,7 +121,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_12",
+    "id": "achievement_12",
     "x1": 5,
     "x2": 10,
     "x3": 20,
@@ -132,7 +132,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_13",
+    "id": "achievement_13",
     "x1": 5,
     "x2": 10,
     "x3": 20,
@@ -143,7 +143,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_14",
+    "id": "achievement_14",
     "x1": 5,
     "x2": 10,
     "x3": 20,
@@ -154,7 +154,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_15",
+    "id": "achievement_15",
     "x1": 5,
     "x2": 10,
     "x3": 20,
@@ -165,7 +165,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_16",
+    "id": "achievement_16",
     "x1": 5,
     "x2": 10,
     "x3": 20,
@@ -176,7 +176,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_17",
+    "id": "achievement_17",
     "x1": 5,
     "x2": 10,
     "x3": 20,
@@ -187,7 +187,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_18",
+    "id": "achievement_18",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -198,7 +198,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_19",
+    "id": "achievement_19",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -209,7 +209,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_20",
+    "id": "achievement_20",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -220,7 +220,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_21",
+    "id": "achievement_21",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -231,7 +231,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_22",
+    "id": "achievement_22",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -242,7 +242,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_23",
+    "id": "achievement_23",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -253,7 +253,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_24",
+    "id": "achievement_24",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -264,7 +264,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_25",
+    "id": "achievement_25",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -275,7 +275,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_26",
+    "id": "achievement_26",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -286,7 +286,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_27",
+    "id": "achievement_27",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -297,7 +297,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_28",
+    "id": "achievement_28",
     "x1": 1,
     "x2": 2,
     "x3": 3,
@@ -308,7 +308,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_29",
+    "id": "achievement_29",
     "x1": 1,
     "x2": 2,
     "x3": 3,
@@ -319,7 +319,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_30",
+    "id": "achievement_30",
     "x1": 1,
     "x2": 2,
     "x3": 3,
@@ -330,7 +330,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_31",
+    "id": "achievement_31",
     "x1": 1,
     "x2": 2,
     "x3": 3,
@@ -341,7 +341,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_32",
+    "id": "achievement_32",
     "x1": 1,
     "x2": 2,
     "x3": 3,
@@ -352,7 +352,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_33",
+    "id": "achievement_33",
     "x1": 1,
     "x2": 2,
     "x3": 3,
@@ -363,7 +363,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_34",
+    "id": "achievement_34",
     "x1": 1,
     "x2": 2,
     "x3": 3,
@@ -374,7 +374,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_35",
+    "id": "achievement_35",
     "x1": 1,
     "x2": 2,
     "x3": 3,
@@ -385,7 +385,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_36",
+    "id": "achievement_36",
     "x1": 1,
     "x2": 2,
     "x3": 3,
@@ -396,7 +396,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_37",
+    "id": "achievement_37",
     "x1": 1,
     "x2": 2,
     "x3": 3,
@@ -407,7 +407,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_38",
+    "id": "achievement_38",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -418,7 +418,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_39",
+    "id": "achievement_39",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -429,7 +429,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_40",
+    "id": "achievement_40",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -440,7 +440,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_41",
+    "id": "achievement_41",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -451,7 +451,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_42",
+    "id": "achievement_42",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -462,7 +462,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_43",
+    "id": "achievement_43",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -473,7 +473,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_44",
+    "id": "achievement_44",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -484,7 +484,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_45",
+    "id": "achievement_45",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -495,7 +495,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_46",
+    "id": "achievement_46",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -506,7 +506,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_47",
+    "id": "achievement_47",
     "x1": 2,
     "x2": 4,
     "x3": 6,
@@ -517,7 +517,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_48",
+    "id": "achievement_48",
     "x1": 1,
     "x2": 5,
     "x3": 20,
@@ -528,7 +528,7 @@
     "x8": 500
   },
   {
-    "id": "achievment_49",
+    "id": "achievement_49",
     "x1": 1,
     "x2": 5,
     "x3": 20,
@@ -539,7 +539,7 @@
     "x8": 500
   },
   {
-    "id": "achievment_50",
+    "id": "achievement_50",
     "x1": 1,
     "x2": 5,
     "x3": 20,
@@ -550,7 +550,7 @@
     "x8": 500
   },
   {
-    "id": "achievment_51",
+    "id": "achievement_51",
     "x1": 1,
     "x2": 5,
     "x3": 20,
@@ -561,7 +561,7 @@
     "x8": 500
   },
   {
-    "id": "achievment_52",
+    "id": "achievement_52",
     "x1": 1,
     "x2": 5,
     "x3": 20,
@@ -572,7 +572,7 @@
     "x8": 500
   },
   {
-    "id": "achievment_53",
+    "id": "achievement_53",
     "x1": 10,
     "x2": 50,
     "x3": 200,
@@ -583,7 +583,7 @@
     "x8": 5000
   },
   {
-    "id": "achievment_54",
+    "id": "achievement_54",
     "x1": 100,
     "x2": 10000,
     "x3": 1000000,
@@ -594,7 +594,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_55",
+    "id": "achievement_55",
     "x1": 5,
     "x2": 50,
     "x3": 500,
@@ -605,7 +605,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_56",
+    "id": "achievement_56",
     "x1": 100,
     "x2": 10000,
     "x3": 1000000,
@@ -616,7 +616,7 @@
     "x8": 0
   },
   {
-    "id": "achievment_57",
+    "id": "achievement_57",
     "x1": 5,
     "x2": 50,
     "x3": 500,
