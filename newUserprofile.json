@@ -1,0 +1,118 @@
+{
+    "userSetting": {
+        "gameSpeedMultiplier": 1,
+        "isTurnOnSound": false,
+        "isTurnOnBgMusic": false,
+        "isTurnOnVibration": false
+    },
+    "gameProgress": {
+        "currentWorld": 1,
+        "highestLevelUnlocked": 2,
+        "lastCompletedLevel": 1,
+        "baseHP": 10,
+        "levelProgresses": null
+    },
+    "heroContainer": {
+        "heroes": [
+            {
+                "id": "Warrior_Expert_3",
+                "currentLevel": 1
+            },
+            {
+                "id": "Support_Novice_2",
+                "currentLevel": 1
+            },            
+            {
+                "id": "Shooter_Expert_3",
+                "currentLevel": 1
+            }
+        ]
+    },
+    "skillsUnlocked": {
+        "Warrior_Expert_3": [
+            {
+                "skillType": "Basic",
+                "skills": [
+                    "CleavingStrike"
+                ]
+            },
+            {
+                "skillType": "Passive",
+                "skills": []
+            },
+            {
+                "skillType": "Auto",
+                "skills": []
+            }
+        ],
+        "Support_Novice_2": [
+            {
+                "skillType": "Basic",
+                "skills": [
+                    "HealingLight"
+                ]
+            },
+            {
+                "skillType": "Passive",
+                "skills": []
+            },
+            {
+                "skillType": "Auto",
+                "skills": []
+            }
+        ],
+        "Shooter_Expert_3": [
+            {
+                "skillType": "Basic",
+                "skills": [
+                    "PiercingBullet"
+                ]
+            },
+            {
+                "skillType": "Passive",
+                "skills": []
+            },
+            {
+                "skillType": "Auto",
+                "skills": []
+            }
+        ]
+    },
+    "userCurrency": {
+        "CurrencyItemDatas": [
+            {
+                "currencyType": "sc",
+                "amount": 0
+            },
+            {
+                "currencyType": "hc",
+                "amount": 0
+            },
+            {
+                "currencyType": "player_exp",
+                "amount": 0
+            },
+            {
+                "currencyType": "xp_book",
+                "amount": 0
+            },
+            {
+                "currencyType": "skill_book",
+                "amount": 0
+            },
+            {
+                "currencyType": "summon_ticket",
+                "amount": 0
+            },
+            {
+                "currencyType": "spin_ticket",
+                "amount": 0
+            }
+        ]
+    },
+    "userStamina": {
+        "currentStamina": 50,
+        "lastStaminaUpdate": 2025
+    },
+    "playerLevel": 1
+}
