@@ -42,7 +42,13 @@
             },
             {
                 "skillType": "Auto",
-                "skills": []
+                "skills": [
+                            {
+                                "name": "ScorchingStrike",
+                                "level": 1
+                            }
+                        ],
+                "currentSkill":"ScorchingStrike"
             }
         ],
         "Support_Novice_2": [
