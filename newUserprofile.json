@@ -42,17 +42,8 @@
             },
             {
                 "skillType": "Auto",
-                "skills": [
-                            {
-                                "name": "BlazingCleave",
-                                "level": 1
-                            },
-                    {
-                                "name": "ScorchingStrike",
-                                "level": 1
-                            }
-                        ],
-                "currentSkill":"ScorchingStrike"
+                "skills": []
+               
             }
         ],
         "Support_Novice_2": [
