@@ -44,11 +44,11 @@
                 "skillType": "Auto",
                 "skills": [
                             {
-                                "name": "ScorchingStrike",
+                                "name": "BlazingCleave",
                                 "level": 1
                             }
                         ],
-                "currentSkill":"ScorchingStrike"
+                "currentSkill":"BlazingCleave"
             }
         ],
         "Support_Novice_2": [
