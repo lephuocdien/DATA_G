@@ -46,9 +46,13 @@
                             {
                                 "name": "BlazingCleave",
                                 "level": 1
+                            },
+                    {
+                                "name": "ScorchingStrike",
+                                "level": 1
                             }
                         ],
-                "currentSkill":"BlazingCleave"
+                "currentSkill":"ScorchingStrike"
             }
         ],
         "Support_Novice_2": [
