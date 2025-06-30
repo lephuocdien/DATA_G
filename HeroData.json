@@ -15,8 +15,8 @@
     "attack": 0,
     "attack_speed": 0.6,
     "basic_skill": "Healing Light",
-    "passive_skill_1": "Tidal Shield",
-    "passive_skill_2": "Frostbite",
+    "passive_skill_1": "Flowing Guard",
+    "passive_skill_2": "Tidal Shield",
     "auto_skill_1": "Skyward Blessing",
     "auto_skill_2": "Frost Sanctuary",
     "combat_power": 1017
@@ -302,7 +302,7 @@
     "attack_speed": 1.1,
     "basic_skill": "Power Slash",
     "passive_skill_1": "Tidal Shield",
-    "passive_skill_2": "Ocean Grace",
+    "passive_skill_2": "Frostbite",
     "auto_skill_1": "Ocean Fury",
     "auto_skill_2": "Wave Strike",
     "combat_power": 1833
@@ -961,7 +961,7 @@
     "attack": 0,
     "attack_speed": 0.3,
     "basic_skill": "Iron Wall",
-    "passive_skill_1": "Flowing Guard",
+    "passive_skill_1": "Ocean Grace",
     "passive_skill_2": "Tidal Shield",
     "auto_skill_1": "Glacial Fortitude",
     "auto_skill_2": "Frost Aegis",
