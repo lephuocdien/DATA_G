@@ -1,0 +1,74 @@
+[
+  {
+    "id": "expedition_slot_1_level",
+    "value": 1
+  },
+  {
+    "id": "expedition_slot_2_level",
+    "value": 10
+  },
+  {
+    "id": "expedition_slot_3_level",
+    "value": 20
+  },
+  {
+    "id": "expedition_common_min_level",
+    "value": 1
+  },
+  {
+    "id": "expedition_common_max_level",
+    "value": 10
+  },
+  {
+    "id": "expedition_uncommon_min_level",
+    "value": 1
+  },
+  {
+    "id": "expedition_uncommon_max_level",
+    "value": 20
+  },
+  {
+    "id": "expedition_rare_min_level",
+    "value": 1
+  },
+  {
+    "id": "expedition_rare_max_level",
+    "value": 50
+  },
+  {
+    "id": "expedition_epic_min_level",
+    "value": 11
+  },
+  {
+    "id": "expedition_epic_max_level",
+    "value": 50
+  },
+  {
+    "id": "expedition_legendary_min_level",
+    "value": 21
+  },
+  {
+    "id": "expedition_legendary_max_level",
+    "value": 50
+  },
+  {
+    "id": "expedition_common_time",
+    "value": 60
+  },
+  {
+    "id": "expedition_uncommon_time",
+    "value": 120
+  },
+  {
+    "id": "expedition_rare_time",
+    "value": 180
+  },
+  {
+    "id": "expedition_epic_time",
+    "value": 240
+  },
+  {
+    "id": "expedition_legendary_time",
+    "value": 300
+  }
+]
