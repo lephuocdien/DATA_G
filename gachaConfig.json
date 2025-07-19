@@ -1,0 +1,147 @@
+{
+  "target_banner": [
+    {
+      "parameter": "mystic_gurantee_amount",
+      "value": 40
+    },
+    {
+      "parameter": "expert_gurantee_amount",
+      "value": 10
+    },
+    {
+      "parameter": "mystic_rate",
+      "value": 1
+    },
+    {
+      "parameter": "expert_rate",
+      "value": 9
+    },
+    {
+      "parameter": "novice_rate",
+      "value": 90
+    },
+    {
+      "parameter": "valid_elemental",
+      "value": "[fire, water, earth, wind]"
+    }
+  ],
+  "permanent_banner": [
+    {
+      "parameter": "mystic_gurantee_amount",
+      "value": 80
+    },
+    {
+      "parameter": "expert_gurantee_amount",
+      "value": 10
+    },
+    {
+      "parameter": "mystic_rate_normal",
+      "value": 0.75
+    },
+    {
+      "parameter": "mystic_rate_special",
+      "value": 0.25
+    },
+    {
+      "parameter": "expert_rate_normal",
+      "value": 6.75
+    },
+    {
+      "parameter": "expert_rate_special",
+      "value": 2.25
+    },
+    {
+      "parameter": "novice_rate",
+      "value": 90
+    },
+    {
+      "parameter": "valid_elemental",
+      "value": "[fire, water, earth, wind, dark]"
+    },
+    {
+      "parameter": "soft_pity_1_range",
+      "value": [
+        51,
+        60
+      ]
+    },
+    {
+      "parameter": "soft_pity_1_increase_value",
+      "value": 2
+    },
+    {
+      "parameter": "soft_pity_2_range",
+      "value": [
+        61,
+        70
+      ]
+    },
+    {
+      "parameter": "soft_pity_2_increase_value",
+      "value": 3
+    },
+    {
+      "parameter": "soft_pity_3_range",
+      "value": [
+        71,
+        80
+      ]
+    },
+    {
+      "parameter": "soft_pity_3_increase_value",
+      "value": 5
+    }
+  ],
+  "rate_up_banner": [
+    {
+      "parameter": "mystic_rate",
+      "value": 1
+    },
+    {
+      "parameter": "expert_rate_1",
+      "value": 4.5
+    },
+    {
+      "parameter": "expert_rate_2",
+      "value": 4.5
+    },
+    {
+      "parameter": "novice_rate",
+      "value": 90
+    },
+    {
+      "parameter": "mystic_hero_id",
+      "value": "Shooter_Mystic_4"
+    },
+    {
+      "parameter": "expert_hero_id_1",
+      "value": "Warrior_Expert_2"
+    },
+    {
+      "parameter": "expert_hero_id_2",
+      "value": "Warrior_Expert_1"
+    },
+    {
+      "parameter": "day_remaining",
+      "value": 30
+    }
+  ],
+  "mileage_point": [
+    {
+      "parameter": "normal_summon_pts_receive",
+      "value": 10
+    },
+    {
+      "parameter": "novice_summon_pts_receive",
+      "value": 25
+    },
+    {
+      "parameter": "expert_summon_pts_receive",
+      "value": 50
+    },
+    {
+      "parameter": "mystic_summon_pts_receive",
+      "value": 100
+    }
+  ]
+}
