@@ -1,89 +1,202 @@
 [
   {
-    "id": "Support_Novice_2"
+    "id": "Support_Novice_2",
+    "rarity": "novice"
   },
   {
-    "id": "Warrior_Expert_3"
+    "id": "Warrior_Expert_3",
+    "rarity": "expert"
   },
   {
-    "id": "Magician_Expert_1"
+    "id": "Magician_Expert_1",
+    "rarity": "expert"
   },
   {
-    "id": "Shooter_Expert_3"
+    "id": "Shooter_Expert_3",
+    "rarity": "expert"
   },
   {
-    "id": "Tanker_Mystic_3"
+    "id": "Tanker_Mystic_3",
+    "rarity": "mystic"
   },
   {
-    "id": "Warrior_Expert_2"
+    "id": "Warrior_Expert_2",
+    "rarity": "expert"
   },
   {
-    "id": "Shooter_Expert_2"
+    "id": "Shooter_Expert_2",
+    "rarity": "expert"
   },
   {
-    "id": "Magician_Expert_2"
+    "id": "Magician_Expert_2",
+    "rarity": "expert"
   },
   {
-    "id": "Support_Expert_3"
+    "id": "Support_Expert_3",
+    "rarity": "expert"
   },
   {
-    "id": "Tanker_Expert_3"
+    "id": "Tanker_Expert_3",
+    "rarity": "expert"
   },
   {
-    "id": "Magician_Novice_1"
+    "id": "Magician_Novice_1",
+    "rarity": "novice"
   },
   {
-    "id": "Magician_Expert_3"
+    "id": "Magician_Expert_3",
+    "rarity": "expert"
   },
   {
-    "id": "Shooter_Mystic_4"
+    "id": "Shooter_Mystic_4",
+    "rarity": "mystic"
   },
   {
-    "id": "Tanker_Novice_1"
+    "id": "Tanker_Novice_1",
+    "rarity": "novice"
   },
   {
-    "id": "Warrior_Mystic_4"
+    "id": "Warrior_Mystic_4",
+    "rarity": "mystic"
   },
   {
-    "id": "Support_Expert_2"
+    "id": "Support_Expert_2",
+    "rarity": "expert"
   },
   {
-    "id": "Shooter_Mystic_1"
+    "id": "Shooter_Mystic_1",
+    "rarity": "mystic"
   },
   {
-    "id": "Shooter_Novice_2"
+    "id": "Shooter_Novice_2",
+    "rarity": "novice"
   },
   {
-    "id": "Magician_Novice_2"
+    "id": "Magician_Novice_2",
+    "rarity": "novice"
   },
   {
-    "id": "Warrior_Expert_1"
+    "id": "Warrior_Expert_1",
+    "rarity": "expert"
   },
   {
-    "id": "Magician_Mystic_1"
+    "id": "Magician_Mystic_1",
+    "rarity": "mystic"
   },
   {
-    "id": "Support_Mystic_1"
+    "id": "Support_Mystic_1",
+    "rarity": "mystic"
   },
   {
-    "id": "Tanker_Mystic_4"
+    "id": "Tanker_Mystic_4",
+    "rarity": "mystic"
   },
   {
-    "id": "Support_Expert_1"
+    "id": "Support_Expert_1",
+    "rarity": "expert"
   },
   {
-    "id": "Support_Mystic_2"
+    "id": "Support_Mystic_2",
+    "rarity": "mystic"
   },
   {
-    "id": "Tanker_Mystic_1"
+    "id": "Tanker_Mystic_1",
+    "rarity": "mystic"
   },
   {
-    "id": "Magician_Mystic_2"
+    "id": "Magician_Mystic_2",
+    "rarity": "mystic"
   },
   {
-    "id": "Shooter_Expert_4"
+    "id": "Shooter_Expert_4",
+    "rarity": "expert"
   },
   {
-    "id": "Support_Expert_4"
+    "id": "Support_Expert_4",
+    "rarity": "expert"
+  },
+  {
+    "id": "Tanker_Expert_1",
+    "rarity": "expert"
+  },
+  {
+    "id": "Warrior_Mystic_1",
+    "rarity": "mystic"
+  },
+  {
+    "id": "Magician_Expert_4",
+    "rarity": "expert"
+  },
+  {
+    "id": "Shooter_Expert_1",
+    "rarity": "expert"
+  },
+  {
+    "id": "Support_Mystic_3",
+    "rarity": "mystic"
+  },
+  {
+    "id": "Tanker_Expert_2",
+    "rarity": "expert"
+  },
+  {
+    "id": "Warrior_Mystic_2",
+    "rarity": "mystic"
+  },
+  {
+    "id": "Shooter_Mystic_2",
+    "rarity": "mystic"
+  },
+  {
+    "id": "Support_Mystic_4",
+    "rarity": "mystic"
+  },
+  {
+    "id": "Tanker_Mystic_2",
+    "rarity": "mystic"
+  },
+  {
+    "id": "Warrior_Novice_1",
+    "rarity": "novice"
+  },
+  {
+    "id": "Shooter_Mystic_3",
+    "rarity": "mystic"
+  },
+  {
+    "id": "Shooter_Novice_1",
+    "rarity": "novice"
+  },
+  {
+    "id": "Support_Novice_1",
+    "rarity": "novice"
+  },
+  {
+    "id": "Tanker_Mystic_5",
+    "rarity": "mystic"
+  },
+  {
+    "id": "Warrior_Novice_2",
+    "rarity": "novice"
+  },
+  {
+    "id": "Magician_Expert_5",
+    "rarity": "expert"
+  },
+  {
+    "id": "Magician_Mystic_3",
+    "rarity": "mystic"
+  },
+  {
+    "id": "Tanker_Novice_2",
+    "rarity": "novice"
+  },
+  {
+    "id": "Warrior_Expert_4",
+    "rarity": "expert"
+  },
+  {
+    "id": "Warrior_Mystic_3",
+    "rarity": "mystic"
   }
 ]
