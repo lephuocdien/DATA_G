@@ -2,11 +2,11 @@
   "target_banner": [
     {
       "parameter": "mystic_gurantee_amount",
-      "value": 40
+      "value": 10
     },
     {
       "parameter": "expert_gurantee_amount",
-      "value": 10
+      "value": 3
     },
     {
       "parameter": "mystic_rate",
