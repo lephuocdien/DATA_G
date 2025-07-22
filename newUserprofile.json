@@ -108,7 +108,12 @@
             {
                 "currencyType": "spin_ticket",
                 "amount": 0
+            },
+            {
+                "currencyType": "summon_point",
+                "amount": 0
             }
+            
         ]
     },
     "userStamina": {
