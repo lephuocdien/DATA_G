@@ -94,6 +94,10 @@
   ],
   "rate_up_banner": [
     {
+      "parameter": "mystic_gurantee_amount",
+      "value": 80
+    },
+    {
       "parameter": "mystic_rate",
       "value": 1
     },
