@@ -9,7 +9,7 @@
         "currentWorld": 1,
         "highestLevelUnlocked": 2,
         "lastCompletedLevel": 1,
-        "baseHP": 10,
+        "baseHP": 20,
         "levelProgresses": null
     },
     "heroContainer": {
@@ -171,5 +171,6 @@
     },
     "playerLevel": 1
 }
+
 
 
