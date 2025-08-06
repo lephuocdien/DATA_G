@@ -16,23 +16,23 @@
         "heroes": [
             {
                 "id": "Warrior_Expert_3",
-                "currentLevel": 10
+                "currentLevel": 1
             },
             {
                 "id": "Support_Novice_2",
-                "currentLevel": 10
+                "currentLevel": 1
             },
             {
                 "id": "Magician_Expert_1",
-                "currentLevel": 10
+                "currentLevel": 1
             },
             {
                 "id": "Shooter_Expert_3",
-                "currentLevel": 10
+                "currentLevel": 1
             },
             {
                 "id": "Tanker_Mystic_3",
-                "currentLevel": 10
+                "currentLevel": 1
             }
         ]
     },
@@ -171,6 +171,7 @@
     },
     "playerLevel": 1
 }
+
 
 
 
