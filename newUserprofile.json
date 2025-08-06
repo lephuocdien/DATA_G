@@ -16,15 +16,23 @@
         "heroes": [
             {
                 "id": "Warrior_Expert_3",
-                "currentLevel": 1
+                "currentLevel": 5
             },
             {
                 "id": "Support_Novice_2",
-                "currentLevel": 1
-            },            
+                "currentLevel": 5
+            },
+            {
+                "id": "Magician_Expert_1",
+                "currentLevel": 5
+            },
             {
                 "id": "Shooter_Expert_3",
-                "currentLevel": 1
+                "currentLevel": 5
+            },
+            {
+                "id": "Tanker_Mystic_3",
+                "currentLevel": 5
             }
         ]
     },
@@ -42,8 +50,9 @@
             },
             {
                 "skillType": "Auto",
-                "skills": []
-               
+                "skills": [
+                    "ScorchingStrike"
+                ]
             }
         ],
         "Support_Novice_2": [
@@ -59,7 +68,27 @@
             },
             {
                 "skillType": "Auto",
+                "skills": [
+                    "SkywardBlessing"
+                ]
+            }
+        ],
+        "Magician_Expert_1": [
+            {
+                "skillType": "Basic",
+                "skills": [
+                    "SigilBlast"
+                ]
+            },
+            {
+                "skillType": "Passive",
                 "skills": []
+            },
+            {
+                "skillType": "Auto",
+                "skills": [
+                    "CycloneVortex"
+                ]
             }
         ],
         "Shooter_Expert_3": [
@@ -75,7 +104,27 @@
             },
             {
                 "skillType": "Auto",
+                "skills": [
+                    "FrostBarrage"
+                ]
+            }
+        ],
+        "Tanker_Mystic_3": [
+            {
+                "skillType": "Basic",
+                "skills": [
+                    "IronWall"
+                ]
+            },
+            {
+                "skillType": "Passive",
                 "skills": []
+            },
+            {
+                "skillType": "Auto",
+                "skills": [
+                    "RockFortress"
+                ]
             }
         ]
     },
@@ -122,3 +171,4 @@
     },
     "playerLevel": 1
 }
+
