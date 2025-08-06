@@ -50,8 +50,7 @@
             },
             {
                 "skillType": "Auto",
-                "skills": [
-                    "ScorchingStrike"
+                "skills": [   
                 ]
             }
         ],
@@ -68,8 +67,7 @@
             },
             {
                 "skillType": "Auto",
-                "skills": [
-                    "SkywardBlessing"
+                "skills": [                    
                 ]
             }
         ],
@@ -86,8 +84,7 @@
             },
             {
                 "skillType": "Auto",
-                "skills": [
-                    "CycloneVortex"
+                "skills": [                    
                 ]
             }
         ],
@@ -104,8 +101,7 @@
             },
             {
                 "skillType": "Auto",
-                "skills": [
-                    "FrostBarrage"
+                "skills": [                   
                 ]
             }
         ],
@@ -122,8 +118,7 @@
             },
             {
                 "skillType": "Auto",
-                "skills": [
-                    "RockFortress"
+                "skills": [                    
                 ]
             }
         ]
@@ -171,6 +166,7 @@
     },
     "playerLevel": 1
 }
+
 
 
 
