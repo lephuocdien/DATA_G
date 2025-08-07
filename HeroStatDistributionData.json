@@ -20,383 +20,383 @@
     "HP": "120%",
     "Attack": "120%",
     "Defense": "120%",
-    "SC": 1200,
-    "XP Book": 4560
+    "SC": 600,
+    "XP Book": 2280
   },
   {
     "Level": 4,
     "HP": "130%",
     "Attack": "130%",
     "Defense": "130%",
-    "SC": 1800,
-    "XP Book": 6840
+    "SC": 600,
+    "XP Book": 2280
   },
   {
     "Level": 5,
     "HP": "150%",
     "Attack": "150%",
     "Defense": "150%",
-    "SC": 2400,
-    "XP Book": 9120
+    "SC": 600,
+    "XP Book": 2280
   },
   {
     "Level": 6,
     "HP": "160%",
     "Attack": "160%",
     "Defense": "160%",
-    "SC": 3000,
-    "XP Book": 11400
+    "SC": 600,
+    "XP Book": 2280
   },
   {
     "Level": 7,
     "HP": "170%",
     "Attack": "170%",
     "Defense": "170%",
-    "SC": 3600,
-    "XP Book": 13680
+    "SC": 600,
+    "XP Book": 2280
   },
   {
     "Level": 8,
     "HP": "180%",
     "Attack": "180%",
     "Defense": "180%",
-    "SC": 4200,
-    "XP Book": 15960
+    "SC": 600,
+    "XP Book": 2280
   },
   {
     "Level": 9,
     "HP": "190%",
     "Attack": "190%",
     "Defense": "190%",
-    "SC": 4800,
-    "XP Book": 18240
+    "SC": 600,
+    "XP Book": 2280
   },
   {
     "Level": 10,
     "HP": "210%",
     "Attack": "210%",
     "Defense": "210%",
-    "SC": 5400,
-    "XP Book": 20520
+    "SC": 600,
+    "XP Book": 2280
   },
   {
     "Level": 11,
     "HP": "225%",
     "Attack": "225%",
     "Defense": "225%",
-    "SC": 7070,
-    "XP Book": 22800
+    "SC": 1670,
+    "XP Book": 2280
   },
   {
     "Level": 12,
     "HP": "240%",
     "Attack": "240%",
     "Defense": "240%",
-    "SC": 8740,
-    "XP Book": 25080
+    "SC": 1670,
+    "XP Book": 2280
   },
   {
     "Level": 13,
     "HP": "255%",
     "Attack": "255%",
     "Defense": "255%",
-    "SC": 10410,
-    "XP Book": 27360
+    "SC": 1670,
+    "XP Book": 2280
   },
   {
     "Level": 14,
     "HP": "270%",
     "Attack": "270%",
     "Defense": "270%",
-    "SC": 12080,
-    "XP Book": 29640
+    "SC": 1670,
+    "XP Book": 2280
   },
   {
     "Level": 15,
     "HP": "290%",
     "Attack": "290%",
     "Defense": "290%",
-    "SC": 13750,
-    "XP Book": 31920
+    "SC": 1670,
+    "XP Book": 2280
   },
   {
     "Level": 16,
     "HP": "310%",
     "Attack": "310%",
     "Defense": "310%",
-    "SC": 15420,
-    "XP Book": 34200
+    "SC": 1670,
+    "XP Book": 2280
   },
   {
     "Level": 17,
     "HP": "330%",
     "Attack": "330%",
     "Defense": "330%",
-    "SC": 17090,
-    "XP Book": 36480
+    "SC": 1670,
+    "XP Book": 2280
   },
   {
     "Level": 18,
     "HP": "350%",
     "Attack": "350%",
     "Defense": "350%",
-    "SC": 18760,
-    "XP Book": 38760
+    "SC": 1670,
+    "XP Book": 2280
   },
   {
     "Level": 19,
     "HP": "370%",
     "Attack": "370%",
     "Defense": "370%",
-    "SC": 20430,
-    "XP Book": 41040
+    "SC": 1670,
+    "XP Book": 2280
   },
   {
     "Level": 20,
     "HP": "400%",
     "Attack": "400%",
     "Defense": "400%",
-    "SC": 22100,
-    "XP Book": 43320
+    "SC": 1670,
+    "XP Book": 2280
   },
   {
     "Level": 21,
     "HP": "415%",
     "Attack": "415%",
     "Defense": "415%",
-    "SC": 24830,
-    "XP Book": 49020
+    "SC": 2730,
+    "XP Book": 5700
   },
   {
     "Level": 22,
     "HP": "430%",
     "Attack": "430%",
     "Defense": "430%",
-    "SC": 27560,
-    "XP Book": 54720
+    "SC": 2730,
+    "XP Book": 5700
   },
   {
     "Level": 23,
     "HP": "445%",
     "Attack": "445%",
     "Defense": "445%",
-    "SC": 30290,
-    "XP Book": 60420
+    "SC": 2730,
+    "XP Book": 5700
   },
   {
     "Level": 24,
     "HP": "460%",
     "Attack": "460%",
     "Defense": "460%",
-    "SC": 33020,
-    "XP Book": 66120
+    "SC": 2730,
+    "XP Book": 5700
   },
   {
     "Level": 25,
     "HP": "480%",
     "Attack": "480%",
     "Defense": "480%",
-    "SC": 35750,
-    "XP Book": 71820
+    "SC": 2730,
+    "XP Book": 5700
   },
   {
     "Level": 26,
     "HP": "500%",
     "Attack": "500%",
     "Defense": "500%",
-    "SC": 38480,
-    "XP Book": 77520
+    "SC": 2730,
+    "XP Book": 5700
   },
   {
     "Level": 27,
     "HP": "520%",
     "Attack": "520%",
     "Defense": "520%",
-    "SC": 41210,
-    "XP Book": 83220
+    "SC": 2730,
+    "XP Book": 5700
   },
   {
     "Level": 28,
     "HP": "540%",
     "Attack": "540%",
     "Defense": "540%",
-    "SC": 43940,
-    "XP Book": 88920
+    "SC": 2730,
+    "XP Book": 5700
   },
   {
     "Level": 29,
     "HP": "560%",
     "Attack": "560%",
     "Defense": "560%",
-    "SC": 46670,
-    "XP Book": 94620
+    "SC": 2730,
+    "XP Book": 5700
   },
   {
     "Level": 30,
     "HP": "590%",
     "Attack": "590%",
     "Defense": "590%",
-    "SC": 49400,
-    "XP Book": 100320
+    "SC": 2730,
+    "XP Book": 5700
   },
   {
     "Level": 31,
     "HP": "605%",
     "Attack": "605%",
     "Defense": "605%",
-    "SC": 53200,
-    "XP Book": 106020
+    "SC": 3800,
+    "XP Book": 5700
   },
   {
     "Level": 32,
     "HP": "620%",
     "Attack": "620%",
     "Defense": "620%",
-    "SC": 57000,
-    "XP Book": 111720
+    "SC": 3800,
+    "XP Book": 5700
   },
   {
     "Level": 33,
     "HP": "635%",
     "Attack": "635%",
     "Defense": "635%",
-    "SC": 60800,
-    "XP Book": 117420
+    "SC": 3800,
+    "XP Book": 5700
   },
   {
     "Level": 34,
     "HP": "650%",
     "Attack": "650%",
     "Defense": "650%",
-    "SC": 64600,
-    "XP Book": 123120
+    "SC": 3800,
+    "XP Book": 5700
   },
   {
     "Level": 35,
     "HP": "670%",
     "Attack": "670%",
     "Defense": "670%",
-    "SC": 68400,
-    "XP Book": 128820
+    "SC": 3800,
+    "XP Book": 5700
   },
   {
     "Level": 36,
     "HP": "690%",
     "Attack": "690%",
     "Defense": "690%",
-    "SC": 72200,
-    "XP Book": 134520
+    "SC": 3800,
+    "XP Book": 5700
   },
   {
     "Level": 37,
     "HP": "710%",
     "Attack": "710%",
     "Defense": "710%",
-    "SC": 76000,
-    "XP Book": 140220
+    "SC": 3800,
+    "XP Book": 5700
   },
   {
     "Level": 38,
     "HP": "730%",
     "Attack": "730%",
     "Defense": "730%",
-    "SC": 79800,
-    "XP Book": 145920
+    "SC": 3800,
+    "XP Book": 5700
   },
   {
     "Level": 39,
     "HP": "750%",
     "Attack": "750%",
     "Defense": "750%",
-    "SC": 83600,
-    "XP Book": 151620
+    "SC": 3800,
+    "XP Book": 5700
   },
   {
     "Level": 40,
     "HP": "780%",
     "Attack": "780%",
     "Defense": "780%",
-    "SC": 87400,
-    "XP Book": 157320
+    "SC": 3800,
+    "XP Book": 5700
   },
   {
     "Level": 41,
     "HP": "795%",
     "Attack": "795%",
     "Defense": "795%",
-    "SC": 92260,
-    "XP Book": 179970
+    "SC": 4860,
+    "XP Book": 22650
   },
   {
     "Level": 42,
     "HP": "810%",
     "Attack": "810%",
     "Defense": "810%",
-    "SC": 97120,
-    "XP Book": 202620
+    "SC": 4860,
+    "XP Book": 22650
   },
   {
     "Level": 43,
     "HP": "825%",
     "Attack": "825%",
     "Defense": "825%",
-    "SC": 101980,
-    "XP Book": 225270
+    "SC": 4860,
+    "XP Book": 22650
   },
   {
     "Level": 44,
     "HP": "840%",
     "Attack": "840%",
     "Defense": "840%",
-    "SC": 106840,
-    "XP Book": 247920
+    "SC": 4860,
+    "XP Book": 22650
   },
   {
     "Level": 45,
     "HP": "860%",
     "Attack": "860%",
     "Defense": "860%",
-    "SC": 111700,
-    "XP Book": 270570
+    "SC": 4860,
+    "XP Book": 22650
   },
   {
     "Level": 46,
     "HP": "880%",
     "Attack": "880%",
     "Defense": "880%",
-    "SC": 116560,
-    "XP Book": 293220
+    "SC": 4860,
+    "XP Book": 22650
   },
   {
     "Level": 47,
     "HP": "900%",
     "Attack": "900%",
     "Defense": "900%",
-    "SC": 121420,
-    "XP Book": 315870
+    "SC": 4860,
+    "XP Book": 22650
   },
   {
     "Level": 48,
     "HP": "920%",
     "Attack": "920%",
     "Defense": "920%",
-    "SC": 126280,
-    "XP Book": 338520
+    "SC": 4860,
+    "XP Book": 22650
   },
   {
     "Level": 49,
     "HP": "940%",
     "Attack": "940%",
     "Defense": "940%",
-    "SC": 131140,
-    "XP Book": 361170
+    "SC": 4860,
+    "XP Book": 22650
   },
   {
     "Level": 50,
     "HP": "970%",
     "Attack": "970%",
     "Defense": "970%",
-    "SC": 136000,
-    "XP Book": 383820
+    "SC": 4860,
+    "XP Book": 22650
   }
 ]
