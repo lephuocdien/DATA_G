@@ -1,402 +1,202 @@
 [
-  {
-    "level": 1,
-    "exp": 0,
-    "skillName": "",
-    "description": "Increase HP",
-    "range": 1,
-    "cooldown": 30
-  },
-  {
-    "level": 2,
-    "exp": 1000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 3,
-    "exp": 2000,
-    "skillName": "",
-    "description": "Create Shield",
-    "range": 1,
-    "cooldown": 30
-  },
-  {
-    "level": 4,
-    "exp": 2000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 5,
-    "exp": 2000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 6,
-    "exp": 3000,
-    "skillName": "",
-    "description": "Damage AoE",
-    "range": 2,
-    "cooldown": 30
-  },
-  {
-    "level": 7,
-    "exp": 4000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 8,
-    "exp": 4000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 9,
-    "exp": 4000,
-    "skillName": "",
-    "description": "Increase ATK",
-    "range": 1,
-    "cooldown": 40
-  },
-  {
-    "level": 10,
-    "exp": 4000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 11,
-    "exp": 4000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 12,
-    "exp": 5000,
-    "skillName": "",
-    "description": "Stun AoE",
-    "range": 2,
-    "cooldown": 50
-  },
-  {
-    "level": 13,
-    "exp": 6000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 14,
-    "exp": 6000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 15,
-    "exp": 6000,
-    "skillName": "",
-    "description": "Increase Energy",
-    "range": 1,
-    "cooldown": 60
-  },
-  {
-    "level": 16,
-    "exp": 7000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 17,
-    "exp": 8000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 18,
-    "exp": 8000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 19,
-    "exp": 8000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 20,
-    "exp": 9000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 21,
-    "exp": 10000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 22,
-    "exp": 10000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 23,
-    "exp": 11000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 24,
-    "exp": 12000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 25,
-    "exp": 13000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 26,
-    "exp": 14000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 27,
-    "exp": 14000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 28,
-    "exp": 15000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 29,
-    "exp": 16000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 30,
-    "exp": 17000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 31,
-    "exp": 18000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 32,
-    "exp": 19000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 33,
-    "exp": 20000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 34,
-    "exp": 21000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 35,
-    "exp": 22000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 36,
-    "exp": 23000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 37,
-    "exp": 24000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 38,
-    "exp": 25000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 39,
-    "exp": 26000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 40,
-    "exp": 27000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 41,
-    "exp": 28000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 42,
-    "exp": 29000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 43,
-    "exp": 31000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 44,
-    "exp": 33000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 45,
-    "exp": 34000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 46,
-    "exp": 35000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 47,
-    "exp": 37000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 48,
-    "exp": 38000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 49,
-    "exp": 39000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  },
-  {
-    "level": 50,
-    "exp": 41000,
-    "skillName": "",
-    "description": "",
-    "range": "",
-    "cooldown": ""
-  }
+    {
+        "level": 1,
+        "exp": 0
+    },
+    {
+        "level": 2,
+        "exp": 100
+    },
+    {
+        "level": 3,
+        "exp": 300
+    },
+    {
+        "level": 4,
+        "exp": 600
+    },
+    {
+        "level": 5,
+        "exp": 1000
+    },
+    {
+        "level": 6,
+        "exp": 1500
+    },
+    {
+        "level": 7,
+        "exp": 2100
+    },
+    {
+        "level": 8,
+        "exp": 2700
+    },
+    {
+        "level": 9,
+        "exp": 3400
+    },
+    {
+        "level": 10,
+        "exp": 4100
+    },
+    {
+        "level": 11,
+        "exp": 5000
+    },
+    {
+        "level": 12,
+        "exp": 5800
+    },
+    {
+        "level": 13,
+        "exp": 6800
+    },
+    {
+        "level": 14,
+        "exp": 7800
+    },
+    {
+        "level": 15,
+        "exp": 8800
+    },
+    {
+        "level": 16,
+        "exp": 9900
+    },
+    {
+        "level": 17,
+        "exp": 11100
+    },
+    {
+        "level": 18,
+        "exp": 12300
+    },
+    {
+        "level": 19,
+        "exp": 13600
+    },
+    {
+        "level": 20,
+        "exp": 14900
+    },
+    {
+        "level": 21,
+        "exp": 16200
+    },
+    {
+        "level": 22,
+        "exp": 17600
+    },
+    {
+        "level": 23,
+        "exp": 19100
+    },
+    {
+        "level": 24,
+        "exp": 20600
+    },
+    {
+        "level": 25,
+        "exp": 22200
+    },
+    {
+        "level": 26,
+        "exp": 23700
+    },
+    {
+        "level": 27,
+        "exp": 25400
+    },
+    {
+        "level": 28,
+        "exp": 27100
+    },
+    {
+        "level": 29,
+        "exp": 28800
+    },
+    {
+        "level": 30,
+        "exp": 30600
+    },
+    {
+        "level": 31,
+        "exp": 32400
+    },
+    {
+        "level": 32,
+        "exp": 34300
+    },
+    {
+        "level": 33,
+        "exp": 36200
+    },
+    {
+        "level": 34,
+        "exp": 38100
+    },
+    {
+        "level": 35,
+        "exp": 40100
+    },
+    {
+        "level": 36,
+        "exp": 42100
+    },
+    {
+        "level": 37,
+        "exp": 44200
+    },
+    {
+        "level": 38,
+        "exp": 46300
+    },
+    {
+        "level": 39,
+        "exp": 48400
+    },
+    {
+        "level": 40,
+        "exp": 50600
+    },
+    {
+        "level": 41,
+        "exp": 52900
+    },
+    {
+        "level": 42,
+        "exp": 55100
+    },
+    {
+        "level": 43,
+        "exp": 57400
+    },
+    {
+        "level": 44,
+        "exp": 59800
+    },
+    {
+        "level": 45,
+        "exp": 62200
+    },
+    {
+        "level": 46,
+        "exp": 64600
+    },
+    {
+        "level": 47,
+        "exp": 67000
+    },
+    {
+        "level": 48,
+        "exp": 69500
+    },
+    {
+        "level": 49,
+        "exp": 72100
+    },
+    {
+        "level": 50,
+        "exp": 74700
+    }
 ]
