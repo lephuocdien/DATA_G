@@ -14,12 +14,12 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 500
     }
   },
   {
     "id": "equipment_crafting_warrior_uncommon_1",
-    "result": "set_warrior_common_1",
+    "result": "set_warrior_uncommon_1",
     "components": [
       {
         "component_code": "material_all_uncommon_orb",
@@ -32,7 +32,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 1000
     }
   },
   {
@@ -50,7 +50,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 1500
     }
   },
   {
@@ -68,7 +68,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 2000
     }
   },
   {
@@ -86,7 +86,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 3000
     }
   },
   {
@@ -104,7 +104,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 500
     }
   },
   {
@@ -116,13 +116,13 @@
         "component_quantity": 2
       },
       {
-        "component_code": "material_warrior_uncommon_1",
+        "component_code": "material_magician_uncommon_1",
         "component_quantity": 4
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 1000
     }
   },
   {
@@ -134,13 +134,13 @@
         "component_quantity": 2
       },
       {
-        "component_code": "material_warrior_rare_1",
+        "component_code": "material_magician_rare_1",
         "component_quantity": 6
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 1500
     }
   },
   {
@@ -158,7 +158,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 2000
     }
   },
   {
@@ -170,13 +170,13 @@
         "component_quantity": 1
       },
       {
-        "component_code": "material_warrior_legendary_1",
+        "component_code": "material_magician_legendary_1",
         "component_quantity": 10
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 3000
     }
   },
   {
@@ -194,7 +194,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 500
     }
   },
   {
@@ -206,13 +206,13 @@
         "component_quantity": 2
       },
       {
-        "component_code": "material_warrior_uncommon_1",
+        "component_code": "material_shooter_uncommon_1",
         "component_quantity": 4
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 1000
     }
   },
   {
@@ -224,13 +224,13 @@
         "component_quantity": 2
       },
       {
-        "component_code": "material_warrior_rare_1",
+        "component_code": "material_shooter_rare_1",
         "component_quantity": 6
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 1500
     }
   },
   {
@@ -248,7 +248,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 2000
     }
   },
   {
@@ -260,13 +260,13 @@
         "component_quantity": 1
       },
       {
-        "component_code": "material_warrior_legendary_1",
+        "component_code": "material_shooter_legendary_1",
         "component_quantity": 10
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 3000
     }
   },
   {
@@ -284,7 +284,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 500
     }
   },
   {
@@ -296,13 +296,13 @@
         "component_quantity": 2
       },
       {
-        "component_code": "material_warrior_uncommon_1",
+        "component_code": "material_tanker_uncommon_1",
         "component_quantity": 4
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 1000
     }
   },
   {
@@ -314,13 +314,13 @@
         "component_quantity": 2
       },
       {
-        "component_code": "material_warrior_rare_1",
+        "component_code": "material_tanker_rare_1",
         "component_quantity": 6
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 1500
     }
   },
   {
@@ -338,7 +338,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 2000
     }
   },
   {
@@ -350,13 +350,13 @@
         "component_quantity": 1
       },
       {
-        "component_code": "material_warrior_legendary_1",
+        "component_code": "material_tanker_legendary_1",
         "component_quantity": 10
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 3000
     }
   },
   {
@@ -374,7 +374,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 500
     }
   },
   {
@@ -386,13 +386,13 @@
         "component_quantity": 2
       },
       {
-        "component_code": "material_warrior_uncommon_1",
+        "component_code": "material_supporter_uncommon_1",
         "component_quantity": 4
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 1000
     }
   },
   {
@@ -404,13 +404,13 @@
         "component_quantity": 2
       },
       {
-        "component_code": "material_warrior_rare_1",
+        "component_code": "material_supporter_rare_1",
         "component_quantity": 6
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 1500
     }
   },
   {
@@ -428,7 +428,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 2000
     }
   },
   {
@@ -440,13 +440,13 @@
         "component_quantity": 1
       },
       {
-        "component_code": "material_warrior_legendary_1",
+        "component_code": "material_supporter_legendary_1",
         "component_quantity": 10
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 20
+      "cost_quantity": 3000
     }
   }
 ]
