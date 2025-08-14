@@ -1,6 +1,6 @@
 {
     "energy_max_store": 99,
-    "energy_generate_time": 0.9,
+    "energy_generate_time": 1.5,
     "counter_advantage": 0.2,
     "synergy_3_ratio": 0.2,
     "synergy_4_ratio": 0.1,
@@ -22,6 +22,7 @@
     "hero_passive_skill_5_unlock":20
     
 }
+
 
 
 
