@@ -21,18 +21,6 @@
             {
                 "id": "Support_Novice_2",
                 "currentLevel": 1
-            },
-            {
-                "id": "Magician_Expert_1",
-                "currentLevel": 1
-            },
-            {
-                "id": "Shooter_Expert_3",
-                "currentLevel": 1
-            },
-            {
-                "id": "Tanker_Mystic_3",
-                "currentLevel": 1
             }
         ]
     },
@@ -59,57 +47,6 @@
                 "skillType": "Basic",
                 "skills": [
                     "HealingLight"
-                ]
-            },
-            {
-                "skillType": "Passive",
-                "skills": []
-            },
-            {
-                "skillType": "Auto",
-                "skills": [                    
-                ]
-            }
-        ],
-        "Magician_Expert_1": [
-            {
-                "skillType": "Basic",
-                "skills": [
-                    "SigilBlast"
-                ]
-            },
-            {
-                "skillType": "Passive",
-                "skills": []
-            },
-            {
-                "skillType": "Auto",
-                "skills": [                    
-                ]
-            }
-        ],
-        "Shooter_Expert_3": [
-            {
-                "skillType": "Basic",
-                "skills": [
-                    "PiercingBullet"
-                ]
-            },
-            {
-                "skillType": "Passive",
-                "skills": []
-            },
-            {
-                "skillType": "Auto",
-                "skills": [                   
-                ]
-            }
-        ],
-        "Tanker_Mystic_3": [
-            {
-                "skillType": "Basic",
-                "skills": [
-                    "IronWall"
                 ]
             },
             {
@@ -166,6 +103,7 @@
     },
     "playerLevel": 1
 }
+
 
 
 
