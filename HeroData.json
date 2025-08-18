@@ -15,10 +15,8 @@
     "attack": 0,
     "attack_speed": 0.5,
     "basic_skill": "Healing Light",
-    "passive_skill_1": "Flowing Guard",
-    "passive_skill_2": "Tidal Shield",
-    "auto_skill_1": "Skyward Blessing",
-    "auto_skill_2": "Frost Sanctuary",
+    "passive_skill": "Flowing Guard",
+    "auto_skill": "Frost Sanctuary",
     "combat_power": 950
   },
   {
@@ -37,10 +35,8 @@
     "attack": 164,
     "attack_speed": 1.1,
     "basic_skill": "Cleaving Strike",
-    "passive_skill_1": "Phoenix Spirit",
-    "passive_skill_2": "Burning Fury",
-    "auto_skill_1": "Scorching Strike",
-    "auto_skill_2": "Blazing Cleave",
+    "passive_skill": "Phoenix Spirit",
+    "auto_skill": "Scorching Strike",
     "combat_power": 1623
   },
   {
@@ -59,10 +55,8 @@
     "attack": 182,
     "attack_speed": 0.9,
     "basic_skill": "Sigil Blast",
-    "passive_skill_1": "Storm Surge",
-    "passive_skill_2": "Breeze Barrier",
-    "auto_skill_1": "Cyclone Vortex",
-    "auto_skill_2": "Thunder Surge",
+    "passive_skill": "Storm Surge",
+    "auto_skill": "Cyclone Vortex",
     "combat_power": 1598
   },
   {
@@ -81,10 +75,8 @@
     "attack": 117,
     "attack_speed": 1.1,
     "basic_skill": "Piercing Bullet",
-    "passive_skill_1": "Flowing Guard",
-    "passive_skill_2": "Frostbite",
-    "auto_skill_1": "Frost Barrage",
-    "auto_skill_2": "Tidal Wave Shot",
+    "passive_skill": "Frostbite",
+    "auto_skill": "Frost Barrage",
     "combat_power": 1490
   },
   {
@@ -103,10 +95,8 @@
     "attack": 0,
     "attack_speed": 0.5,
     "basic_skill": "Iron Wall",
-    "passive_skill_1": "Stone Skin",
-    "passive_skill_2": "Guardian Gift",
-    "auto_skill_1": "Rock Fortress",
-    "auto_skill_2": "Stone Aegis",
+    "passive_skill": "Stone Skin",
+    "auto_skill": "Rock Fortress",
     "combat_power": 1481
   },
   {
@@ -125,10 +115,8 @@
     "attack": 166,
     "attack_speed": 1,
     "basic_skill": "Power Slash",
-    "passive_skill_1": "Dusk Armor",
-    "passive_skill_2": "Shadow Power",
-    "auto_skill_1": "Shadow Slash",
-    "auto_skill_2": "Dusk Cleave",
+    "passive_skill": "Dusk Armor",
+    "auto_skill": "Shadow Slash",
     "combat_power": 1553
   },
   {
@@ -146,11 +134,9 @@
     "range": 3.4,
     "attack": 125,
     "attack_speed": 1.1,
-    "basic_skill": "Piercing Bullet",
-    "passive_skill_1": "Guardian Gift",
-    "passive_skill_2": "Sturdy Resolve",
-    "auto_skill_1": "Cracked Shot",
-    "auto_skill_2": "Ricochet Shot",
+    "basic_skill": "Rapid Shot",
+    "passive_skill": "Guardian Gift",
+    "auto_skill": "Cracked Shot",
     "combat_power": 1510
   },
   {
@@ -168,11 +154,9 @@
     "range": 3.7,
     "attack": 177,
     "attack_speed": 0.8,
-    "basic_skill": "Sigil Blast",
-    "passive_skill_1": "Dusk Armor",
-    "passive_skill_2": "Phantom Strike",
-    "auto_skill_1": "Nightfall Curse",
-    "auto_skill_2": "Curse of the Abyss",
+    "basic_skill": "Arcane Burst",
+    "passive_skill": "Shadow Power",
+    "auto_skill": "Nightfall Curse",
     "combat_power": 1519
   },
   {
@@ -191,10 +175,8 @@
     "attack": 0,
     "attack_speed": 0.4,
     "basic_skill": "Inspire",
-    "passive_skill_1": "Guardian Gift",
-    "passive_skill_2": "Rooted Strike",
-    "auto_skill_1": "Gaia Protection",
-    "auto_skill_2": "Verdant Rejuvenation",
+    "passive_skill": "Sturdy Resolve",
+    "auto_skill": "Gaia Protection",
     "combat_power": 1107
   },
   {
@@ -213,10 +195,8 @@
     "attack": 0,
     "attack_speed": 0.5,
     "basic_skill": "Taunt",
-    "passive_skill_1": "Burning Fury",
-    "passive_skill_2": "Ember Shield",
-    "auto_skill_1": "Ember Fortitude",
-    "auto_skill_2": "Blazing Resolve",
+    "passive_skill": "Burning Fury",
+    "auto_skill": "Ember Fortitude",
     "combat_power": 1335
   },
   {
@@ -235,10 +215,8 @@
     "attack": 151,
     "attack_speed": 0.8,
     "basic_skill": "Sigil Blast",
-    "passive_skill_1": "Gale Force",
-    "passive_skill_2": "Cyclone Strike",
-    "auto_skill_1": "Thunder Surge",
-    "auto_skill_2": "Storm Strike",
+    "passive_skill": "Gale Force",
+    "auto_skill": "Thunder Surge",
     "combat_power": 1187
   },
   {
@@ -257,10 +235,8 @@
     "attack": 184,
     "attack_speed": 0.7,
     "basic_skill": "Sigil Blast",
-    "passive_skill_1": "Earthen Might",
-    "passive_skill_2": "Stone Skin",
-    "auto_skill_1": "Stone Rain",
-    "auto_skill_2": "Boulder Crash",
+    "passive_skill": "Earthen Might",
+    "auto_skill": "Stone Rain",
     "combat_power": 1511
   },
   {
@@ -279,10 +255,8 @@
     "attack": 154,
     "attack_speed": 1.3,
     "basic_skill": "Rapid Shot",
-    "passive_skill_1": "Ignite",
-    "passive_skill_2": "Flame Surge",
-    "auto_skill_1": "Ember Ricochet",
-    "auto_skill_2": "Searing Barrage",
+    "passive_skill": "Ignite",
+    "auto_skill": "Ember Ricochet",
     "combat_power": 1921
   },
   {
@@ -301,10 +275,8 @@
     "attack": 0,
     "attack_speed": 0.5,
     "basic_skill": "Iron Wall",
-    "passive_skill_1": "Rooted Strike",
-    "passive_skill_2": "Stone Skin",
-    "auto_skill_1": "Gaia Bastion",
-    "auto_skill_2": "Terra Bulwark",
+    "passive_skill": "Rooted Strike",
+    "auto_skill": "Gaia Bastion",
     "combat_power": 1283
   },
   {
@@ -323,10 +295,8 @@
     "attack": 195,
     "attack_speed": 1.2,
     "basic_skill": "Power Slash",
-    "passive_skill_1": "Tidal Shield",
-    "passive_skill_2": "Frostbite",
-    "auto_skill_1": "Ocean Fury",
-    "auto_skill_2": "Wave Strike",
+    "passive_skill": "Tidal Shield",
+    "auto_skill": "Ocean Fury",
     "combat_power": 1867
   },
   {
@@ -345,10 +315,8 @@
     "attack": 0,
     "attack_speed": 0.4,
     "basic_skill": "Inspire",
-    "passive_skill_1": "Phantom Strike",
-    "passive_skill_2": "Curse Mark",
-    "auto_skill_1": "Shadow Mend",
-    "auto_skill_2": "Abyssal Sanctuary",
+    "passive_skill": "Phantom Strike",
+    "auto_skill": "Shadow Mend",
     "combat_power": 1035
   },
   {
@@ -367,10 +335,8 @@
     "attack": 148,
     "attack_speed": 1.1,
     "basic_skill": "Rapid Shot",
-    "passive_skill_1": "Gale Force",
-    "passive_skill_2": "Breeze Barrier",
-    "auto_skill_1": "Gale Barrage",
-    "auto_skill_2": "Cyclone Vortex",
+    "passive_skill": "Feather Step",
+    "auto_skill": "Gale Barrage",
     "combat_power": 1841
   },
   {
@@ -389,10 +355,8 @@
     "attack": 84,
     "attack_speed": 1.3,
     "basic_skill": "Rapid Shot",
-    "passive_skill_1": "Ember Shield",
-    "passive_skill_2": "Phoenix Spirit",
-    "auto_skill_1": "Rapid Inferno",
-    "auto_skill_2": "Blazing Shot",
+    "passive_skill": "Ember Shield",
+    "auto_skill": "Rapid Inferno",
     "combat_power": 1243
   },
   {
@@ -411,10 +375,8 @@
     "attack": 154,
     "attack_speed": 0.8,
     "basic_skill": "Arcane Burst",
-    "passive_skill_1": "Soothing Aura",
-    "passive_skill_2": "Flowing Guard",
-    "auto_skill_1": "Freezing Blast",
-    "auto_skill_2": "Tidal Surge",
+    "passive_skill": "Soothing Aura",
+    "auto_skill": "Freezing Blast",
     "combat_power": 1153
   },
   {
@@ -433,10 +395,8 @@
     "attack": 144,
     "attack_speed": 1.2,
     "basic_skill": "Power Slash",
-    "passive_skill_1": "Storm Surge",
-    "passive_skill_2": "Gale Force",
-    "auto_skill_1": "Cyclone Slash",
-    "auto_skill_2": "Gale Strike",
+    "passive_skill": "Breeze Barrier",
+    "auto_skill": "Cyclone Slash",
     "combat_power": 1613
   },
   {
@@ -455,10 +415,8 @@
     "attack": 236,
     "attack_speed": 0.9,
     "basic_skill": "Arcane Burst",
-    "passive_skill_1": "Curse Mark",
-    "passive_skill_2": "Life Drain",
-    "auto_skill_1": "Phantom Grasp",
-    "auto_skill_2": "Nightfall Curse",
+    "passive_skill": "Curse Mark",
+    "auto_skill": "Phantom Grasp",
     "combat_power": 1981
   },
   {
@@ -477,10 +435,8 @@
     "attack": 0,
     "attack_speed": 0.4,
     "basic_skill": "Healing Light",
-    "passive_skill_1": "Cyclone Strike",
-    "passive_skill_2": "Storm Surge",
-    "auto_skill_1": "Skyward Blessing",
-    "auto_skill_2": "Cloudburst Aura",
+    "passive_skill": "Cyclone Strike",
+    "auto_skill": "Skyward Blessing",
     "combat_power": 1218
   },
   {
@@ -499,10 +455,8 @@
     "attack": 0,
     "attack_speed": 0.5,
     "basic_skill": "Iron Wall",
-    "passive_skill_1": "Burning Fury",
-    "passive_skill_2": "Flame Surge",
-    "auto_skill_1": "Inferno Bastion",
-    "auto_skill_2": "Flame Guard",
+    "passive_skill": "Flame Surge",
+    "auto_skill": "Inferno Bastion",
     "combat_power": 1481
   },
   {
@@ -521,10 +475,8 @@
     "attack": 0,
     "attack_speed": 0.6,
     "basic_skill": "Inspire",
-    "passive_skill_1": "Breeze Barrier",
-    "passive_skill_2": "Feather Step",
-    "auto_skill_1": "Soothing Breeze",
-    "auto_skill_2": "Zephyr Touch",
+    "passive_skill": "Breeze Barrier",
+    "auto_skill": "Soothing Breeze",
     "combat_power": 1227
   },
   {
@@ -543,10 +495,8 @@
     "attack": 0,
     "attack_speed": 0.7,
     "basic_skill": "Healing Light",
-    "passive_skill_1": "Phantom Strike",
-    "passive_skill_2": "Shadow Power",
-    "auto_skill_1": "Twilight Recovery",
-    "auto_skill_2": "Dusk Rebirth",
+    "passive_skill": "Life Drain",
+    "auto_skill": "Twilight Recovery",
     "combat_power": 1478
   },
   {
@@ -565,10 +515,8 @@
     "attack": 0,
     "attack_speed": 0.3,
     "basic_skill": "Taunt",
-    "passive_skill_1": "Breeze Barrier",
-    "passive_skill_2": "Cyclone Strike",
-    "auto_skill_1": "Cyclone Guard",
-    "auto_skill_2": "Storm Resilience",
+    "passive_skill": "Breeze Barrier",
+    "auto_skill": "Cyclone Guard",
     "combat_power": 1285
   },
   {
@@ -587,10 +535,8 @@
     "attack": 232,
     "attack_speed": 0.9,
     "basic_skill": "Arcane Burst",
-    "passive_skill_1": "Phoenix Spirit",
-    "passive_skill_2": "Ignite",
-    "auto_skill_1": "Flame Burst",
-    "auto_skill_2": "Scorching Wave",
+    "passive_skill": "Phoenix Spirit",
+    "auto_skill": "Flame Burst",
     "combat_power": 1938
   },
   {
@@ -609,10 +555,8 @@
     "attack": 127,
     "attack_speed": 1.2,
     "basic_skill": "Piercing Bullet",
-    "passive_skill_1": "Frostbite",
-    "passive_skill_2": "Ocean Grace",
-    "auto_skill_1": "Tidal Wave Shot",
-    "auto_skill_2": "Freezing Blast",
+    "passive_skill": "Ocean Grace",
+    "auto_skill": "Tidal Wave Shot",
     "combat_power": 1577
   },
   {
@@ -631,10 +575,8 @@
     "attack": 0,
     "attack_speed": 0.7,
     "basic_skill": "Inspire",
-    "passive_skill_1": "Ember Shield",
-    "passive_skill_2": "Ignite",
-    "auto_skill_1": "Flame Harmony",
-    "auto_skill_2": "Blazing Courage",
+    "passive_skill": "Ember Shield",
+    "auto_skill": "Phoenix Renewal",
     "combat_power": 1217
   },
   {
@@ -653,10 +595,8 @@
     "attack": 0,
     "attack_speed": 0.3,
     "basic_skill": "Taunt",
-    "passive_skill_1": "Feather Step",
-    "passive_skill_2": "Storm Surge",
-    "auto_skill_1": "Storm Resilience",
-    "auto_skill_2": "Gale Barrier",
+    "passive_skill": "Feather Step",
+    "auto_skill": "Storm Resilience",
     "combat_power": 1134
   },
   {
@@ -675,10 +615,8 @@
     "attack": 216,
     "attack_speed": 1.1,
     "basic_skill": "Power Slash",
-    "passive_skill_1": "Feather Step",
-    "passive_skill_2": "Gale Force",
-    "auto_skill_1": "Gale Strike",
-    "auto_skill_2": "Wind Cutter",
+    "passive_skill": "Feather Step",
+    "auto_skill": "Gale Strike",
     "combat_power": 1885
   },
   {
@@ -697,10 +635,8 @@
     "attack": 184,
     "attack_speed": 0.9,
     "basic_skill": "Arcane Burst",
-    "passive_skill_1": "Rooted Strike",
-    "passive_skill_2": "Earthen Might",
-    "auto_skill_1": "Petrify Hex",
-    "auto_skill_2": "Boulder Crash",
+    "passive_skill": "Rooted Strike",
+    "auto_skill": "Petrify Hex",
     "combat_power": 1545
   },
   {
@@ -719,10 +655,8 @@
     "attack": 109,
     "attack_speed": 1,
     "basic_skill": "Rapid Shot",
-    "passive_skill_1": "Life Drain",
-    "passive_skill_2": "Dusk Armor",
-    "auto_skill_1": "Shadow Volley",
-    "auto_skill_2": "Death Spiral",
+    "passive_skill": "Life Drain",
+    "auto_skill": "Shadow Volley",
     "combat_power": 1448
   },
   {
@@ -741,10 +675,8 @@
     "attack": 0,
     "attack_speed": 0.5,
     "basic_skill": "Healing Light",
-    "passive_skill_1": "Earthen Might",
-    "passive_skill_2": "Guardian Gift",
-    "auto_skill_1": "Verdant Rejuvenation",
-    "auto_skill_2": "Nature Grace",
+    "passive_skill": "Earthen Might",
+    "auto_skill": "Verdant Rejuvenation",
     "combat_power": 1339
   },
   {
@@ -763,10 +695,8 @@
     "attack": 0,
     "attack_speed": 0.4,
     "basic_skill": "Taunt",
-    "passive_skill_1": "Curse Mark",
-    "passive_skill_2": "Dusk Armor",
-    "auto_skill_1": "Shadow Veil",
-    "auto_skill_2": "Dusk Barrier",
+    "passive_skill": "Curse Mark",
+    "auto_skill": "Void Fortification",
     "combat_power": 1234
   },
   {
@@ -785,10 +715,8 @@
     "attack": 202,
     "attack_speed": 1.1,
     "basic_skill": "Power Slash",
-    "passive_skill_1": "Shadow Power",
-    "passive_skill_2": "Curse Mark",
-    "auto_skill_1": "Dusk Cleave",
-    "auto_skill_2": "Abyssal Strike",
+    "passive_skill": "Shadow Power",
+    "auto_skill": "Dusk Cleave",
     "combat_power": 1867
   },
   {
@@ -807,15 +735,13 @@
     "attack": 155,
     "attack_speed": 1.1,
     "basic_skill": "Rapid Shot",
-    "passive_skill_1": "Shadow Power",
-    "passive_skill_2": "Life Drain",
-    "auto_skill_1": "Phantom Shot",
-    "auto_skill_2": "Soulpiercer Shot",
+    "passive_skill": "Shadow Power",
+    "auto_skill": "Phantom Shot",
     "combat_power": 1832
   },
   {
     "id": "Support_Mystic_4",
-    "name": "Rainis",
+    "name": "Rexah",
     "class": "support",
     "rarity": "mystic",
     "elemental": "water",
@@ -829,10 +755,8 @@
     "attack": 0,
     "attack_speed": 0.4,
     "basic_skill": "Inspire",
-    "passive_skill_1": "Ocean Grace",
-    "passive_skill_2": "Soothing Aura",
-    "auto_skill_1": "Tidal Blessing",
-    "auto_skill_2": "Frost Sanctuary",
+    "passive_skill": "Ocean Grace",
+    "auto_skill": "Tidal Blessing",
     "combat_power": 1145
   },
   {
@@ -851,10 +775,8 @@
     "attack": 0,
     "attack_speed": 0.3,
     "basic_skill": "Iron Wall",
-    "passive_skill_1": "Life Drain",
-    "passive_skill_2": "Phantom Strike",
-    "auto_skill_1": "Shadow Veil",
-    "auto_skill_2": "Abyssal Guard",
+    "passive_skill": "Life Drain",
+    "auto_skill": "Shadow Veil",
     "combat_power": 1282
   },
   {
@@ -873,10 +795,8 @@
     "attack": 99,
     "attack_speed": 1.1,
     "basic_skill": "Cleaving Strike",
-    "passive_skill_1": "Sturdy Resolve",
-    "passive_skill_2": "Rooted Strike",
-    "auto_skill_1": "Seismic Smash",
-    "auto_skill_2": "Rock Breaker",
+    "passive_skill": "Sturdy Resolve",
+    "auto_skill": "Seismic Smash",
     "combat_power": 1345
   },
   {
@@ -895,10 +815,8 @@
     "attack": 168,
     "attack_speed": 1.1,
     "basic_skill": "Rapid Shot",
-    "passive_skill_1": "Stone Skin",
-    "passive_skill_2": "Sturdy Resolve",
-    "auto_skill_1": "Piercing Stone",
-    "auto_skill_2": "Rock Bullet",
+    "passive_skill": "Stone Skin",
+    "auto_skill": "Piercing Stone",
     "combat_power": 1895
   },
   {
@@ -917,10 +835,8 @@
     "attack": 76,
     "attack_speed": 1.3,
     "basic_skill": "Piercing Bullet",
-    "passive_skill_1": "Cyclone Strike",
-    "passive_skill_2": "Feather Step",
-    "auto_skill_1": "Piercing Wind",
-    "auto_skill_2": "Gale Barrage",
+    "passive_skill": "Cyclone Strike",
+    "auto_skill": "Piercing Wind",
     "combat_power": 1236
   },
   {
@@ -939,10 +855,8 @@
     "attack": 0,
     "attack_speed": 0.5,
     "basic_skill": "Healing Light",
-    "passive_skill_1": "Ignite",
-    "passive_skill_2": "Burning Fury",
-    "auto_skill_1": "Flame Harmony",
-    "auto_skill_2": "Ember Vitality",
+    "passive_skill": "Ignite",
+    "auto_skill": "Flame Harmony",
     "combat_power": 902
   },
   {
@@ -961,10 +875,8 @@
     "attack": 0,
     "attack_speed": 0.3,
     "basic_skill": "Iron Wall",
-    "passive_skill_1": "Ocean Grace",
-    "passive_skill_2": "Tidal Shield",
-    "auto_skill_1": "Glacial Fortitude",
-    "auto_skill_2": "Frost Aegis",
+    "passive_skill": "Ocean Grace",
+    "auto_skill": "Glacial Fortitude",
     "combat_power": 1291
   },
   {
@@ -983,10 +895,8 @@
     "attack": 110,
     "attack_speed": 1,
     "basic_skill": "Power Slash",
-    "passive_skill_1": "Flame Surge",
-    "passive_skill_2": "Ember Shield",
-    "auto_skill_1": "Inferno Slash",
-    "auto_skill_2": "Blazing Cleave",
+    "passive_skill": "Flame Surge",
+    "auto_skill": "Inferno Slash",
     "combat_power": 1328
   },
   {
@@ -1005,10 +915,8 @@
     "attack": 183,
     "attack_speed": 0.7,
     "basic_skill": "Arcane Burst",
-    "passive_skill_1": "Flame Surge",
-    "passive_skill_2": "Phoenix Spirit",
-    "auto_skill_1": "Flame Burst",
-    "auto_skill_2": "Meteor Shower",
+    "passive_skill": "Flame Surge",
+    "auto_skill": "Infernal Chains",
     "combat_power": 1418
   },
   {
@@ -1027,10 +935,8 @@
     "attack": 232,
     "attack_speed": 0.7,
     "basic_skill": "Sigil Blast",
-    "passive_skill_1": "Ocean Grace",
-    "passive_skill_2": "Flowing Guard",
-    "auto_skill_1": "Tidal Surge",
-    "auto_skill_2": "Aqua Whirl",
+    "passive_skill": "Ocean Grace",
+    "auto_skill": "Tidal Surge",
     "combat_power": 1816
   },
   {
@@ -1049,10 +955,8 @@
     "attack": 0,
     "attack_speed": 0.4,
     "basic_skill": "Iron Wall",
-    "passive_skill_1": "Frostbite",
-    "passive_skill_2": "Soothing Aura",
-    "auto_skill_1": "Frost Aegis",
-    "auto_skill_2": "Aqua Barrier",
+    "passive_skill": "Frostbite",
+    "auto_skill": "Frost Aegis",
     "combat_power": 1185
   },
   {
@@ -1071,10 +975,8 @@
     "attack": 166,
     "attack_speed": 1,
     "basic_skill": "Cleaving Strike",
-    "passive_skill_1": "Soothing Aura",
-    "passive_skill_2": "Tidal Shield",
-    "auto_skill_1": "Tidal Slash",
-    "auto_skill_2": "Wave Strike",
+    "passive_skill": "Soothing Aura",
+    "auto_skill": "Tidal Slash",
     "combat_power": 1571
   },
   {
@@ -1093,11 +995,8 @@
     "attack": 197,
     "attack_speed": 1.1,
     "basic_skill": "Power Slash",
-    "passive_skill_1": "Sturdy Resolve",
-    "passive_skill_2": "Earthen Might",
-    "auto_skill_1": "Rock Breaker",
-    "auto_skill_2": "Terra Strike",
+    "passive_skill": "Sturdy Resolve",
+    "auto_skill": "Rock Breaker",
     "combat_power": 1884
   }
 ]
-
