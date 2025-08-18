@@ -6,8 +6,8 @@
     "synergy_4_ratio": 0.1,
     "synergy_5_ratio": 0.2,
     "refund_ratio": 0.5,
-    "upgrade_cost_ratio": 0.1,
-    "upgrade_stat_ratio": 0.2,
+    "upgrade_cost_ratio": 0.2,
+    "upgrade_stat_ratio": 0.3,
     "minHeroDist": 1.2,
     "damage_normal_min": 0.8,
     "damage_normal_max": 1.2,
@@ -22,6 +22,7 @@
     "hero_passive_skill_5_unlock":20
     
 }
+
 
 
 
