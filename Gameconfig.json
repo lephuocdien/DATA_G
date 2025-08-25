@@ -11,7 +11,7 @@
     "minHeroDist": 1.2,
     "damage_normal_min": 0.8,
     "damage_normal_max": 1.2,
-    "numberOfMoveHero": 3,
+    "numberOfMoveHero": 5,
     "minHeroMerge": 0.3,
     "upEqipmentMultiplier":0.5,
      "spinCostHc":50,
@@ -22,6 +22,7 @@
     "hero_passive_skill_5_unlock":20
     
 }
+
 
 
 
