@@ -1,67 +1,67 @@
 [
   {
     "id": "daily_quest_1",
-    "condition": "Play {0} level",
+    "condition": "Play {0} level(s).",
     "x": 1,
-    "reward_amount": 50,
+    "reward_amount": 200,
     "reward_type": "sc",
-    "redirect_to": "Latest explored world screen"
+    "redirect_to": "world_screen_latest"
   },
   {
     "id": "daily_quest_2",
-    "condition": "Spend a total of {0} stamina",
+    "condition": "Spend a total of {0} stamina(s).",
     "x": 50,
-    "reward_amount": 100,
+    "reward_amount": 200,
     "reward_type": "sc",
-    "redirect_to": "Latest explored world screen"
+    "redirect_to": "world_screen_latest"
   },
   {
     "id": "daily_quest_3",
-    "condition": "Spend a total of {0} gold",
+    "condition": "Spend a total of {0} golds",
     "x": 100,
-    "reward_amount": 100,
+    "reward_amount": 200,
     "reward_type": "xp_book",
-    "redirect_to": "Hero screen"
+    "redirect_to": "hero_screen"
   },
   {
     "id": "daily_quest_4",
     "condition": "Buy any item from the Shop {0} time(s)",
     "x": 1,
-    "reward_amount": 50,
+    "reward_amount": 200,
     "reward_type": "xp_book",
-    "redirect_to": "Shop screen"
+    "redirect_to": "shop_screen"
   },
   {
     "id": "daily_quest_5",
     "condition": "Complete a level {0} time(s)",
     "x": 2,
-    "reward_amount": 50,
+    "reward_amount": 200,
     "reward_type": "skill_book",
-    "redirect_to": "Latest explored world screen"
+    "redirect_to": "world_screen_latest"
   },
   {
     "id": "daily_quest_6",
     "condition": "Craft {0} equipment(s)",
     "x": 1,
-    "reward_amount": 100,
+    "reward_amount": 200,
     "reward_type": "skill_book",
-    "redirect_to": "Crafting screen"
+    "redirect_to": "crafting_screen"
   },
   {
     "id": "daily_quest_7",
     "condition": "Summon a Hero {0} time(s)",
     "x": 1,
-    "reward_amount": 50,
+    "reward_amount": 500,
     "reward_type": "sc",
-    "redirect_to": "Summon screen"
+    "redirect_to": "summon_screen"
   },
   {
     "id": "daily_quest_8",
-    "condition": "Spend a total of {0} stamina",
+    "condition": "Spend a total of {0} stamina(s).",
     "x": 100,
-    "reward_amount": 200,
+    "reward_amount": 500,
     "reward_type": "sc",
-    "redirect_to": "Latest explored world screen"
+    "redirect_to": "world_screen_latest"
   },
   {
     "id": "total_quest_1",
@@ -83,7 +83,7 @@
     "id": "total_quest_3",
     "condition": "Complete {0} daily quests",
     "x": 6,
-    "reward_amount": 20,
+    "reward_amount": 50,
     "reward_type": "hc",
     "redirect_to": ""
   }
