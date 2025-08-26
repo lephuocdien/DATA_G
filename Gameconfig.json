@@ -15,6 +15,7 @@
     "minHeroMerge": 0.3,
     "upEqipmentMultiplier":0.5,
      "spinCostHc":50,
+    "reshuffleEnergy":5,
      "maxSpinPerUser":10,
     "hero_auto_skill_2_unlock":5,
     "hero_passive_skill_3_unlock":10,
@@ -22,6 +23,7 @@
     "hero_passive_skill_5_unlock":20
     
 }
+
 
 
 
