@@ -44,7 +44,7 @@
   {
     "Skill Name": "Iron Wall",
     "X": 25,
-    "Y": "",
+    "Y": 0.5,
     "Z": 1,
     "cooldown": 0
   },
