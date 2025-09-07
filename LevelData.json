@@ -17,7 +17,7 @@
     "hc": 5,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_common",
-    "hero_reward": "Shooter_Expert_3"
+    "hero_reward": "Warrior_Expert_2"
   },
   {
     "world": 1,
@@ -600,3 +600,4 @@
     "hero_reward": ""
   }
 ]
+
