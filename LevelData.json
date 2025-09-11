@@ -17,7 +17,7 @@
     "hc": 5,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_common",
-    "hero_reward": "Magician_Mystic_1"
+    "hero_reward": "Shooter_Expert_3"
   },
   {
     "world": 1,
@@ -600,6 +600,7 @@
     "hero_reward": ""
   }
 ]
+
 
 
 
