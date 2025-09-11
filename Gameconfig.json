@@ -4,8 +4,7 @@
     "counter_advantage": 0.2,
     "synergy_3_ratio": 0.2,
     "synergy_4_ratio": 0.35,
-    "synergy_5_ratio": 0.5,
-    "refund_ratio": 0.5,
+    "synergy_5_ratio": 0.5,    
     "upgrade_cost_ratio": 0.2,
     "upgrade_stat_ratio": 0.3,
     "minHeroDist": 1.2,
@@ -18,11 +17,11 @@
     "reshuffleEnergy":5,
      "maxSpinPerUser":10,
     "hero_auto_skill_2_unlock":3,
-    "hero_passive_skill_3_unlock":5,
-    "hero_auto_skill_4_unlock":15,
-    "hero_passive_skill_5_unlock":20
+    "hero_passive_skill_3_unlock":5
+   
     
 }
+
 
 
 
