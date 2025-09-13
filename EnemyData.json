@@ -42,7 +42,7 @@
     "hp": 9800,
     "defense": 4,
     "range": 1,
-    "attack": 1,
+    "attack": 2,
     "attack_speed": 1,
     "speed": 1.2,
     "life_point_penalty": 1,
@@ -816,6 +816,7 @@
     "power_skill": "Flare Dash"
   }
 ]
+
 
 
 
