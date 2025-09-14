@@ -120,8 +120,8 @@
   },
   {
     "Skill Name": "Frostbite",
-    "X": 100,
-    "Y": 10,
+    "X": 30,
+    "Y": 100,
     "Z": "",
     "cooldown": 0
   },
