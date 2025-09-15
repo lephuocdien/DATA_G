@@ -1,0 +1,137 @@
+[
+  {
+    "Power Card Name": "Fire Burst",
+    "X": 500,
+    "Y": "",
+    "Z": "",
+    "AoE": 2,
+    "Energy": 15,
+    "Unlock At": 1
+  },
+  {
+    "Power Card Name": "Guardian Light",
+    "X": 25,
+    "Y": "",
+    "Z": "",
+    "AoE": 99,
+    "Energy": 20,
+    "Unlock At": 3
+  },
+  {
+    "Power Card Name": "Flame Shield",
+    "X": 500,
+    "Y": "",
+    "Z": "",
+    "AoE": 99,
+    "Energy": 20,
+    "Unlock At": 6
+  },
+  {
+    "Power Card Name": "Quick Slash",
+    "X": 1500,
+    "Y": "",
+    "Z": "",
+    "AoE": 0,
+    "Energy": 10,
+    "Unlock At": 9
+  },
+  {
+    "Power Card Name": "Flame Trap",
+    "X": 5,
+    "Y": "",
+    "Z": "",
+    "AoE": 2,
+    "Energy": 10,
+    "Unlock At": 12
+  },
+  {
+    "Power Card Name": "Frost Wave",
+    "X": 700,
+    "Y": "",
+    "Z": 3,
+    "AoE": 2,
+    "Energy": 20,
+    "Unlock At": 15
+  },
+  {
+    "Power Card Name": "Chain Bolt",
+    "X": 200,
+    "Y": 3,
+    "Z": "",
+    "AoE": 2,
+    "Energy": 20,
+    "Unlock At": 18
+  },
+  {
+    "Power Card Name": "Iron Guard",
+    "X": 15,
+    "Y": "",
+    "Z": 8,
+    "AoE": 99,
+    "Energy": 20,
+    "Unlock At": 21
+  },
+  {
+    "Power Card Name": "Wind Push",
+    "X": 750,
+    "Y": "",
+    "Z": "",
+    "AoE": 1,
+    "Energy": 20,
+    "Unlock At": 24
+  },
+  {
+    "Power Card Name": "Sun Heal",
+    "X": 5,
+    "Y": "",
+    "Z": 8,
+    "AoE": 99,
+    "Energy": 20,
+    "Unlock At": 27
+  },
+  {
+    "Power Card Name": "Multi Strike",
+    "X": 100,
+    "Y": 10,
+    "Z": "",
+    "AoE": 0,
+    "Energy": 20,
+    "Unlock At": 30
+  },
+  {
+    "Power Card Name": "Shock Bolt",
+    "X": 500,
+    "Y": "",
+    "Z": 3,
+    "AoE": 2,
+    "Energy": 20,
+    "Unlock At": 33
+  },
+  {
+    "Power Card Name": "Battle Boost",
+    "X": 10,
+    "Y": "",
+    "Z": 8,
+    "AoE": 99,
+    "Energy": 20,
+    "Unlock At": 36
+  },
+  {
+    "Power Card Name": "Fast Travel",
+    "X": 2,
+    "Y": "",
+    "Z": "",
+    "AoE": 0,
+    "Energy": 40,
+    "Unlock At": 39
+  },
+  {
+    "Power Card Name": "Life Saver",
+    "X": 1,
+    "Y": "",
+    "Z": "",
+    "AoE": 0,
+    "Energy": 50,
+    "Unlock At": 42
+  }
+]
