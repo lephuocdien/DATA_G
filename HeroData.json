@@ -12,12 +12,12 @@
     "hp": 623,
     "defense": 63,
     "range": 3.2,
-    "attack": 66,
+    "attack": 59,
     "attack_speed": 0.5,
     "basic_skill": "Healing Light",
     "passive_skill": "Flowing Guard",
     "auto_skill": "Frost Sanctuary",
-    "combat_power": 1179
+    "combat_power": 1173
   },
   {
     "id": "Warrior_Expert_3",
@@ -32,12 +32,12 @@
     "hp": 1180,
     "defense": 115,
     "range": 1,
-    "attack": 164,
+    "attack": 136,
     "attack_speed": 1.1,
     "basic_skill": "Cleaving Strike",
     "passive_skill": "Phoenix Spirit",
     "auto_skill": "Scorching Strike",
-    "combat_power": 1633
+    "combat_power": 1631
   },
   {
     "id": "Magician_Expert_1",
@@ -52,12 +52,12 @@
     "hp": 563,
     "defense": 74,
     "range": 3.8,
-    "attack": 182,
+    "attack": 176,
     "attack_speed": 0.9,
     "basic_skill": "Sigil Blast",
     "passive_skill": "Storm Surge",
     "auto_skill": "Cyclone Vortex",
-    "combat_power": 1583
+    "combat_power": 1612
   },
   {
     "id": "Shooter_Expert_3",
@@ -72,12 +72,12 @@
     "hp": 658,
     "defense": 91,
     "range": 3.6,
-    "attack": 117,
+    "attack": 119,
     "attack_speed": 1.1,
     "basic_skill": "Piercing Bullet",
     "passive_skill": "Frostbite",
     "auto_skill": "Frost Barrage",
-    "combat_power": 1519
+    "combat_power": 1552
   },
   {
     "id": "Tanker_Mystic_3",
@@ -92,12 +92,12 @@
     "hp": 2022,
     "defense": 166,
     "range": 1,
-    "attack": 136,
+    "attack": 126,
     "attack_speed": 0.5,
     "basic_skill": "Iron Wall",
     "passive_skill": "Stone Skin",
     "auto_skill": "Rock Fortress",
-    "combat_power": 1911
+    "combat_power": 1913
   },
   {
     "id": "Warrior_Expert_2",
@@ -112,12 +112,12 @@
     "hp": 1089,
     "defense": 126,
     "range": 1,
-    "attack": 166,
+    "attack": 138,
     "attack_speed": 1,
     "basic_skill": "Power Slash",
     "passive_skill": "Dusk Armor",
     "auto_skill": "Shadow Slash",
-    "combat_power": 1599
+    "combat_power": 1598
   },
   {
     "id": "Support_Mystic_3",
@@ -132,12 +132,12 @@
     "hp": 916,
     "defense": 105,
     "range": 3.3,
-    "attack": 126,
+    "attack": 115,
     "attack_speed": 0.4,
     "basic_skill": "Inspire",
     "passive_skill": "Earthen Might",
     "auto_skill": "Verdant Rejuvenation",
-    "combat_power": 1718
+    "combat_power": 1716
   },
   {
     "id": "Magician_Mystic_1",
@@ -152,12 +152,12 @@
     "hp": 783,
     "defense": 105,
     "range": 3.9,
-    "attack": 236,
+    "attack": 195,
     "attack_speed": 0.9,
     "basic_skill": "Arcane Burst",
     "passive_skill": "Curse Mark",
     "auto_skill": "Phantom Grasp",
-    "combat_power": 1981
+    "combat_power": 1941
   },
   {
     "id": "Shooter_Mystic_4",
@@ -172,12 +172,12 @@
     "hp": 886,
     "defense": 116,
     "range": 3.5,
-    "attack": 154,
+    "attack": 146,
     "attack_speed": 1.3,
     "basic_skill": "Rapid Shot",
     "passive_skill": "Ignite",
     "auto_skill": "Ember Ricochet",
-    "combat_power": 1938
+    "combat_power": 1948
   },
   {
     "id": "Warrior_Mystic_4",
@@ -192,12 +192,12 @@
     "hp": 1291,
     "defense": 153,
     "range": 1,
-    "attack": 195,
+    "attack": 172,
     "attack_speed": 1.2,
     "basic_skill": "Shield Breaker",
     "passive_skill": "Tidal Shield",
     "auto_skill": "Ocean Fury",
-    "combat_power": 1909
+    "combat_power": 1936
   },
   {
     "id": "Tanker_Expert_1",
@@ -212,12 +212,12 @@
     "hp": 1754,
     "defense": 144,
     "range": 1,
-    "attack": 96,
+    "attack": 91,
     "attack_speed": 0.3,
     "basic_skill": "Taunt",
     "passive_skill": "Feather Step",
     "auto_skill": "Storm Resilience",
-    "combat_power": 1454
+    "combat_power": 1462
   },
   {
     "id": "Shooter_Expert_2",
@@ -232,12 +232,12 @@
     "hp": 651,
     "defense": 84,
     "range": 3.4,
-    "attack": 125,
+    "attack": 115,
     "attack_speed": 1.1,
     "basic_skill": "Explosive Arrow",
     "passive_skill": "Guardian Gift",
     "auto_skill": "Cracked Shot",
-    "combat_power": 1510
+    "combat_power": 1506
   },
   {
     "id": "Magician_Expert_2",
@@ -252,12 +252,12 @@
     "hp": 543,
     "defense": 72,
     "range": 3.7,
-    "attack": 177,
+    "attack": 166,
     "attack_speed": 0.8,
     "basic_skill": "Void Orb",
     "passive_skill": "Shadow Power",
     "auto_skill": "Nightfall Curse",
-    "combat_power": 1495
+    "combat_power": 1511
   },
   {
     "id": "Support_Expert_3",
@@ -272,12 +272,12 @@
     "hp": 834,
     "defense": 90,
     "range": 3,
-    "attack": 92,
+    "attack": 81,
     "attack_speed": 0.4,
     "basic_skill": "Barrier Ward",
     "passive_skill": "Sturdy Resolve",
     "auto_skill": "Gaia Protection",
-    "combat_power": 1422
+    "combat_power": 1410
   },
   {
     "id": "Support_Mystic_1",
@@ -292,12 +292,12 @@
     "hp": 933,
     "defense": 103,
     "range": 3.4,
-    "attack": 136,
+    "attack": 112,
     "attack_speed": 0.4,
     "basic_skill": "Revitalizing Song",
     "passive_skill": "Cyclone Strike",
     "auto_skill": "Skyward Blessing",
-    "combat_power": 1682
+    "combat_power": 1634
   },
   {
     "id": "Tanker_Expert_3",
@@ -312,12 +312,12 @@
     "hp": 1759,
     "defense": 144,
     "range": 1,
-    "attack": 116,
+    "attack": 98,
     "attack_speed": 0.5,
     "basic_skill": "Guardian’s Oath",
     "passive_skill": "Burning Fury",
     "auto_skill": "Ember Fortitude",
-    "combat_power": 1719
+    "combat_power": 1688
   },
   {
     "id": "Magician_Novice_1",
@@ -332,12 +332,12 @@
     "hp": 365,
     "defense": 35,
     "range": 3.8,
-    "attack": 151,
+    "attack": 140,
     "attack_speed": 0.8,
     "basic_skill": "Chain Lightning",
     "passive_skill": "Gale Force",
     "auto_skill": "Thunder Surge",
-    "combat_power": 1154
+    "combat_power": 1163
   },
   {
     "id": "Magician_Expert_3",
@@ -352,12 +352,12 @@
     "hp": 596,
     "defense": 77,
     "range": 3.7,
-    "attack": 184,
+    "attack": 179,
     "attack_speed": 0.7,
     "basic_skill": "Meteor Drop",
     "passive_skill": "Earthen Might",
     "auto_skill": "Stone Rain",
-    "combat_power": 1511
+    "combat_power": 1542
   },
   {
     "id": "Tanker_Novice_1",
@@ -372,12 +372,12 @@
     "hp": 1539,
     "defense": 136,
     "range": 1,
-    "attack": 70,
+    "attack": 73,
     "attack_speed": 0.5,
     "basic_skill": "Stone Guard",
     "passive_skill": "Rooted Strike",
     "auto_skill": "Gaia Bastion",
-    "combat_power": 1496
+    "combat_power": 1525
   },
   {
     "id": "Support_Expert_2",
@@ -392,12 +392,12 @@
     "hp": 754,
     "defense": 83,
     "range": 3.1,
-    "attack": 103,
+    "attack": 88,
     "attack_speed": 0.4,
     "basic_skill": "Sacred Bloom",
     "passive_skill": "Phantom Strike",
     "auto_skill": "Shadow Mend",
-    "combat_power": 1389
+    "combat_power": 1365
   },
   {
     "id": "Shooter_Mystic_1",
@@ -412,12 +412,12 @@
     "hp": 859,
     "defense": 118,
     "range": 3.4,
-    "attack": 148,
+    "attack": 153,
     "attack_speed": 1.1,
     "basic_skill": "Snipe Shot",
     "passive_skill": "Feather Step",
     "auto_skill": "Gale Barrage",
-    "combat_power": 1837
+    "combat_power": 1886
   },
   {
     "id": "Shooter_Novice_2",
@@ -432,12 +432,12 @@
     "hp": 464,
     "defense": 51,
     "range": 3.6,
-    "attack": 84,
+    "attack": 88,
     "attack_speed": 1.3,
     "basic_skill": "Volley Fire",
     "passive_skill": "Ember Shield",
     "auto_skill": "Rapid Inferno",
-    "combat_power": 1222
+    "combat_power": 1254
   },
   {
     "id": "Magician_Novice_2",
@@ -452,12 +452,12 @@
     "hp": 354,
     "defense": 41,
     "range": 3.7,
-    "attack": 154,
+    "attack": 142,
     "attack_speed": 0.8,
     "basic_skill": "Frost Shard",
     "passive_skill": "Soothing Aura",
     "auto_skill": "Freezing Blast",
-    "combat_power": 1182
+    "combat_power": 1190
   },
   {
     "id": "Warrior_Expert_1",
@@ -472,12 +472,12 @@
     "hp": 1101,
     "defense": 115,
     "range": 1,
-    "attack": 144,
+    "attack": 125,
     "attack_speed": 1.2,
     "basic_skill": "Whirlwind Spin",
     "passive_skill": "Breeze Barrier",
     "auto_skill": "Cyclone Slash",
-    "combat_power": 1600
+    "combat_power": 1614
   },
   {
     "id": "Tanker_Mystic_4",
@@ -492,12 +492,12 @@
     "hp": 2021,
     "defense": 164,
     "range": 1,
-    "attack": 145,
+    "attack": 129,
     "attack_speed": 0.5,
     "basic_skill": "Bulwark Aura",
     "passive_skill": "Flame Surge",
     "auto_skill": "Inferno Bastion",
-    "combat_power": 1934
+    "combat_power": 1917
   },
   {
     "id": "Support_Expert_1",
@@ -512,12 +512,12 @@
     "hp": 790,
     "defense": 86,
     "range": 3.2,
-    "attack": 94,
+    "attack": 92,
     "attack_speed": 0.6,
     "basic_skill": "Harmony Gift",
     "passive_skill": "Breeze Barrier",
     "auto_skill": "Soothing Breeze",
-    "combat_power": 1532
+    "combat_power": 1554
   },
   {
     "id": "Support_Mystic_2",
@@ -532,12 +532,12 @@
     "hp": 909,
     "defense": 101,
     "range": 3.3,
-    "attack": 135,
+    "attack": 129,
     "attack_speed": 0.7,
     "basic_skill": "Healing Light",
     "passive_skill": "Life Drain",
     "auto_skill": "Twilight Recovery",
-    "combat_power": 1872
+    "combat_power": 1891
   },
   {
     "id": "Tanker_Mystic_1",
@@ -552,12 +552,12 @@
     "hp": 2039,
     "defense": 165,
     "range": 1,
-    "attack": 140,
+    "attack": 127,
     "attack_speed": 0.3,
     "basic_skill": "Fortify",
     "passive_skill": "Breeze Barrier",
     "auto_skill": "Cyclone Guard",
-    "combat_power": 1725
+    "combat_power": 1718
   },
   {
     "id": "Magician_Mystic_2",
@@ -572,7 +572,7 @@
     "hp": 780,
     "defense": 101,
     "range": 3.8,
-    "attack": 232,
+    "attack": 209,
     "attack_speed": 0.9,
     "basic_skill": "Flame Wave",
     "passive_skill": "Phoenix Spirit",
@@ -592,12 +592,12 @@
     "hp": 693,
     "defense": 90,
     "range": 3.2,
-    "attack": 127,
+    "attack": 102,
     "attack_speed": 1.2,
     "basic_skill": "Ricochet Shot",
     "passive_skill": "Ocean Grace",
     "auto_skill": "Tidal Wave Shot",
-    "combat_power": 1603
+    "combat_power": 1552
   },
   {
     "id": "Support_Expert_4",
@@ -612,12 +612,12 @@
     "hp": 804,
     "defense": 82,
     "range": 3.4,
-    "attack": 101,
+    "attack": 85,
     "attack_speed": 0.7,
     "basic_skill": "Inspire",
     "passive_skill": "Ember Shield",
     "auto_skill": "Phoenix Renewal",
-    "combat_power": 1618
+    "combat_power": 1590
   },
   {
     "id": "Warrior_Mystic_1",
@@ -632,12 +632,12 @@
     "hp": 1259,
     "defense": 133,
     "range": 1,
-    "attack": 216,
+    "attack": 171,
     "attack_speed": 1.1,
     "basic_skill": "Severing Storm",
     "passive_skill": "Feather Step",
     "auto_skill": "Gale Strike",
-    "combat_power": 1840
+    "combat_power": 1815
   },
   {
     "id": "Magician_Expert_4",
@@ -652,12 +652,12 @@
     "hp": 525,
     "defense": 73,
     "range": 3.7,
-    "attack": 184,
+    "attack": 169,
     "attack_speed": 0.9,
     "basic_skill": "Starfall",
     "passive_skill": "Rooted Strike",
     "auto_skill": "Petrify Hex",
-    "combat_power": 1559
+    "combat_power": 1567
   },
   {
     "id": "Shooter_Expert_1",
@@ -672,12 +672,12 @@
     "hp": 694,
     "defense": 85,
     "range": 3.2,
-    "attack": 109,
+    "attack": 97,
     "attack_speed": 1,
     "basic_skill": "Twin Bolts",
     "passive_skill": "Life Drain",
     "auto_skill": "Shadow Volley",
-    "combat_power": 1452
+    "combat_power": 1438
   },
   {
     "id": "Tanker_Expert_2",
@@ -692,12 +692,12 @@
     "hp": 1753,
     "defense": 145,
     "range": 1,
-    "attack": 101,
+    "attack": 90,
     "attack_speed": 0.4,
     "basic_skill": "Stalwart Will",
     "passive_skill": "Curse Mark",
     "auto_skill": "Void Fortification",
-    "combat_power": 1573
+    "combat_power": 1561
   },
   {
     "id": "Warrior_Mystic_2",
@@ -712,12 +712,12 @@
     "hp": 1362,
     "defense": 133,
     "range": 1,
-    "attack": 202,
+    "attack": 178,
     "attack_speed": 1.1,
     "basic_skill": "Power Slash",
     "passive_skill": "Shadow Power",
     "auto_skill": "Dusk Cleave",
-    "combat_power": 1844
+    "combat_power": 1871
   },
   {
     "id": "Shooter_Mystic_2",
@@ -732,12 +732,12 @@
     "hp": 858,
     "defense": 115,
     "range": 3.2,
-    "attack": 155,
+    "attack": 132,
     "attack_speed": 1.1,
     "basic_skill": "Rain of Arrows",
     "passive_skill": "Shadow Power",
     "auto_skill": "Phantom Shot",
-    "combat_power": 1844
+    "combat_power": 1806
   },
   {
     "id": "Support_Mystic_4",
@@ -752,12 +752,12 @@
     "hp": 851,
     "defense": 102,
     "range": 3.1,
-    "attack": 127,
+    "attack": 132,
     "attack_speed": 0.4,
     "basic_skill": "Inspire",
     "passive_skill": "Ocean Grace",
     "auto_skill": "Tidal Blessing",
-    "combat_power": 1603
+    "combat_power": 1662
   },
   {
     "id": "Tanker_Mystic_2",
@@ -772,12 +772,12 @@
     "hp": 2025,
     "defense": 165,
     "range": 1,
-    "attack": 136,
+    "attack": 140,
     "attack_speed": 0.3,
     "basic_skill": "Iron Wall",
     "passive_skill": "Life Drain",
     "auto_skill": "Shadow Veil",
-    "combat_power": 1709
+    "combat_power": 1759
   },
   {
     "id": "Warrior_Novice_1",
@@ -792,12 +792,12 @@
     "hp": 887,
     "defense": 111,
     "range": 1,
-    "attack": 99,
+    "attack": 115,
     "attack_speed": 1.1,
     "basic_skill": "Earthsplitter",
     "passive_skill": "Sturdy Resolve",
     "auto_skill": "Seismic Smash",
-    "combat_power": 1365
+    "combat_power": 1455
   },
   {
     "id": "Shooter_Mystic_3",
@@ -812,12 +812,12 @@
     "hp": 850,
     "defense": 118,
     "range": 3.2,
-    "attack": 168,
+    "attack": 135,
     "attack_speed": 1.1,
     "basic_skill": "Rapid Shot",
     "passive_skill": "Stone Skin",
     "auto_skill": "Piercing Stone",
-    "combat_power": 1891
+    "combat_power": 1824
   },
   {
     "id": "Shooter_Novice_1",
@@ -832,12 +832,12 @@
     "hp": 494,
     "defense": 56,
     "range": 3.4,
-    "attack": 76,
+    "attack": 86,
     "attack_speed": 1.3,
     "basic_skill": "Piercing Bullet",
     "passive_skill": "Cyclone Strike",
     "auto_skill": "Piercing Wind",
-    "combat_power": 1236
+    "combat_power": 1285
   },
   {
     "id": "Support_Novice_1",
@@ -852,12 +852,12 @@
     "hp": 645,
     "defense": 66,
     "range": 3.4,
-    "attack": 49,
+    "attack": 59,
     "attack_speed": 0.5,
     "basic_skill": "Healing Light",
     "passive_skill": "Ignite",
     "auto_skill": "Flame Harmony",
-    "combat_power": 1144
+    "combat_power": 1197
   },
   {
     "id": "Tanker_Mystic_5",
@@ -872,12 +872,12 @@
     "hp": 2064,
     "defense": 155,
     "range": 1,
-    "attack": 132,
+    "attack": 140,
     "attack_speed": 0.3,
     "basic_skill": "Iron Wall",
     "passive_skill": "Ocean Grace",
     "auto_skill": "Glacial Fortitude",
-    "combat_power": 1676
+    "combat_power": 1739
   },
   {
     "id": "Warrior_Novice_2",
@@ -892,12 +892,12 @@
     "hp": 885,
     "defense": 102,
     "range": 1,
-    "attack": 110,
+    "attack": 103,
     "attack_speed": 1,
     "basic_skill": "Crimson Lunge",
     "passive_skill": "Flame Surge",
     "auto_skill": "Inferno Slash",
-    "combat_power": 1319
+    "combat_power": 1350
   },
   {
     "id": "Magician_Expert_5",
@@ -912,12 +912,12 @@
     "hp": 504,
     "defense": 72,
     "range": 4,
-    "attack": 183,
+    "attack": 158,
     "attack_speed": 0.7,
     "basic_skill": "Arcane Burst",
     "passive_skill": "Flame Surge",
     "auto_skill": "Infernal Chains",
-    "combat_power": 1428
+    "combat_power": 1412
   },
   {
     "id": "Magician_Mystic_3",
@@ -932,12 +932,12 @@
     "hp": 763,
     "defense": 101,
     "range": 3.8,
-    "attack": 232,
+    "attack": 198,
     "attack_speed": 0.7,
     "basic_skill": "Sigil Blast",
     "passive_skill": "Ocean Grace",
     "auto_skill": "Tidal Surge",
-    "combat_power": 1830
+    "combat_power": 1805
   },
   {
     "id": "Tanker_Novice_2",
@@ -952,12 +952,12 @@
     "hp": 1545,
     "defense": 135,
     "range": 1,
-    "attack": 74,
+    "attack": 63,
     "attack_speed": 0.4,
     "basic_skill": "Iron Wall",
     "passive_skill": "Frostbite",
     "auto_skill": "Frost Aegis",
-    "combat_power": 1407
+    "combat_power": 1388
   },
   {
     "id": "Warrior_Expert_4",
@@ -972,12 +972,12 @@
     "hp": 1074,
     "defense": 133,
     "range": 1,
-    "attack": 166,
+    "attack": 127,
     "attack_speed": 1,
     "basic_skill": "Blazing Strike",
     "passive_skill": "Soothing Aura",
     "auto_skill": "Tidal Slash",
-    "combat_power": 1616
+    "combat_power": 1585
   },
   {
     "id": "Warrior_Mystic_3",
@@ -992,11 +992,11 @@
     "hp": 1316,
     "defense": 144,
     "range": 1,
-    "attack": 197,
+    "attack": 167,
     "attack_speed": 1.1,
     "basic_skill": "Power Slash",
     "passive_skill": "Sturdy Resolve",
     "auto_skill": "Rock Breaker",
-    "combat_power": 1852
+    "combat_power": 1860
   }
 ]
