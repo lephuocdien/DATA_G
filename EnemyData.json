@@ -5,7 +5,7 @@
     "type": "fly_attack",
     "rank": "normal",
     "elemental": "earth",
-    "hp": 388,
+    "hp": 3880,
     "defense": 33,
     "range": 2.6,
     "attack": 100,
@@ -816,5 +816,6 @@
     "power_skill": "Flare Dash"
   }
 ]
+
 
 
