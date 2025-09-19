@@ -39,7 +39,7 @@
     "type": "walk_melee",
     "rank": "normal",
     "elemental": "water",
-    "hp": 4010,
+    "hp": 401,
     "defense": 37,
     "range": 0.6,
     "attack": 134,
@@ -816,4 +816,5 @@
     "power_skill": "Flare Dash"
   }
 ]
+
 
