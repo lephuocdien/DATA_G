@@ -41,7 +41,7 @@
     "elemental": "water",
     "hp": 401,
     "defense": 37,
-    "range": 0.6,
+    "range": 1,
     "attack": 134,
     "attack_speed": 1,
     "speed": 1.2,
@@ -816,6 +816,7 @@
     "power_skill": "Flare Dash"
   }
 ]
+
 
 
 
