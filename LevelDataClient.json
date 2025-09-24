@@ -1,1 +1,3694 @@
-[{"world":1,"level":1,"stamina_cost":5,"level_recommend":1,"base_hp":10,"hero_spot":3,"initial_energy":30,"objective_1":1,"objective_2":1,"objective_3":9,"exp":500,"sc":5000,"hc":5,"xp_book":4000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_common","hero_reward":"Shooter_Expert_3","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}}]},{"world":1,"level":2,"stamina_cost":5,"level_recommend":2,"base_hp":10,"hero_spot":4,"initial_energy":30,"objective_1":1,"objective_2":1,"objective_3":9,"exp":500,"sc":5000,"hc":5,"xp_book":4000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_common","hero_reward":"Magician_Expert_1","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":2,"Fly_Attack_Normal_2":2}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":2,"Fly_Attack_Normal_2":1}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Attack_Normal_2":2}}]},{"world":1,"level":3,"stamina_cost":5,"level_recommend":3,"base_hp":10,"hero_spot":5,"initial_energy":40,"objective_1":1,"objective_2":1,"objective_3":9,"exp":500,"sc":5000,"hc":5,"xp_book":4000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_common","hero_reward":"Tanker_Mystic_3","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Attack_Normal_2":1}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Attack_Normal_2":2}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1}}]},{"world":1,"level":4,"stamina_cost":5,"level_recommend":4,"base_hp":10,"hero_spot":6,"initial_energy":40,"objective_1":1,"objective_2":1,"objective_3":9,"exp":500,"sc":5000,"hc":5,"xp_book":4000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_common","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Attack_Normal_2":1}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Attack_Normal_2":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":5,"Walk_Ranged_Elite_2":1,"Fly_Attack_Normal_2":2}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":7}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":7}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":7,"Walk_Ranged_Elite_2":1,"Fly_Attack_Normal_2":2}}]},{"world":1,"level":5,"stamina_cost":5,"level_recommend":5,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":1,"objective_3":9,"exp":500,"sc":5000,"hc":5,"xp_book":4000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_common","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Attack_Normal_2":1}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Attack_Normal_2":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":5,"Walk_Ranged_Elite_2":1}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":3}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":7}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Attack_Normal_2":2}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":7,"Walk_Ranged_Elite_2":2,"Fly_Rush_Normal_3":2}}]},{"world":1,"level":6,"stamina_cost":10,"level_recommend":6,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":2,"objective_3":9,"exp":1000,"sc":10000,"hc":5,"xp_book":8000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_uncommon","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Attack_Normal_2":1}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Attack_Normal_2":1}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Attack_Normal_2":1}}]},{"world":1,"level":7,"stamina_cost":10,"level_recommend":7,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":2,"objective_3":9,"exp":1000,"sc":10000,"hc":5,"xp_book":8000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_uncommon","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}}]},{"world":1,"level":8,"stamina_cost":10,"level_recommend":8,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":2,"objective_3":9,"exp":1000,"sc":10000,"hc":5,"xp_book":8000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_uncommon","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":5,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}}]},{"world":1,"level":9,"stamina_cost":10,"level_recommend":9,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":2,"objective_3":9,"exp":1000,"sc":10000,"hc":5,"xp_book":8000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_uncommon","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":7,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":5,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}}]},{"world":1,"level":10,"stamina_cost":10,"level_recommend":10,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":3,"objective_3":9,"exp":1000,"sc":10000,"hc":5,"xp_book":8000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_uncommon","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}}]},{"world":1,"level":11,"stamina_cost":15,"level_recommend":11,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":3,"objective_3":9,"exp":1500,"sc":15000,"hc":5,"xp_book":12000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_rare","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":5,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":7,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}}]},{"world":1,"level":12,"stamina_cost":15,"level_recommend":12,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":3,"objective_3":9,"exp":1500,"sc":15000,"hc":5,"xp_book":12000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_rare","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":5,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}}]},{"world":1,"level":13,"stamina_cost":15,"level_recommend":13,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":3,"objective_3":9,"exp":1500,"sc":15000,"hc":5,"xp_book":12000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_rare","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":2}}]},{"world":1,"level":14,"stamina_cost":15,"level_recommend":14,"base_hp":10,"hero_spot":4,"initial_energy":30,"objective_1":1,"objective_2":1,"objective_3":9,"exp":1500,"sc":15000,"hc":5,"xp_book":12000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_rare","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":5}}]},{"world":1,"level":15,"stamina_cost":15,"level_recommend":15,"base_hp":10,"hero_spot":5,"initial_energy":40,"objective_1":1,"objective_2":1,"objective_3":9,"exp":1500,"sc":15000,"hc":5,"xp_book":12000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_rare","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":7,"Walk_Ranged_Elite_2":1}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":7}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":7}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":7}}]},{"world":2,"level":1,"stamina_cost":5,"level_recommend":1,"base_hp":10,"hero_spot":3,"initial_energy":30,"objective_1":1,"objective_2":1,"objective_3":9,"exp":500,"sc":5000,"hc":5,"xp_book":4000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_common","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":1,"enemies":{"Walk_Melee_Normal_4":2}}]},{"world":2,"level":2,"stamina_cost":5,"level_recommend":2,"base_hp":10,"hero_spot":4,"initial_energy":30,"objective_1":1,"objective_2":1,"objective_3":9,"exp":500,"sc":5000,"hc":5,"xp_book":4000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_common","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":2,"Fly_Attack_Normal_2":2}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Attack_Normal_2":2}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":2,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Attack_Normal_2":2}}]},{"world":2,"level":3,"stamina_cost":5,"level_recommend":3,"base_hp":10,"hero_spot":5,"initial_energy":40,"objective_1":1,"objective_2":1,"objective_3":9,"exp":500,"sc":5000,"hc":5,"xp_book":4000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_common","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Attack_Normal_2":1}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Attack_Normal_2":2}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":3,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1}}]},{"world":2,"level":4,"stamina_cost":5,"level_recommend":4,"base_hp":10,"hero_spot":6,"initial_energy":40,"objective_1":1,"objective_2":1,"objective_3":9,"exp":500,"sc":5000,"hc":5,"xp_book":4000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_common","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Attack_Normal_2":1}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Attack_Normal_2":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":5,"Walk_Ranged_Elite_2":1,"Fly_Attack_Normal_2":2}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":7}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":7}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":4,"enemies":{"Walk_Melee_Normal_4":7,"Walk_Ranged_Elite_2":1,"Fly_Attack_Normal_2":2}}]},{"world":2,"level":5,"stamina_cost":5,"level_recommend":5,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":1,"objective_3":9,"exp":500,"sc":5000,"hc":5,"xp_book":4000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_common","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Attack_Normal_2":1}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Attack_Normal_2":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":5,"Walk_Ranged_Elite_2":1}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":3}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":7}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Attack_Normal_2":2}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":5,"enemies":{"Walk_Melee_Normal_4":7,"Walk_Ranged_Elite_2":2,"Fly_Rush_Normal_3":2}}]},{"world":2,"level":6,"stamina_cost":10,"level_recommend":6,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":2,"objective_3":9,"exp":1000,"sc":10000,"hc":5,"xp_book":8000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_uncommon","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Attack_Normal_2":1}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Attack_Normal_2":1}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":6,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Attack_Normal_2":1}}]},{"world":2,"level":7,"stamina_cost":10,"level_recommend":7,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":2,"objective_3":9,"exp":1000,"sc":10000,"hc":5,"xp_book":8000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_uncommon","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":7,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}}]},{"world":2,"level":8,"stamina_cost":10,"level_recommend":8,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":2,"objective_3":9,"exp":1000,"sc":10000,"hc":5,"xp_book":8000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_uncommon","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":5,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":8,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}}]},{"world":2,"level":9,"stamina_cost":10,"level_recommend":9,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":2,"objective_3":9,"exp":1000,"sc":10000,"hc":5,"xp_book":8000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_uncommon","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":7,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":5,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":9,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}}]},{"world":2,"level":10,"stamina_cost":10,"level_recommend":10,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":3,"objective_3":9,"exp":1000,"sc":10000,"hc":5,"xp_book":8000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_uncommon","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":10,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}}]},{"world":2,"level":11,"stamina_cost":15,"level_recommend":11,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":3,"objective_3":9,"exp":1500,"sc":15000,"hc":5,"xp_book":12000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_rare","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":5,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":7,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":11,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}}]},{"world":2,"level":12,"stamina_cost":15,"level_recommend":12,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":3,"objective_3":9,"exp":1500,"sc":15000,"hc":5,"xp_book":12000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_rare","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":5,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":5,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":1,"Fly_Attack_Normal_2":1}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":12,"enemies":{"Walk_Melee_Normal_4":7,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}}]},{"world":2,"level":13,"stamina_cost":15,"level_recommend":13,"base_hp":10,"hero_spot":6,"initial_energy":50,"objective_1":1,"objective_2":3,"objective_3":9,"exp":1500,"sc":15000,"hc":5,"xp_book":12000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_rare","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":3,"Fly_Rush_Normal_3":2,"Fly_Attack_Normal_2":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":3,"Walk_Ranged_Elite_2":1,"Fly_Rush_Normal_3":3,"Fly_Attack_Normal_2":3}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":13,"enemies":{"Walk_Melee_Normal_4":2}}]},{"world":2,"level":14,"stamina_cost":15,"level_recommend":14,"base_hp":10,"hero_spot":4,"initial_energy":30,"objective_1":1,"objective_2":1,"objective_3":9,"exp":1500,"sc":15000,"hc":5,"xp_book":12000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_rare","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":2}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":14,"enemies":{"Walk_Melee_Normal_4":5}}]},{"world":2,"level":15,"stamina_cost":15,"level_recommend":15,"base_hp":10,"hero_spot":5,"initial_energy":40,"objective_1":1,"objective_2":1,"objective_3":9,"exp":1500,"sc":15000,"hc":5,"xp_book":12000,"box_1":0,"box_2":0,"material_type":"material_all_common_orb","material_amount":1,"chest_amount":1,"chest_type":"consumable_chest_reward_rare","hero_reward":"","waves":[{"wave":1,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":2,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":3,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":4,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":3}},{"wave":5,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":6,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":7,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":8,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":5}},{"wave":9,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":7,"Walk_Ranged_Elite_2":1}},{"wave":10,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":7}},{"wave":11,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":7}},{"wave":12,"delay_each_spawn":1,"delay_each_wave":5,"enemy_level":15,"enemies":{"Walk_Melee_Normal_4":7}}]}]
+[
+  {
+    "world": 1,
+    "level": 1,
+    "stamina_cost": 5,
+    "level_recommend": 1,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 30,
+    "objective_1": 1,
+    "objective_2": 1,
+    "objective_3": 9,
+    "exp": 500,
+    "sc": 5000,
+    "hc": 10,
+    "xp_book": 4000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_common",
+    "hero_reward": "Shooter_Expert_3",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 1,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 1,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 1,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 1,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      }
+    ]
+  },
+  {
+    "world": 1,
+    "level": 2,
+    "stamina_cost": 5,
+    "level_recommend": 2,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 30,
+    "objective_1": 1,
+    "objective_2": 1,
+    "objective_3": 9,
+    "exp": 500,
+    "sc": 5000,
+    "hc": 10,
+    "xp_book": 4000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_common",
+    "hero_reward": "Magician_Expert_1",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 2,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 2,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 2,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 2,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2,
+          "Fly_Attack_Normal_2": 2
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 2,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 2,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      }
+    ]
+  },
+  {
+    "world": 1,
+    "level": 3,
+    "stamina_cost": 5,
+    "level_recommend": 3,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 40,
+    "objective_1": 1,
+    "objective_2": 1,
+    "objective_3": 9,
+    "exp": 500,
+    "sc": 5000,
+    "hc": 10,
+    "xp_book": 4000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_common",
+    "hero_reward": "Tanker_Mystic_3",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 3,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 3,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 3,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 3,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 3,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 3,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 3,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 3,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 2,
+          "Fly_Attack_Normal_2": 2
+        }
+      }
+    ]
+  },
+  {
+    "world": 1,
+    "level": 4,
+    "stamina_cost": 5,
+    "level_recommend": 4,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 40,
+    "objective_1": 1,
+    "objective_2": 1,
+    "objective_3": 9,
+    "exp": 500,
+    "sc": 5000,
+    "hc": 10,
+    "xp_book": 4000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_common",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 4,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 4,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 4,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 4,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 4,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 2
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 4,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 4,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 4,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 2
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 4,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 4,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 2
+        }
+      }
+    ]
+  },
+  {
+    "world": 1,
+    "level": 5,
+    "stamina_cost": 5,
+    "level_recommend": 5,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 1,
+    "objective_3": 9,
+    "exp": 500,
+    "sc": 5000,
+    "hc": 10,
+    "xp_book": 4000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_common",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 2
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Walk_Ranged_Elite_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 3
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7
+        }
+      },
+      {
+        "wave": 11,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 2
+        }
+      },
+      {
+        "wave": 12,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Walk_Ranged_Elite_2": 2,
+          "Fly_Rush_Normal_3": 2
+        }
+      }
+    ]
+  },
+  {
+    "world": 1,
+    "level": 6,
+    "stamina_cost": 10,
+    "level_recommend": 6,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 2,
+    "objective_3": 9,
+    "exp": 1000,
+    "sc": 10000,
+    "hc": 10,
+    "xp_book": 8000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_uncommon",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 1,
+    "level": 7,
+    "stamina_cost": 10,
+    "level_recommend": 7,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 2,
+    "objective_3": 9,
+    "exp": 1000,
+    "sc": 10000,
+    "hc": 10,
+    "xp_book": 8000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_uncommon",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 1,
+    "level": 8,
+    "stamina_cost": 10,
+    "level_recommend": 8,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 2,
+    "objective_3": 9,
+    "exp": 1000,
+    "sc": 10000,
+    "hc": 10,
+    "xp_book": 8000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_uncommon",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 1,
+    "level": 9,
+    "stamina_cost": 10,
+    "level_recommend": 9,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 2,
+    "objective_3": 9,
+    "exp": 1000,
+    "sc": 10000,
+    "hc": 10,
+    "xp_book": 8000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_uncommon",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Walk_Ranged_Elite_2": 1
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 11,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 12,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 1,
+    "level": 10,
+    "stamina_cost": 10,
+    "level_recommend": 10,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 3,
+    "objective_3": 9,
+    "exp": 1000,
+    "sc": 10000,
+    "hc": 10,
+    "xp_book": 8000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_uncommon",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 11,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 2,
+          "Fly_Attack_Normal_2": 2
+        }
+      },
+      {
+        "wave": 12,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 2,
+          "Fly_Attack_Normal_2": 2
+        }
+      }
+    ]
+  },
+  {
+    "world": 1,
+    "level": 11,
+    "stamina_cost": 15,
+    "level_recommend": 11,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 3,
+    "objective_3": 9,
+    "exp": 1500,
+    "sc": 15000,
+    "hc": 10,
+    "xp_book": 12000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_rare",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 1,
+    "level": 12,
+    "stamina_cost": 15,
+    "level_recommend": 12,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 3,
+    "objective_3": 9,
+    "exp": 1500,
+    "sc": 15000,
+    "hc": 10,
+    "xp_book": 12000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_rare",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 1,
+    "level": 13,
+    "stamina_cost": 15,
+    "level_recommend": 13,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 3,
+    "objective_3": 9,
+    "exp": 1500,
+    "sc": 15000,
+    "hc": 10,
+    "xp_book": 12000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_rare",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 1,
+    "level": 14,
+    "stamina_cost": 15,
+    "level_recommend": 14,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 30,
+    "objective_1": 1,
+    "objective_2": 1,
+    "objective_3": 9,
+    "exp": 1500,
+    "sc": 15000,
+    "hc": 10,
+    "xp_book": 12000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_rare",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Walk_Ranged_Elite_2": 1
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 11,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 12,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 1,
+    "level": 15,
+    "stamina_cost": 15,
+    "level_recommend": 15,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 40,
+    "objective_1": 1,
+    "objective_2": 1,
+    "objective_3": 9,
+    "exp": 1500,
+    "sc": 15000,
+    "hc": 10,
+    "xp_book": 12000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_rare",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 11,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 2,
+          "Fly_Attack_Normal_2": 2
+        }
+      },
+      {
+        "wave": 12,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 2,
+          "Fly_Attack_Normal_2": 2
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 1,
+    "stamina_cost": 5,
+    "level_recommend": 1,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 30,
+    "objective_1": 1,
+    "objective_2": 1,
+    "objective_3": 9,
+    "exp": 500,
+    "sc": 5000,
+    "hc": 10,
+    "xp_book": 4000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_common",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 5,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 2,
+    "stamina_cost": 5,
+    "level_recommend": 2,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 30,
+    "objective_1": 1,
+    "objective_2": 1,
+    "objective_3": 9,
+    "exp": 500,
+    "sc": 5000,
+    "hc": 10,
+    "xp_book": 4000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_common",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2,
+          "Fly_Attack_Normal_2": 2
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 6,
+        "enemies": {
+          "Walk_Melee_Normal_4": 2
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 3,
+    "stamina_cost": 5,
+    "level_recommend": 3,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 40,
+    "objective_1": 1,
+    "objective_2": 1,
+    "objective_3": 9,
+    "exp": 500,
+    "sc": 5000,
+    "hc": 10,
+    "xp_book": 4000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_common",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 7,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 2,
+          "Fly_Attack_Normal_2": 2
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 4,
+    "stamina_cost": 5,
+    "level_recommend": 4,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 40,
+    "objective_1": 1,
+    "objective_2": 1,
+    "objective_3": 9,
+    "exp": 500,
+    "sc": 5000,
+    "hc": 10,
+    "xp_book": 4000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_common",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 2
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 2
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 8,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 2
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 5,
+    "stamina_cost": 5,
+    "level_recommend": 5,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 1,
+    "objective_3": 9,
+    "exp": 500,
+    "sc": 5000,
+    "hc": 10,
+    "xp_book": 4000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_common",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 2
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Walk_Ranged_Elite_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 3
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7
+        }
+      },
+      {
+        "wave": 11,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 2
+        }
+      },
+      {
+        "wave": 12,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 9,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Walk_Ranged_Elite_2": 2,
+          "Fly_Rush_Normal_3": 2
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 6,
+    "stamina_cost": 10,
+    "level_recommend": 6,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 2,
+    "objective_3": 9,
+    "exp": 1000,
+    "sc": 10000,
+    "hc": 10,
+    "xp_book": 8000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_common",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 10,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 7,
+    "stamina_cost": 10,
+    "level_recommend": 7,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 2,
+    "objective_3": 9,
+    "exp": 1000,
+    "sc": 10000,
+    "hc": 10,
+    "xp_book": 8000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_common",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 11,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 8,
+    "stamina_cost": 10,
+    "level_recommend": 8,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 2,
+    "objective_3": 9,
+    "exp": 1000,
+    "sc": 10000,
+    "hc": 10,
+    "xp_book": 8000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_uncommon",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 12,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 9,
+    "stamina_cost": 10,
+    "level_recommend": 9,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 2,
+    "objective_3": 9,
+    "exp": 1000,
+    "sc": 10000,
+    "hc": 10,
+    "xp_book": 8000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_uncommon",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Walk_Ranged_Elite_2": 1
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 11,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 12,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 13,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 10,
+    "stamina_cost": 10,
+    "level_recommend": 10,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 3,
+    "objective_3": 9,
+    "exp": 1000,
+    "sc": 10000,
+    "hc": 10,
+    "xp_book": 8000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_uncommon",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 11,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 2,
+          "Fly_Attack_Normal_2": 2
+        }
+      },
+      {
+        "wave": 12,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 14,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 2,
+          "Fly_Attack_Normal_2": 2
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 11,
+    "stamina_cost": 15,
+    "level_recommend": 11,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 3,
+    "objective_3": 9,
+    "exp": 1500,
+    "sc": 15000,
+    "hc": 10,
+    "xp_book": 12000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_epic_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_uncommon",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 15,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 12,
+    "stamina_cost": 15,
+    "level_recommend": 12,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 3,
+    "objective_3": 9,
+    "exp": 1500,
+    "sc": 15000,
+    "hc": 10,
+    "xp_book": 12000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_epic_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_uncommon",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 16,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 16,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 16,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 16,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 16,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 16,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 16,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 16,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 16,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 16,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 13,
+    "stamina_cost": 15,
+    "level_recommend": 13,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 50,
+    "objective_1": 1,
+    "objective_2": 3,
+    "objective_3": 9,
+    "exp": 1500,
+    "sc": 15000,
+    "hc": 10,
+    "xp_book": 12000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_epic_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_rare",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 17,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 17,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 17,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 17,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 17,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 17,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 17,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 17,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 17,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 17,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 14,
+    "stamina_cost": 15,
+    "level_recommend": 14,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 30,
+    "objective_1": 1,
+    "objective_2": 1,
+    "objective_3": 9,
+    "exp": 1500,
+    "sc": 15000,
+    "hc": 10,
+    "xp_book": 12000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_epic_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_rare",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 18,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 18,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Walk_Ranged_Elite_2": 1
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 18,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 18,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 18,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 18,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 18,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 18,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 18,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 18,
+        "enemies": {
+          "Walk_Melee_Normal_4": 5,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 11,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 18,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 12,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 18,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 1,
+          "Fly_Attack_Normal_2": 1
+        }
+      }
+    ]
+  },
+  {
+    "world": 2,
+    "level": 15,
+    "stamina_cost": 15,
+    "level_recommend": 15,
+    "base_hp": 10,
+    "hero_spot": 6,
+    "initial_energy": 40,
+    "objective_1": 1,
+    "objective_2": 1,
+    "objective_3": 9,
+    "exp": 1500,
+    "sc": 15000,
+    "hc": 10,
+    "xp_book": 12000,
+    "box_1": 0,
+    "box_2": 0,
+    "material_type": "material_all_epic_orb",
+    "material_amount": 1,
+    "chest_amount": 1,
+    "chest_type": "consumable_chest_reward_rare",
+    "hero_reward": "",
+    "waves": [
+      {
+        "wave": 1,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 19,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 2,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 19,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7
+        }
+      },
+      {
+        "wave": 3,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 19,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 4,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 19,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 5,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 19,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3
+        }
+      },
+      {
+        "wave": 6,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 19,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 1
+        }
+      },
+      {
+        "wave": 7,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 19,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 8,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 19,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 9,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 19,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Rush_Normal_3": 2
+        }
+      },
+      {
+        "wave": 10,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 19,
+        "enemies": {
+          "Walk_Melee_Normal_4": 7,
+          "Fly_Attack_Normal_2": 1
+        }
+      },
+      {
+        "wave": 11,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 19,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Fly_Rush_Normal_3": 2,
+          "Fly_Attack_Normal_2": 2
+        }
+      },
+      {
+        "wave": 12,
+        "delay_each_spawn": 1.0,
+        "delay_each_wave": 5.0,
+        "enemy_level": 19,
+        "enemies": {
+          "Walk_Melee_Normal_4": 3,
+          "Walk_Ranged_Elite_2": 1,
+          "Fly_Rush_Normal_3": 2,
+          "Fly_Attack_Normal_2": 2
+        }
+      }
+    ]
+  }
+]
