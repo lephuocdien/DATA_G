@@ -14,6 +14,48 @@
     "cooldown": 0
   },
   {
+    "Skill Name": "Whirlwind Spin",
+    "X": 70,
+    "Y": "",
+    "Z": 3,
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Shield Breaker",
+    "X": 120,
+    "Y": 15,
+    "Z": "",
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Crimson Lunge",
+    "X": 130,
+    "Y": "",
+    "Z": "",
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Severing Storm",
+    "X": 90,
+    "Y": "",
+    "Z": "",
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Earthsplitter",
+    "X": 140,
+    "Y": "",
+    "Z": "",
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Blazing Strike",
+    "X": 180,
+    "Y": "",
+    "Z": "",
+    "cooldown": 0
+  },
+  {
     "Skill Name": "Sigil Blast",
     "X": 150,
     "Y": "",
@@ -24,6 +66,48 @@
     "Skill Name": "Arcane Burst",
     "X": 130,
     "Y": "",
+    "Z": "",
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Frost Shard",
+    "X": 110,
+    "Y": 20,
+    "Z": 2,
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Flame Wave",
+    "X": 140,
+    "Y": "",
+    "Z": "",
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Chain Lightning",
+    "X": 90,
+    "Y": 3,
+    "Z": "",
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Meteor Drop",
+    "X": 180,
+    "Y": "",
+    "Z": "",
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Void Orb",
+    "X": 120,
+    "Y": "",
+    "Z": 2,
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Starfall",
+    "X": 80,
+    "Y": 5,
     "Z": "",
     "cooldown": 0
   },
@@ -42,6 +126,48 @@
     "cooldown": 0
   },
   {
+    "Skill Name": "Explosive Arrow",
+    "X": 140,
+    "Y": "",
+    "Z": "",
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Snipe Shot",
+    "X": 160,
+    "Y": 25,
+    "Z": "",
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Volley Fire",
+    "X": 70,
+    "Y": 5,
+    "Z": "",
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Ricochet Shot",
+    "X": 100,
+    "Y": 3,
+    "Z": "",
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Twin Bolts",
+    "X": 95,
+    "Y": "",
+    "Z": "",
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Rain of Arrows",
+    "X": 60,
+    "Y": 8,
+    "Z": "",
+    "cooldown": 0
+  },
+  {
     "Skill Name": "Iron Wall",
     "X": 25,
     "Y": 0.01,
@@ -56,6 +182,41 @@
     "cooldown": 0
   },
   {
+    "Skill Name": "Stone Guard",
+    "X": 20,
+    "Y": 0.5,
+    "Z": 3,
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Fortify",
+    "X": 200,
+    "Y": 0.5,
+    "Z": 2,
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Guardian’s Oath",
+    "X": 15,
+    "Y": 0.1,
+    "Z": 2,
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Bulwark Aura",
+    "X": 10,
+    "Y": 0.5,
+    "Z": 3,
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Stalwart Will",
+    "X": 8,
+    "Y": 0.5,
+    "Z": 4,
+    "cooldown": 0
+  },
+  {
     "Skill Name": "Healing Light",
     "X": 15,
     "Y": 0.5,
@@ -66,7 +227,35 @@
     "Skill Name": "Inspire",
     "X": 10,
     "Y": 0.5,
+    "Z": 2,
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Barrier Ward",
+    "X": 120,
+    "Y": 0.5,
     "Z": 3,
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Revitalizing Song",
+    "X": 5,
+    "Y": 0.5,
+    "Z": 4,
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Harmony Gift",
+    "X": 12,
+    "Y": 0.5,
+    "Z": 3,
+    "cooldown": 0
+  },
+  {
+    "Skill Name": "Sacred Bloom",
+    "X": 20,
+    "Y": 0.5,
+    "Z": "",
     "cooldown": 0
   },
   {
@@ -546,9 +735,9 @@
     "cooldown": 10
   },
   {
-    "Skill Name": "Ember Ricochet",
+    "Skill Name": "Piercing Arrow",
     "X": 160,
-    "Y": 4,
+    "Y": 2.5,
     "Z": "",
     "cooldown": 10
   },
@@ -589,10 +778,10 @@
   },
   {
     "Skill Name": "Ricochet Shot",
-    "X": 140,
-    "Y": 5,
+    "X": 100,
+    "Y": 3,
     "Z": "",
-    "cooldown": 10
+    "cooldown": 0
   },
   {
     "Skill Name": "Cracked Shot",
