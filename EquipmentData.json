@@ -1502,7 +1502,7 @@
   {
     "id": "equipment_supporter_common_head_1",
     "slot": "head",
-    "class": "supporter",
+    "class": "support",
     "rarity": "common",
     "equipment_xp": 0,
     "main_hp_min": 600,
@@ -1527,7 +1527,7 @@
   {
     "id": "equipment_supporter_common_armor_1",
     "slot": "armor",
-    "class": "supporter",
+    "class": "support",
     "rarity": "common",
     "equipment_xp": 0,
     "main_hp_min": 0,
@@ -1552,7 +1552,7 @@
   {
     "id": "equipment_supporter_common_ring_1",
     "slot": "ring",
-    "class": "supporter",
+    "class": "support",
     "rarity": "common",
     "equipment_xp": 0,
     "main_hp_min": 0,
@@ -1577,7 +1577,7 @@
   {
     "id": "equipment_supporter_uncommon_head_1",
     "slot": "head",
-    "class": "supporter",
+    "class": "support",
     "rarity": "uncommon",
     "equipment_xp": 0,
     "main_hp_min": 1001,
@@ -1602,7 +1602,7 @@
   {
     "id": "equipment_supporter_uncommon_armor_1",
     "slot": "armor",
-    "class": "supporter",
+    "class": "support",
     "rarity": "uncommon",
     "equipment_xp": 0,
     "main_hp_min": 0,
@@ -1627,7 +1627,7 @@
   {
     "id": "equipment_supporter_uncommon_ring_1",
     "slot": "ring",
-    "class": "supporter",
+    "class": "support",
     "rarity": "uncommon",
     "equipment_xp": 0,
     "main_hp_min": 0,
@@ -1652,7 +1652,7 @@
   {
     "id": "equipment_supporter_rare_head_1",
     "slot": "head",
-    "class": "supporter",
+    "class": "support",
     "rarity": "rare",
     "equipment_xp": 0,
     "main_hp_min": 1501,
@@ -1677,7 +1677,7 @@
   {
     "id": "equipment_supporter_rare_armor_1",
     "slot": "armor",
-    "class": "supporter",
+    "class": "support",
     "rarity": "rare",
     "equipment_xp": 0,
     "main_hp_min": 0,
@@ -1702,7 +1702,7 @@
   {
     "id": "equipment_supporter_rare_ring_1",
     "slot": "ring",
-    "class": "supporter",
+    "class": "support",
     "rarity": "rare",
     "equipment_xp": 0,
     "main_hp_min": 0,
@@ -1727,7 +1727,7 @@
   {
     "id": "equipment_supporter_epic_head_1",
     "slot": "head",
-    "class": "supporter",
+    "class": "support",
     "rarity": "epic",
     "equipment_xp": 0,
     "main_hp_min": 2001,
@@ -1752,7 +1752,7 @@
   {
     "id": "equipment_supporter_epic_armor_1",
     "slot": "armor",
-    "class": "supporter",
+    "class": "support",
     "rarity": "epic",
     "equipment_xp": 0,
     "main_hp_min": 0,
@@ -1777,7 +1777,7 @@
   {
     "id": "equipment_supporter_epic_ring_1",
     "slot": "ring",
-    "class": "supporter",
+    "class": "support",
     "rarity": "epic",
     "equipment_xp": 0,
     "main_hp_min": 0,
@@ -1802,7 +1802,7 @@
   {
     "id": "equipment_supporter_legendary_head_1",
     "slot": "head",
-    "class": "supporter",
+    "class": "support",
     "rarity": "legendary",
     "equipment_xp": 0,
     "main_hp_min": 2501,
@@ -1827,7 +1827,7 @@
   {
     "id": "equipment_supporter_legendary_armor_1",
     "slot": "armor",
-    "class": "supporter",
+    "class": "support",
     "rarity": "legendary",
     "equipment_xp": 0,
     "main_hp_min": 0,
@@ -1852,7 +1852,7 @@
   {
     "id": "equipment_supporter_legendary_ring_1",
     "slot": "ring",
-    "class": "supporter",
+    "class": "support",
     "rarity": "legendary",
     "equipment_xp": 0,
     "main_hp_min": 0,
