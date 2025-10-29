@@ -17,7 +17,7 @@
     "hc": 5,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_common",
-    "hero_reward": "Shooter_Expert_3"
+    "hero_reward": ""
   },
   {
     "world": 1,
@@ -37,7 +37,7 @@
     "hc": 5,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_common",
-    "hero_reward": "Magician_Expert_1"
+    "hero_reward": ""
   },
   {
     "world": 1,
@@ -57,7 +57,7 @@
     "hc": 5,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_common",
-    "hero_reward": "Tanker_Mystic_3"
+    "hero_reward": ""
   },
   {
     "world": 1,
@@ -1200,3 +1200,4 @@
     "hero_reward": ""
   }
 ]
+
