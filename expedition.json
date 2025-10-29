@@ -1,6 +1,7 @@
 [
   {
     "id": "expedition_1",
+    "status": "active",
     "title": "Expedition 1",
     "rarity": "common",
     "condition_normal": "support",
@@ -20,6 +21,7 @@
   },
   {
     "id": "expedition_2",
+    "status": "active",
     "title": "Expedition 2",
     "rarity": "common",
     "condition_normal": "warrior",
@@ -39,6 +41,7 @@
   },
   {
     "id": "expedition_3",
+    "status": "active",
     "title": "Expedition 3",
     "rarity": "common",
     "condition_normal": "magician",
@@ -58,6 +61,7 @@
   },
   {
     "id": "expedition_4",
+    "status": "active",
     "title": "Expedition 4",
     "rarity": "common",
     "condition_normal": "shooter",
@@ -77,6 +81,7 @@
   },
   {
     "id": "expedition_5",
+    "status": "active",
     "title": "Expedition 5",
     "rarity": "common",
     "condition_normal": "tanker",
@@ -96,6 +101,7 @@
   },
   {
     "id": "expedition_6",
+    "status": "active",
     "title": "Expedition 6",
     "rarity": "uncommon",
     "condition_normal": "support",
@@ -115,6 +121,7 @@
   },
   {
     "id": "expedition_7",
+    "status": "active",
     "title": "Expedition 7",
     "rarity": "uncommon",
     "condition_normal": "warrior",
@@ -134,6 +141,7 @@
   },
   {
     "id": "expedition_8",
+    "status": "active",
     "title": "Expedition 8",
     "rarity": "uncommon",
     "condition_normal": "magician",
@@ -153,6 +161,7 @@
   },
   {
     "id": "expedition_9",
+    "status": "active",
     "title": "Expedition 9",
     "rarity": "uncommon",
     "condition_normal": "shooter",
@@ -172,6 +181,7 @@
   },
   {
     "id": "expedition_10",
+    "status": "active",
     "title": "Expedition 10",
     "rarity": "uncommon",
     "condition_normal": "tanker",
@@ -191,6 +201,7 @@
   },
   {
     "id": "expedition_11",
+    "status": "active",
     "title": "Expedition 11",
     "rarity": "rare",
     "condition_normal": "support",
@@ -210,6 +221,7 @@
   },
   {
     "id": "expedition_12",
+    "status": "inactive",
     "title": "Expedition 12",
     "rarity": "rare",
     "condition_normal": "support",
@@ -229,6 +241,7 @@
   },
   {
     "id": "expedition_13",
+    "status": "active",
     "title": "Expedition 13",
     "rarity": "rare",
     "condition_normal": "support",
@@ -248,6 +261,7 @@
   },
   {
     "id": "expedition_14",
+    "status": "active",
     "title": "Expedition 14",
     "rarity": "rare",
     "condition_normal": "support",
@@ -267,6 +281,7 @@
   },
   {
     "id": "expedition_15",
+    "status": "inactive",
     "title": "Expedition 15",
     "rarity": "rare",
     "condition_normal": "support",
@@ -286,6 +301,7 @@
   },
   {
     "id": "expedition_16",
+    "status": "active",
     "title": "Expedition 16",
     "rarity": "rare",
     "condition_normal": "warrior",
@@ -305,6 +321,7 @@
   },
   {
     "id": "expedition_17",
+    "status": "active",
     "title": "Expedition 17",
     "rarity": "rare",
     "condition_normal": "warrior",
@@ -324,6 +341,7 @@
   },
   {
     "id": "expedition_18",
+    "status": "inactive",
     "title": "Expedition 18",
     "rarity": "rare",
     "condition_normal": "warrior",
@@ -343,6 +361,7 @@
   },
   {
     "id": "expedition_19",
+    "status": "inactive",
     "title": "Expedition 19",
     "rarity": "rare",
     "condition_normal": "warrior",
@@ -362,6 +381,7 @@
   },
   {
     "id": "expedition_20",
+    "status": "active",
     "title": "Expedition 20",
     "rarity": "rare",
     "condition_normal": "warrior",
@@ -381,6 +401,7 @@
   },
   {
     "id": "expedition_21",
+    "status": "inactive",
     "title": "Expedition 21",
     "rarity": "rare",
     "condition_normal": "magician",
@@ -400,6 +421,7 @@
   },
   {
     "id": "expedition_22",
+    "status": "inactive",
     "title": "Expedition 22",
     "rarity": "rare",
     "condition_normal": "magician",
@@ -419,6 +441,7 @@
   },
   {
     "id": "expedition_23",
+    "status": "active",
     "title": "Expedition 23",
     "rarity": "rare",
     "condition_normal": "magician",
@@ -438,6 +461,7 @@
   },
   {
     "id": "expedition_24",
+    "status": "inactive",
     "title": "Expedition 24",
     "rarity": "rare",
     "condition_normal": "magician",
@@ -457,6 +481,7 @@
   },
   {
     "id": "expedition_25",
+    "status": "active",
     "title": "Expedition 25",
     "rarity": "rare",
     "condition_normal": "magician",
@@ -476,6 +501,7 @@
   },
   {
     "id": "expedition_26",
+    "status": "active",
     "title": "Expedition 26",
     "rarity": "rare",
     "condition_normal": "shooter",
@@ -495,6 +521,7 @@
   },
   {
     "id": "expedition_27",
+    "status": "active",
     "title": "Expedition 27",
     "rarity": "rare",
     "condition_normal": "shooter",
@@ -514,6 +541,7 @@
   },
   {
     "id": "expedition_28",
+    "status": "active",
     "title": "Expedition 28",
     "rarity": "rare",
     "condition_normal": "shooter",
@@ -533,6 +561,7 @@
   },
   {
     "id": "expedition_29",
+    "status": "inactive",
     "title": "Expedition 29",
     "rarity": "rare",
     "condition_normal": "shooter",
@@ -552,6 +581,7 @@
   },
   {
     "id": "expedition_30",
+    "status": "inactive",
     "title": "Expedition 30",
     "rarity": "rare",
     "condition_normal": "shooter",
@@ -571,6 +601,7 @@
   },
   {
     "id": "expedition_31",
+    "status": "inactive",
     "title": "Expedition 31",
     "rarity": "rare",
     "condition_normal": "tanker",
@@ -590,6 +621,7 @@
   },
   {
     "id": "expedition_32",
+    "status": "inactive",
     "title": "Expedition 32",
     "rarity": "rare",
     "condition_normal": "tanker",
@@ -609,6 +641,7 @@
   },
   {
     "id": "expedition_33",
+    "status": "active",
     "title": "Expedition 33",
     "rarity": "rare",
     "condition_normal": "tanker",
@@ -628,6 +661,7 @@
   },
   {
     "id": "expedition_34",
+    "status": "active",
     "title": "Expedition 34",
     "rarity": "rare",
     "condition_normal": "tanker",
@@ -647,6 +681,7 @@
   },
   {
     "id": "expedition_35",
+    "status": "inactive",
     "title": "Expedition 35",
     "rarity": "rare",
     "condition_normal": "tanker",
@@ -666,6 +701,7 @@
   },
   {
     "id": "expedition_36",
+    "status": "active",
     "title": "Expedition 36",
     "rarity": "epic",
     "condition_normal": "support",
@@ -685,6 +721,7 @@
   },
   {
     "id": "expedition_37",
+    "status": "inactive",
     "title": "Expedition 37",
     "rarity": "epic",
     "condition_normal": "support",
@@ -704,6 +741,7 @@
   },
   {
     "id": "expedition_38",
+    "status": "active",
     "title": "Expedition 38",
     "rarity": "epic",
     "condition_normal": "support",
@@ -723,6 +761,7 @@
   },
   {
     "id": "expedition_39",
+    "status": "active",
     "title": "Expedition 39",
     "rarity": "epic",
     "condition_normal": "support",
@@ -742,6 +781,7 @@
   },
   {
     "id": "expedition_40",
+    "status": "inactive",
     "title": "Expedition 40",
     "rarity": "epic",
     "condition_normal": "support",
@@ -761,6 +801,7 @@
   },
   {
     "id": "expedition_41",
+    "status": "active",
     "title": "Expedition 41",
     "rarity": "epic",
     "condition_normal": "warrior",
@@ -780,6 +821,7 @@
   },
   {
     "id": "expedition_42",
+    "status": "active",
     "title": "Expedition 42",
     "rarity": "epic",
     "condition_normal": "warrior",
@@ -799,6 +841,7 @@
   },
   {
     "id": "expedition_43",
+    "status": "inactive",
     "title": "Expedition 43",
     "rarity": "epic",
     "condition_normal": "warrior",
@@ -818,6 +861,7 @@
   },
   {
     "id": "expedition_44",
+    "status": "inactive",
     "title": "Expedition 44",
     "rarity": "epic",
     "condition_normal": "warrior",
@@ -837,6 +881,7 @@
   },
   {
     "id": "expedition_45",
+    "status": "active",
     "title": "Expedition 45",
     "rarity": "epic",
     "condition_normal": "warrior",
@@ -856,6 +901,7 @@
   },
   {
     "id": "expedition_46",
+    "status": "inactive",
     "title": "Expedition 46",
     "rarity": "epic",
     "condition_normal": "magician",
@@ -875,6 +921,7 @@
   },
   {
     "id": "expedition_47",
+    "status": "inactive",
     "title": "Expedition 47",
     "rarity": "epic",
     "condition_normal": "magician",
@@ -894,6 +941,7 @@
   },
   {
     "id": "expedition_48",
+    "status": "active",
     "title": "Expedition 48",
     "rarity": "epic",
     "condition_normal": "magician",
@@ -913,6 +961,7 @@
   },
   {
     "id": "expedition_49",
+    "status": "inactive",
     "title": "Expedition 49",
     "rarity": "epic",
     "condition_normal": "magician",
@@ -932,6 +981,7 @@
   },
   {
     "id": "expedition_50",
+    "status": "active",
     "title": "Expedition 50",
     "rarity": "epic",
     "condition_normal": "magician",
@@ -951,6 +1001,7 @@
   },
   {
     "id": "expedition_51",
+    "status": "active",
     "title": "Expedition 51",
     "rarity": "epic",
     "condition_normal": "shooter",
@@ -970,6 +1021,7 @@
   },
   {
     "id": "expedition_52",
+    "status": "active",
     "title": "Expedition 52",
     "rarity": "epic",
     "condition_normal": "shooter",
@@ -989,6 +1041,7 @@
   },
   {
     "id": "expedition_53",
+    "status": "active",
     "title": "Expedition 53",
     "rarity": "epic",
     "condition_normal": "shooter",
@@ -1008,6 +1061,7 @@
   },
   {
     "id": "expedition_54",
+    "status": "inactive",
     "title": "Expedition 54",
     "rarity": "epic",
     "condition_normal": "shooter",
@@ -1027,6 +1081,7 @@
   },
   {
     "id": "expedition_55",
+    "status": "inactive",
     "title": "Expedition 55",
     "rarity": "epic",
     "condition_normal": "shooter",
@@ -1046,6 +1101,7 @@
   },
   {
     "id": "expedition_56",
+    "status": "inactive",
     "title": "Expedition 56",
     "rarity": "epic",
     "condition_normal": "tanker",
@@ -1065,6 +1121,7 @@
   },
   {
     "id": "expedition_57",
+    "status": "inactive",
     "title": "Expedition 57",
     "rarity": "epic",
     "condition_normal": "tanker",
@@ -1084,6 +1141,7 @@
   },
   {
     "id": "expedition_58",
+    "status": "active",
     "title": "Expedition 58",
     "rarity": "epic",
     "condition_normal": "tanker",
@@ -1103,6 +1161,7 @@
   },
   {
     "id": "expedition_59",
+    "status": "active",
     "title": "Expedition 59",
     "rarity": "epic",
     "condition_normal": "tanker",
@@ -1122,6 +1181,7 @@
   },
   {
     "id": "expedition_60",
+    "status": "inactive",
     "title": "Expedition 60",
     "rarity": "epic",
     "condition_normal": "tanker",
@@ -1141,6 +1201,7 @@
   },
   {
     "id": "expedition_61",
+    "status": "active",
     "title": "Expedition 61",
     "rarity": "legendary",
     "condition_normal": "support",
@@ -1160,6 +1221,7 @@
   },
   {
     "id": "expedition_62",
+    "status": "inactive",
     "title": "Expedition 62",
     "rarity": "legendary",
     "condition_normal": "support",
@@ -1179,6 +1241,7 @@
   },
   {
     "id": "expedition_63",
+    "status": "active",
     "title": "Expedition 63",
     "rarity": "legendary",
     "condition_normal": "support",
@@ -1198,6 +1261,7 @@
   },
   {
     "id": "expedition_64",
+    "status": "active",
     "title": "Expedition 64",
     "rarity": "legendary",
     "condition_normal": "support",
@@ -1217,6 +1281,7 @@
   },
   {
     "id": "expedition_65",
+    "status": "inactive",
     "title": "Expedition 65",
     "rarity": "legendary",
     "condition_normal": "support",
@@ -1236,6 +1301,7 @@
   },
   {
     "id": "expedition_66",
+    "status": "active",
     "title": "Expedition 66",
     "rarity": "legendary",
     "condition_normal": "warrior",
@@ -1255,6 +1321,7 @@
   },
   {
     "id": "expedition_67",
+    "status": "active",
     "title": "Expedition 67",
     "rarity": "legendary",
     "condition_normal": "warrior",
@@ -1274,6 +1341,7 @@
   },
   {
     "id": "expedition_68",
+    "status": "inactive",
     "title": "Expedition 68",
     "rarity": "legendary",
     "condition_normal": "warrior",
@@ -1293,6 +1361,7 @@
   },
   {
     "id": "expedition_69",
+    "status": "inactive",
     "title": "Expedition 69",
     "rarity": "legendary",
     "condition_normal": "warrior",
@@ -1312,6 +1381,7 @@
   },
   {
     "id": "expedition_70",
+    "status": "active",
     "title": "Expedition 70",
     "rarity": "legendary",
     "condition_normal": "warrior",
@@ -1331,6 +1401,7 @@
   },
   {
     "id": "expedition_71",
+    "status": "inactive",
     "title": "Expedition 71",
     "rarity": "legendary",
     "condition_normal": "magician",
@@ -1350,6 +1421,7 @@
   },
   {
     "id": "expedition_72",
+    "status": "inactive",
     "title": "Expedition 72",
     "rarity": "legendary",
     "condition_normal": "magician",
@@ -1369,6 +1441,7 @@
   },
   {
     "id": "expedition_73",
+    "status": "active",
     "title": "Expedition 73",
     "rarity": "legendary",
     "condition_normal": "magician",
@@ -1388,6 +1461,7 @@
   },
   {
     "id": "expedition_74",
+    "status": "inactive",
     "title": "Expedition 74",
     "rarity": "legendary",
     "condition_normal": "magician",
@@ -1407,6 +1481,7 @@
   },
   {
     "id": "expedition_75",
+    "status": "active",
     "title": "Expedition 75",
     "rarity": "legendary",
     "condition_normal": "magician",
@@ -1426,6 +1501,7 @@
   },
   {
     "id": "expedition_76",
+    "status": "active",
     "title": "Expedition 76",
     "rarity": "legendary",
     "condition_normal": "shooter",
@@ -1445,6 +1521,7 @@
   },
   {
     "id": "expedition_77",
+    "status": "active",
     "title": "Expedition 77",
     "rarity": "legendary",
     "condition_normal": "shooter",
@@ -1464,6 +1541,7 @@
   },
   {
     "id": "expedition_78",
+    "status": "active",
     "title": "Expedition 78",
     "rarity": "legendary",
     "condition_normal": "shooter",
@@ -1483,6 +1561,7 @@
   },
   {
     "id": "expedition_79",
+    "status": "inactive",
     "title": "Expedition 79",
     "rarity": "legendary",
     "condition_normal": "shooter",
@@ -1502,6 +1581,7 @@
   },
   {
     "id": "expedition_80",
+    "status": "inactive",
     "title": "Expedition 80",
     "rarity": "legendary",
     "condition_normal": "shooter",
@@ -1521,6 +1601,7 @@
   },
   {
     "id": "expedition_81",
+    "status": "inactive",
     "title": "Expedition 81",
     "rarity": "legendary",
     "condition_normal": "tanker",
@@ -1540,6 +1621,7 @@
   },
   {
     "id": "expedition_82",
+    "status": "inactive",
     "title": "Expedition 82",
     "rarity": "legendary",
     "condition_normal": "tanker",
@@ -1559,6 +1641,7 @@
   },
   {
     "id": "expedition_83",
+    "status": "active",
     "title": "Expedition 83",
     "rarity": "legendary",
     "condition_normal": "tanker",
@@ -1578,6 +1661,7 @@
   },
   {
     "id": "expedition_84",
+    "status": "active",
     "title": "Expedition 84",
     "rarity": "legendary",
     "condition_normal": "tanker",
@@ -1597,6 +1681,7 @@
   },
   {
     "id": "expedition_85",
+    "status": "inactive",
     "title": "Expedition 85",
     "rarity": "legendary",
     "condition_normal": "tanker",
