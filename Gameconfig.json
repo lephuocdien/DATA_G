@@ -19,14 +19,15 @@
     "hero_auto_skill_2_unlock":3,
     "hero_passive_skill_3_unlock":5,
     "awaken_cost_star_1":60,
-    "awaken_cost_star_2":120,
-    "awaken_cost_star_3":180,
-    "awaken_cost_star_4":240,
-    "awaken_cost_star_5":300,
+    "awaken_cost_star_2":90,
+    "awaken_cost_star_3":120,
+    "awaken_cost_star_4":150,
+    "awaken_cost_star_5":180,
     "hero_fragment_duplicated":60
    
     
 }
+
 
 
 
