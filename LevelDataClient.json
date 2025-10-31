@@ -19,7 +19,7 @@
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_common",
-    "hero_reward": "Shooter_Expert_3",
+    "hero_reward": "",
     "waves": [
       {
         "wave": 1,
@@ -99,7 +99,7 @@
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_common",
-    "hero_reward": "Magician_Expert_1",
+    "hero_reward": "",
     "waves": [
       {
         "wave": 1,
@@ -214,7 +214,7 @@
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_common",
-    "hero_reward": "Tanker_Mystic_3",
+    "hero_reward": "",
     "waves": [
       {
         "wave": 1,
@@ -13620,3 +13620,4 @@
     ]
   }
 ]
+
