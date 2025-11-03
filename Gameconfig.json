@@ -11,7 +11,7 @@
     "damage_normal_min": 0.8,
     "damage_normal_max": 1.2,
     "numberOfMoveHero": 5,
-    "minHeroMerge": 0.3,
+    "minHeroMerge": 0.6,
     "upEqipmentMultiplier":0.5,
      "spinCostHc":50,
     "reshuffleEnergy":5,
@@ -27,6 +27,7 @@
    
     
 }
+
 
 
 
