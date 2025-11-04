@@ -1,43 +1,36 @@
 {
-    "energy_max_store": 99,
-    "energy_generate_time": 1.2,
-    "counter_advantage": 0.2,
-    "synergy_3_ratio": 0.2,
-    "synergy_4_ratio": 0.35,
-    "synergy_5_ratio": 0.5,    
-    "upgrade_cost_ratio": 0.2,
-    "upgrade_stat_ratio": 0.3,
-    "minHeroDist": 1.2,
-    "damage_normal_min": 0.8,
-    "damage_normal_max": 1.2,
-    "numberOfMoveHero": 5,
-    "minHeroMerge": 0.6,
-    "upEqipmentMultiplier":0.5,
-     "spinCostHc":50,
-    "reshuffleEnergy":5,
-     "maxSpinPerUser":10,
-    "hero_auto_skill_2_unlock":3,
-    "hero_passive_skill_3_unlock":5,
-    "awaken_cost_star_1":60,
-    "awaken_cost_star_2":90,
-    "awaken_cost_star_3":120,
-    "awaken_cost_star_4":150,
-    "awaken_cost_star_5":180,
-    "hero_fragment_duplicated":60
-   
-    
+  "energy_max_store": 99,
+  "energy_generate_time": 1.2,
+  "counter_advantage": 0.2,
+  "synergy_3_ratio": 0.2,
+  "synergy_4_ratio": 0.35,
+  "synergy_5_ratio": 0.5,
+  "upgrade_cost_ratio": 0.2,
+  "upgrade_stat_ratio": 0.3,
+  "minHeroDist": 1.2,
+  "damage_normal_min": 0.8,
+  "damage_normal_max": 1.2,
+  "numberOfMoveHero": 5,
+  "minHeroMerge": 0.6,
+  "upEqipmentMultiplier": 0.5,
+  "spinCostHc": 50,
+  "reshuffleEnergy": 5,
+  "maxSpinPerUser": 10,
+  "hero_auto_skill_2_unlock": 3,
+  "hero_passive_skill_3_unlock": 5,
+  "awaken_cost_star_1": 60,
+  "awaken_cost_star_2": 90,
+  "awaken_cost_star_3": 120,
+  "awaken_cost_star_4": 150,
+  "awaken_cost_star_5": 180,
+  "hero_fragment_duplicated": 60,
+  "speed_up_zone_apply_value": 0.5,
+  "speed_up_zone_active_duration_min": 10,
+  "speed_up_zone_reactive_interval_min": 10,
+  "speed_up_zone_active_duration_max": 20,
+  "speed_up_zone_reactive_interval_max": 20,
+  "magic_bridge_active_duration_min": 10,
+  "magic_bridge_reactive_interval_min": 10,
+  "magic_bridge_active_duration_max": 20,
+  "magic_bridge_reactive_interval_max": 20
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
