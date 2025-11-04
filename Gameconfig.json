@@ -24,15 +24,16 @@
   "awaken_cost_star_4": 150,
   "awaken_cost_star_5": 180,
   "hero_fragment_duplicated": 60,
-  "speed_up_zone_apply_value": 50,
+  "speed_up_zone_apply_value": 5,
   "speed_up_zone_apply_duration_value": 5,
-  "speed_up_zone_active_duration_min": 10,
-  "speed_up_zone_reactive_interval_min": 10,
-  "speed_up_zone_active_duration_max": 20,
-  "speed_up_zone_reactive_interval_max": 20,
+  "speed_up_zone_active_duration_min": 20,
+  "speed_up_zone_reactive_interval_min": 1,
+  "speed_up_zone_active_duration_max": 30,
+  "speed_up_zone_reactive_interval_max": 1,
   "magic_bridge_active_duration_min": 20,
   "magic_bridge_reactive_interval_min": 10,
   "magic_bridge_active_duration_max": 30,
   "magic_bridge_reactive_interval_max": 15
 }
+
 
