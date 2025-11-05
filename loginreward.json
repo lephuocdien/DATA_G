@@ -1,37 +1,37 @@
 [
   {
     "day": 1,
-    "reward_amount": 200,
+    "reward_amount": 4000,
     "reward_type": "sc"
   },
   {
     "day": 2,
-    "reward_amount": 1,
+    "reward_amount": 2,
     "reward_type": "summon_ticket"
   },
   {
     "day": 3,
-    "reward_amount": 50,
-    "reward_type": "hc"
-  },
-  {
-    "day": 4,
-    "reward_amount": 100,
+    "reward_amount": 10000,
     "reward_type": "xp_book"
   },
   {
-    "day": 5,
-    "reward_amount": 1,
+    "day": 4,
+    "reward_amount": 3,
     "reward_type": "summon_ticket"
   },
   {
-    "day": 6,
-    "reward_amount": 100,
+    "day": 5,
+    "reward_amount": 10000,
     "reward_type": "skill_book"
+  },
+  {
+    "day": 6,
+    "reward_amount": 5,
+    "reward_type": "summon_ticket"
   },
   {
     "day": 7,
     "reward_amount": 1,
-    "reward_type": "Shooter_Expert_3"
+    "reward_type": "Shooter_Mystic_4"
   }
 ]
