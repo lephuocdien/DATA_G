@@ -33,6 +33,8 @@
   "magic_bridge_active_duration_min": 20,
   "magic_bridge_reactive_interval_min": 10,
   "magic_bridge_active_duration_max": 30,
-  "magic_bridge_reactive_interval_max": 15
+  "magic_bridge_reactive_interval_max": 15,
+  "timeUnderContinuousAttack":8
 }
+
 
