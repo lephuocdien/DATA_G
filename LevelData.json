@@ -28,7 +28,7 @@
     "objective_1": 1,
     "objective_2": 1,
     "objective_3": 9,
-    "move_amount": 30,
+    "move_amount": 3,
     "exp": 500,
     "sc": 5000,
     "xp_book": 4000,
@@ -1200,5 +1200,6 @@
     "hero_reward": ""
   }
 ]
+
 
 
