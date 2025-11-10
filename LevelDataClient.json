@@ -2676,15 +2676,22 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 0,
+            "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 1,
+        "delay_each_wave": 1.0,
+        "enemy_level": 11,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 0,
-            "start_spawn_time": 2,
+            "start_spawn_time": 1,
             "delay_each_spawn": 1.0,
             "total_count": 3
           }
@@ -2710,15 +2717,36 @@
         "enemy_level": 11,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_3",
+            "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 4,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
+            "total_count": 3
+          }
+        ]
+      },
+      {
+        "wave": 3,
+        "delay_each_wave": 1.0,
+        "enemy_level": 11,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 6,
+            "start_spawn_time": 1,
+            "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 4,
+        "delay_each_wave": 3.0,
+        "enemy_level": 11,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
-            "route_id": 4,
+            "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 3
@@ -2732,17 +2760,10 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 1,
+            "route_id": 7,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
-          {
-            "enemy_id": "Walk_Melee_Normal_4",
-            "route_id": 1,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 3
           }
         ]
       },
@@ -2766,15 +2787,36 @@
         "enemy_level": 11,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_3",
+            "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 5,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
+            "total_count": 5
+          }
+        ]
+      },
+      {
+        "wave": 6,
+        "delay_each_wave": 1.0,
+        "enemy_level": 11,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 6,
+            "start_spawn_time": 1,
+            "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 7,
+        "delay_each_wave": 3.0,
+        "enemy_level": 11,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
-            "route_id": 5,
+            "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 5
@@ -2788,17 +2830,10 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 0,
+            "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
-          {
-            "enemy_id": "Walk_Melee_Normal_4",
-            "route_id": 0,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 5
           }
         ]
       },
@@ -2809,11 +2844,18 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 2,
+            "route_id": 7,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 8,
+        "delay_each_wave": 3.0,
+        "enemy_level": 11,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 2,
@@ -2830,15 +2872,36 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 4,
+            "route_id": 6,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
-            "total_count": 2
-          },
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 9,
+        "delay_each_wave": 3.0,
+        "enemy_level": 11,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 7,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 9,
+        "delay_each_wave": 1.0,
+        "enemy_level": 11,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 4,
-            "start_spawn_time": 2,
+            "start_spawn_time": 1,
             "delay_each_spawn": 1.0,
             "total_count": 7
           }
@@ -2851,11 +2914,18 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 1,
+            "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 10,
+        "delay_each_wave": 3.0,
+        "enemy_level": 11,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 1,
@@ -2903,11 +2973,18 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 0,
+            "route_id": 4,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 1,
+        "delay_each_wave": 3.0,
+        "enemy_level": 12,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 0,
@@ -2938,17 +3015,59 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 2,
+            "route_id": 5,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 3,
+        "delay_each_wave": 1.0,
+        "enemy_level": 12,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 2,
-            "start_spawn_time": 2,
+            "start_spawn_time": 1,
             "delay_each_spawn": 1.0,
             "total_count": 3
+          }
+        ]
+      },
+      {
+        "wave": 3,
+        "delay_each_wave": 1.0,
+        "enemy_level": 12,
+        "spawn_groups": [
+          {
+            "enemy_id": "Walk_Melee_Normal_4",
+            "route_id": 2,
+            "start_spawn_time": 1,
+            "delay_each_spawn": 1.0,
+            "total_count": 3
+          },
+          {
+            "enemy_id": "Walk_Ranged_Elite_2",
+            "route_id": 2,
+            "start_spawn_time": 1,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 3,
+        "delay_each_wave": 1.0,
+        "enemy_level": 12,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 4,
+            "start_spawn_time": 1,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
           }
         ]
       },
@@ -2959,11 +3078,18 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 0,
+            "route_id": 5,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 4,
+        "delay_each_wave": 3.0,
+        "enemy_level": 12,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 0,
@@ -2993,18 +3119,32 @@
         "enemy_level": 12,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 1,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 5
+          },
+          {
+            "enemy_id": "Walk_Ranged_Elite_2",
+            "route_id": 1,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 6,
+        "delay_each_wave": 1.0,
+        "enemy_level": 12,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 4,
+            "start_spawn_time": 1,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
           }
         ]
       },
@@ -3015,11 +3155,18 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 0,
+            "route_id": 5,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 7,
+        "delay_each_wave": 3.0,
+        "enemy_level": 12,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 0,
@@ -3035,18 +3182,25 @@
         "enemy_level": 12,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 1,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 5
+          }
+        ]
+      },
+      {
+        "wave": 8,
+        "delay_each_wave": 3.0,
+        "enemy_level": 12,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Attack_Normal_2",
+            "route_id": 4,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
           }
         ]
       },
@@ -3057,15 +3211,36 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 2,
+            "route_id": 5,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
-            "total_count": 2
-          },
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 9,
+        "delay_each_wave": 3.0,
+        "enemy_level": 12,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 4,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 9,
+        "delay_each_wave": 1.0,
+        "enemy_level": 12,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 2,
-            "start_spawn_time": 2,
+            "start_spawn_time": 1,
             "delay_each_spawn": 1.0,
             "total_count": 7
           }
@@ -3077,18 +3252,32 @@
         "enemy_level": 12,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 0,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 7
+          },
+          {
+            "enemy_id": "Walk_Ranged_Elite_2",
+            "route_id": 0,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 2
+          }
+        ]
+      },
+      {
+        "wave": 10,
+        "delay_each_wave": 3.0,
+        "enemy_level": 12,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Attack_Normal_2",
+            "route_id": 5,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
           }
         ]
       }
@@ -3122,18 +3311,25 @@
         "enemy_level": 13,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 0,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 7
+          }
+        ]
+      },
+      {
+        "wave": 1,
+        "delay_each_wave": 3.0,
+        "enemy_level": 13,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Attack_Normal_2",
+            "route_id": 6,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
           }
         ]
       },
@@ -3157,13 +3353,6 @@
         "enemy_level": 13,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 4,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 4,
             "start_spawn_time": 2,
@@ -3173,17 +3362,24 @@
         ]
       },
       {
+        "wave": 3,
+        "delay_each_wave": 1.0,
+        "enemy_level": 13,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 7,
+            "start_spawn_time": 1,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
+          }
+        ]
+      },
+      {
         "wave": 4,
         "delay_each_wave": 3.0,
         "enemy_level": 13,
         "spawn_groups": [
-          {
-            "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 1,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
-          },
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 1,
@@ -3194,6 +3390,27 @@
           {
             "enemy_id": "Walk_Ranged_Elite_2",
             "route_id": 1,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 4,
+        "delay_each_wave": 3.0,
+        "enemy_level": 13,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Attack_Normal_2",
+            "route_id": 6,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
+          },
+          {
+            "enemy_id": "Walk_Ranged_Elite_2",
+            "route_id": 6,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
@@ -3220,18 +3437,25 @@
         "enemy_level": 13,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 5,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 5,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 3
+          }
+        ]
+      },
+      {
+        "wave": 6,
+        "delay_each_wave": 1.0,
+        "enemy_level": 13,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 7,
+            "start_spawn_time": 1,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
           }
         ]
       },
@@ -3242,11 +3466,18 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 0,
+            "route_id": 6,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 7,
+        "delay_each_wave": 3.0,
+        "enemy_level": 13,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 0,
@@ -3263,11 +3494,18 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 2,
+            "route_id": 7,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 8,
+        "delay_each_wave": 3.0,
+        "enemy_level": 13,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 2,
@@ -3284,11 +3522,32 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 4,
+            "route_id": 6,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
-            "total_count": 2
-          },
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 9,
+        "delay_each_wave": 3.0,
+        "enemy_level": 13,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 7,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 9,
+        "delay_each_wave": 3.0,
+        "enemy_level": 13,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 4,
@@ -3305,11 +3564,18 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 1,
+            "route_id": 6,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 10,
+        "delay_each_wave": 3.0,
+        "enemy_level": 13,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 1,
@@ -3357,11 +3623,18 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 0,
+            "route_id": 9,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 1,
+        "delay_each_wave": 3.0,
+        "enemy_level": 14,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 0,
@@ -3398,18 +3671,25 @@
         "enemy_level": 14,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 4,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 4,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 3
+          }
+        ]
+      },
+      {
+        "wave": 3,
+        "delay_each_wave": 1.0,
+        "enemy_level": 14,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 8,
+            "start_spawn_time": 1,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
           }
         ]
       },
@@ -3420,11 +3700,18 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 1,
+            "route_id": 7,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 4,
+        "delay_each_wave": 3.0,
+        "enemy_level": 14,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 1,
@@ -3454,13 +3741,6 @@
         "enemy_level": 14,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 5,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 5,
             "start_spawn_time": 2,
@@ -3477,17 +3757,45 @@
         ]
       },
       {
+        "wave": 6,
+        "delay_each_wave": 1.0,
+        "enemy_level": 14,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 6,
+            "start_spawn_time": 1,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
+          },
+          {
+            "enemy_id": "Walk_Ranged_Elite_2",
+            "route_id": 6,
+            "start_spawn_time": 1,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
+          }
+        ]
+      },
+      {
         "wave": 7,
         "delay_each_wave": 3.0,
         "enemy_level": 14,
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 0,
+            "route_id": 9,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 7,
+        "delay_each_wave": 3.0,
+        "enemy_level": 14,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 0,
@@ -3503,18 +3811,25 @@
         "enemy_level": 14,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 2,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 2,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 5
+          }
+        ]
+      },
+      {
+        "wave": 8,
+        "delay_each_wave": 3.0,
+        "enemy_level": 14,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Attack_Normal_2",
+            "route_id": 7,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
           }
         ]
       },
@@ -3525,11 +3840,18 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 4,
+            "route_id": 8,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
-            "total_count": 2
-          },
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 9,
+        "delay_each_wave": 3.0,
+        "enemy_level": 14,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 4,
@@ -3540,17 +3862,24 @@
         ]
       },
       {
+        "wave": 9,
+        "delay_each_wave": 1.0,
+        "enemy_level": 14,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 6,
+            "start_spawn_time": 1,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
+          }
+        ]
+      },
+      {
         "wave": 10,
         "delay_each_wave": 3.0,
         "enemy_level": 14,
         "spawn_groups": [
-          {
-            "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 1,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
-          },
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 1,
@@ -3568,24 +3897,24 @@
         ]
       },
       {
-        "wave": 11,
+        "wave": 10,
         "delay_each_wave": 3.0,
         "enemy_level": 14,
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 3,
+            "route_id": 9,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
-          {
-            "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 3,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 11,
+        "delay_each_wave": 3.0,
+        "enemy_level": 14,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 3,
@@ -3596,28 +3925,70 @@
         ]
       },
       {
+        "wave": 11,
+        "delay_each_wave": 3.0,
+        "enemy_level": 14,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 6,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 11,
+        "delay_each_wave": 3.0,
+        "enemy_level": 14,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Attack_Normal_2",
+            "route_id": 8,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 12,
+        "delay_each_wave": 3.0,
+        "enemy_level": 14,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 7,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
+          }
+        ]
+      },
+      {
         "wave": 12,
         "delay_each_wave": 3.0,
         "enemy_level": 14,
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 5,
+            "route_id": 9,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
-          {
-            "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 5,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 12,
+        "delay_each_wave": 1.0,
+        "enemy_level": 14,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 5,
-            "start_spawn_time": 2,
+            "start_spawn_time": 1,
             "delay_each_spawn": 1.0,
             "total_count": 7
           }
@@ -3654,14 +4025,21 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 0,
+            "route_id": 6,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 1,
+        "delay_each_wave": 3.0,
+        "enemy_level": 15,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
-            "route_id": 0,
+            "route_id": 8,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 7
@@ -3689,14 +4067,35 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 4,
+            "route_id": 7,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 3,
+        "delay_each_wave": 1.0,
+        "enemy_level": 15,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 4,
+            "start_spawn_time": 1,
+            "delay_each_spawn": 1.0,
+            "total_count": 3
+          }
+        ]
+      },
+      {
+        "wave": 4,
+        "delay_each_wave": 3.0,
+        "enemy_level": 15,
+        "spawn_groups": [
+          {
+            "enemy_id": "Walk_Melee_Normal_4",
+            "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 3
@@ -3710,17 +4109,10 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 1,
+            "route_id": 8,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
-          {
-            "enemy_id": "Walk_Melee_Normal_4",
-            "route_id": 1,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 3
           }
         ]
       },
@@ -3745,22 +4137,29 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 5,
+            "route_id": 9,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 6,
+        "delay_each_wave": 1.0,
+        "enemy_level": 15,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 5,
-            "start_spawn_time": 2,
+            "start_spawn_time": 1,
             "delay_each_spawn": 1.0,
             "total_count": 3
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
             "route_id": 5,
-            "start_spawn_time": 2,
+            "start_spawn_time": 1,
             "delay_each_spawn": 1.0,
             "total_count": 1
           }
@@ -3772,15 +4171,36 @@
         "enemy_level": 15,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Attack_Normal_2",
+            "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
+            "total_count": 7
+          }
+        ]
+      },
+      {
+        "wave": 7,
+        "delay_each_wave": 3.0,
+        "enemy_level": 15,
+        "spawn_groups": [
+          {
+            "enemy_id": "Fly_Attack_Normal_2",
+            "route_id": 7,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 8,
+        "delay_each_wave": 3.0,
+        "enemy_level": 15,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
-            "route_id": 0,
+            "route_id": 2,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 7
@@ -3794,14 +4214,21 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 2,
+            "route_id": 9,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 9,
+        "delay_each_wave": 3.0,
+        "enemy_level": 15,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
-            "route_id": 2,
+            "route_id": 4,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 7
@@ -3815,17 +4242,24 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 4,
+            "route_id": 8,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
-            "total_count": 2
-          },
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 9,
+        "delay_each_wave": 1.0,
+        "enemy_level": 15,
+        "spawn_groups": [
           {
-            "enemy_id": "Walk_Melee_Normal_4",
-            "route_id": 4,
-            "start_spawn_time": 2,
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 6,
+            "start_spawn_time": 1,
             "delay_each_spawn": 1.0,
-            "total_count": 7
+            "total_count": 1
           }
         ]
       },
@@ -3836,17 +4270,30 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 1,
+            "route_id": 9,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 1
-          },
+          }
+        ]
+      },
+      {
+        "wave": 10,
+        "delay_each_wave": 3.0,
+        "enemy_level": 15,
+        "spawn_groups": []
+      },
+      {
+        "wave": 11,
+        "delay_each_wave": 3.0,
+        "enemy_level": 15,
+        "spawn_groups": [
           {
-            "enemy_id": "Walk_Melee_Normal_4",
-            "route_id": 1,
+            "enemy_id": "Fly_Attack_Normal_2",
+            "route_id": 6,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
-            "total_count": 7
+            "total_count": 2
           }
         ]
       },
@@ -3856,25 +4303,46 @@
         "enemy_level": 15,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 3,
+            "enemy_id": "Fly_Rush_Normal_3",
+            "route_id": 8,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
-            "total_count": 2
-          },
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 12,
+        "delay_each_wave": 3.0,
+        "enemy_level": 15,
+        "spawn_groups": [
           {
             "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 3,
+            "route_id": 7,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
-            "total_count": 2
-          },
+            "total_count": 1
+          }
+        ]
+      },
+      {
+        "wave": 12,
+        "delay_each_wave": 3.0,
+        "enemy_level": 15,
+        "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
-            "route_id": 3,
+            "route_id": 2,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 3
+          },
+          {
+            "enemy_id": "Walk_Ranged_Elite_2",
+            "route_id": 2,
+            "start_spawn_time": 2,
+            "delay_each_spawn": 1.0,
+            "total_count": 1
           }
         ]
       },
@@ -3885,31 +4353,10 @@
         "spawn_groups": [
           {
             "enemy_id": "Fly_Attack_Normal_2",
-            "route_id": 5,
+            "route_id": 9,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
             "total_count": 2
-          },
-          {
-            "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 5,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 2
-          },
-          {
-            "enemy_id": "Walk_Melee_Normal_4",
-            "route_id": 5,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 3
-          },
-          {
-            "enemy_id": "Walk_Ranged_Elite_2",
-            "route_id": 5,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
           }
         ]
       }
