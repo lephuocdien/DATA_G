@@ -216,7 +216,7 @@
     "attack_speed": 0.3,
     "basic_skill": "Taunt",
     "passive_skill": "Breeze Barrier",
-    "auto_skill": "Storm Resilience",
+    "auto_skill": "Cyclone Guard",
     "combat_power": 1462
   },
   {
@@ -275,7 +275,7 @@
     "attack": 92,
     "attack_speed": 0.6,
     "basic_skill": "Harmony Gift",
-    "passive_skill": "Breeze Barrier",
+    "passive_skill": "Feather Step",
     "auto_skill": "Soothing Breeze",
     "combat_power": 1554
   },
@@ -294,8 +294,8 @@
     "range": 1,
     "attack": 167,
     "attack_speed": 1.1,
-    "basic_skill": "Power Slash",
-    "passive_skill": "Sturdy Resolve",
+    "basic_skill": "Crimson Lunge",
+    "passive_skill": "Guardian Gift",
     "auto_skill": "Rock Breaker",
     "combat_power": 1860
   },
