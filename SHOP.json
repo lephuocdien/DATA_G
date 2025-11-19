@@ -1,0 +1,1260 @@
+{
+  "products": {
+    "igp_free_coin": {
+      "product_id": "igp_free_coin",
+      "category": "recommend",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 0,
+      "price_type": "hc",
+      "limit": 1,
+      "reset_limit_interval": 1,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_welcome_1": {
+      "product_id": "iap_welcome_1",
+      "category": "",
+      "status": "active",
+      "type": "bundle",
+      "price_amount": 0.99,
+      "price_type": "cash",
+      "limit": 1,
+      "reset_limit_interval": "",
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10,
+          "item_code": "hc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_welcome_2": {
+      "product_id": "iap_welcome_2",
+      "category": "",
+      "status": "active",
+      "type": "bundle",
+      "price_amount": 2.99,
+      "price_type": "cash",
+      "limit": 1,
+      "reset_limit_interval": "",
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10,
+          "item_code": "hc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_welcome_3": {
+      "product_id": "iap_welcome_3",
+      "category": "",
+      "status": "active",
+      "type": "bundle",
+      "price_amount": 4.99,
+      "price_type": "cash",
+      "limit": 1,
+      "reset_limit_interval": "",
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10,
+          "item_code": "hc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_welcome_4": {
+      "product_id": "iap_welcome_4",
+      "category": "",
+      "status": "active",
+      "type": "bundle",
+      "price_amount": 9.99,
+      "price_type": "cash",
+      "limit": 1,
+      "reset_limit_interval": "",
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10,
+          "item_code": "hc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_welcome_5": {
+      "product_id": "iap_welcome_5",
+      "category": "",
+      "status": "active",
+      "type": "bundle",
+      "price_amount": 19.99,
+      "price_type": "cash",
+      "limit": 1,
+      "reset_limit_interval": "",
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10,
+          "item_code": "hc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_welcome_6": {
+      "product_id": "iap_welcome_6",
+      "category": "",
+      "status": "active",
+      "type": "bundle",
+      "price_amount": 39.99,
+      "price_type": "cash",
+      "limit": 1,
+      "reset_limit_interval": "",
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10,
+          "item_code": "hc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_premium_pass": {
+      "product_id": "iap_premium_pass",
+      "category": "premium_membership",
+      "status": "active",
+      "type": "premium_pass",
+      "price_amount": 2.99,
+      "price_type": "cash",
+      "limit": 1,
+      "reset_limit_interval": "end of season",
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": 30,
+          "item_quantity": 1,
+          "item_code": "premium_pass",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_vip_subscription": {
+      "product_id": "iap_vip_subscription",
+      "category": "",
+      "status": "active",
+      "type": "subscription",
+      "price_amount": 2,
+      "price_type": "cash",
+      "limit": 1,
+      "reset_limit_interval": 30,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": 30,
+          "item_quantity": 1,
+          "item_code": "vip_subscription",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_free_gem": {
+      "product_id": "igp_free_gem",
+      "category": "bundle_shop",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 0,
+      "price_type": "hc",
+      "limit": 1,
+      "reset_limit_interval": 1,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10,
+          "item_code": "hc",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_bundle_1": {
+      "product_id": "iap_bundle_1",
+      "category": "",
+      "status": "active",
+      "type": "bundle",
+      "price_amount": 12.49,
+      "price_type": "cash",
+      "limit": 3,
+      "reset_limit_interval": 30,
+      "promo_price": 6,
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10,
+          "item_code": "hc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_bundle_2": {
+      "product_id": "iap_bundle_2",
+      "category": "",
+      "status": "active",
+      "type": "bundle",
+      "price_amount": 24.99,
+      "price_type": "cash",
+      "limit": 3,
+      "reset_limit_interval": 30,
+      "promo_price": 12,
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10,
+          "item_code": "hc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_bundle_3": {
+      "product_id": "iap_bundle_3",
+      "category": "",
+      "status": "active",
+      "type": "bundle",
+      "price_amount": 37.49,
+      "price_type": "cash",
+      "limit": 3,
+      "reset_limit_interval": 30,
+      "promo_price": 19,
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10,
+          "item_code": "hc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_bundle_4": {
+      "product_id": "iap_bundle_4",
+      "category": "",
+      "status": "active",
+      "type": "bundle",
+      "price_amount": 49.99,
+      "price_type": "cash",
+      "limit": 3,
+      "reset_limit_interval": 30,
+      "promo_price": 25,
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10,
+          "item_code": "hc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_bundle_5": {
+      "product_id": "iap_bundle_5",
+      "category": "",
+      "status": "active",
+      "type": "bundle",
+      "price_amount": 62.49,
+      "price_type": "cash",
+      "limit": 3,
+      "reset_limit_interval": 30,
+      "promo_price": 31,
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10,
+          "item_code": "hc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_bundle_6": {
+      "product_id": "iap_bundle_6",
+      "category": "",
+      "status": "active",
+      "type": "bundle",
+      "price_amount": 74.99,
+      "price_type": "cash",
+      "limit": 3,
+      "reset_limit_interval": 30,
+      "promo_price": 37,
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10,
+          "item_code": "hc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_gem_pack_1": {
+      "product_id": "iap_gem_pack_1",
+      "category": "gem_market",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 1.19,
+      "price_type": "cash",
+      "limit": 0,
+      "reset_limit_interval": 0,
+      "promo_price": "",
+      "promo_limit": 1,
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 20,
+          "item_code": "hc",
+          "item_promo_quantity": 40
+        }
+      ]
+    },
+    "iap_gem_pack_2": {
+      "product_id": "iap_gem_pack_2",
+      "category": "",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 4.99,
+      "price_type": "cash",
+      "limit": 0,
+      "reset_limit_interval": 0,
+      "promo_price": "",
+      "promo_limit": 1,
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 50,
+          "item_code": "hc",
+          "item_promo_quantity": 100
+        }
+      ]
+    },
+    "iap_gem_pack_3": {
+      "product_id": "iap_gem_pack_3",
+      "category": "",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 9.99,
+      "price_type": "cash",
+      "limit": 0,
+      "reset_limit_interval": 0,
+      "promo_price": "",
+      "promo_limit": 1,
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 160,
+          "item_code": "hc",
+          "item_promo_quantity": 320
+        }
+      ]
+    },
+    "iap_gem_pack_4": {
+      "product_id": "iap_gem_pack_4",
+      "category": "",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 14.99,
+      "price_type": "cash",
+      "limit": 0,
+      "reset_limit_interval": 0,
+      "promo_price": "",
+      "promo_limit": 1,
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 500,
+          "item_code": "hc",
+          "item_promo_quantity": 1000
+        }
+      ]
+    },
+    "iap_gem_pack_5": {
+      "product_id": "iap_gem_pack_5",
+      "category": "",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 39.99,
+      "price_type": "cash",
+      "limit": 0,
+      "reset_limit_interval": 0,
+      "promo_price": "",
+      "promo_limit": 1,
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1600,
+          "item_code": "hc",
+          "item_promo_quantity": 3200
+        }
+      ]
+    },
+    "iap_gem_pack_6": {
+      "product_id": "iap_gem_pack_6",
+      "category": "",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 99.99,
+      "price_type": "cash",
+      "limit": 0,
+      "reset_limit_interval": 0,
+      "promo_price": "",
+      "promo_limit": 1,
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 3200,
+          "item_code": "hc",
+          "item_promo_quantity": 6400
+        }
+      ]
+    },
+    "igp_sc": {
+      "product_id": "igp_sc",
+      "category": "exchange_currency",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 50,
+      "price_type": "hc",
+      "limit": 10,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 2000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_xp_book_1": {
+      "product_id": "igp_xp_book_1",
+      "category": "",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 50,
+      "price_type": "hc",
+      "limit": 10,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_skill_book_1": {
+      "product_id": "igp_skill_book_1",
+      "category": "",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 50,
+      "price_type": "hc",
+      "limit": 10,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_summon_ticket_1": {
+      "product_id": "igp_summon_ticket_1",
+      "category": "",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 160,
+      "price_type": "hc",
+      "limit": 0,
+      "reset_limit_interval": 0,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "summon_ticket",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_mystic_hero_1": {
+      "product_id": "igp_mystic_hero_1",
+      "category": "exchange_hero",
+      "status": "active",
+      "type": "hero",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "random_mystic_hero",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_mystic_hero_2": {
+      "product_id": "igp_mystic_hero_2",
+      "category": "",
+      "status": "active",
+      "type": "hero",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "random_mystic_hero",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_expert_hero_1": {
+      "product_id": "igp_expert_hero_1",
+      "category": "",
+      "status": "active",
+      "type": "hero",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "random_expert_hero",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_expert_hero_2": {
+      "product_id": "igp_expert_hero_2",
+      "category": "",
+      "status": "active",
+      "type": "hero",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "random_expert_hero",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_expert_hero_3": {
+      "product_id": "igp_expert_hero_3",
+      "category": "",
+      "status": "active",
+      "type": "hero",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "random_expert_hero",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_expert_hero_4": {
+      "product_id": "igp_expert_hero_4",
+      "category": "",
+      "status": "active",
+      "type": "hero",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "random_expert_hero",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_expert_hero_5": {
+      "product_id": "igp_expert_hero_5",
+      "category": "",
+      "status": "active",
+      "type": "hero",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "random_expert_hero",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_expert_hero_6": {
+      "product_id": "igp_expert_hero_6",
+      "category": "",
+      "status": "active",
+      "type": "hero",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "random_expert_hero",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_xp_book_2": {
+      "product_id": "igp_xp_book_2",
+      "category": "exchange_support",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 10,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_skill_book_2": {
+      "product_id": "igp_skill_book_2",
+      "category": "",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 10,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1000,
+          "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_summon_ticket_2": {
+      "product_id": "igp_summon_ticket_2",
+      "category": "",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 5,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "summon_ticket",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_material_all_common_orb": {
+      "product_id": "igp_material_all_common_orb",
+      "category": "",
+      "status": "active",
+      "type": "material",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 3,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "material_all_common_orb",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_material_all_uncommon_orb": {
+      "product_id": "igp_material_all_uncommon_orb",
+      "category": "",
+      "status": "active",
+      "type": "material",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 3,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "material_all_uncommon_orb",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_material_all_rare_orb": {
+      "product_id": "igp_material_all_rare_orb",
+      "category": "",
+      "status": "active",
+      "type": "material",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 3,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "material_all_rare_orb",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_material_all_epic_orb": {
+      "product_id": "igp_material_all_epic_orb",
+      "category": "",
+      "status": "active",
+      "type": "material",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 3,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "material_all_epic_orb",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_material_all_legendary_orb": {
+      "product_id": "igp_material_all_legendary_orb",
+      "category": "",
+      "status": "active",
+      "type": "material",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 3,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "material_all_legendary_orb",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_consumable_chest_material_common": {
+      "product_id": "igp_consumable_chest_material_common",
+      "category": "",
+      "status": "active",
+      "type": "chest",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "consumable_chest_material_common",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_consumable_chest_material_uncommon": {
+      "product_id": "igp_consumable_chest_material_uncommon",
+      "category": "",
+      "status": "active",
+      "type": "chest",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "consumable_chest_material_uncommon",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_consumable_chest_material_rare": {
+      "product_id": "igp_consumable_chest_material_rare",
+      "category": "",
+      "status": "active",
+      "type": "chest",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "consumable_chest_material_rare",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_consumable_chest_material_epic": {
+      "product_id": "igp_consumable_chest_material_epic",
+      "category": "",
+      "status": "active",
+      "type": "chest",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "consumable_chest_material_epic",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_consumable_chest_material_legendary": {
+      "product_id": "igp_consumable_chest_material_legendary",
+      "category": "",
+      "status": "active",
+      "type": "chest",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "consumable_chest_material_legendary",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_consumable_chest_equipment_common": {
+      "product_id": "igp_consumable_chest_equipment_common",
+      "category": "",
+      "status": "active",
+      "type": "chest",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "consumable_chest_equipment_common",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_consumable_chest_equipment_uncommon": {
+      "product_id": "igp_consumable_chest_equipment_uncommon",
+      "category": "",
+      "status": "active",
+      "type": "chest",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "consumable_chest_equipment_uncommon",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_consumable_chest_equipment_rare": {
+      "product_id": "igp_consumable_chest_equipment_rare",
+      "category": "",
+      "status": "active",
+      "type": "chest",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "consumable_chest_equipment_rare",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_consumable_chest_equipment_epic": {
+      "product_id": "igp_consumable_chest_equipment_epic",
+      "category": "",
+      "status": "active",
+      "type": "chest",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "consumable_chest_equipment_epic",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_consumable_chest_equipment_legendary": {
+      "product_id": "igp_consumable_chest_equipment_legendary",
+      "category": "",
+      "status": "active",
+      "type": "chest",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "consumable_chest_equipment_legendary",
+          "item_promo_quantity": null
+        }
+      ]
+    }
+  }
+}
