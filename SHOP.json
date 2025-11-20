@@ -22,7 +22,7 @@
     },
     "iap_welcome_1": {
       "product_id": "iap_welcome_1",
-      "category": "",
+      "category": "recommend",
       "status": "active",
       "type": "bundle",
       "price_amount": 0.99,
@@ -60,7 +60,7 @@
     },
     "iap_welcome_2": {
       "product_id": "iap_welcome_2",
-      "category": "",
+      "category": "recommend",
       "status": "active",
       "type": "bundle",
       "price_amount": 2.99,
@@ -98,7 +98,7 @@
     },
     "iap_welcome_3": {
       "product_id": "iap_welcome_3",
-      "category": "",
+      "category": "recommend",
       "status": "active",
       "type": "bundle",
       "price_amount": 4.99,
@@ -136,7 +136,7 @@
     },
     "iap_welcome_4": {
       "product_id": "iap_welcome_4",
-      "category": "",
+      "category": "recommend",
       "status": "active",
       "type": "bundle",
       "price_amount": 9.99,
@@ -174,7 +174,7 @@
     },
     "iap_welcome_5": {
       "product_id": "iap_welcome_5",
-      "category": "",
+      "category": "recommend",
       "status": "active",
       "type": "bundle",
       "price_amount": 19.99,
@@ -212,7 +212,7 @@
     },
     "iap_welcome_6": {
       "product_id": "iap_welcome_6",
-      "category": "",
+      "category": "recommend",
       "status": "active",
       "type": "bundle",
       "price_amount": 39.99,
@@ -270,7 +270,7 @@
     },
     "iap_vip_subscription": {
       "product_id": "iap_vip_subscription",
-      "category": "",
+      "category": "premium_membership",
       "status": "active",
       "type": "subscription",
       "price_amount": 2,
@@ -310,7 +310,7 @@
     },
     "iap_bundle_1": {
       "product_id": "iap_bundle_1",
-      "category": "",
+      "category": "bundle_shop",
       "status": "active",
       "type": "bundle",
       "price_amount": 12.49,
@@ -348,7 +348,7 @@
     },
     "iap_bundle_2": {
       "product_id": "iap_bundle_2",
-      "category": "",
+      "category": "bundle_shop",
       "status": "active",
       "type": "bundle",
       "price_amount": 24.99,
@@ -386,7 +386,7 @@
     },
     "iap_bundle_3": {
       "product_id": "iap_bundle_3",
-      "category": "",
+      "category": "bundle_shop",
       "status": "active",
       "type": "bundle",
       "price_amount": 37.49,
@@ -424,7 +424,7 @@
     },
     "iap_bundle_4": {
       "product_id": "iap_bundle_4",
-      "category": "",
+      "category": "bundle_shop",
       "status": "active",
       "type": "bundle",
       "price_amount": 49.99,
@@ -462,7 +462,7 @@
     },
     "iap_bundle_5": {
       "product_id": "iap_bundle_5",
-      "category": "",
+      "category": "bundle_shop",
       "status": "active",
       "type": "bundle",
       "price_amount": 62.49,
@@ -500,7 +500,7 @@
     },
     "iap_bundle_6": {
       "product_id": "iap_bundle_6",
-      "category": "",
+      "category": "bundle_shop",
       "status": "active",
       "type": "bundle",
       "price_amount": 74.99,
@@ -558,7 +558,7 @@
     },
     "iap_gem_pack_2": {
       "product_id": "iap_gem_pack_2",
-      "category": "",
+      "category": "gem_market",
       "status": "active",
       "type": "currency",
       "price_amount": 4.99,
@@ -578,7 +578,7 @@
     },
     "iap_gem_pack_3": {
       "product_id": "iap_gem_pack_3",
-      "category": "",
+      "category": "gem_market",
       "status": "active",
       "type": "currency",
       "price_amount": 9.99,
@@ -598,7 +598,7 @@
     },
     "iap_gem_pack_4": {
       "product_id": "iap_gem_pack_4",
-      "category": "",
+      "category": "gem_market",
       "status": "active",
       "type": "currency",
       "price_amount": 14.99,
@@ -618,7 +618,7 @@
     },
     "iap_gem_pack_5": {
       "product_id": "iap_gem_pack_5",
-      "category": "",
+      "category": "gem_market",
       "status": "active",
       "type": "currency",
       "price_amount": 39.99,
@@ -638,7 +638,7 @@
     },
     "iap_gem_pack_6": {
       "product_id": "iap_gem_pack_6",
-      "category": "",
+      "category": "gem_market",
       "status": "active",
       "type": "currency",
       "price_amount": 99.99,
@@ -678,7 +678,7 @@
     },
     "igp_xp_book_1": {
       "product_id": "igp_xp_book_1",
-      "category": "",
+      "category": "exchange_currency",
       "status": "active",
       "type": "currency",
       "price_amount": 50,
@@ -698,7 +698,7 @@
     },
     "igp_skill_book_1": {
       "product_id": "igp_skill_book_1",
-      "category": "",
+      "category": "exchange_currency",
       "status": "active",
       "type": "currency",
       "price_amount": 50,
@@ -718,7 +718,7 @@
     },
     "igp_summon_ticket_1": {
       "product_id": "igp_summon_ticket_1",
-      "category": "",
+      "category": "exchange_currency",
       "status": "active",
       "type": "currency",
       "price_amount": 160,
@@ -758,7 +758,7 @@
     },
     "igp_mystic_hero_2": {
       "product_id": "igp_mystic_hero_2",
-      "category": "",
+      "category": "exchange_hero",
       "status": "active",
       "type": "hero",
       "price_amount": 100,
@@ -778,7 +778,7 @@
     },
     "igp_expert_hero_1": {
       "product_id": "igp_expert_hero_1",
-      "category": "",
+      "category": "exchange_hero",
       "status": "active",
       "type": "hero",
       "price_amount": 100,
@@ -798,7 +798,7 @@
     },
     "igp_expert_hero_2": {
       "product_id": "igp_expert_hero_2",
-      "category": "",
+      "category": "exchange_hero",
       "status": "active",
       "type": "hero",
       "price_amount": 100,
@@ -818,7 +818,7 @@
     },
     "igp_expert_hero_3": {
       "product_id": "igp_expert_hero_3",
-      "category": "",
+      "category": "exchange_hero",
       "status": "active",
       "type": "hero",
       "price_amount": 100,
@@ -838,7 +838,7 @@
     },
     "igp_expert_hero_4": {
       "product_id": "igp_expert_hero_4",
-      "category": "",
+      "category": "exchange_hero",
       "status": "active",
       "type": "hero",
       "price_amount": 100,
@@ -858,7 +858,7 @@
     },
     "igp_expert_hero_5": {
       "product_id": "igp_expert_hero_5",
-      "category": "",
+      "category": "exchange_hero",
       "status": "active",
       "type": "hero",
       "price_amount": 100,
@@ -878,7 +878,7 @@
     },
     "igp_expert_hero_6": {
       "product_id": "igp_expert_hero_6",
-      "category": "",
+      "category": "exchange_hero",
       "status": "active",
       "type": "hero",
       "price_amount": 100,
@@ -918,7 +918,7 @@
     },
     "igp_skill_book_2": {
       "product_id": "igp_skill_book_2",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "currency",
       "price_amount": 100,
@@ -938,7 +938,7 @@
     },
     "igp_summon_ticket_2": {
       "product_id": "igp_summon_ticket_2",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "currency",
       "price_amount": 100,
@@ -958,7 +958,7 @@
     },
     "igp_material_all_common_orb": {
       "product_id": "igp_material_all_common_orb",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "material",
       "price_amount": 100,
@@ -978,7 +978,7 @@
     },
     "igp_material_all_uncommon_orb": {
       "product_id": "igp_material_all_uncommon_orb",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "material",
       "price_amount": 100,
@@ -998,7 +998,7 @@
     },
     "igp_material_all_rare_orb": {
       "product_id": "igp_material_all_rare_orb",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "material",
       "price_amount": 100,
@@ -1018,7 +1018,7 @@
     },
     "igp_material_all_epic_orb": {
       "product_id": "igp_material_all_epic_orb",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "material",
       "price_amount": 100,
@@ -1038,7 +1038,7 @@
     },
     "igp_material_all_legendary_orb": {
       "product_id": "igp_material_all_legendary_orb",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "material",
       "price_amount": 100,
@@ -1058,7 +1058,7 @@
     },
     "igp_consumable_chest_material_common": {
       "product_id": "igp_consumable_chest_material_common",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "chest",
       "price_amount": 100,
@@ -1078,7 +1078,7 @@
     },
     "igp_consumable_chest_material_uncommon": {
       "product_id": "igp_consumable_chest_material_uncommon",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "chest",
       "price_amount": 100,
@@ -1098,7 +1098,7 @@
     },
     "igp_consumable_chest_material_rare": {
       "product_id": "igp_consumable_chest_material_rare",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "chest",
       "price_amount": 100,
@@ -1118,7 +1118,7 @@
     },
     "igp_consumable_chest_material_epic": {
       "product_id": "igp_consumable_chest_material_epic",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "chest",
       "price_amount": 100,
@@ -1138,7 +1138,7 @@
     },
     "igp_consumable_chest_material_legendary": {
       "product_id": "igp_consumable_chest_material_legendary",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "chest",
       "price_amount": 100,
@@ -1158,7 +1158,7 @@
     },
     "igp_consumable_chest_equipment_common": {
       "product_id": "igp_consumable_chest_equipment_common",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "chest",
       "price_amount": 100,
@@ -1178,7 +1178,7 @@
     },
     "igp_consumable_chest_equipment_uncommon": {
       "product_id": "igp_consumable_chest_equipment_uncommon",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "chest",
       "price_amount": 100,
@@ -1198,7 +1198,7 @@
     },
     "igp_consumable_chest_equipment_rare": {
       "product_id": "igp_consumable_chest_equipment_rare",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "chest",
       "price_amount": 100,
@@ -1218,7 +1218,7 @@
     },
     "igp_consumable_chest_equipment_epic": {
       "product_id": "igp_consumable_chest_equipment_epic",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "chest",
       "price_amount": 100,
@@ -1238,7 +1238,7 @@
     },
     "igp_consumable_chest_equipment_legendary": {
       "product_id": "igp_consumable_chest_equipment_legendary",
-      "category": "",
+      "category": "exchange_support",
       "status": "active",
       "type": "chest",
       "price_amount": 100,
