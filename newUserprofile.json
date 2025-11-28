@@ -76,7 +76,7 @@
             },
             {
                 "currencyType": "xp_book",
-                "amount": 560
+                "amount": 0
             },
             {
                 "currencyType": "skill_book",
@@ -103,6 +103,7 @@
     },
     "playerLevel": 1
 }
+
 
 
 
