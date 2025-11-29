@@ -65,9 +65,9 @@
   },
   {
     "id": "consumable_chest_reward_uncommon",
-    "chance": "0%",
-    "min": 0,
-    "max": 0,
+    "chance": "100%",
+    "min": 10,
+    "max": 10,
     "item_code": "hc",
     "item_type": "item"
   },
@@ -121,9 +121,9 @@
   },
   {
     "id": "consumable_chest_reward_rare",
-    "chance": "0%",
-    "min": 0,
-    "max": 0,
+    "chance": "100%",
+    "min": 20,
+    "max": 20,
     "item_code": "hc",
     "item_type": "item"
   },
@@ -178,8 +178,8 @@
   {
     "id": "consumable_chest_reward_epic",
     "chance": "100%",
-    "min": 5,
-    "max": 10,
+    "min": 30,
+    "max": 30,
     "item_code": "hc",
     "item_type": "item"
   },
@@ -209,7 +209,7 @@
   },
   {
     "id": "consumable_chest_reward_epic",
-    "chance": "100%",
+    "chance": "0%",
     "min": 1,
     "max": 1,
     "item_code": "summon_ticket",
@@ -234,8 +234,8 @@
   {
     "id": "consumable_chest_reward_legendary",
     "chance": "100%",
-    "min": 10,
-    "max": 20,
+    "min": 40,
+    "max": 40,
     "item_code": "hc",
     "item_type": "item"
   },
@@ -265,7 +265,7 @@
   },
   {
     "id": "consumable_chest_reward_legendary",
-    "chance": "100%",
+    "chance": "0%",
     "min": 1,
     "max": 1,
     "item_code": "summon_ticket",
@@ -273,7 +273,7 @@
   },
   {
     "id": "consumable_chest_reward_legendary",
-    "chance": "100%",
+    "chance": "0%",
     "min": 1,
     "max": 1,
     "item_code": "spin_ticket",
