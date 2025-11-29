@@ -18,7 +18,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": "",
     "waves": [
       {
@@ -98,7 +98,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": "",
     "waves": [
       {
@@ -234,7 +234,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": "",
     "waves": [
       {
@@ -440,7 +440,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": "",
     "waves": [
       {
@@ -716,7 +716,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": "",
     "waves": [
       {
@@ -1041,7 +1041,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -1338,7 +1338,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -1656,7 +1656,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -1960,7 +1960,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -2376,7 +2376,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -2764,7 +2764,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -3096,7 +3096,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -3442,7 +3442,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -3760,7 +3760,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -4169,7 +4169,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -4556,7 +4556,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -4636,7 +4636,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -4772,7 +4772,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -4978,7 +4978,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -5254,7 +5254,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -5579,7 +5579,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -5876,7 +5876,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -6194,7 +6194,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -6498,7 +6498,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -6914,7 +6914,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -7302,7 +7302,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": "",
     "waves": [
       {
@@ -7634,7 +7634,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": "",
     "waves": [
       {
@@ -7980,7 +7980,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": "",
     "waves": [
       {
@@ -8298,7 +8298,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": "",
     "waves": [
       {
@@ -8707,7 +8707,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": "",
     "waves": [
       {
@@ -9094,7 +9094,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": "",
     "waves": [
       {
@@ -9174,7 +9174,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": "",
     "waves": [
       {
@@ -9289,7 +9289,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": "",
     "waves": [
       {
@@ -9460,7 +9460,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": "",
     "waves": [
       {
@@ -9687,7 +9687,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": "",
     "waves": [
       {
@@ -9949,7 +9949,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -10176,7 +10176,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -10410,7 +10410,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -10644,7 +10644,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -10941,7 +10941,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -11231,7 +11231,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -11458,7 +11458,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -11678,7 +11678,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -11912,7 +11912,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -12209,7 +12209,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -12499,7 +12499,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -12579,7 +12579,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -12694,7 +12694,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -12865,7 +12865,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -13092,7 +13092,7 @@
     "material_type": "material_all_common_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": "",
     "waves": [
       {
@@ -13354,7 +13354,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -13581,7 +13581,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -13815,7 +13815,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -14049,7 +14049,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -14346,7 +14346,7 @@
     "material_type": "material_all_uncommon_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": "",
     "waves": [
       {
@@ -14636,7 +14636,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": "",
     "waves": [
       {
@@ -14863,7 +14863,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": "",
     "waves": [
       {
@@ -15083,7 +15083,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": "",
     "waves": [
       {
@@ -15317,7 +15317,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": "",
     "waves": [
       {
@@ -15614,7 +15614,7 @@
     "material_type": "material_all_rare_orb",
     "material_amount": 2,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": "",
     "waves": [
       {
