@@ -1,6 +1,15 @@
-[ 
-  "Warrior_Expert_3",
-  "Magician_Expert_1",
-  "Support_Mystic_3"
-]
+{
+  "startDate": "2024-11-01T00:00:00Z",
+  "periodDays": 7,
+  "rotations": [
+    { "label": "Week1", "heroes": ["Warrior_Expert_3","Magician_Expert_1","Support_Mystic_3"] },
+    { "label": "Week2", "heroes": ["Warrior_Expert_3","Magician_Expert_1","Support_Mystic_3"] },
+    { "label": "Week3", "heroes": ["Warrior_Expert_3","Magician_Expert_1","Support_Mystic_3"] },
+    { "label": "Week4", "heroes": ["Warrior_Expert_3","Magician_Expert_1","Support_Mystic_3"] },
+    { "label": "Week5", "heroes": ["Warrior_Expert_3","Magician_Expert_1","Support_Mystic_3"] },
+    { "label": "Week6", "heroes": ["Warrior_Expert_3","Magician_Expert_1","Support_Mystic_3"] },
+    { "label": "Week7", "heroes": ["Warrior_Expert_3","Magician_Expert_1","Support_Mystic_3"] },
+    { "label": "Week8", "heroes": ["Warrior_Expert_3","Magician_Expert_1","Support_Mystic_3"] }
+  ]
+}
 
