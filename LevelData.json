@@ -16,7 +16,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": ""
   },
   {
@@ -36,7 +36,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": ""
   },
   {
@@ -56,7 +56,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": ""
   },
   {
@@ -76,7 +76,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": ""
   },
   {
@@ -96,7 +96,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": ""
   },
   {
@@ -116,7 +116,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -136,7 +136,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -156,7 +156,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -176,7 +176,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -196,7 +196,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -216,7 +216,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -236,7 +236,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -256,7 +256,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -276,7 +276,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -296,7 +296,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -316,7 +316,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -336,7 +336,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -356,7 +356,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -376,7 +376,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -396,7 +396,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -416,7 +416,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -436,7 +436,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -456,7 +456,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -476,7 +476,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -496,7 +496,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -516,7 +516,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": ""
   },
   {
@@ -536,7 +536,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": ""
   },
   {
@@ -556,7 +556,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": ""
   },
   {
@@ -576,7 +576,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": ""
   },
   {
@@ -596,7 +596,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": ""
   },
   {
@@ -616,7 +616,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": ""
   },
   {
@@ -636,7 +636,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": ""
   },
   {
@@ -656,7 +656,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": ""
   },
   {
@@ -676,7 +676,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": ""
   },
   {
@@ -696,7 +696,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_common",
+    "chest_type": "consumable_chest_material_common",
     "hero_reward": ""
   },
   {
@@ -716,7 +716,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -736,7 +736,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -756,7 +756,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -776,7 +776,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -796,7 +796,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -816,7 +816,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -836,7 +836,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -856,7 +856,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -876,7 +876,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -896,7 +896,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -916,7 +916,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -936,7 +936,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -956,7 +956,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -976,7 +976,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -996,7 +996,7 @@
     "material_type": "material_all_common_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_uncommon",
+    "chest_type": "consumable_chest_material_uncommon",
     "hero_reward": ""
   },
   {
@@ -1016,7 +1016,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -1036,7 +1036,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -1056,7 +1056,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -1076,7 +1076,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -1096,7 +1096,7 @@
     "material_type": "material_all_uncommon_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_rare",
+    "chest_type": "consumable_chest_material_rare",
     "hero_reward": ""
   },
   {
@@ -1116,7 +1116,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": ""
   },
   {
@@ -1136,7 +1136,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": ""
   },
   {
@@ -1156,7 +1156,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": ""
   },
   {
@@ -1176,7 +1176,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": ""
   },
   {
@@ -1196,7 +1196,7 @@
     "material_type": "material_all_rare_orb",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_reward_epic",
+    "chest_type": "consumable_chest_material_epic",
     "hero_reward": ""
   }
 ]
