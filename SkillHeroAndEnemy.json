@@ -178,7 +178,7 @@
     "Skill Name": "Taunt",
     "X": "",
     "Y": "",
-    "Z": 3,
+    "Z": 1.5,
     "cooldown": 0
   },
   {
@@ -775,6 +775,13 @@
     "Y": 2,
     "Z": "",
     "cooldown": 10
+  },
+  {
+    "Skill Name": "Ricochet Shot",
+    "X": 100,
+    "Y": 3,
+    "Z": "",
+    "cooldown": 0
   },
   {
     "Skill Name": "Cracked Shot",
