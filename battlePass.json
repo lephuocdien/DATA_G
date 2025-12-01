@@ -13,7 +13,7 @@
     "free_reward_amount": 50,
     "free_reward_type": "hc",
     "paid_reward_amount": 1,
-    "paid_reward_type": "consumable_chest_reward_epic"
+    "paid_reward_type": "consumable_chest_material_epic"
   },
   {
     "tier": 3,
@@ -35,7 +35,7 @@
     "tier": 5,
     "energy spent": 80,
     "free_reward_amount": 1,
-    "free_reward_type": "consumable_chest_reward_uncommon",
+    "free_reward_type": "consumable_chest_material_uncommon",
     "paid_reward_amount": 2,
     "paid_reward_type": "summon_ticket"
   },
@@ -53,7 +53,7 @@
     "free_reward_amount": 2000,
     "free_reward_type": "skill_book",
     "paid_reward_amount": 1,
-    "paid_reward_type": "consumable_chest_reward_legendary"
+    "paid_reward_type": "consumable_chest_material_legendary"
   },
   {
     "tier": 8,
@@ -67,7 +67,7 @@
     "tier": 9,
     "energy spent": 160,
     "free_reward_amount": 1,
-    "free_reward_type": "consumable_chest_reward_rare",
+    "free_reward_type": "consumable_chest_material_rare",
     "paid_reward_amount": 5000,
     "paid_reward_type": "xp_book"
   },
@@ -93,7 +93,7 @@
     "free_reward_amount": 2000,
     "free_reward_type": "xp_book",
     "paid_reward_amount": 1,
-    "paid_reward_type": "consumable_chest_reward_epic"
+    "paid_reward_type": "consumable_chest_material_epic"
   },
   {
     "tier": 13,
@@ -107,7 +107,7 @@
     "tier": 14,
     "energy spent": 260,
     "free_reward_amount": 1,
-    "free_reward_type": "consumable_chest_reward_uncommon",
+    "free_reward_type": "consumable_chest_material_uncommon",
     "paid_reward_amount": 5000,
     "paid_reward_type": "skill_book"
   },
@@ -133,13 +133,13 @@
     "free_reward_amount": 50,
     "free_reward_type": "hc",
     "paid_reward_amount": 1,
-    "paid_reward_type": "consumable_chest_reward_legendary"
+    "paid_reward_type": "consumable_chest_material_legendary"
   },
   {
     "tier": 18,
     "energy spent": 340,
     "free_reward_amount": 1,
-    "free_reward_type": "consumable_chest_reward_rare",
+    "free_reward_type": "consumable_chest_material_rare",
     "paid_reward_amount": 5000,
     "paid_reward_type": "sc"
   },
@@ -173,7 +173,7 @@
     "free_reward_amount": 50,
     "free_reward_type": "hc",
     "paid_reward_amount": 1,
-    "paid_reward_type": "consumable_chest_reward_epic"
+    "paid_reward_type": "consumable_chest_equipment_epic"
   },
   {
     "tier": 23,
@@ -195,7 +195,7 @@
     "tier": 25,
     "energy spent": 540,
     "free_reward_amount": 1,
-    "free_reward_type": "consumable_chest_reward_uncommon",
+    "free_reward_type": "consumable_chest_equipment_uncommon",
     "paid_reward_amount": 2,
     "paid_reward_type": "summon_ticket"
   },
@@ -213,7 +213,7 @@
     "free_reward_amount": 2000,
     "free_reward_type": "skill_book",
     "paid_reward_amount": 1,
-    "paid_reward_type": "consumable_chest_reward_legendary"
+    "paid_reward_type": "consumable_chest_equipment_legendary"
   },
   {
     "tier": 28,
@@ -227,7 +227,7 @@
     "tier": 29,
     "energy spent": 660,
     "free_reward_amount": 1,
-    "free_reward_type": "consumable_chest_reward_rare",
+    "free_reward_type": "consumable_chest_equipment_rare",
     "paid_reward_amount": 5000,
     "paid_reward_type": "xp_book"
   },
@@ -253,7 +253,7 @@
     "free_reward_amount": 2000,
     "free_reward_type": "xp_book",
     "paid_reward_amount": 1,
-    "paid_reward_type": "consumable_chest_reward_epic"
+    "paid_reward_type": "consumable_chest_equipment_epic"
   },
   {
     "tier": 33,
@@ -267,7 +267,7 @@
     "tier": 34,
     "energy spent": 810,
     "free_reward_amount": 1,
-    "free_reward_type": "consumable_chest_reward_uncommon",
+    "free_reward_type": "consumable_chest_equipment_rare",
     "paid_reward_amount": 5000,
     "paid_reward_type": "skill_book"
   },
@@ -293,13 +293,13 @@
     "free_reward_amount": 50,
     "free_reward_type": "hc",
     "paid_reward_amount": 1,
-    "paid_reward_type": "consumable_chest_reward_legendary"
+    "paid_reward_type": "consumable_chest_equipment_legendary"
   },
   {
     "tier": 38,
     "energy spent": 930,
     "free_reward_amount": 1,
-    "free_reward_type": "consumable_chest_reward_rare",
+    "free_reward_type": "consumable_chest_equipment_epic",
     "paid_reward_amount": 5000,
     "paid_reward_type": "sc"
   },
