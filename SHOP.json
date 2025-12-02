@@ -839,7 +839,7 @@
     "igp_expert_hero_4": {
       "product_id": "igp_expert_hero_4",
       "category": "exchange_hero",
-      "status": "active",
+      "status": "inactive",
       "type": "hero",
       "price_amount": 100,
       "price_type": "summon_pts",
@@ -859,7 +859,7 @@
     "igp_expert_hero_5": {
       "product_id": "igp_expert_hero_5",
       "category": "exchange_hero",
-      "status": "active",
+      "status": "inactive",
       "type": "hero",
       "price_amount": 100,
       "price_type": "summon_pts",
@@ -879,7 +879,7 @@
     "igp_expert_hero_6": {
       "product_id": "igp_expert_hero_6",
       "category": "exchange_hero",
-      "status": "active",
+      "status": "inactive",
       "type": "hero",
       "price_amount": 100,
       "price_type": "summon_pts",
