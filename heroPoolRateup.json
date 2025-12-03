@@ -38,5 +38,9 @@
   {
     "id": "Warrior_Mystic_4",
     "rarity": "mystic"
+  },
+  {
+    "id": "Tanker_Expert_1",
+    "rarity": "expert"
   }
 ]
