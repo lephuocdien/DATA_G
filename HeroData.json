@@ -233,7 +233,7 @@
     "defense": 115,
     "range": 3.2,
     "attack": 132,
-    "attack_speed": 1.1,
+    "attack_speed": 0.5,
     "basic_skill": "Rain of Arrows",
     "passive_skill": "Shadow Power",
     "auto_skill": "Phantom Shot",
@@ -1000,3 +1000,4 @@
     "combat_power": 1815
   }
 ]
+
