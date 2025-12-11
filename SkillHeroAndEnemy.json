@@ -821,8 +821,8 @@
   {
     "Skill Name": "Phantom Shot",
     "X": 200,
-    "Y": "",
-    "Z": 8,
+    "Y": 8,
+    "Z": "",
     "cooldown": 18
   },
   {
@@ -1407,3 +1407,4 @@
     "cooldown": 8
   }
 ]
+
