@@ -82,7 +82,8 @@
     "life_point_penalty": 99,
     "combat_power": 1469,
     "normal_skill": "Bone Crusher",
-    "power_skill": "Crater Stomp"
+    "power_skill": "Crater Stomp",
+    "power_skill_2":"Tremor Smash"
   },
   {
     "id": "Fly_Rush_Normal_2",
@@ -816,3 +817,4 @@
     "power_skill": "Flare Dash"
   }
 ]
+
