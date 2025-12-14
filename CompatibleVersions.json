@@ -1,6 +1,5 @@
 {
-  "compatibleClientVersions": [
-    "0.0.9",
+  "compatibleClientVersions": [   
     "0.1.0"
   ]
 }
