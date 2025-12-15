@@ -6,7 +6,7 @@
     "Z": "",
     "AoE": 2,
     "Energy": 15,
-    "Unlock At": 1
+    "Rarity": "Novice"
   },
   {
     "Power Card Name": "Guardian Light",
@@ -15,7 +15,7 @@
     "Z": "",
     "AoE": 99,
     "Energy": 20,
-    "Unlock At": 3
+    "Rarity": "Novice"
   },
   {
     "Power Card Name": "Flame Shield",
@@ -24,7 +24,7 @@
     "Z": "",
     "AoE": 99,
     "Energy": 20,
-    "Unlock At": 6
+    "Rarity": "Novice"
   },
   {
     "Power Card Name": "Quick Slash",
@@ -33,7 +33,7 @@
     "Z": "",
     "AoE": 0,
     "Energy": 10,
-    "Unlock At": 9
+    "Rarity": "Novice"
   },
   {
     "Power Card Name": "Flame Trap",
@@ -42,7 +42,7 @@
     "Z": "",
     "AoE": 2,
     "Energy": 10,
-    "Unlock At": 12
+    "Rarity": "Expert"
   },
   {
     "Power Card Name": "Frost Wave",
@@ -51,7 +51,7 @@
     "Z": 3,
     "AoE": 2,
     "Energy": 20,
-    "Unlock At": 15
+    "Rarity": "Expert"
   },
   {
     "Power Card Name": "Chain Bolt",
@@ -60,7 +60,7 @@
     "Z": "",
     "AoE": 2,
     "Energy": 20,
-    "Unlock At": 18
+    "Rarity": "Mystic"
   },
   {
     "Power Card Name": "Iron Guard",
@@ -69,7 +69,7 @@
     "Z": 8,
     "AoE": 99,
     "Energy": 20,
-    "Unlock At": 21
+    "Rarity": "Expert"
   },
   {
     "Power Card Name": "Wind Push",
@@ -78,7 +78,7 @@
     "Z": "",
     "AoE": 1,
     "Energy": 20,
-    "Unlock At": 24
+    "Rarity": "Mystic"
   },
   {
     "Power Card Name": "Sun Heal",
@@ -87,7 +87,7 @@
     "Z": 8,
     "AoE": 99,
     "Energy": 20,
-    "Unlock At": 27
+    "Rarity": "Mystic"
   },
   {
     "Power Card Name": "Multi Strike",
@@ -96,7 +96,7 @@
     "Z": "",
     "AoE": 0,
     "Energy": 20,
-    "Unlock At": 30
+    "Rarity": "Mystic"
   },
   {
     "Power Card Name": "Shock Bolt",
@@ -105,7 +105,7 @@
     "Z": 3,
     "AoE": 2,
     "Energy": 20,
-    "Unlock At": 33
+    "Rarity": "Mystic"
   },
   {
     "Power Card Name": "Battle Boost",
@@ -114,16 +114,16 @@
     "Z": 8,
     "AoE": 99,
     "Energy": 20,
-    "Unlock At": 36
+    "Rarity": "Expert"
   },
   {
-    "Power Card Name": "Fast Travel",
+    "Power Card Name": "Windstride",
     "X": 2,
     "Y": "",
     "Z": "",
     "AoE": 0,
     "Energy": 40,
-    "Unlock At": 39
+    "Rarity": "Mystic"
   },
   {
     "Power Card Name": "Life Saver",
@@ -132,6 +132,6 @@
     "Z": "",
     "AoE": 0,
     "Energy": 50,
-    "Unlock At": 42
+    "Rarity": "Mystic"
   }
 ]
