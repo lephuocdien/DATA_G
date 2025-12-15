@@ -12,11 +12,11 @@
     "exp": 430,
     "sc": 5300,
     "xp_book": 4300,
-    "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "material_type": "material_warrior_common_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_common",
+    "chest_type": "consumable_chest_reward_common",
     "hero_reward": ""
   },
   {
@@ -32,11 +32,11 @@
     "exp": 440,
     "sc": 5400,
     "xp_book": 4400,
-    "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "material_type": "material_supporter_common_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_common",
+    "chest_type": "consumable_chest_reward_common",
     "hero_reward": ""
   },
   {
@@ -52,11 +52,11 @@
     "exp": 450,
     "sc": 5500,
     "xp_book": 4500,
-    "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "material_type": "material_shooter_common_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_common",
+    "chest_type": "consumable_chest_reward_common",
     "hero_reward": ""
   },
   {
@@ -72,11 +72,11 @@
     "exp": 460,
     "sc": 5600,
     "xp_book": 4600,
-    "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "material_type": "material_tanker_common_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_common",
+    "chest_type": "consumable_chest_reward_common",
     "hero_reward": ""
   },
   {
@@ -92,11 +92,11 @@
     "exp": 470,
     "sc": 5700,
     "xp_book": 4700,
-    "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "material_type": "material_magician_common_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_common",
+    "chest_type": "consumable_chest_reward_common",
     "hero_reward": ""
   },
   {
@@ -112,11 +112,11 @@
     "exp": 480,
     "sc": 5800,
     "xp_book": 4800,
-    "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "material_type": "material_warrior_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -132,11 +132,11 @@
     "exp": 490,
     "sc": 5900,
     "xp_book": 4900,
-    "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "material_type": "material_supporter_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -152,11 +152,11 @@
     "exp": 500,
     "sc": 6000,
     "xp_book": 5000,
-    "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "material_type": "material_shooter_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -172,11 +172,11 @@
     "exp": 510,
     "sc": 6100,
     "xp_book": 5100,
-    "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "material_type": "material_tanker_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -192,11 +192,11 @@
     "exp": 520,
     "sc": 6200,
     "xp_book": 5200,
-    "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "material_type": "material_magician_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -212,11 +212,11 @@
     "exp": 530,
     "sc": 6300,
     "xp_book": 5300,
-    "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "material_type": "material_warrior_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -232,11 +232,11 @@
     "exp": 540,
     "sc": 6400,
     "xp_book": 5400,
-    "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "material_type": "material_supporter_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -252,11 +252,11 @@
     "exp": 550,
     "sc": 6500,
     "xp_book": 5500,
-    "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "material_type": "material_shooter_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -272,11 +272,11 @@
     "exp": 560,
     "sc": 6600,
     "xp_book": 5600,
-    "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "material_type": "material_tanker_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -292,11 +292,11 @@
     "exp": 570,
     "sc": 6700,
     "xp_book": 5700,
-    "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "material_type": "material_magician_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -313,10 +313,10 @@
     "sc": 8000,
     "xp_book": 6500,
     "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_type": "material_warrior_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -333,10 +333,10 @@
     "sc": 8100,
     "xp_book": 6600,
     "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_type": "material_supporter_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -353,10 +353,10 @@
     "sc": 8300,
     "xp_book": 6800,
     "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_type": "material_shooter_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -373,10 +373,10 @@
     "sc": 8400,
     "xp_book": 6900,
     "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_type": "material_tanker_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -393,10 +393,10 @@
     "sc": 8600,
     "xp_book": 7100,
     "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_type": "material_magician_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -413,10 +413,10 @@
     "sc": 8700,
     "xp_book": 7200,
     "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_type": "material_warrior_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -433,10 +433,10 @@
     "sc": 8900,
     "xp_book": 7400,
     "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_type": "material_supporter_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -453,10 +453,10 @@
     "sc": 9000,
     "xp_book": 7500,
     "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_type": "material_shooter_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -473,10 +473,10 @@
     "sc": 9200,
     "xp_book": 7700,
     "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_type": "material_tanker_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -493,10 +493,10 @@
     "sc": 9300,
     "xp_book": 7800,
     "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_type": "material_magician_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -513,10 +513,10 @@
     "sc": 9500,
     "xp_book": 8000,
     "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_type": "material_warrior_epic_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_epic",
+    "chest_type": "consumable_chest_reward_epic",
     "hero_reward": ""
   },
   {
@@ -533,10 +533,10 @@
     "sc": 9600,
     "xp_book": 8100,
     "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_type": "material_supporter_epic_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_epic",
+    "chest_type": "consumable_chest_reward_epic",
     "hero_reward": ""
   },
   {
@@ -553,10 +553,10 @@
     "sc": 9800,
     "xp_book": 8300,
     "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_type": "material_shooter_epic_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_epic",
+    "chest_type": "consumable_chest_reward_epic",
     "hero_reward": ""
   },
   {
@@ -573,10 +573,10 @@
     "sc": 9900,
     "xp_book": 8400,
     "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_type": "material_tanker_epic_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_epic",
+    "chest_type": "consumable_chest_reward_epic",
     "hero_reward": ""
   },
   {
@@ -593,10 +593,10 @@
     "sc": 10100,
     "xp_book": 8600,
     "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_type": "material_magician_epic_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_epic",
+    "chest_type": "consumable_chest_reward_epic",
     "hero_reward": ""
   },
   {
@@ -612,11 +612,11 @@
     "exp": 450,
     "sc": 5500,
     "xp_book": 4500,
-    "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "material_type": "material_warrior_common_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_common",
+    "chest_type": "consumable_chest_reward_common",
     "hero_reward": ""
   },
   {
@@ -632,11 +632,11 @@
     "exp": 460,
     "sc": 5600,
     "xp_book": 4600,
-    "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "material_type": "material_supporter_common_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_common",
+    "chest_type": "consumable_chest_reward_common",
     "hero_reward": ""
   },
   {
@@ -652,11 +652,11 @@
     "exp": 470,
     "sc": 5700,
     "xp_book": 4700,
-    "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "material_type": "material_shooter_common_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_common",
+    "chest_type": "consumable_chest_reward_common",
     "hero_reward": ""
   },
   {
@@ -672,11 +672,11 @@
     "exp": 480,
     "sc": 5800,
     "xp_book": 4800,
-    "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "material_type": "material_tanker_common_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_common",
+    "chest_type": "consumable_chest_reward_common",
     "hero_reward": ""
   },
   {
@@ -692,11 +692,11 @@
     "exp": 490,
     "sc": 5900,
     "xp_book": 4900,
-    "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_amount": 1,
+    "material_type": "material_magician_common_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_common",
+    "chest_type": "consumable_chest_reward_common",
     "hero_reward": ""
   },
   {
@@ -712,11 +712,11 @@
     "exp": 500,
     "sc": 6000,
     "xp_book": 5000,
-    "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "material_type": "material_warrior_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -732,11 +732,11 @@
     "exp": 510,
     "sc": 6100,
     "xp_book": 5100,
-    "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "material_type": "material_supporter_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -752,11 +752,11 @@
     "exp": 520,
     "sc": 6200,
     "xp_book": 5200,
-    "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "material_type": "material_shooter_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -772,11 +772,11 @@
     "exp": 530,
     "sc": 6300,
     "xp_book": 5300,
-    "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "material_type": "material_tanker_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -792,11 +792,11 @@
     "exp": 540,
     "sc": 6400,
     "xp_book": 5400,
-    "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_amount": 1,
+    "material_type": "material_magician_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -812,11 +812,11 @@
     "exp": 550,
     "sc": 6500,
     "xp_book": 5500,
-    "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "material_type": "material_warrior_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -832,11 +832,11 @@
     "exp": 560,
     "sc": 6600,
     "xp_book": 5600,
-    "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "material_type": "material_supporter_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -852,11 +852,11 @@
     "exp": 570,
     "sc": 6700,
     "xp_book": 5700,
-    "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "material_type": "material_shooter_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -872,11 +872,11 @@
     "exp": 580,
     "sc": 6800,
     "xp_book": 5800,
-    "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "material_type": "material_tanker_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -892,11 +892,11 @@
     "exp": 590,
     "sc": 6900,
     "xp_book": 5900,
-    "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_amount": 1,
+    "material_type": "material_magician_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -913,10 +913,10 @@
     "sc": 8300,
     "xp_book": 6800,
     "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_type": "material_warrior_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -933,10 +933,10 @@
     "sc": 8400,
     "xp_book": 6900,
     "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_type": "material_supporter_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -953,10 +953,10 @@
     "sc": 8600,
     "xp_book": 7100,
     "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_type": "material_shooter_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -973,10 +973,10 @@
     "sc": 8700,
     "xp_book": 7200,
     "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_type": "material_tanker_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -993,10 +993,10 @@
     "sc": 8900,
     "xp_book": 7400,
     "material_amount": 2,
-    "material_type": "material_all_common_orb",
+    "material_type": "material_magician_uncommon_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_uncommon",
+    "chest_type": "consumable_chest_reward_uncommon",
     "hero_reward": ""
   },
   {
@@ -1013,10 +1013,10 @@
     "sc": 9000,
     "xp_book": 7500,
     "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_type": "material_warrior_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -1033,10 +1033,10 @@
     "sc": 9200,
     "xp_book": 7700,
     "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_type": "material_supporter_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -1053,10 +1053,10 @@
     "sc": 9300,
     "xp_book": 7800,
     "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_type": "material_shooter_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -1073,10 +1073,10 @@
     "sc": 9500,
     "xp_book": 8000,
     "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_type": "material_tanker_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -1093,10 +1093,10 @@
     "sc": 9600,
     "xp_book": 8100,
     "material_amount": 2,
-    "material_type": "material_all_uncommon_orb",
+    "material_type": "material_magician_rare_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_rare",
+    "chest_type": "consumable_chest_reward_rare",
     "hero_reward": ""
   },
   {
@@ -1113,10 +1113,10 @@
     "sc": 9800,
     "xp_book": 8300,
     "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_type": "material_warrior_epic_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_epic",
+    "chest_type": "consumable_chest_reward_epic",
     "hero_reward": ""
   },
   {
@@ -1133,10 +1133,10 @@
     "sc": 9900,
     "xp_book": 8400,
     "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_type": "material_supporter_epic_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_epic",
+    "chest_type": "consumable_chest_reward_epic",
     "hero_reward": ""
   },
   {
@@ -1153,10 +1153,10 @@
     "sc": 10100,
     "xp_book": 8600,
     "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_type": "material_shooter_epic_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_epic",
+    "chest_type": "consumable_chest_reward_epic",
     "hero_reward": ""
   },
   {
@@ -1173,10 +1173,10 @@
     "sc": 10200,
     "xp_book": 8700,
     "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_type": "material_tanker_epic_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_epic",
+    "chest_type": "consumable_chest_reward_epic",
     "hero_reward": ""
   },
   {
@@ -1193,10 +1193,10 @@
     "sc": 10400,
     "xp_book": 8900,
     "material_amount": 2,
-    "material_type": "material_all_rare_orb",
+    "material_type": "material_magician_epic_1",
     "hc": 20,
     "chest_amount": 1,
-    "chest_type": "consumable_chest_material_epic",
+    "chest_type": "consumable_chest_reward_epic",
     "hero_reward": ""
   }
 ]
