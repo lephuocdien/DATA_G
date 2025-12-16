@@ -2,23 +2,31 @@
   "target_banner": [
     {
       "parameter": "mystic_gurantee_amount",
-      "value": 15
+      "value": 40
     },
     {
       "parameter": "expert_gurantee_amount",
-      "value": 3
+      "value": 10
     },
     {
       "parameter": "mystic_rate",
-      "value": 1
+      "value": 2
     },
     {
       "parameter": "expert_rate",
       "value": 9
     },
     {
+      "parameter": "expert_power_card_rate",
+      "value": 9
+    },
+    {
       "parameter": "novice_rate",
-      "value": 90
+      "value": 40
+    },
+    {
+      "parameter": "novice_power_card_rate",
+      "value": 40
     },
     {
       "parameter": "valid_elemental",
@@ -43,6 +51,10 @@
       "value": 0.25
     },
     {
+      "parameter": "mystic_power_card_rate",
+      "value": 1
+    },
+    {
       "parameter": "expert_rate_normal",
       "value": 6.75
     },
@@ -51,8 +63,16 @@
       "value": 2.25
     },
     {
+      "parameter": "expert_power_card_rate",
+      "value": 9
+    },
+    {
       "parameter": "novice_rate",
-      "value": 90
+      "value": 40
+    },
+    {
+      "parameter": "novice_power_card_rate",
+      "value": 40
     },
     {
       "parameter": "valid_elemental",
@@ -102,6 +122,10 @@
       "value": 1
     },
     {
+      "parameter": "mystic_power_card_rate",
+      "value": 1
+    },
+    {
       "parameter": "expert_rate_1",
       "value": 4.5
     },
@@ -110,20 +134,28 @@
       "value": 4.5
     },
     {
+      "parameter": "expert_power_card_rate",
+      "value": 9
+    },
+    {
       "parameter": "novice_rate",
-      "value": 90
+      "value": 40
+    },
+    {
+      "parameter": "novice_power_card_rate",
+      "value": 40
     },
     {
       "parameter": "mystic_hero_id",
-      "value": "Shooter_Mystic_4"
+      "value": "hero_code"
     },
     {
       "parameter": "expert_hero_id_1",
-      "value": "Warrior_Expert_2"
+      "value": "hero_code"
     },
     {
       "parameter": "expert_hero_id_2",
-      "value": "Warrior_Expert_1"
+      "value": "hero_code"
     },
     {
       "parameter": "day_remaining",
