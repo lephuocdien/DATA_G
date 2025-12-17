@@ -5,7 +5,7 @@
     "Y": "",
     "Z": "",
     "AoE": 2,
-    "Energy": 15,
+    "Energy": 6,
     "Rarity": "Novice"
   },
   {
@@ -14,7 +14,7 @@
     "Y": "",
     "Z": "",
     "AoE": 99,
-    "Energy": 20,
+    "Energy": 8,
     "Rarity": "Novice"
   },
   {
@@ -23,7 +23,7 @@
     "Y": "",
     "Z": "",
     "AoE": 99,
-    "Energy": 20,
+    "Energy": 8,
     "Rarity": "Novice"
   },
   {
@@ -32,7 +32,7 @@
     "Y": "",
     "Z": "",
     "AoE": 0,
-    "Energy": 10,
+    "Energy": 4,
     "Rarity": "Novice"
   },
   {
@@ -41,7 +41,7 @@
     "Y": "",
     "Z": "",
     "AoE": 2,
-    "Energy": 10,
+    "Energy": 4,
     "Rarity": "Expert"
   },
   {
@@ -50,7 +50,7 @@
     "Y": "",
     "Z": 3,
     "AoE": 2,
-    "Energy": 20,
+    "Energy": 8,
     "Rarity": "Expert"
   },
   {
@@ -59,7 +59,7 @@
     "Y": 3,
     "Z": "",
     "AoE": 2,
-    "Energy": 20,
+    "Energy": 8,
     "Rarity": "Mystic"
   },
   {
@@ -68,7 +68,7 @@
     "Y": "",
     "Z": 8,
     "AoE": 99,
-    "Energy": 20,
+    "Energy": 8,
     "Rarity": "Expert"
   },
   {
@@ -77,7 +77,7 @@
     "Y": "",
     "Z": "",
     "AoE": 1,
-    "Energy": 20,
+    "Energy": 8,
     "Rarity": "Mystic"
   },
   {
@@ -86,7 +86,7 @@
     "Y": "",
     "Z": 8,
     "AoE": 99,
-    "Energy": 20,
+    "Energy": 8,
     "Rarity": "Mystic"
   },
   {
@@ -95,7 +95,7 @@
     "Y": 10,
     "Z": "",
     "AoE": 0,
-    "Energy": 20,
+    "Energy": 8,
     "Rarity": "Mystic"
   },
   {
@@ -104,7 +104,7 @@
     "Y": "",
     "Z": 3,
     "AoE": 2,
-    "Energy": 20,
+    "Energy": 8,
     "Rarity": "Mystic"
   },
   {
@@ -113,7 +113,7 @@
     "Y": "",
     "Z": 8,
     "AoE": 99,
-    "Energy": 20,
+    "Energy": 8,
     "Rarity": "Expert"
   },
   {
@@ -122,7 +122,7 @@
     "Y": "",
     "Z": "",
     "AoE": 0,
-    "Energy": 40,
+    "Energy": 16,
     "Rarity": "Mystic"
   },
   {
@@ -131,7 +131,7 @@
     "Y": "",
     "Z": "",
     "AoE": 0,
-    "Energy": 50,
+    "Energy": 20,
     "Rarity": "Mystic"
   }
 ]
