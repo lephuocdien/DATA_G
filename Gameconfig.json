@@ -34,7 +34,13 @@
   "magic_bridge_reactive_interval_min": 10,
   "magic_bridge_active_duration_max": 30,
   "magic_bridge_reactive_interval_max": 15,
-  "timeUnderContinuousAttack":8
+  "timeUnderContinuousAttack":8,
+  "huntingModeMaxTokenInDay":3,
+  "huntingModePercentRewardAfterLevel20":50,
+  "huntingModeEnergyStar2":30,
+  "huntingModeEnergyStar3":50
+  
 }
+
 
 
