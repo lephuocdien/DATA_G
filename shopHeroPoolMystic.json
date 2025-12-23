@@ -2,14 +2,14 @@
   "startDate": "2024-11-01T00:00:00Z",
   "periodDays": 7,
   "rotations": [
-    { "label": "Week1", "heroes": ["Magician_Mystic_1","Shooter_Mystic_4"]},
-    { "label": "Week2", "heroes": ["Magician_Mystic_1","Shooter_Mystic_4"]},
-    { "label": "Week3", "heroes": ["Magician_Mystic_1","Shooter_Mystic_4"]},
-    { "label": "Week4", "heroes": ["Magician_Mystic_1","Shooter_Mystic_4"]},
-    { "label": "Week5", "heroes": ["Magician_Mystic_1","Shooter_Mystic_4"]},
-    { "label": "Week6", "heroes": ["Magician_Mystic_1","Shooter_Mystic_4"]},
-    { "label": "Week7", "heroes": ["Magician_Mystic_1","Shooter_Mystic_4"]},
-    { "label": "Week8", "heroes": ["Magician_Mystic_1","Shooter_Mystic_4"]}
+    { "label": "Week1", "heroes": ["fragment_Tanker_Mystic_3","fragment_Magician_Mystic_1"]},
+    { "label": "Week2", "heroes": ["fragment_Tanker_Mystic_3","fragment_Magician_Mystic_1"]},
+    { "label": "Week3", "heroes": ["fragment_Tanker_Mystic_3","fragment_Magician_Mystic_1"]},
+    { "label": "Week4", "heroes": ["fragment_Tanker_Mystic_3","fragment_Magician_Mystic_1"]},
+    { "label": "Week5", "heroes": ["fragment_Tanker_Mystic_3","fragment_Magician_Mystic_1"]},
+    { "label": "Week6", "heroes": ["fragment_Tanker_Mystic_3","fragment_Magician_Mystic_1"]},
+    { "label": "Week7", "heroes": ["fragment_Tanker_Mystic_3","fragment_Magician_Mystic_1"]},
+    { "label": "Week8", "heroes": ["fragment_Tanker_Mystic_3","fragment_Magician_Mystic_1"]}
   ]
 }
 
