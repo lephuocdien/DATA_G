@@ -738,9 +738,9 @@
     },
     "igp_mystic_hero_1": {
       "product_id": "igp_mystic_hero_1",
-      "category": "exchange_hero",
+      "category": "exchange_fragment",
       "status": "active",
-      "type": "hero",
+      "type": "hero fragment",
       "price_amount": 100,
       "price_type": "summon_pts",
       "limit": 1,
@@ -751,16 +751,16 @@
         {
           "valid_duration_in_days": null,
           "item_quantity": 1,
-          "item_code": "random_mystic_hero",
+          "item_code": "random_mystic_hero_fragment",
           "item_promo_quantity": null
         }
       ]
     },
     "igp_mystic_hero_2": {
       "product_id": "igp_mystic_hero_2",
-      "category": "exchange_hero",
+      "category": "exchange_fragment",
       "status": "active",
-      "type": "hero",
+      "type": "hero fragment",
       "price_amount": 100,
       "price_type": "summon_pts",
       "limit": 1,
@@ -771,16 +771,56 @@
         {
           "valid_duration_in_days": null,
           "item_quantity": 1,
-          "item_code": "random_mystic_hero",
+          "item_code": "random_mystic_hero_fragment",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_mystic_card_1": {
+      "product_id": "igp_mystic_card_1",
+      "category": "exchange_fragment",
+      "status": "active",
+      "type": "card fragment",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "random_mystic_card_fragment",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_mystic_card_2": {
+      "product_id": "igp_mystic_card_2",
+      "category": "exchange_fragment",
+      "status": "active",
+      "type": "card fragment",
+      "price_amount": 100,
+      "price_type": "summon_pts",
+      "limit": 1,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "random_mystic_card_fragment",
           "item_promo_quantity": null
         }
       ]
     },
     "igp_expert_hero_1": {
       "product_id": "igp_expert_hero_1",
-      "category": "exchange_hero",
+      "category": "exchange_fragment",
       "status": "active",
-      "type": "hero",
+      "type": "hero fragment",
       "price_amount": 100,
       "price_type": "summon_pts",
       "limit": 1,
@@ -791,16 +831,16 @@
         {
           "valid_duration_in_days": null,
           "item_quantity": 1,
-          "item_code": "random_expert_hero",
+          "item_code": "random_expert_hero_fragment",
           "item_promo_quantity": null
         }
       ]
     },
     "igp_expert_hero_2": {
       "product_id": "igp_expert_hero_2",
-      "category": "exchange_hero",
+      "category": "exchange_fragment",
       "status": "active",
-      "type": "hero",
+      "type": "hero fragment",
       "price_amount": 100,
       "price_type": "summon_pts",
       "limit": 1,
@@ -811,16 +851,16 @@
         {
           "valid_duration_in_days": null,
           "item_quantity": 1,
-          "item_code": "random_expert_hero",
+          "item_code": "random_expert_hero_fragment",
           "item_promo_quantity": null
         }
       ]
     },
-    "igp_expert_hero_3": {
-      "product_id": "igp_expert_hero_3",
-      "category": "exchange_hero",
+    "igp_expert_card_1": {
+      "product_id": "igp_expert_card_1",
+      "category": "exchange_fragment",
       "status": "active",
-      "type": "hero",
+      "type": "card fragment",
       "price_amount": 100,
       "price_type": "summon_pts",
       "limit": 1,
@@ -831,16 +871,16 @@
         {
           "valid_duration_in_days": null,
           "item_quantity": 1,
-          "item_code": "random_expert_hero",
+          "item_code": "random_expert_card_fragment",
           "item_promo_quantity": null
         }
       ]
     },
-    "igp_expert_hero_4": {
-      "product_id": "igp_expert_hero_4",
-      "category": "exchange_hero",
-      "status": "inactive",
-      "type": "hero",
+    "igp_expert_card_2": {
+      "product_id": "igp_expert_card_2",
+      "category": "exchange_fragment",
+      "status": "active",
+      "type": "card fragment",
       "price_amount": 100,
       "price_type": "summon_pts",
       "limit": 1,
@@ -851,47 +891,7 @@
         {
           "valid_duration_in_days": null,
           "item_quantity": 1,
-          "item_code": "random_expert_hero",
-          "item_promo_quantity": null
-        }
-      ]
-    },
-    "igp_expert_hero_5": {
-      "product_id": "igp_expert_hero_5",
-      "category": "exchange_hero",
-      "status": "inactive",
-      "type": "hero",
-      "price_amount": 100,
-      "price_type": "summon_pts",
-      "limit": 1,
-      "reset_limit_interval": 7,
-      "promo_price": "",
-      "promo_limit": "",
-      "rewards": [
-        {
-          "valid_duration_in_days": null,
-          "item_quantity": 1,
-          "item_code": "random_expert_hero",
-          "item_promo_quantity": null
-        }
-      ]
-    },
-    "igp_expert_hero_6": {
-      "product_id": "igp_expert_hero_6",
-      "category": "exchange_hero",
-      "status": "inactive",
-      "type": "hero",
-      "price_amount": 100,
-      "price_type": "summon_pts",
-      "limit": 1,
-      "reset_limit_interval": 7,
-      "promo_price": "",
-      "promo_limit": "",
-      "rewards": [
-        {
-          "valid_duration_in_days": null,
-          "item_quantity": 1,
-          "item_code": "random_expert_hero",
+          "item_code": "random_expert_card_fragment",
           "item_promo_quantity": null
         }
       ]

@@ -1,0 +1,15 @@
+{
+  "startDate": "2024-11-01T00:00:00Z",
+  "periodDays": 7,
+  "rotations": [
+    { "label": "Week1", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
+    { "label": "Week2", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
+    { "label": "Week3", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
+    { "label": "Week4", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
+    { "label": "Week5", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
+    { "label": "Week6", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
+    { "label": "Week7", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
+    { "label": "Week8", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] }
+  ]
+}
+
