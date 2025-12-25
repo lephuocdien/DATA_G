@@ -38,9 +38,16 @@
   "huntingModeMaxTokenInDay":3,
   "huntingModePercentRewardAfterLevel20":50,
   "huntingModeEnergyStar2":30,
-  "huntingModeEnergyStar3":50
+  "huntingModeEnergyStar3":50,
+  "power_card_awaken_cost_star_1":60,
+  "power_card_awaken_cost_star_2":90,
+  "power_card_awaken_cost_star_3":120,
+  "power_card_awaken_cost_star_4":150,
+  "power_card_awaken_cost_star_5":180,
+  "power_card_fragment_duplicated":60
   
 }
+
 
 
 
