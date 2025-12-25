@@ -1,28 +1,28 @@
 [
   {
     "day": 1,
-    "reward_amount": 4000,
-    "reward_type": "sc"
-  },
-  {
-    "day": 2,
     "reward_amount": 2,
     "reward_type": "summon_ticket"
   },
   {
-    "day": 3,
-    "reward_amount": 10000,
-    "reward_type": "xp_book"
-  },
-  {
-    "day": 4,
+    "day": 2,
     "reward_amount": 3,
     "reward_type": "summon_ticket"
   },
   {
+    "day": 3,
+    "reward_amount": 5,
+    "reward_type": "summon_ticket"
+  },
+  {
+    "day": 4,
+    "reward_amount": 2,
+    "reward_type": "summon_ticket"
+  },
+  {
     "day": 5,
-    "reward_amount": 10000,
-    "reward_type": "skill_book"
+    "reward_amount": 3,
+    "reward_type": "summon_ticket"
   },
   {
     "day": 6,
