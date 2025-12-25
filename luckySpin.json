@@ -27,13 +27,13 @@
     },
     {
       "slot": 5,
-      "reward_amount": 8000,
+      "reward_amount": 5000,
       "reward_type": "xp_book",
       "rate": 10
     },
     {
       "slot": 6,
-      "reward_amount": 3000,
+      "reward_amount": 5000,
       "reward_type": "skill_book",
       "rate": 10
     },
@@ -58,4 +58,5 @@
     }
   ]
 }
+
 
