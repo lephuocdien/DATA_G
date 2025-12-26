@@ -64,7 +64,7 @@
         "CurrencyItemDatas": [
             {
                 "currencyType": "sc",
-                "amount": 0
+                "amount": 150
             },
             {
                 "currencyType": "hc",
@@ -76,7 +76,7 @@
             },
             {
                 "currencyType": "xp_book",
-                "amount": 0
+                "amount": 200
             },
             {
                 "currencyType": "skill_book",
@@ -84,7 +84,7 @@
             },
             {
                 "currencyType": "summon_ticket",
-                "amount": 1
+                "amount": 0
             },
             {
                 "currencyType": "spin_ticket",
@@ -103,6 +103,7 @@
     },
     "playerLevel": 1
 }
+
 
 
 
