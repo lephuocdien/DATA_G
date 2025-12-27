@@ -64,7 +64,7 @@
   },
   {
     "Skill Name": "Arcane Burst",
-    "X": 130,
+    "X": 115,
     "Y": "",
     "Z": "",
     "cooldown": 0
@@ -409,7 +409,7 @@
     "Skill Name": "Curse Mark",
     "X": "",
     "Y": 10,
-    "Z": 3,
+    "Z": 2,
     "cooldown": 0
   },
   {
@@ -701,8 +701,8 @@
   },
   {
     "Skill Name": "Phantom Grasp",
-    "X": 60,
-    "Y": 25,
+    "X": 30,
+    "Y": 20,
     "Z": 4,
     "cooldown": 12
   },
@@ -1407,4 +1407,5 @@
     "cooldown": 8
   }
 ]
+
 
