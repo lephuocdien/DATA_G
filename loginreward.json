@@ -1,37 +1,37 @@
 [
   {
     "day": 1,
-    "reward_amount": 2,
+    "reward_amount": 10,
     "reward_type": "summon_ticket"
   },
   {
     "day": 2,
-    "reward_amount": 3,
-    "reward_type": "summon_ticket"
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_equipment_rare"
   },
   {
     "day": 3,
-    "reward_amount": 5,
+    "reward_amount": 10,
     "reward_type": "summon_ticket"
   },
   {
     "day": 4,
-    "reward_amount": 2,
-    "reward_type": "summon_ticket"
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_equipment_epic"
   },
   {
     "day": 5,
-    "reward_amount": 3,
-    "reward_type": "summon_ticket"
+    "reward_amount": 10,
+    "reward_type": "Shooter_Mystic_4"
   },
   {
     "day": 6,
-    "reward_amount": 5,
-    "reward_type": "summon_ticket"
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_equipment_legendary"
   },
   {
     "day": 7,
-    "reward_amount": 1,
-    "reward_type": "Shooter_Mystic_4"
+    "reward_amount": 10,
+    "reward_type": "summon_ticket"
   }
 ]
