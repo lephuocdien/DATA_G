@@ -147,15 +147,15 @@
     },
     {
       "parameter": "mystic_hero_id",
-      "value": "hero_code"
+      "value": "Shooter_Mystic_4"
     },
     {
       "parameter": "expert_hero_id_1",
-      "value": "hero_code"
+      "value": "Tanker_Expert_1"
     },
     {
       "parameter": "expert_hero_id_2",
-      "value": "hero_code"
+      "value": "Support_Mystic_3"
     },
     {
       "parameter": "day_remaining",
