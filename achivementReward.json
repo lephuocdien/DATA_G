@@ -1,42 +1,42 @@
 [
   {
     "achievement_level": 1,
-    "reward_amount": 10,
-    "reward_type": "hc"
-  },
-  {
-    "achievement_level": 2,
     "reward_amount": 20,
     "reward_type": "hc"
   },
   {
-    "achievement_level": 3,
-    "reward_amount": 30,
-    "reward_type": "hc"
-  },
-  {
-    "achievement_level": 4,
+    "achievement_level": 2,
     "reward_amount": 40,
     "reward_type": "hc"
   },
   {
-    "achievement_level": 5,
-    "reward_amount": 50,
-    "reward_type": "hc"
-  },
-  {
-    "achievement_level": 6,
+    "achievement_level": 3,
     "reward_amount": 60,
     "reward_type": "hc"
   },
   {
-    "achievement_level": 7,
+    "achievement_level": 4,
     "reward_amount": 80,
     "reward_type": "hc"
   },
   {
-    "achievement_level": 8,
+    "achievement_level": 5,
     "reward_amount": 100,
+    "reward_type": "hc"
+  },
+  {
+    "achievement_level": 6,
+    "reward_amount": 120,
+    "reward_type": "hc"
+  },
+  {
+    "achievement_level": 7,
+    "reward_amount": 160,
+    "reward_type": "hc"
+  },
+  {
+    "achievement_level": 8,
+    "reward_amount": 200,
     "reward_type": "hc"
   }
 ]
