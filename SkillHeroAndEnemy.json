@@ -57,7 +57,7 @@
   },
   {
     "Skill Name": "Sigil Blast",
-    "X": 150,
+    "X": 125,
     "Y": "",
     "Z": "",
     "cooldown": 0
@@ -225,7 +225,7 @@
   },
   {
     "Skill Name": "Inspire",
-    "X": 10,
+    "X": 30,
     "Y": 0.5,
     "Z": 2,
     "cooldown": 0
@@ -666,10 +666,10 @@
   },
   {
     "Skill Name": "Cyclone Vortex",
-    "X": 150,
-    "Y": 3,
+    "X": 135,
+    "Y": 2.5,
     "Z": "",
-    "cooldown": 14
+    "cooldown": 22
   },
   {
     "Skill Name": "Thunder Surge",
@@ -911,10 +911,10 @@
   },
   {
     "Skill Name": "Rock Fortress",
-    "X": 20,
+    "X": 30,
     "Y": "",
     "Z": 6,
-    "cooldown": 19
+    "cooldown": 17
   },
   {
     "Skill Name": "Terra Bulwark",
@@ -1058,7 +1058,7 @@
   },
   {
     "Skill Name": "Verdant Rejuvenation",
-    "X": 3,
+    "X": 4,
     "Y": "",
     "Z": 5,
     "cooldown": 15
@@ -1407,6 +1407,7 @@
     "cooldown": 8
   }
 ]
+
 
 
 
