@@ -78,7 +78,7 @@
     "range": 1,
     "attack": 326,
     "attack_speed": 0.6,
-    "speed": 0.3,
+    "speed": 0.5,
     "life_point_penalty": 99,
     "combat_power": 1469,
     "normal_skill": "Bone Crusher",
@@ -249,7 +249,7 @@
     "range": 1,
     "attack": 318,
     "attack_speed": 0.6,
-    "speed": 0.4,
+    "speed": 0.5,
     "life_point_penalty": 99,
     "combat_power": 1572,
     "normal_skill": "Bone Crusher",
@@ -657,7 +657,7 @@
     "range": 1,
     "attack": 317,
     "attack_speed": 0.6,
-    "speed": 0.3,
+    "speed": 0.4,
     "life_point_penalty": 99,
     "combat_power": 1515,
     "normal_skill": "Bone Crusher",
@@ -759,7 +759,7 @@
     "range": 1,
     "attack": 334,
     "attack_speed": 0.6,
-    "speed": 0.3,
+    "speed": 0.4,
     "life_point_penalty": 99,
     "combat_power": 1449,
     "normal_skill": "Bone Crusher",
@@ -817,4 +817,5 @@
     "power_skill": "Flare Dash"
   }
 ]
+
 
