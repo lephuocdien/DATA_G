@@ -1,7 +1,7 @@
 [
   {
     "Skill Name": "Power Slash",
-    "X": 100,
+    "X": 80,
     "Y": "",
     "Z": "",
     "cooldown": 0
@@ -421,7 +421,7 @@
   },
   {
     "Skill Name": "Dusk Armor",
-    "X": 20,
+    "X": 12,
     "Y": "",
     "Z": "",
     "cooldown": 0
@@ -547,7 +547,7 @@
   },
   {
     "Skill Name": "Shadow Slash",
-    "X": 200,
+    "X": 140,
     "Y": 15,
     "Z": 4,
     "cooldown": 10
@@ -1407,5 +1407,6 @@
     "cooldown": 8
   }
 ]
+
 
 
