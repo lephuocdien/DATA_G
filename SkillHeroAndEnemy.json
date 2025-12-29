@@ -218,7 +218,7 @@
   },
   {
     "Skill Name": "Healing Light",
-    "X": 15,
+    "X": 35,
     "Y": 0.5,
     "Z": "",
     "cooldown": 0
@@ -268,7 +268,7 @@
   {
     "Skill Name": "Ember Shield",
     "X": 10,
-    "Y": "",
+    "Y": "5",
     "Z": "",
     "cooldown": 0
   },
@@ -1037,7 +1037,7 @@
   },
   {
     "Skill Name": "Frost Sanctuary",
-    "X": 5,
+    "X": 12,
     "Y": 15,
     "Z": 5,
     "cooldown": 15
@@ -1407,6 +1407,7 @@
     "cooldown": 8
   }
 ]
+
 
 
 
