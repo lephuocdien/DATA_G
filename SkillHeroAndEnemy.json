@@ -24,7 +24,7 @@
     "Skill Name": "Shield Breaker",
     "X": 120,
     "Y": 15,
-    "Z": "",
+    "Z": "1",
     "cooldown": 0
   },
   {
@@ -1407,6 +1407,7 @@
     "cooldown": 8
   }
 ]
+
 
 
 
