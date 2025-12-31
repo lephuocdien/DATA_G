@@ -44,6 +44,8 @@
   "power_card_awaken_cost_star_3": 120,
   "power_card_awaken_cost_star_4": 150,
   "power_card_awaken_cost_star_5": 180,
-  "power_card_fragment_duplicated": 60
+  "power_card_fragment_duplicated": 60,
+  "refund_energy_ratio":0.5
 }
+
 
