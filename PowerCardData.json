@@ -89,50 +89,5 @@
     "AoE": 99,
     "Energy": 8,
     "Rarity": "Mystic"
-  },
-  {
-    "Power Card Name": "Multi Strike",
-    "X": 100,
-    "Y": 10,
-    "Z": "",
-    "AoE": 0,
-    "Energy": 8,
-    "Rarity": "Mystic"
-  },
-  {
-    "Power Card Name": "Shock Bolt",
-    "X": 500,
-    "Y": "",
-    "Z": 3,
-    "AoE": 2,
-    "Energy": 8,
-    "Rarity": "Mystic"
-  },
-  {
-    "Power Card Name": "Battle Boost",
-    "X": 10,
-    "Y": "",
-    "Z": 8,
-    "AoE": 99,
-    "Energy": 8,
-    "Rarity": "Expert"
-  },
-  {
-    "Power Card Name": "Windstride",
-    "X": 2,
-    "Y": "",
-    "Z": "",
-    "AoE": 0,
-    "Energy": 16,
-    "Rarity": "Mystic"
-  },
-  {
-    "Power Card Name": "Life Saver",
-    "X": 1,
-    "Y": "",
-    "Z": "",
-    "AoE": 0,
-    "Energy": 20,
-    "Rarity": "Mystic"
   }
 ]
