@@ -1,6 +1,11 @@
 [
   {
-    "star_require": 9,
+    "star_require": 6,
+    "reward_amount": 1,
+    "reward_type": "summon_ticket"
+  },
+  {
+    "star_require": 12,
     "reward_amount": 1,
     "reward_type": "summon_ticket"
   },
@@ -10,7 +15,12 @@
     "reward_type": "summon_ticket"
   },
   {
-    "star_require": 27,
+    "star_require": 24,
+    "reward_amount": 1,
+    "reward_type": "summon_ticket"
+  },
+  {
+    "star_require": 30,
     "reward_amount": 1,
     "reward_type": "summon_ticket"
   },
@@ -20,33 +30,48 @@
     "reward_type": "summon_ticket"
   },
   {
-    "star_require": 45,
+    "star_require": 42,
+    "reward_amount": 1,
+    "reward_type": "summon_ticket"
+  },
+  {
+    "star_require": 48,
     "reward_amount": 1,
     "reward_type": "summon_ticket"
   },
   {
     "star_require": 54,
-    "reward_amount": 2,
+    "reward_amount": 1,
     "reward_type": "summon_ticket"
   },
   {
-    "star_require": 63,
-    "reward_amount": 2,
+    "star_require": 60,
+    "reward_amount": 1,
+    "reward_type": "summon_ticket"
+  },
+  {
+    "star_require": 66,
+    "reward_amount": 1,
     "reward_type": "summon_ticket"
   },
   {
     "star_require": 72,
-    "reward_amount": 2,
+    "reward_amount": 1,
     "reward_type": "summon_ticket"
   },
   {
-    "star_require": 81,
-    "reward_amount": 2,
+    "star_require": 78,
+    "reward_amount": 1,
+    "reward_type": "summon_ticket"
+  },
+  {
+    "star_require": 84,
+    "reward_amount": 1,
     "reward_type": "summon_ticket"
   },
   {
     "star_require": 90,
-    "reward_amount": 2,
+    "reward_amount": 1,
     "reward_type": "summon_ticket"
   }
 ]
