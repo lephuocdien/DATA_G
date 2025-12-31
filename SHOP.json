@@ -253,7 +253,7 @@
       "category": "premium_membership",
       "status": "active",
       "type": "premium_pass",
-      "price_amount": 2.99,
+      "price_amount": 4.99,
       "price_type": "cash",
       "limit": 1,
       "reset_limit_interval": "end of season",
@@ -273,7 +273,7 @@
       "category": "premium_membership",
       "status": "active",
       "type": "subscription",
-      "price_amount": 2,
+      "price_amount": 4.99,
       "price_type": "cash",
       "limit": 1,
       "reset_limit_interval": 30,
@@ -302,7 +302,7 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 10,
+          "item_quantity": 20,
           "item_code": "hc",
           "item_promo_quantity": null
         }
