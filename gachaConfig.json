@@ -165,7 +165,7 @@
   "mileage_point": [
     {
       "parameter": "normal_summon_pts_receive",
-      "value": 20
+      "value": 10
     },
     {
       "parameter": "novice_summon_pts_receive",
@@ -177,7 +177,7 @@
     },
     {
       "parameter": "mystic_summon_pts_receive",
-      "value": 200
+      "value": 400
     }
   ]
 }
