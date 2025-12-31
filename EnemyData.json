@@ -1,7 +1,7 @@
 [
   {
     "id": "Fly_Attack_Normal_2",
-    "name": "Pebble Drifter",
+    "name": "Pebble Drifter Earth",
     "type": "fly_attack",
     "rank": "normal",
     "elemental": "earth",
@@ -14,7 +14,62 @@
     "life_point_penalty": 1,
     "combat_power": 709,
     "normal_skill": "Venom Fang",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
+  },
+  {
+    "id": "Fly_Attack_Normal_5",
+    "name": "Pebble Drifter Fire",
+    "type": "fly_attack",
+    "rank": "normal",
+    "elemental": "fire",
+    "hp": 384,
+    "defense": 36,
+    "range": 2.8,
+    "attack": 103,
+    "attack_speed": 0.8,
+    "speed": 1.5,
+    "life_point_penalty": 1,
+    "combat_power": 719,
+    "normal_skill": "Venom Fang",
+    "power_skill_1": "",
+    "power_skill_2": ""
+  },
+  {
+    "id": "Fly_Attack_Normal_6",
+    "name": "Pebble Drifter Water",
+    "type": "fly_attack",
+    "rank": "normal",
+    "elemental": "water",
+    "hp": 372,
+    "defense": 34,
+    "range": 2.6,
+    "attack": 108,
+    "attack_speed": 0.9,
+    "speed": 1.6,
+    "life_point_penalty": 1,
+    "combat_power": 752,
+    "normal_skill": "Venom Fang",
+    "power_skill_1": "",
+    "power_skill_2": ""
+  },
+  {
+    "id": "Fly_Attack_Normal_7",
+    "name": "Pebble Drifter Wind",
+    "type": "fly_attack",
+    "rank": "normal",
+    "elemental": "wind",
+    "hp": 357,
+    "defense": 30,
+    "range": 2.6,
+    "attack": 104,
+    "attack_speed": 0.8,
+    "speed": 1.4,
+    "life_point_penalty": 1,
+    "combat_power": 674,
+    "normal_skill": "Venom Fang",
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Fly_Rush_Normal_3",
@@ -31,11 +86,12 @@
     "life_point_penalty": 1,
     "combat_power": 596,
     "normal_skill": "Hardened Scales",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Melee_Normal_4",
-    "name": "Dew Walker",
+    "name": "Dew Walker Water",
     "type": "walk_melee",
     "rank": "normal",
     "elemental": "water",
@@ -48,7 +104,62 @@
     "life_point_penalty": 1,
     "combat_power": 794,
     "normal_skill": "Fang Cleave",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
+  },
+  {
+    "id": "Walk_Melee_Normal_5",
+    "name": "Dew Walker Wind",
+    "type": "walk_melee",
+    "rank": "normal",
+    "elemental": "wind",
+    "hp": 400,
+    "defense": 40,
+    "range": 1,
+    "attack": 133,
+    "attack_speed": 1.1,
+    "speed": 1,
+    "life_point_penalty": 1,
+    "combat_power": 715,
+    "normal_skill": "Fang Cleave",
+    "power_skill_1": "",
+    "power_skill_2": ""
+  },
+  {
+    "id": "Walk_Melee_Normal_6",
+    "name": "Dew Walker Earth",
+    "type": "walk_melee",
+    "rank": "normal",
+    "elemental": "earth",
+    "hp": 400,
+    "defense": 37,
+    "range": 1,
+    "attack": 139,
+    "attack_speed": 1.2,
+    "speed": 1.1,
+    "life_point_penalty": 1,
+    "combat_power": 760,
+    "normal_skill": "Fang Cleave",
+    "power_skill_1": "",
+    "power_skill_2": ""
+  },
+  {
+    "id": "Walk_Melee_Normal_7",
+    "name": "Dew Walker Fire",
+    "type": "walk_melee",
+    "rank": "normal",
+    "elemental": "fire",
+    "hp": 448,
+    "defense": 33,
+    "range": 1,
+    "attack": 137,
+    "attack_speed": 1.2,
+    "speed": 1.2,
+    "life_point_penalty": 1,
+    "combat_power": 794,
+    "normal_skill": "Fang Cleave",
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Ranged_Elite_2",
@@ -65,7 +176,8 @@
     "life_point_penalty": 3,
     "combat_power": 1095,
     "normal_skill": "Ember Spit",
-    "power_skill": "Ruinous Toss"
+    "power_skill_1": "Ruinous Toss",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Melee_Boss_2",
@@ -80,10 +192,10 @@
     "attack_speed": 0.6,
     "speed": 0.5,
     "life_point_penalty": 99,
-    "combat_power": 1469,
+    "combat_power": 1553,
     "normal_skill": "Bone Crusher",
-    "power_skill": "Crater Stomp",
-    "power_skill_2":"Tremor Smash"
+    "power_skill_1": "Crater Stomp",
+    "power_skill_2": "Tremor Smash"
   },
   {
     "id": "Fly_Rush_Normal_2",
@@ -100,7 +212,8 @@
     "life_point_penalty": 1,
     "combat_power": 639,
     "normal_skill": "Roaring Challenge",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Melee_Normal_3",
@@ -117,7 +230,8 @@
     "life_point_penalty": 1,
     "combat_power": 753,
     "normal_skill": "Bone Crusher",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Ranged_Normal_1",
@@ -134,7 +248,8 @@
     "life_point_penalty": 1,
     "combat_power": 806,
     "normal_skill": "Ember Spit",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Melee_Elite_3",
@@ -151,7 +266,8 @@
     "life_point_penalty": 3,
     "combat_power": 1113,
     "normal_skill": "Fang Cleave",
-    "power_skill": "Molten Surge"
+    "power_skill_1": "Molten Surge",
+    "power_skill_2": ""
   },
   {
     "id": "Fly_Attack_Boss_1",
@@ -168,7 +284,8 @@
     "life_point_penalty": 99,
     "combat_power": 1551,
     "normal_skill": "Talon Barrage",
-    "power_skill": "Thunder Wing"
+    "power_skill_1": "Thunder Wing",
+    "power_skill_2": "Cutting Cyclone"
   },
   {
     "id": "Fly_Attack_Normal_3",
@@ -185,7 +302,8 @@
     "life_point_penalty": 1,
     "combat_power": 757,
     "normal_skill": "Talon Barrage",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Melee_Normal_1",
@@ -202,7 +320,8 @@
     "life_point_penalty": 1,
     "combat_power": 747,
     "normal_skill": "Bone Crusher",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Ranged_Normal_2",
@@ -219,7 +338,8 @@
     "life_point_penalty": 1,
     "combat_power": 782,
     "normal_skill": "Infernal Burst",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Melee_Elite_1",
@@ -236,7 +356,8 @@
     "life_point_penalty": 3,
     "combat_power": 1146,
     "normal_skill": "Fang Cleave",
-    "power_skill": "Storm Claw"
+    "power_skill_1": "Storm Claw",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Melee_Boss_3",
@@ -251,9 +372,10 @@
     "attack_speed": 0.6,
     "speed": 0.5,
     "life_point_penalty": 99,
-    "combat_power": 1572,
+    "combat_power": 1614,
     "normal_skill": "Bone Crusher",
-    "power_skill": "Magma Rend"
+    "power_skill_1": "Magma Rend",
+    "power_skill_2": "Molten Surge"
   },
   {
     "id": "Walk_Ranged_Normal_3",
@@ -270,7 +392,8 @@
     "life_point_penalty": 1,
     "combat_power": 718,
     "normal_skill": "Infernal Burst",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Fly_Rush_Elite_3",
@@ -287,7 +410,8 @@
     "life_point_penalty": 3,
     "combat_power": 833,
     "normal_skill": "Hardened Scales",
-    "power_skill": "Flare Dash"
+    "power_skill_1": "Flare Dash",
+    "power_skill_2": ""
   },
   {
     "id": "Fly_Rush_Normal_1",
@@ -304,7 +428,8 @@
     "life_point_penalty": 1,
     "combat_power": 631,
     "normal_skill": "Roaring Challenge",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Melee_Normal_2",
@@ -321,7 +446,8 @@
     "life_point_penalty": 1,
     "combat_power": 790,
     "normal_skill": "Bone Crusher",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Ranged_Elite_3",
@@ -338,7 +464,8 @@
     "life_point_penalty": 3,
     "combat_power": 1117,
     "normal_skill": "Infernal Burst",
-    "power_skill": "Scorching Fang"
+    "power_skill_1": "Scorching Fang",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Ranged_Boss_4",
@@ -355,7 +482,8 @@
     "life_point_penalty": 99,
     "combat_power": 1482,
     "normal_skill": "Infernal Burst",
-    "power_skill": "Abyssal Snare"
+    "power_skill_1": "Abyssal Snare",
+    "power_skill_2": "Torrential Fang"
   },
   {
     "id": "Walk_Ranged_Normal_4",
@@ -372,7 +500,8 @@
     "life_point_penalty": 1,
     "combat_power": 758,
     "normal_skill": "Ember Spit",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Fly_Rush_Elite_1",
@@ -389,7 +518,8 @@
     "life_point_penalty": 3,
     "combat_power": 903,
     "normal_skill": "Roaring Challenge",
-    "power_skill": "Windward Dash"
+    "power_skill_1": "Windward Dash",
+    "power_skill_2": ""
   },
   {
     "id": "Fly_Rush_Normal_4",
@@ -406,7 +536,8 @@
     "life_point_penalty": 1,
     "combat_power": 635,
     "normal_skill": "Hardened Scales",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Ranged_Elite_1",
@@ -423,7 +554,8 @@
     "life_point_penalty": 3,
     "combat_power": 978,
     "normal_skill": "Infernal Burst",
-    "power_skill": "Razor Gale"
+    "power_skill_1": "Razor Gale",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Ranged_Elite_4",
@@ -440,7 +572,8 @@
     "life_point_penalty": 3,
     "combat_power": 1019,
     "normal_skill": "Infernal Burst",
-    "power_skill": "Torrential Fang"
+    "power_skill_1": "Torrential Fang",
+    "power_skill_2": ""
   },
   {
     "id": "Fly_Attack_Elite_4",
@@ -457,7 +590,8 @@
     "life_point_penalty": 3,
     "combat_power": 1183,
     "normal_skill": "Venom Fang",
-    "power_skill": "Whirlpool Drill"
+    "power_skill_1": "Whirlpool Drill",
+    "power_skill_2": ""
   },
   {
     "id": "Fly_Attack_Elite_3",
@@ -474,7 +608,8 @@
     "life_point_penalty": 3,
     "combat_power": 1136,
     "normal_skill": "Venom Fang",
-    "power_skill": "Searing Talon"
+    "power_skill_1": "Searing Talon",
+    "power_skill_2": ""
   },
   {
     "id": "Fly_Attack_Normal_4",
@@ -491,7 +626,8 @@
     "life_point_penalty": 1,
     "combat_power": 695,
     "normal_skill": "Talon Barrage",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Fly_Rush_Elite_2",
@@ -508,7 +644,8 @@
     "life_point_penalty": 3,
     "combat_power": 882,
     "normal_skill": "Hardened Scales",
-    "power_skill": "Mudguard Dash"
+    "power_skill_1": "Mudguard Dash",
+    "power_skill_2": ""
   },
   {
     "id": "Fly_Rush_Elite_4",
@@ -525,7 +662,8 @@
     "life_point_penalty": 3,
     "combat_power": 881,
     "normal_skill": "Hardened Scales",
-    "power_skill": "Mist Veil Strike"
+    "power_skill_1": "Mist Veil Strike",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Melee_Elite_2",
@@ -542,7 +680,8 @@
     "life_point_penalty": 3,
     "combat_power": 1053,
     "normal_skill": "Fang Cleave",
-    "power_skill": "Crater Stomp"
+    "power_skill_1": "Crater Stomp",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Melee_Elite_4",
@@ -559,7 +698,8 @@
     "life_point_penalty": 3,
     "combat_power": 1082,
     "normal_skill": "Fang Cleave",
-    "power_skill": "Abyssal Rend"
+    "power_skill_1": "Abyssal Rend",
+    "power_skill_2": ""
   },
   {
     "id": "Walk_Ranged_Boss_2",
@@ -576,7 +716,8 @@
     "life_point_penalty": 99,
     "combat_power": 1534,
     "normal_skill": "Infernal Burst",
-    "power_skill": "Tectonic Spire"
+    "power_skill_1": "Tectonic Spire",
+    "power_skill_2": "Ruinous Toss"
   },
   {
     "id": "Fly_Attack_Normal_1",
@@ -593,7 +734,8 @@
     "life_point_penalty": 1,
     "combat_power": 733,
     "normal_skill": "Talon Barrage",
-    "power_skill": ""
+    "power_skill_1": "",
+    "power_skill_2": ""
   },
   {
     "id": "Fly_Attack_Boss_3",
@@ -610,7 +752,8 @@
     "life_point_penalty": 99,
     "combat_power": 1506,
     "normal_skill": "Talon Barrage",
-    "power_skill": "Searing Talon"
+    "power_skill_1": "Searing Talon",
+    "power_skill_2": "Smoldering Wing"
   },
   {
     "id": "Fly_Attack_Elite_1",
@@ -627,7 +770,8 @@
     "life_point_penalty": 3,
     "combat_power": 1196,
     "normal_skill": "Venom Fang",
-    "power_skill": "Cutting Cyclone"
+    "power_skill_1": "Cutting Cyclone",
+    "power_skill_2": ""
   },
   {
     "id": "Fly_Rush_Boss_1",
@@ -644,7 +788,8 @@
     "life_point_penalty": 99,
     "combat_power": 1185,
     "normal_skill": "Hardened Scales",
-    "power_skill": "Windward Dash"
+    "power_skill_1": "Windward Dash",
+    "power_skill_2": "Sky Piercer"
   },
   {
     "id": "Walk_Melee_Boss_4",
@@ -659,9 +804,10 @@
     "attack_speed": 0.6,
     "speed": 0.4,
     "life_point_penalty": 99,
-    "combat_power": 1515,
+    "combat_power": 1557,
     "normal_skill": "Bone Crusher",
-    "power_skill": "Drenched Maul"
+    "power_skill_1": "Drenched Maul",
+    "power_skill_2": "Abyssal Rend"
   },
   {
     "id": "Fly_Attack_Boss_2",
@@ -678,7 +824,8 @@
     "life_point_penalty": 99,
     "combat_power": 1636,
     "normal_skill": "Venom Fang",
-    "power_skill": "Shard Barrage"
+    "power_skill_1": "Shard Barrage",
+    "power_skill_2": "Stone Talon"
   },
   {
     "id": "Fly_Rush_Boss_4",
@@ -695,7 +842,8 @@
     "life_point_penalty": 99,
     "combat_power": 1189,
     "normal_skill": "Hardened Scales",
-    "power_skill": "Mist Veil Strike"
+    "power_skill_1": "Mist Veil Strike",
+    "power_skill_2": "Surf Crash"
   },
   {
     "id": "Walk_Ranged_Boss_1",
@@ -712,7 +860,8 @@
     "life_point_penalty": 99,
     "combat_power": 1467,
     "normal_skill": "Infernal Burst",
-    "power_skill": "Vortex Fang"
+    "power_skill_1": "Vortex Fang",
+    "power_skill_2": "Razor Gale"
   },
   {
     "id": "Fly_Attack_Boss_4",
@@ -729,7 +878,8 @@
     "life_point_penalty": 99,
     "combat_power": 1591,
     "normal_skill": "Talon Barrage",
-    "power_skill": "Fog Veil"
+    "power_skill_1": "Fog Veil",
+    "power_skill_2": "Whirlpool Drill"
   },
   {
     "id": "Fly_Rush_Boss_2",
@@ -746,7 +896,8 @@
     "life_point_penalty": 99,
     "combat_power": 1218,
     "normal_skill": "Roaring Challenge",
-    "power_skill": "Mudguard Dash"
+    "power_skill_1": "Mudguard Dash",
+    "power_skill_2": "Stoneback Charge"
   },
   {
     "id": "Walk_Melee_Boss_1",
@@ -761,9 +912,10 @@
     "attack_speed": 0.6,
     "speed": 0.4,
     "life_point_penalty": 99,
-    "combat_power": 1449,
+    "combat_power": 1491,
     "normal_skill": "Bone Crusher",
-    "power_skill": "Storm Claw"
+    "power_skill_1": "Storm Claw",
+    "power_skill_2": "Howling Strike"
   },
   {
     "id": "Walk_Ranged_Boss_3",
@@ -780,7 +932,8 @@
     "life_point_penalty": 99,
     "combat_power": 1541,
     "normal_skill": "Infernal Burst",
-    "power_skill": "Pyro Burst"
+    "power_skill_1": "Pyro Burst",
+    "power_skill_2": "Scorching Fang"
   },
   {
     "id": "Fly_Attack_Elite_2",
@@ -797,7 +950,8 @@
     "life_point_penalty": 3,
     "combat_power": 1156,
     "normal_skill": "Venom Fang",
-    "power_skill": "Stone Talon"
+    "power_skill_1": "Stone Talon",
+    "power_skill_2": ""
   },
   {
     "id": "Fly_Rush_Boss_3",
@@ -814,8 +968,7 @@
     "life_point_penalty": 99,
     "combat_power": 1267,
     "normal_skill": "Hardened Scales",
-    "power_skill": "Flare Dash"
+    "power_skill_1": "Flare Dash",
+    "power_skill_2": "Inferno Dive"
   }
 ]
-
-
