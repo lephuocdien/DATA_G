@@ -4,7 +4,7 @@
     "level": 1,
     "difficulty": "normal",
     "stamina_cost": 10,
-    "base_hp": 5,
+    "base_hp": 50,
     "initial_energy": 30,
     "objective_1": 1,
     "objective_2": 1,
@@ -1259,4 +1259,5 @@
     "chest_type": "consumable_chest_reward_epic",
     "hero_reward": ""
   }
+
 ]
