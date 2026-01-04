@@ -1,10 +1,10 @@
 [
   {
     "Skill Name": "Power Slash",
-    "X": 80,
+    "X": 70,
     "Y": "",
     "Z": "",
-    "AoE": 1.2,
+    "AoE": 1.1,
     "cooldown": 0
   },
   {
@@ -1608,3 +1608,4 @@
     "cooldown": 8
   }
 ]
+
