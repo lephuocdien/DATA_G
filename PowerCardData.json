@@ -75,8 +75,8 @@
   {
     "Power Card Name": "Wind Push",
     "X": 750,
-    "Y": "",
-    "Z": "",
+    "Y": "1",
+    "Z": "0.2",
     "AoE": 1,
     "Energy": 8,
     "Rarity": "Mystic"
