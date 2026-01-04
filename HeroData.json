@@ -109,15 +109,15 @@
     "enemy_block_number": 2,
     "deploy_cost": 10,
     "redeploy_time": 5,
-    "hp": 963,
-    "defense": 112,
+    "hp": 902,
+    "defense": 100,
     "range": 1.2,
-    "attack": 118,
-    "attack_speed": 1.2,
+    "attack": 106,
+    "attack_speed": 1.0,
     "basic_skill": "Power Slash",
     "passive_skill": "Dusk Armor",
     "auto_skill": "Shadow Slash",
-    "combat_power": 1535
+    "combat_power": 1358
   },
   {
     "id": "Support_Mystic_3",
@@ -1000,5 +1000,6 @@
     "combat_power": 1815
   }
 ]
+
 
 
