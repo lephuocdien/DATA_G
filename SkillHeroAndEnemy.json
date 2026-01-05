@@ -186,7 +186,7 @@
   {
     "Skill Name": "Rain of Arrows",
     "X": 60,
-    "Y": 8,
+    "Y": 3,
     "Z": "",
     "AoE": 1.2,
     "cooldown": 0
@@ -1608,5 +1608,6 @@
     "cooldown": 8
   }
 ]
+
 
 
