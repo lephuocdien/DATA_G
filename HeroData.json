@@ -52,7 +52,7 @@
     "hp": 563,
     "defense": 74,
     "range": 3.8,
-    "attack": 176,
+    "attack": 160,
     "attack_speed": 0.9,
     "basic_skill": "Sigil Blast",
     "passive_skill": "Storm Surge",
@@ -1000,6 +1000,7 @@
     "combat_power": 1815
   }
 ]
+
 
 
 
