@@ -1,68 +1,68 @@
 [
   {
     "day": 1,
-    "reward_amount": 2000,
-    "reward_type": "sc"
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_reward_common"
   },
   {
     "day": 2,
-    "reward_amount": 1000,
-    "reward_type": "xp_book"
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_material_common"
   },
   {
     "day": 3,
     "reward_amount": 1,
-    "reward_type": "summon_ticket"
+    "reward_type": "consumable_chest_equipment_common"
   },
   {
     "day": 4,
-    "reward_amount": 1000,
-    "reward_type": "skill_book"
-  },
-  {
-    "day": 5,
     "reward_amount": 1,
     "reward_type": "consumable_chest_reward_uncommon"
   },
   {
+    "day": 5,
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_material_unommon"
+  },
+  {
     "day": 6,
-    "reward_amount": 1000,
-    "reward_type": "xp_book"
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_equipment_uncommon"
   },
   {
     "day": 7,
-    "reward_amount": 50,
-    "reward_type": "hc"
-  },
-  {
-    "day": 8,
-    "reward_amount": 2000,
-    "reward_type": "sc"
-  },
-  {
-    "day": 9,
-    "reward_amount": 1000,
-    "reward_type": "xp_book"
-  },
-  {
-    "day": 10,
     "reward_amount": 1,
     "reward_type": "summon_ticket"
   },
   {
-    "day": 11,
-    "reward_amount": 1000,
-    "reward_type": "skill_book"
+    "day": 8,
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_reward_uncommon"
   },
   {
-    "day": 12,
+    "day": 9,
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_material_unommon"
+  },
+  {
+    "day": 10,
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_equipment_uncommon"
+  },
+  {
+    "day": 11,
     "reward_amount": 1,
     "reward_type": "consumable_chest_reward_rare"
   },
   {
+    "day": 12,
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_material_rare"
+  },
+  {
     "day": 13,
-    "reward_amount": 1000,
-    "reward_type": "xp_book"
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_equipment_rare"
   },
   {
     "day": 14,
@@ -71,68 +71,68 @@
   },
   {
     "day": 15,
-    "reward_amount": 2000,
-    "reward_type": "sc"
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_reward_rare"
   },
   {
     "day": 16,
-    "reward_amount": 1000,
-    "reward_type": "xp_book"
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_material_rare"
   },
   {
     "day": 17,
-    "reward_amount": 2,
-    "reward_type": "summon_ticket"
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_equipment_rare"
   },
   {
     "day": 18,
-    "reward_amount": 1000,
-    "reward_type": "skill_book"
-  },
-  {
-    "day": 19,
     "reward_amount": 1,
     "reward_type": "consumable_chest_reward_epic"
   },
   {
+    "day": 19,
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_material_epic"
+  },
+  {
     "day": 20,
-    "reward_amount": 1000,
-    "reward_type": "xp_book"
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_equipment_epic"
   },
   {
     "day": 21,
-    "reward_amount": 50,
-    "reward_type": "hc"
-  },
-  {
-    "day": 22,
-    "reward_amount": 2000,
-    "reward_type": "sc"
-  },
-  {
-    "day": 23,
-    "reward_amount": 1000,
-    "reward_type": "xp_book"
-  },
-  {
-    "day": 24,
     "reward_amount": 1,
     "reward_type": "summon_ticket"
   },
   {
-    "day": 25,
-    "reward_amount": 1000,
-    "reward_type": "skill_book"
+    "day": 22,
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_reward_epic"
   },
   {
-    "day": 26,
+    "day": 23,
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_material_epic"
+  },
+  {
+    "day": 24,
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_equipment_epic"
+  },
+  {
+    "day": 25,
     "reward_amount": 1,
     "reward_type": "consumable_chest_reward_legendary"
   },
   {
+    "day": 26,
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_material_legendary"
+  },
+  {
     "day": 27,
-    "reward_amount": 1000,
-    "reward_type": "xp_book"
+    "reward_amount": 1,
+    "reward_type": "consumable_chest_equipment_legendary"
   },
   {
     "day": 28,
