@@ -555,6 +555,11 @@
     "rarity": ""
   },
   {
+    "id": "skip_ticket",
+    "hero_class": "",
+    "rarity": ""
+  },
+  {
     "id": "consumable_chest_material_common",
     "hero_class": "",
     "rarity": "common"
