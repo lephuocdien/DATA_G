@@ -72,7 +72,7 @@
     "hp": 462,
     "defense": 56,
     "range": 3.4,
-    "attack": 81,
+    "attack": 91,
     "attack_speed": 1.1,
     "basic_skill": "Piercing Bullet",
     "passive_skill": "Frostbite",
@@ -1000,6 +1000,7 @@
     "combat_power": 1815
   }
 ]
+
 
 
 
