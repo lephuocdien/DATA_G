@@ -2,351 +2,351 @@
   "set_warrior_common_1": [
     {
       "item_code": "equipment_warrior_common_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_warrior_common_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_warrior_common_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_warrior_uncommon_1": [
     {
       "item_code": "equipment_warrior_uncommon_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_warrior_uncommon_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_warrior_uncommon_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_warrior_rare_1": [
     {
       "item_code": "equipment_warrior_rare_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_warrior_rare_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_warrior_rare_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_warrior_epic_1": [
     {
       "item_code": "equipment_warrior_epic_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_warrior_epic_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_warrior_epic_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_warrior_legendary_1": [
     {
       "item_code": "equipment_warrior_legendary_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_warrior_legendary_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_warrior_legendary_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_magician_common_1": [
     {
       "item_code": "equipment_magician_common_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_magician_common_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_magician_common_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_magician_uncommon_1": [
     {
       "item_code": "equipment_magician_uncommon_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_magician_uncommon_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_magician_uncommon_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_magician_rare_1": [
     {
       "item_code": "equipment_magician_rare_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_magician_rare_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_magician_rare_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_magician_epic_1": [
     {
       "item_code": "equipment_magician_epic_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_magician_epic_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_magician_epic_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_magician_legendary_1": [
     {
       "item_code": "equipment_magician_legendary_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_magician_legendary_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_magician_legendary_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_shooter_common_1": [
     {
       "item_code": "equipment_shooter_common_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_shooter_common_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_shooter_common_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_shooter_uncommon_1": [
     {
       "item_code": "equipment_shooter_uncommon_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_shooter_uncommon_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_shooter_uncommon_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_shooter_rare_1": [
     {
       "item_code": "equipment_shooter_rare_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_shooter_rare_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_shooter_rare_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_shooter_epic_1": [
     {
       "item_code": "equipment_shooter_epic_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_shooter_epic_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_shooter_epic_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_shooter_legendary_1": [
     {
       "item_code": "equipment_shooter_legendary_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_shooter_legendary_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_shooter_legendary_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_tanker_common_1": [
     {
       "item_code": "equipment_tanker_common_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_tanker_common_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_tanker_common_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_tanker_uncommon_1": [
     {
       "item_code": "equipment_tanker_uncommon_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_tanker_uncommon_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_tanker_uncommon_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_tanker_rare_1": [
     {
       "item_code": "equipment_tanker_rare_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_tanker_rare_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_tanker_rare_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_tanker_epic_1": [
     {
       "item_code": "equipment_tanker_epic_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_tanker_epic_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_tanker_epic_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_tanker_legendary_1": [
     {
       "item_code": "equipment_tanker_legendary_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_tanker_legendary_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_tanker_legendary_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_supporter_common_1": [
     {
       "item_code": "equipment_supporter_common_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_supporter_common_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_supporter_common_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_supporter_uncommon_1": [
     {
       "item_code": "equipment_supporter_uncommon_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_supporter_uncommon_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_supporter_uncommon_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_supporter_rare_1": [
     {
       "item_code": "equipment_supporter_rare_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_supporter_rare_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_supporter_rare_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_supporter_epic_1": [
     {
       "item_code": "equipment_supporter_epic_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_supporter_epic_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_supporter_epic_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_supporter_legendary_1": [
     {
       "item_code": "equipment_supporter_legendary_head_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_supporter_legendary_armor_1",
-      "item_chance": 33.33
+      "item_chance": 35
     },
     {
       "item_code": "equipment_supporter_legendary_ring_1",
-      "item_chance": 33.34
+      "item_chance": 30
     }
   ],
   "set_material_common_1": [
@@ -502,23 +502,23 @@
     },
     {
       "item_code": "equipment_tanker_common_armor_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_tanker_common_ring_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_common_head_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_common_armor_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_common_ring_1",
-      "item_chance": 6.62
+      "item_chance": 6.66
     }
   ],
   "set_equipment_uncommon_1": [
@@ -564,23 +564,23 @@
     },
     {
       "item_code": "equipment_tanker_uncommon_armor_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_tanker_uncommon_ring_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_uncommon_head_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_uncommon_armor_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_uncommon_ring_1",
-      "item_chance": 6.62
+      "item_chance": 6.66
     }
   ],
   "set_equipment_rare_1": [
@@ -626,23 +626,23 @@
     },
     {
       "item_code": "equipment_tanker_rare_armor_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_tanker_rare_ring_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_rare_head_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_rare_armor_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_rare_ring_1",
-      "item_chance": 6.62
+      "item_chance": 6.66
     }
   ],
   "set_equipment_epic_1": [
@@ -688,23 +688,23 @@
     },
     {
       "item_code": "equipment_tanker_epic_armor_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_tanker_epic_ring_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_epic_head_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_epic_armor_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_epic_ring_1",
-      "item_chance": 6.62
+      "item_chance": 6.66
     }
   ],
   "set_equipment_legendary_1": [
@@ -750,23 +750,23 @@
     },
     {
       "item_code": "equipment_tanker_legendary_armor_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_tanker_legendary_ring_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_legendary_head_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_legendary_armor_1",
-      "item_chance": 6.67
+      "item_chance": 6.66
     },
     {
       "item_code": "equipment_supporter_legendary_ring_1",
-      "item_chance": 6.62
+      "item_chance": 6.66
     }
   ]
 }
