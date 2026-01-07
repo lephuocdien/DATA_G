@@ -84,7 +84,7 @@
             },
             {
                 "currencyType": "summon_ticket",
-                "amount": 1
+                "amount": 2
             },
             {
                 "currencyType": "spin_ticket",
@@ -103,6 +103,7 @@
     },
     "playerLevel": 1
 }
+
 
 
 
