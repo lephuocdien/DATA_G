@@ -56,20 +56,6 @@
         "spawn_groups": [
           {
             "enemy_id": "Walk_Melee_Normal_4",
-            "route_id": 0,
-            "start_spawn_time": 2,
-            "delay_each_spawn": 1.0,
-            "total_count": 1
-          }
-        ]
-      },
-      {
-        "wave": 4,
-        "delay_each_wave": 3.0,
-        "enemy_level": 1,
-        "spawn_groups": [
-          {
-            "enemy_id": "Walk_Melee_Normal_4",
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.0,
@@ -25625,3 +25611,4 @@
     ]
   }
 ]
+
