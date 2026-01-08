@@ -19,7 +19,7 @@
     "id": "daily_quest_3",
     "condition": "Spend a total of {0} golds",
     "x": 100,
-    "reward_amount": 500,
+    "reward_amount": 1000,
     "reward_type": "xp_book",
     "redirect_to": "hero_screen"
   },
@@ -27,15 +27,15 @@
     "id": "daily_quest_4",
     "condition": "Buy any item from the Shop {0} time(s)",
     "x": 1,
-    "reward_amount": 500,
+    "reward_amount": 1000,
     "reward_type": "xp_book",
     "redirect_to": "shop_screen"
   },
   {
     "id": "daily_quest_5",
-    "condition": "Complete a level {0} time(s)",
-    "x": 2,
-    "reward_amount": 500,
+    "condition": "Play {0} level(s).",
+    "x": 3,
+    "reward_amount": 1000,
     "reward_type": "skill_book",
     "redirect_to": "world_screen_latest"
   },
@@ -43,7 +43,7 @@
     "id": "daily_quest_6",
     "condition": "Craft {0} equipment(s)",
     "x": 1,
-    "reward_amount": 500,
+    "reward_amount": 1000,
     "reward_type": "skill_book",
     "redirect_to": "crafting_screen"
   },
@@ -51,7 +51,7 @@
     "id": "daily_quest_7",
     "condition": "Summon a Hero {0} time(s)",
     "x": 1,
-    "reward_amount": 1000,
+    "reward_amount": 500,
     "reward_type": "sc",
     "redirect_to": "summon_screen"
   },
@@ -59,7 +59,7 @@
     "id": "daily_quest_8",
     "condition": "Spend a total of {0} stamina(s).",
     "x": 100,
-    "reward_amount": 1000,
+    "reward_amount": 500,
     "reward_type": "sc",
     "redirect_to": "world_screen_latest"
   },
