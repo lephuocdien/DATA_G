@@ -9,7 +9,7 @@
   },
   {
     "Skill Name": "Cleaving Strike",
-    "X": 150,
+    "X": 130,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -65,7 +65,7 @@
   },
   {
     "Skill Name": "Sigil Blast",
-    "X": 125,
+    "X": 110,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -73,7 +73,7 @@
   },
   {
     "Skill Name": "Arcane Burst",
-    "X": 104,
+    "X": 105,
     "Y": "",
     "Z": "",
     "AoE": 0.8,
@@ -89,7 +89,7 @@
   },
   {
     "Skill Name": "Flame Wave",
-    "X": 140,
+    "X": 95,
     "Y": "",
     "Z": "",
     "AoE": 1,
@@ -130,7 +130,7 @@
   {
     "Skill Name": "Rapid Shot",
     "X": 3,
-    "Y": 40,
+    "Y": 50,
     "Z": "",
     "AoE": 0,
     "cooldown": 0
@@ -185,7 +185,7 @@
   },
   {
     "Skill Name": "Rain of Arrows",
-    "X": 60,
+    "X": 45,
     "Y": 3,
     "Z": "",
     "AoE": 1.2,
@@ -297,7 +297,7 @@
   },
   {
     "Skill Name": "Burning Fury",
-    "X": 15,
+    "X": 10,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -313,7 +313,7 @@
   },
   {
     "Skill Name": "Ignite",
-    "X": 5,
+    "X": 20,
     "Y": 10,
     "Z": "",
     "AoE": 0,
@@ -449,7 +449,7 @@
   },
   {
     "Skill Name": "Storm Surge",
-    "X": 20,
+    "X": 10,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -457,7 +457,7 @@
   },
   {
     "Skill Name": "Shadow Power",
-    "X": 25,
+    "X": 12,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -541,15 +541,15 @@
     "Y": 2,
     "Z": "",
     "AoE": 0,
-    "cooldown": 8
+    "cooldown": 12
   },
   {
     "Skill Name": "Ocean Fury",
     "X": 240,
-    "Y": 18,
+    "Y": 22,
     "Z": 3,
     "AoE": 1.2,
-    "cooldown": 6
+    "cooldown": 12
   },
   {
     "Skill Name": "Wave Strike",
@@ -557,7 +557,7 @@
     "Y": 8,
     "Z": "",
     "AoE": 0,
-    "cooldown": 6
+    "cooldown": 13
   },
   {
     "Skill Name": "Stone Slam",
@@ -565,7 +565,7 @@
     "Y": 3,
     "Z": "",
     "AoE": 0,
-    "cooldown": 8
+    "cooldown": 11
   },
   {
     "Skill Name": "Rock Breaker",
@@ -589,7 +589,7 @@
     "Y": 15,
     "Z": 3,
     "AoE": 1.2,
-    "cooldown": 8
+    "cooldown": 15
   },
   {
     "Skill Name": "Cyclone Slash",
@@ -597,7 +597,7 @@
     "Y": 2,
     "Z": "",
     "AoE": 1.2,
-    "cooldown": 6
+    "cooldown": 13
   },
   {
     "Skill Name": "Gale Strike",
@@ -613,7 +613,7 @@
     "Y": "",
     "Z": 2,
     "AoE": 1.2,
-    "cooldown": 6
+    "cooldown": 14
   },
   {
     "Skill Name": "Wind Cutter",
@@ -764,7 +764,7 @@
     "X": 135,
     "Y": 2.5,
     "Z": "",
-    "AoE": 1.25,
+    "AoE": 1.2,
     "cooldown": 22
   },
   {
@@ -841,8 +841,8 @@
   },
   {
     "Skill Name": "Piercing Arrow",
-    "X": 160,
-    "Y": 2.5,
+    "X": 180,
+    "Y": 2,
     "Z": "",
     "AoE": 0,
     "cooldown": 10
@@ -858,7 +858,7 @@
   {
     "Skill Name": "Frost Barrage",
     "X": 145,
-    "Y": 30,
+    "Y": 50,
     "Z": 3,
     "AoE": 0,
     "cooldown": 14
@@ -1041,10 +1041,10 @@
   },
   {
     "Skill Name": "Rock Fortress",
-    "X": 30,
+    "X": 40,
     "Y": "",
     "Z": 6,
-    "AoE": 2,
+    "AoE": 1.3,
     "cooldown": 17
   },
   {
@@ -1233,11 +1233,11 @@
   },
   {
     "Skill Name": "Soothing Breeze",
-    "X": "",
+    "X": 20,
     "Y": "",
-    "Z": 8,
+    "Z": "",
     "AoE": 0,
-    "cooldown": 15
+    "cooldown": 25
   },
   {
     "Skill Name": "Skyward Blessing",
@@ -1608,7 +1608,3 @@
     "cooldown": 8
   }
 ]
-
-
-
-
