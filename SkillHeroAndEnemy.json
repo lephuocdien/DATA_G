@@ -249,7 +249,7 @@
   },
   {
     "Skill Name": "Healing Light",
-    "X": 35,
+    "X": 55,
     "Y": 0.5,
     "Z": "",
     "AoE": 0,
@@ -1608,6 +1608,7 @@
     "cooldown": 8
   }
 ]
+
 
 
 
