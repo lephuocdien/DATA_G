@@ -17,7 +17,7 @@
   "reshuffleEnergy": 5,
   "maxSpinPerUser": 10,
   "hero_auto_skill_2_unlock": 3,
-  "hero_passive_skill_3_unlock": 5,
+  "hero_passive_skill_3_unlock": 10,
   "awaken_cost_star_1": 60,
   "awaken_cost_star_2": 90,
   "awaken_cost_star_3": 120,
@@ -49,6 +49,7 @@
   "power_card_fragment_duplicated": 60,
   "refund_energy_ratio":0.5
 }
+
 
 
 
