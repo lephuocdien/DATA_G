@@ -11048,7 +11048,7 @@
           },
           {
             "enemy_id": "Fly_Rush_Normal_5",
-            "route_id": 6,
+            "route_id": 4,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.5,
             "total_count": 1
@@ -21817,3 +21817,4 @@
     ]
   }
 ]
+
