@@ -13,290 +13,290 @@
   },
   {
     "Level": 3,
-    "HP": "104%",
-    "Attack": "104%",
-    "Defense": "104%"
+    "HP": "105%",
+    "Attack": "105%",
+    "Defense": "105%"
   },
   {
     "Level": 4,
-    "HP": "106%",
-    "Attack": "106%",
-    "Defense": "106%"
-  },
-  {
-    "Level": 5,
-    "HP": "108%",
-    "Attack": "108%",
-    "Defense": "108%"
-  },
-  {
-    "Level": 6,
     "HP": "110%",
     "Attack": "110%",
     "Defense": "110%"
   },
   {
-    "Level": 7,
-    "HP": "112%",
-    "Attack": "112%",
-    "Defense": "112%"
+    "Level": 5,
+    "HP": "115%",
+    "Attack": "115%",
+    "Defense": "115%"
   },
   {
-    "Level": 8,
-    "HP": "114%",
-    "Attack": "114%",
-    "Defense": "114%"
-  },
-  {
-    "Level": 9,
-    "HP": "117%",
-    "Attack": "117%",
-    "Defense": "117%"
-  },
-  {
-    "Level": 10,
+    "Level": 6,
     "HP": "120%",
     "Attack": "120%",
     "Defense": "120%"
   },
   {
-    "Level": 11,
+    "Level": 7,
     "HP": "125%",
     "Attack": "125%",
     "Defense": "125%"
   },
   {
-    "Level": 12,
+    "Level": 8,
     "HP": "130%",
     "Attack": "130%",
     "Defense": "130%"
   },
   {
-    "Level": 13,
+    "Level": 9,
     "HP": "135%",
     "Attack": "135%",
     "Defense": "135%"
   },
   {
-    "Level": 14,
+    "Level": 10,
     "HP": "140%",
     "Attack": "140%",
     "Defense": "140%"
   },
   {
-    "Level": 15,
+    "Level": 11,
     "HP": "145%",
     "Attack": "145%",
     "Defense": "145%"
   },
   {
-    "Level": 16,
+    "Level": 12,
+    "HP": "150%",
+    "Attack": "150%",
+    "Defense": "150%"
+  },
+  {
+    "Level": 13,
     "HP": "155%",
     "Attack": "155%",
     "Defense": "155%"
   },
   {
-    "Level": 17,
+    "Level": 14,
+    "HP": "160%",
+    "Attack": "160%",
+    "Defense": "160%"
+  },
+  {
+    "Level": 15,
     "HP": "165%",
     "Attack": "165%",
     "Defense": "165%"
   },
   {
-    "Level": 18,
+    "Level": 16,
     "HP": "175%",
     "Attack": "175%",
     "Defense": "175%"
   },
   {
-    "Level": 19,
+    "Level": 17,
     "HP": "185%",
     "Attack": "185%",
     "Defense": "185%"
   },
   {
-    "Level": 20,
+    "Level": 18,
     "HP": "195%",
     "Attack": "195%",
     "Defense": "195%"
   },
   {
+    "Level": 19,
+    "HP": "205%",
+    "Attack": "205%",
+    "Defense": "205%"
+  },
+  {
+    "Level": 20,
+    "HP": "215%",
+    "Attack": "215%",
+    "Defense": "215%"
+  },
+  {
     "Level": 21,
-    "HP": "210%",
-    "Attack": "210%",
-    "Defense": "210%"
+    "HP": "230%",
+    "Attack": "230%",
+    "Defense": "230%"
   },
   {
     "Level": 22,
-    "HP": "225%",
-    "Attack": "225%",
-    "Defense": "225%"
+    "HP": "245%",
+    "Attack": "245%",
+    "Defense": "245%"
   },
   {
     "Level": 23,
-    "HP": "240%",
-    "Attack": "240%",
-    "Defense": "240%"
+    "HP": "260%",
+    "Attack": "260%",
+    "Defense": "260%"
   },
   {
     "Level": 24,
-    "HP": "255%",
-    "Attack": "255%",
-    "Defense": "255%"
+    "HP": "275%",
+    "Attack": "275%",
+    "Defense": "275%"
   },
   {
     "Level": 25,
-    "HP": "270%",
-    "Attack": "270%",
-    "Defense": "270%"
+    "HP": "290%",
+    "Attack": "290%",
+    "Defense": "290%"
   },
   {
     "Level": 26,
-    "HP": "285%",
-    "Attack": "285%",
-    "Defense": "285%"
+    "HP": "305%",
+    "Attack": "305%",
+    "Defense": "305%"
   },
   {
     "Level": 27,
-    "HP": "300%",
-    "Attack": "300%",
-    "Defense": "300%"
+    "HP": "320%",
+    "Attack": "320%",
+    "Defense": "320%"
   },
   {
     "Level": 28,
-    "HP": "315%",
-    "Attack": "315%",
-    "Defense": "315%"
+    "HP": "335%",
+    "Attack": "335%",
+    "Defense": "335%"
   },
   {
     "Level": 29,
-    "HP": "330%",
-    "Attack": "330%",
-    "Defense": "330%"
+    "HP": "350%",
+    "Attack": "350%",
+    "Defense": "350%"
   },
   {
     "Level": 30,
-    "HP": "345%",
-    "Attack": "345%",
-    "Defense": "345%"
-  },
-  {
-    "Level": 31,
     "HP": "365%",
     "Attack": "365%",
     "Defense": "365%"
   },
   {
-    "Level": 32,
+    "Level": 31,
     "HP": "385%",
     "Attack": "385%",
     "Defense": "385%"
   },
   {
-    "Level": 33,
+    "Level": 32,
     "HP": "405%",
     "Attack": "405%",
     "Defense": "405%"
   },
   {
-    "Level": 34,
+    "Level": 33,
     "HP": "425%",
     "Attack": "425%",
     "Defense": "425%"
   },
   {
-    "Level": 35,
+    "Level": 34,
     "HP": "445%",
     "Attack": "445%",
     "Defense": "445%"
   },
   {
-    "Level": 36,
+    "Level": 35,
     "HP": "465%",
     "Attack": "465%",
     "Defense": "465%"
   },
   {
-    "Level": 37,
+    "Level": 36,
     "HP": "485%",
     "Attack": "485%",
     "Defense": "485%"
   },
   {
-    "Level": 38,
+    "Level": 37,
     "HP": "505%",
     "Attack": "505%",
     "Defense": "505%"
   },
   {
-    "Level": 39,
+    "Level": 38,
     "HP": "525%",
     "Attack": "525%",
     "Defense": "525%"
   },
   {
+    "Level": 39,
+    "HP": "545%",
+    "Attack": "545%",
+    "Defense": "545%"
+  },
+  {
     "Level": 40,
-    "HP": "550%",
-    "Attack": "550%",
-    "Defense": "550%"
+    "HP": "570%",
+    "Attack": "570%",
+    "Defense": "570%"
   },
   {
     "Level": 41,
-    "HP": "575%",
-    "Attack": "575%",
-    "Defense": "575%"
+    "HP": "595%",
+    "Attack": "595%",
+    "Defense": "595%"
   },
   {
     "Level": 42,
-    "HP": "600%",
-    "Attack": "600%",
-    "Defense": "600%"
+    "HP": "620%",
+    "Attack": "620%",
+    "Defense": "620%"
   },
   {
     "Level": 43,
-    "HP": "625%",
-    "Attack": "625%",
-    "Defense": "625%"
+    "HP": "645%",
+    "Attack": "645%",
+    "Defense": "645%"
   },
   {
     "Level": 44,
-    "HP": "650%",
-    "Attack": "650%",
-    "Defense": "650%"
+    "HP": "670%",
+    "Attack": "670%",
+    "Defense": "670%"
   },
   {
     "Level": 45,
-    "HP": "675%",
-    "Attack": "675%",
-    "Defense": "675%"
+    "HP": "695%",
+    "Attack": "695%",
+    "Defense": "695%"
   },
   {
     "Level": 46,
-    "HP": "700%",
-    "Attack": "700%",
-    "Defense": "700%"
+    "HP": "720%",
+    "Attack": "720%",
+    "Defense": "720%"
   },
   {
     "Level": 47,
-    "HP": "725%",
-    "Attack": "725%",
-    "Defense": "725%"
+    "HP": "745%",
+    "Attack": "745%",
+    "Defense": "745%"
   },
   {
     "Level": 48,
-    "HP": "750%",
-    "Attack": "750%",
-    "Defense": "750%"
+    "HP": "770%",
+    "Attack": "770%",
+    "Defense": "770%"
   },
   {
     "Level": 49,
-    "HP": "775%",
-    "Attack": "775%",
-    "Defense": "775%"
+    "HP": "795%",
+    "Attack": "795%",
+    "Defense": "795%"
   },
   {
     "Level": 50,
-    "HP": "800%",
-    "Attack": "800%",
-    "Defense": "800%"
+    "HP": "820%",
+    "Attack": "820%",
+    "Defense": "820%"
   }
 ]
