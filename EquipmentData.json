@@ -59,8 +59,8 @@
     "main_hp_max": 0,
     "main_defense_min": 0,
     "main_defense_max": 0,
-    "main_attack_min": 40,
-    "main_attack_max": 60,
+    "main_attack_min": 10,
+    "main_attack_max": 20,
     "main_attack_speed_min": 0,
     "main_attack_speed_max": 0,
     "sub_hp_flat": 50,
@@ -1875,3 +1875,4 @@
     "sub_range_percentage": 10
   }
 ]
+
