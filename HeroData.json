@@ -106,18 +106,18 @@
     "rarity": "novice",
     "elemental": "dark",
     "position": "frontline",
-    "enemy_block_number": 1,
+    "enemy_block_number": 2,
     "deploy_cost": 10,
     "redeploy_time": 5,
-    "hp": 902,
-    "defense": 100,
+    "hp": 861,
+    "defense": 92,
     "range": 1.2,
-    "attack": 106,
-    "attack_speed": 1,
+    "attack": 97,
+    "attack_speed": 0.9,
     "basic_skill": "Power Slash",
     "passive_skill": "Dusk Armor",
     "auto_skill": "Shadow Slash",
-    "combat_power": 1358
+    "combat_power": 1250
   },
   {
     "id": "Support_Mystic_3",
@@ -1000,3 +1000,4 @@
     "combat_power": 1815
   }
 ]
+
