@@ -1,10 +1,10 @@
 [
   {
     "Skill Name": "Power Slash",
-    "X": 70,
+    "X": 50,
     "Y": "",
     "Z": "",
-    "AoE": 1.1,
+    "AoE": 1.05,
     "cooldown": 0
   },
   {
@@ -481,7 +481,7 @@
   },
   {
     "Skill Name": "Dusk Armor",
-    "X": 12,
+    "X": 11,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -625,11 +625,11 @@
   },
   {
     "Skill Name": "Shadow Slash",
-    "X": 140,
+    "X": 125,
     "Y": 15,
     "Z": 4,
     "AoE": 0,
-    "cooldown": 10
+    "cooldown": 12
   },
   {
     "Skill Name": "Dusk Cleave",
@@ -1608,5 +1608,3 @@
     "cooldown": 8
   }
 ]
-
-
