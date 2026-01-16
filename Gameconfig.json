@@ -12,7 +12,7 @@
   "damage_normal_max": 1.2,
   "numberOfMoveHero": 10,
   "minHeroMerge": 1,
-  "upEqipmentMultiplier": 1,
+  "upEqipmentMultiplier": 2,
   "spinCostHc": 50,
   "reshuffleEnergy": 5,
   "maxSpinPerUser": 10,
@@ -49,6 +49,7 @@
   "power_card_fragment_duplicated": 60,
   "refund_energy_ratio": 0.5
 }
+
 
 
 
