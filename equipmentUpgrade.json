@@ -6,11 +6,227 @@
     "attack": "100%",
     "defense": "100%",
     "sub_stat_unlock": 0,
-    "EXP": 0
+    "EXP": 100
   },
   {
     "level": 2,
     "rarity": "common",
+    "hp": "110%",
+    "attack": "110%",
+    "defense": "110%",
+    "sub_stat_unlock": 0,
+    "EXP": 100
+  },
+  {
+    "level": 3,
+    "rarity": "common",
+    "hp": "120%",
+    "attack": "120%",
+    "defense": "120%",
+    "sub_stat_unlock": 1,
+    "EXP": 100
+  },
+  {
+    "level": 4,
+    "rarity": "common",
+    "hp": "130%",
+    "attack": "130%",
+    "defense": "130%",
+    "sub_stat_unlock": 0,
+    "EXP": 100
+  },
+  {
+    "level": 5,
+    "rarity": "common",
+    "hp": "140%",
+    "attack": "140%",
+    "defense": "140%",
+    "sub_stat_unlock": 0,
+    "EXP": 100
+  },
+  {
+    "level": 6,
+    "rarity": "common",
+    "hp": "150%",
+    "attack": "150%",
+    "defense": "150%",
+    "sub_stat_unlock": 1,
+    "EXP": 100
+  },
+  {
+    "level": 7,
+    "rarity": "common",
+    "hp": "160%",
+    "attack": "160%",
+    "defense": "160%",
+    "sub_stat_unlock": 0,
+    "EXP": 100
+  },
+  {
+    "level": 8,
+    "rarity": "common",
+    "hp": "170%",
+    "attack": "170%",
+    "defense": "170%",
+    "sub_stat_unlock": 0,
+    "EXP": 100
+  },
+  {
+    "level": 9,
+    "rarity": "common",
+    "hp": "180%",
+    "attack": "180%",
+    "defense": "180%",
+    "sub_stat_unlock": 1,
+    "EXP": 100
+  },
+  {
+    "level": 10,
+    "rarity": "common",
+    "hp": "190%",
+    "attack": "190%",
+    "defense": "190%",
+    "sub_stat_unlock": 0,
+    "EXP": 100
+  },
+  {
+    "level": 11,
+    "rarity": "common",
+    "hp": "200%",
+    "attack": "200%",
+    "defense": "200%",
+    "sub_stat_unlock": 0,
+    "EXP": 100
+  },
+  {
+    "level": 12,
+    "rarity": "common",
+    "hp": "210%",
+    "attack": "210%",
+    "defense": "210%",
+    "sub_stat_unlock": 1,
+    "EXP": 100
+  },
+  {
+    "level": 1,
+    "rarity": "uncommon",
+    "hp": "100%",
+    "attack": "100%",
+    "defense": "100%",
+    "sub_stat_unlock": 0,
+    "EXP": 200
+  },
+  {
+    "level": 2,
+    "rarity": "uncommon",
+    "hp": "110%",
+    "attack": "110%",
+    "defense": "110%",
+    "sub_stat_unlock": 0,
+    "EXP": 200
+  },
+  {
+    "level": 3,
+    "rarity": "uncommon",
+    "hp": "120%",
+    "attack": "120%",
+    "defense": "120%",
+    "sub_stat_unlock": 1,
+    "EXP": 200
+  },
+  {
+    "level": 4,
+    "rarity": "uncommon",
+    "hp": "130%",
+    "attack": "130%",
+    "defense": "130%",
+    "sub_stat_unlock": 0,
+    "EXP": 200
+  },
+  {
+    "level": 5,
+    "rarity": "uncommon",
+    "hp": "140%",
+    "attack": "140%",
+    "defense": "140%",
+    "sub_stat_unlock": 0,
+    "EXP": 200
+  },
+  {
+    "level": 6,
+    "rarity": "uncommon",
+    "hp": "150%",
+    "attack": "150%",
+    "defense": "150%",
+    "sub_stat_unlock": 1,
+    "EXP": 200
+  },
+  {
+    "level": 7,
+    "rarity": "uncommon",
+    "hp": "160%",
+    "attack": "160%",
+    "defense": "160%",
+    "sub_stat_unlock": 0,
+    "EXP": 200
+  },
+  {
+    "level": 8,
+    "rarity": "uncommon",
+    "hp": "170%",
+    "attack": "170%",
+    "defense": "170%",
+    "sub_stat_unlock": 0,
+    "EXP": 200
+  },
+  {
+    "level": 9,
+    "rarity": "uncommon",
+    "hp": "180%",
+    "attack": "180%",
+    "defense": "180%",
+    "sub_stat_unlock": 1,
+    "EXP": 200
+  },
+  {
+    "level": 10,
+    "rarity": "uncommon",
+    "hp": "190%",
+    "attack": "190%",
+    "defense": "190%",
+    "sub_stat_unlock": 0,
+    "EXP": 200
+  },
+  {
+    "level": 11,
+    "rarity": "uncommon",
+    "hp": "200%",
+    "attack": "200%",
+    "defense": "200%",
+    "sub_stat_unlock": 0,
+    "EXP": 200
+  },
+  {
+    "level": 12,
+    "rarity": "uncommon",
+    "hp": "210%",
+    "attack": "210%",
+    "defense": "210%",
+    "sub_stat_unlock": 1,
+    "EXP": 200
+  },
+  {
+    "level": 1,
+    "rarity": "rare",
+    "hp": "100%",
+    "attack": "100%",
+    "defense": "100%",
+    "sub_stat_unlock": 0,
+    "EXP": 300
+  },
+  {
+    "level": 2,
+    "rarity": "rare",
     "hp": "110%",
     "attack": "110%",
     "defense": "110%",
@@ -19,43 +235,259 @@
   },
   {
     "level": 3,
-    "rarity": "common",
+    "rarity": "rare",
     "hp": "120%",
     "attack": "120%",
     "defense": "120%",
     "sub_stat_unlock": 1,
-    "EXP": 340
+    "EXP": 300
   },
   {
     "level": 4,
-    "rarity": "common",
+    "rarity": "rare",
     "hp": "130%",
     "attack": "130%",
     "defense": "130%",
     "sub_stat_unlock": 0,
-    "EXP": 380
+    "EXP": 300
   },
   {
     "level": 5,
-    "rarity": "common",
+    "rarity": "rare",
     "hp": "140%",
     "attack": "140%",
     "defense": "140%",
     "sub_stat_unlock": 0,
-    "EXP": 420
+    "EXP": 300
   },
   {
     "level": 6,
-    "rarity": "common",
+    "rarity": "rare",
     "hp": "150%",
     "attack": "150%",
     "defense": "150%",
     "sub_stat_unlock": 1,
-    "EXP": 460
+    "EXP": 300
   },
   {
     "level": 7,
-    "rarity": "common",
+    "rarity": "rare",
+    "hp": "160%",
+    "attack": "160%",
+    "defense": "160%",
+    "sub_stat_unlock": 0,
+    "EXP": 300
+  },
+  {
+    "level": 8,
+    "rarity": "rare",
+    "hp": "170%",
+    "attack": "170%",
+    "defense": "170%",
+    "sub_stat_unlock": 0,
+    "EXP": 300
+  },
+  {
+    "level": 9,
+    "rarity": "rare",
+    "hp": "180%",
+    "attack": "180%",
+    "defense": "180%",
+    "sub_stat_unlock": 1,
+    "EXP": 300
+  },
+  {
+    "level": 10,
+    "rarity": "rare",
+    "hp": "190%",
+    "attack": "190%",
+    "defense": "190%",
+    "sub_stat_unlock": 0,
+    "EXP": 300
+  },
+  {
+    "level": 11,
+    "rarity": "rare",
+    "hp": "200%",
+    "attack": "200%",
+    "defense": "200%",
+    "sub_stat_unlock": 0,
+    "EXP": 300
+  },
+  {
+    "level": 12,
+    "rarity": "rare",
+    "hp": "210%",
+    "attack": "210%",
+    "defense": "210%",
+    "sub_stat_unlock": 1,
+    "EXP": 300
+  },
+  {
+    "level": 1,
+    "rarity": "epic",
+    "hp": "100%",
+    "attack": "100%",
+    "defense": "100%",
+    "sub_stat_unlock": 0,
+    "EXP": 400
+  },
+  {
+    "level": 2,
+    "rarity": "epic",
+    "hp": "110%",
+    "attack": "110%",
+    "defense": "110%",
+    "sub_stat_unlock": 0,
+    "EXP": 400
+  },
+  {
+    "level": 3,
+    "rarity": "epic",
+    "hp": "120%",
+    "attack": "120%",
+    "defense": "120%",
+    "sub_stat_unlock": 1,
+    "EXP": 400
+  },
+  {
+    "level": 4,
+    "rarity": "epic",
+    "hp": "130%",
+    "attack": "130%",
+    "defense": "130%",
+    "sub_stat_unlock": 0,
+    "EXP": 400
+  },
+  {
+    "level": 5,
+    "rarity": "epic",
+    "hp": "140%",
+    "attack": "140%",
+    "defense": "140%",
+    "sub_stat_unlock": 0,
+    "EXP": 400
+  },
+  {
+    "level": 6,
+    "rarity": "epic",
+    "hp": "150%",
+    "attack": "150%",
+    "defense": "150%",
+    "sub_stat_unlock": 1,
+    "EXP": 400
+  },
+  {
+    "level": 7,
+    "rarity": "epic",
+    "hp": "160%",
+    "attack": "160%",
+    "defense": "160%",
+    "sub_stat_unlock": 0,
+    "EXP": 400
+  },
+  {
+    "level": 8,
+    "rarity": "epic",
+    "hp": "170%",
+    "attack": "170%",
+    "defense": "170%",
+    "sub_stat_unlock": 0,
+    "EXP": 400
+  },
+  {
+    "level": 9,
+    "rarity": "epic",
+    "hp": "180%",
+    "attack": "180%",
+    "defense": "180%",
+    "sub_stat_unlock": 1,
+    "EXP": 400
+  },
+  {
+    "level": 10,
+    "rarity": "epic",
+    "hp": "190%",
+    "attack": "190%",
+    "defense": "190%",
+    "sub_stat_unlock": 0,
+    "EXP": 400
+  },
+  {
+    "level": 11,
+    "rarity": "epic",
+    "hp": "200%",
+    "attack": "200%",
+    "defense": "200%",
+    "sub_stat_unlock": 0,
+    "EXP": 400
+  },
+  {
+    "level": 12,
+    "rarity": "epic",
+    "hp": "210%",
+    "attack": "210%",
+    "defense": "210%",
+    "sub_stat_unlock": 1,
+    "EXP": 400
+  },
+  {
+    "level": 1,
+    "rarity": "legendary",
+    "hp": "100%",
+    "attack": "100%",
+    "defense": "100%",
+    "sub_stat_unlock": 0,
+    "EXP": 500
+  },
+  {
+    "level": 2,
+    "rarity": "legendary",
+    "hp": "110%",
+    "attack": "110%",
+    "defense": "110%",
+    "sub_stat_unlock": 0,
+    "EXP": 500
+  },
+  {
+    "level": 3,
+    "rarity": "legendary",
+    "hp": "120%",
+    "attack": "120%",
+    "defense": "120%",
+    "sub_stat_unlock": 1,
+    "EXP": 500
+  },
+  {
+    "level": 4,
+    "rarity": "legendary",
+    "hp": "130%",
+    "attack": "130%",
+    "defense": "130%",
+    "sub_stat_unlock": 0,
+    "EXP": 500
+  },
+  {
+    "level": 5,
+    "rarity": "legendary",
+    "hp": "140%",
+    "attack": "140%",
+    "defense": "140%",
+    "sub_stat_unlock": 0,
+    "EXP": 500
+  },
+  {
+    "level": 6,
+    "rarity": "legendary",
+    "hp": "150%",
+    "attack": "150%",
+    "defense": "150%",
+    "sub_stat_unlock": 1,
+    "EXP": 500
+  },
+  {
+    "level": 7,
+    "rarity": "legendary",
     "hp": "160%",
     "attack": "160%",
     "defense": "160%",
@@ -64,444 +496,12 @@
   },
   {
     "level": 8,
-    "rarity": "common",
-    "hp": "170%",
-    "attack": "170%",
-    "defense": "170%",
-    "sub_stat_unlock": 0,
-    "EXP": 540
-  },
-  {
-    "level": 9,
-    "rarity": "common",
-    "hp": "180%",
-    "attack": "180%",
-    "defense": "180%",
-    "sub_stat_unlock": 1,
-    "EXP": 580
-  },
-  {
-    "level": 10,
-    "rarity": "common",
-    "hp": "190%",
-    "attack": "190%",
-    "defense": "190%",
-    "sub_stat_unlock": 0,
-    "EXP": 620
-  },
-  {
-    "level": 11,
-    "rarity": "common",
-    "hp": "200%",
-    "attack": "200%",
-    "defense": "200%",
-    "sub_stat_unlock": 0,
-    "EXP": 660
-  },
-  {
-    "level": 12,
-    "rarity": "common",
-    "hp": "210%",
-    "attack": "210%",
-    "defense": "210%",
-    "sub_stat_unlock": 1,
-    "EXP": 700
-  },
-  {
-    "level": 1,
-    "rarity": "uncommon",
-    "hp": "100%",
-    "attack": "100%",
-    "defense": "100%",
-    "sub_stat_unlock": 0,
-    "EXP": 0
-  },
-  {
-    "level": 2,
-    "rarity": "uncommon",
-    "hp": "110%",
-    "attack": "110%",
-    "defense": "110%",
-    "sub_stat_unlock": 0,
-    "EXP": 740
-  },
-  {
-    "level": 3,
-    "rarity": "uncommon",
-    "hp": "120%",
-    "attack": "120%",
-    "defense": "120%",
-    "sub_stat_unlock": 1,
-    "EXP": 820
-  },
-  {
-    "level": 4,
-    "rarity": "uncommon",
-    "hp": "130%",
-    "attack": "130%",
-    "defense": "130%",
-    "sub_stat_unlock": 0,
-    "EXP": 900
-  },
-  {
-    "level": 5,
-    "rarity": "uncommon",
-    "hp": "140%",
-    "attack": "140%",
-    "defense": "140%",
-    "sub_stat_unlock": 0,
-    "EXP": 980
-  },
-  {
-    "level": 6,
-    "rarity": "uncommon",
-    "hp": "150%",
-    "attack": "150%",
-    "defense": "150%",
-    "sub_stat_unlock": 1,
-    "EXP": 1060
-  },
-  {
-    "level": 7,
-    "rarity": "uncommon",
-    "hp": "160%",
-    "attack": "160%",
-    "defense": "160%",
-    "sub_stat_unlock": 0,
-    "EXP": 1140
-  },
-  {
-    "level": 8,
-    "rarity": "uncommon",
-    "hp": "170%",
-    "attack": "170%",
-    "defense": "170%",
-    "sub_stat_unlock": 0,
-    "EXP": 1220
-  },
-  {
-    "level": 9,
-    "rarity": "uncommon",
-    "hp": "180%",
-    "attack": "180%",
-    "defense": "180%",
-    "sub_stat_unlock": 1,
-    "EXP": 1300
-  },
-  {
-    "level": 10,
-    "rarity": "uncommon",
-    "hp": "190%",
-    "attack": "190%",
-    "defense": "190%",
-    "sub_stat_unlock": 0,
-    "EXP": 1380
-  },
-  {
-    "level": 11,
-    "rarity": "uncommon",
-    "hp": "200%",
-    "attack": "200%",
-    "defense": "200%",
-    "sub_stat_unlock": 0,
-    "EXP": 1460
-  },
-  {
-    "level": 12,
-    "rarity": "uncommon",
-    "hp": "210%",
-    "attack": "210%",
-    "defense": "210%",
-    "sub_stat_unlock": 1,
-    "EXP": 1540
-  },
-  {
-    "level": 1,
-    "rarity": "rare",
-    "hp": "100%",
-    "attack": "100%",
-    "defense": "100%",
-    "sub_stat_unlock": 0,
-    "EXP": 0
-  },
-  {
-    "level": 2,
-    "rarity": "rare",
-    "hp": "110%",
-    "attack": "110%",
-    "defense": "110%",
-    "sub_stat_unlock": 0,
-    "EXP": 1580
-  },
-  {
-    "level": 3,
-    "rarity": "rare",
-    "hp": "120%",
-    "attack": "120%",
-    "defense": "120%",
-    "sub_stat_unlock": 1,
-    "EXP": 1700
-  },
-  {
-    "level": 4,
-    "rarity": "rare",
-    "hp": "130%",
-    "attack": "130%",
-    "defense": "130%",
-    "sub_stat_unlock": 0,
-    "EXP": 1820
-  },
-  {
-    "level": 5,
-    "rarity": "rare",
-    "hp": "140%",
-    "attack": "140%",
-    "defense": "140%",
-    "sub_stat_unlock": 0,
-    "EXP": 1940
-  },
-  {
-    "level": 6,
-    "rarity": "rare",
-    "hp": "150%",
-    "attack": "150%",
-    "defense": "150%",
-    "sub_stat_unlock": 1,
-    "EXP": 2060
-  },
-  {
-    "level": 7,
-    "rarity": "rare",
-    "hp": "160%",
-    "attack": "160%",
-    "defense": "160%",
-    "sub_stat_unlock": 0,
-    "EXP": 2180
-  },
-  {
-    "level": 8,
-    "rarity": "rare",
-    "hp": "170%",
-    "attack": "170%",
-    "defense": "170%",
-    "sub_stat_unlock": 0,
-    "EXP": 2300
-  },
-  {
-    "level": 9,
-    "rarity": "rare",
-    "hp": "180%",
-    "attack": "180%",
-    "defense": "180%",
-    "sub_stat_unlock": 1,
-    "EXP": 2420
-  },
-  {
-    "level": 10,
-    "rarity": "rare",
-    "hp": "190%",
-    "attack": "190%",
-    "defense": "190%",
-    "sub_stat_unlock": 0,
-    "EXP": 2540
-  },
-  {
-    "level": 11,
-    "rarity": "rare",
-    "hp": "200%",
-    "attack": "200%",
-    "defense": "200%",
-    "sub_stat_unlock": 0,
-    "EXP": 2660
-  },
-  {
-    "level": 12,
-    "rarity": "rare",
-    "hp": "210%",
-    "attack": "210%",
-    "defense": "210%",
-    "sub_stat_unlock": 1,
-    "EXP": 2780
-  },
-  {
-    "level": 1,
-    "rarity": "epic",
-    "hp": "100%",
-    "attack": "100%",
-    "defense": "100%",
-    "sub_stat_unlock": 0,
-    "EXP": 0
-  },
-  {
-    "level": 2,
-    "rarity": "epic",
-    "hp": "110%",
-    "attack": "110%",
-    "defense": "110%",
-    "sub_stat_unlock": 0,
-    "EXP": 2820
-  },
-  {
-    "level": 3,
-    "rarity": "epic",
-    "hp": "120%",
-    "attack": "120%",
-    "defense": "120%",
-    "sub_stat_unlock": 1,
-    "EXP": 2980
-  },
-  {
-    "level": 4,
-    "rarity": "epic",
-    "hp": "130%",
-    "attack": "130%",
-    "defense": "130%",
-    "sub_stat_unlock": 0,
-    "EXP": 3140
-  },
-  {
-    "level": 5,
-    "rarity": "epic",
-    "hp": "140%",
-    "attack": "140%",
-    "defense": "140%",
-    "sub_stat_unlock": 0,
-    "EXP": 3300
-  },
-  {
-    "level": 6,
-    "rarity": "epic",
-    "hp": "150%",
-    "attack": "150%",
-    "defense": "150%",
-    "sub_stat_unlock": 1,
-    "EXP": 3460
-  },
-  {
-    "level": 7,
-    "rarity": "epic",
-    "hp": "160%",
-    "attack": "160%",
-    "defense": "160%",
-    "sub_stat_unlock": 0,
-    "EXP": 3620
-  },
-  {
-    "level": 8,
-    "rarity": "epic",
-    "hp": "170%",
-    "attack": "170%",
-    "defense": "170%",
-    "sub_stat_unlock": 0,
-    "EXP": 3780
-  },
-  {
-    "level": 9,
-    "rarity": "epic",
-    "hp": "180%",
-    "attack": "180%",
-    "defense": "180%",
-    "sub_stat_unlock": 1,
-    "EXP": 3940
-  },
-  {
-    "level": 10,
-    "rarity": "epic",
-    "hp": "190%",
-    "attack": "190%",
-    "defense": "190%",
-    "sub_stat_unlock": 0,
-    "EXP": 4100
-  },
-  {
-    "level": 11,
-    "rarity": "epic",
-    "hp": "200%",
-    "attack": "200%",
-    "defense": "200%",
-    "sub_stat_unlock": 0,
-    "EXP": 4260
-  },
-  {
-    "level": 12,
-    "rarity": "epic",
-    "hp": "210%",
-    "attack": "210%",
-    "defense": "210%",
-    "sub_stat_unlock": 1,
-    "EXP": 4420
-  },
-  {
-    "level": 1,
-    "rarity": "legendary",
-    "hp": "100%",
-    "attack": "100%",
-    "defense": "100%",
-    "sub_stat_unlock": 0,
-    "EXP": 0
-  },
-  {
-    "level": 2,
-    "rarity": "legendary",
-    "hp": "110%",
-    "attack": "110%",
-    "defense": "110%",
-    "sub_stat_unlock": 0,
-    "EXP": 4460
-  },
-  {
-    "level": 3,
-    "rarity": "legendary",
-    "hp": "120%",
-    "attack": "120%",
-    "defense": "120%",
-    "sub_stat_unlock": 1,
-    "EXP": 4660
-  },
-  {
-    "level": 4,
-    "rarity": "legendary",
-    "hp": "130%",
-    "attack": "130%",
-    "defense": "130%",
-    "sub_stat_unlock": 0,
-    "EXP": 4860
-  },
-  {
-    "level": 5,
-    "rarity": "legendary",
-    "hp": "140%",
-    "attack": "140%",
-    "defense": "140%",
-    "sub_stat_unlock": 0,
-    "EXP": 5060
-  },
-  {
-    "level": 6,
-    "rarity": "legendary",
-    "hp": "150%",
-    "attack": "150%",
-    "defense": "150%",
-    "sub_stat_unlock": 1,
-    "EXP": 5260
-  },
-  {
-    "level": 7,
-    "rarity": "legendary",
-    "hp": "160%",
-    "attack": "160%",
-    "defense": "160%",
-    "sub_stat_unlock": 0,
-    "EXP": 5460
-  },
-  {
-    "level": 8,
     "rarity": "legendary",
     "hp": "170%",
     "attack": "170%",
     "defense": "170%",
     "sub_stat_unlock": 0,
-    "EXP": 5660
+    "EXP": 500
   },
   {
     "level": 9,
@@ -510,7 +510,7 @@
     "attack": "180%",
     "defense": "180%",
     "sub_stat_unlock": 1,
-    "EXP": 5860
+    "EXP": 500
   },
   {
     "level": 10,
@@ -519,7 +519,7 @@
     "attack": "190%",
     "defense": "190%",
     "sub_stat_unlock": 0,
-    "EXP": 6060
+    "EXP": 500
   },
   {
     "level": 11,
@@ -528,7 +528,7 @@
     "attack": "200%",
     "defense": "200%",
     "sub_stat_unlock": 0,
-    "EXP": 6260
+    "EXP": 500
   },
   {
     "level": 12,
@@ -537,6 +537,6 @@
     "attack": "210%",
     "defense": "210%",
     "sub_stat_unlock": 1,
-    "EXP": 6460
+    "EXP": 500
   }
 ]
