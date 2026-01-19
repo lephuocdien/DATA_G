@@ -1,25 +1,5 @@
 {
   "products": {
-    "igp_free_coin": {
-      "product_id": "igp_free_coin",
-      "category": "recommend",
-      "status": "active",
-      "type": "currency",
-      "price_amount": 0,
-      "price_type": "hc",
-      "limit": 1,
-      "reset_limit_interval": 1,
-      "promo_price": "",
-      "promo_limit": "",
-      "rewards": [
-        {
-          "valid_duration_in_days": null,
-          "item_quantity": 1000,
-          "item_code": "sc",
-          "item_promo_quantity": null
-        }
-      ]
-    },
     "iap_welcome_1": {
       "product_id": "iap_welcome_1",
       "category": "recommend",
@@ -288,9 +268,9 @@
         }
       ]
     },
-    "igp_free_gem": {
-      "product_id": "igp_free_gem",
-      "category": "bundle_shop",
+    "igp_free_coin": {
+      "product_id": "igp_free_coin",
+      "category": "recommend",
       "status": "active",
       "type": "currency",
       "price_amount": 0,
@@ -302,8 +282,8 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 20,
-          "item_code": "hc",
+          "item_quantity": 1000,
+          "item_code": "sc",
           "item_promo_quantity": null
         }
       ]
@@ -532,6 +512,26 @@
           "valid_duration_in_days": null,
           "item_quantity": 5000,
           "item_code": "skill_book",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_free_gem": {
+      "product_id": "igp_free_gem",
+      "category": "bundle_shop",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 0,
+      "price_type": "hc",
+      "limit": 1,
+      "reset_limit_interval": 1,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 20,
+          "item_code": "hc",
           "item_promo_quantity": null
         }
       ]
