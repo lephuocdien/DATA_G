@@ -270,7 +270,7 @@
     },
     "igp_free_coin": {
       "product_id": "igp_free_coin",
-      "category": "recommend",
+      "category": "bundle_shop",
       "status": "active",
       "type": "currency",
       "price_amount": 0,
@@ -518,7 +518,7 @@
     },
     "igp_free_gem": {
       "product_id": "igp_free_gem",
-      "category": "bundle_shop",
+      "category": "gem_market",
       "status": "active",
       "type": "currency",
       "price_amount": 0,
