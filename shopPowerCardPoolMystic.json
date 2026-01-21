@@ -3,17 +3,20 @@
   "periodDays": 7,
   "rotations": [
     { "label": "Week1", "heroes": ["fragment_ChainBolt","fragment_WindPush"]},
-    { "label": "Week2", "heroes": ["fragment_ChainBolt","fragment_WindPush"]},
-    { "label": "Week3", "heroes": ["fragment_ChainBolt","fragment_WindPush"]},
-    { "label": "Week4", "heroes": ["fragment_ChainBolt","fragment_WindPush"]},
-    { "label": "Week5", "heroes": ["fragment_ChainBolt","fragment_WindPush"]},
-    { "label": "Week6", "heroes": ["fragment_ChainBolt","fragment_WindPush"]},
-    { "label": "Week7", "heroes": ["fragment_ChainBolt","fragment_WindPush"]},
-    { "label": "Week8", "heroes": ["fragment_ChainBolt","fragment_WindPush"]}
+    { "label": "Week2", "heroes": ["fragment_ChainBolt","fragment_SunHeal"]},
+    { "label": "Week3", "heroes": ["fragment_WindPush","fragment_SunHeal"] },
+    { "label": "Week4", "heroes": ["fragment_ChainBolt","fragment_WindPush"] },
+    { "label": "Week5", "heroes": ["fragment_ChainBolt","fragment_SunHeal"] },
+    { "label": "Week6", "heroes": ["fragment_WindPush","fragment_SunHeal"] },
+    { "label": "Week7", "heroes": ["fragment_ChainBolt","fragment_WindPush"] },
+    { "label": "Week8", "heroes": ["fragment_ChainBolt","fragment_SunHeal"] },
+    { "label": "Week9", "heroes": ["fragment_WindPush","fragment_SunHeal"] },
+    { "label": "Week10", "heroes": ["fragment_ChainBolt","fragment_WindPush"] },
+    { "label": "Week11", "heroes": ["fragment_ChainBolt","fragment_SunHeal"] },
+    { "label": "Week12", "heroes": ["fragment_WindPush","fragment_SunHeal"] },
+    { "label": "Week13", "heroes": ["fragment_ChainBolt","fragment_WindPush"] },
+    { "label": "Week14", "heroes": ["fragment_ChainBolt","fragment_SunHeal"] },
+    { "label": "Week15", "heroes": ["fragment_WindPush","fragment_SunHeal"] },
+    { "label": "Week16", "heroes": ["fragment_ChainBolt","fragment_WindPush"] }
   ]
 }
-
-
-
-
-
