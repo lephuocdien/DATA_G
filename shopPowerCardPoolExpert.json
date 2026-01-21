@@ -3,13 +3,20 @@
   "periodDays": 7,
   "rotations": [
     { "label": "Week1", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
-    { "label": "Week2", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
-    { "label": "Week3", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
+    { "label": "Week2", "heroes": ["fragment_FlameTrap","fragment_IronGuard"] },
+    { "label": "Week3", "heroes": ["fragment_FrostWave","fragment_IronGuard"] },
     { "label": "Week4", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
-    { "label": "Week5", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
-    { "label": "Week6", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
+    { "label": "Week5", "heroes": ["fragment_FlameTrap","fragment_IronGuard"] },
+    { "label": "Week6", "heroes": ["fragment_FrostWave","fragment_IronGuard"] },
     { "label": "Week7", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
-    { "label": "Week8", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] }
+    { "label": "Week8", "heroes": ["fragment_FlameTrap","fragment_IronGuard"] },
+    { "label": "Week9", "heroes": ["fragment_FrostWave","fragment_IronGuard"] },
+    { "label": "Week10", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
+    { "label": "Week11", "heroes": ["fragment_FlameTrap","fragment_IronGuard"] },
+    { "label": "Week12", "heroes": ["fragment_FrostWave","fragment_IronGuard"] },
+    { "label": "Week13", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] },
+    { "label": "Week14", "heroes": ["fragment_FlameTrap","fragment_IronGuard"] },
+    { "label": "Week15", "heroes": ["fragment_FrostWave","fragment_IronGuard"] },
+    { "label": "Week16", "heroes": ["fragment_FlameTrap","fragment_FrostWave"] }
   ]
 }
-
