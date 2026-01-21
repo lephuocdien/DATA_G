@@ -3,19 +3,16 @@
   "periodDays": 7,
   "rotations": [
     { "label": "Week1", "heroes": ["fragment_Warrior_Expert_3","fragment_Magician_Expert_1" ] },
-    { "label": "Week2", "heroes": ["Support_Mystic_3","Tanker_Expert_1"] },
-    { "label": "Week3", "heroes": ["fragment_Magician_Expert_1","Support_Mystic_3"] },
-    { "label": "Week4", "heroes": ["fragment_Warrior_Expert_3","Tanker_Expert_1" ] },
-    { "label": "Week5", "heroes": ["fragment_Magician_Expert_1","Tanker_Expert_1"] },
-    { "label": "Week6", "heroes": ["fragment_Warrior_Expert_3","Support_Mystic_3" ] },
+    { "label": "Week2", "heroes": ["fragment_Support_Mystic_3","fragment_Tanker_Expert_1"] },
+    { "label": "Week3", "heroes": ["fragment_Magician_Expert_1","fragment_Support_Mystic_3"] },
+    { "label": "Week4", "heroes": ["fragment_Warrior_Expert_3","fragment_Tanker_Expert_1" ] },
+    { "label": "Week5", "heroes": ["fragment_Magician_Expert_1","fragment_Tanker_Expert_1"] },
+    { "label": "Week6", "heroes": ["fragment_Warrior_Expert_3","fragment_Support_Mystic_3" ] },
     { "label": "Week7", "heroes": ["fragment_Warrior_Expert_3","fragment_Magician_Expert_1" ] },
-    { "label": "Week8", "heroes": ["Support_Mystic_3","Tanker_Expert_1"] },
-    { "label": "Week9", "heroes": ["fragment_Magician_Expert_1","Support_Mystic_3"] },
-    { "label": "Week10", "heroes": ["fragment_Warrior_Expert_3","Tanker_Expert_1" ] },
-    { "label": "Week11", "heroes": ["fragment_Magician_Expert_1","Tanker_Expert_1"] },
-    { "label": "Week12", "heroes": ["fragment_Warrior_Expert_3","Support_Mystic_3" ] }
+    { "label": "Week8", "heroes": ["fragment_Support_Mystic_3","fragment_Tanker_Expert_1"] },
+    { "label": "Week9", "heroes": ["fragment_Magician_Expert_1","fragment_Support_Mystic_3"] },
+    { "label": "Week10", "heroes": ["fragment_Warrior_Expert_3","fragment_Tanker_Expert_1" ] },
+    { "label": "Week11", "heroes": ["fragment_Magician_Expert_1","fragment_Tanker_Expert_1"] },
+    { "label": "Week12", "heroes": ["fragment_Warrior_Expert_3","fragment_Support_Mystic_3" ] }
   ]
 }
-
-
-
