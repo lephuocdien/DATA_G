@@ -1,6 +1,10 @@
 {
   "target_banner": [
     {
+      "parameter": "mystic_appear_summon_require",
+      "value": 10
+    },
+    {
       "parameter": "mystic_gurantee_amount",
       "value": 40
     },
@@ -34,6 +38,10 @@
     }
   ],
   "permanent_banner": [
+    {
+      "parameter": "mystic_appear_summon_require",
+      "value": 10
+    },
     {
       "parameter": "mystic_gurantee_amount",
       "value": 80
@@ -113,6 +121,10 @@
     }
   ],
   "rate_up_banner": [
+    {
+      "parameter": "mystic_appear_summon_require",
+      "value": 10
+    },
     {
       "parameter": "mystic_gurantee_amount",
       "value": 80
