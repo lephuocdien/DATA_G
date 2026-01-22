@@ -1,9 +1,5 @@
 {
-  "target_banner": [
-    {
-      "parameter": "mystic_appear_summon_require",
-      "value": 10
-    },
+  "target_banner": [    
     {
       "parameter": "mystic_gurantee_amount",
       "value": 40
@@ -37,11 +33,7 @@
       "value": "[fire, water, earth, wind]"
     }
   ],
-  "permanent_banner": [
-    {
-      "parameter": "mystic_appear_summon_require",
-      "value": 10
-    },
+  "permanent_banner": [    
     {
       "parameter": "mystic_gurantee_amount",
       "value": 80
@@ -120,11 +112,7 @@
       "value": 5
     }
   ],
-  "rate_up_banner": [
-    {
-      "parameter": "mystic_appear_summon_require",
-      "value": 10
-    },
+  "rate_up_banner": [    
     {
       "parameter": "mystic_gurantee_amount",
       "value": 80
