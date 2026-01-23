@@ -1444,7 +1444,7 @@
     "name": "Breezy Stinger Earth",
     "type": "fly_attack",
     "rank": "normal",
-    "elemental": "eath",
+    "elemental": "earth",
     "hp": 362,
     "defense": 40,
     "range": 2.8,
@@ -1728,3 +1728,4 @@
     "power_skill_2": "Inferno Dive"
   }
 ]
+
