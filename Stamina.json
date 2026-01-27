@@ -7,8 +7,9 @@
   "purchase_stamina_receive": 50,
   "purchase_stamina_amount": 10,
   "purchase_stamina_cost_initial": 60,
-  "purchase_stamina_cost_increase": 20
+  "purchase_stamina_cost_increase": 40
 }
+
 
 
 
