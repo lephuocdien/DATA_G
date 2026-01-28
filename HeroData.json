@@ -53,11 +53,11 @@
     "defense": 65,
     "range": 3.8,
     "attack": 160,
-    "attack_speed": 0.7,
+    "attack_speed": 0.8,
     "basic_skill": "Sigil Blast",
     "passive_skill": "Storm Surge",
     "auto_skill": "Cyclone Vortex",
-    "combat_power": 1583
+    "combat_power": 1646
   },
   {
     "id": "Shooter_Expert_3",
@@ -73,11 +73,11 @@
     "defense": 53,
     "range": 3.4,
     "attack": 91,
-    "attack_speed": 1.15,
+    "attack_speed": 1.1,
     "basic_skill": "Piercing Bullet",
     "passive_skill": "Frostbite",
     "auto_skill": "Frost Barrage",
-    "combat_power": 1399
+    "combat_power": 1415
   },
   {
     "id": "Tanker_Mystic_3",
@@ -147,7 +147,7 @@
     "elemental": "dark",
     "position": "tactical",
     "enemy_block_number": 4,
-    "deploy_cost": 23,
+    "deploy_cost": 25,
     "redeploy_time": 5,
     "hp": 629,
     "defense": 81,
@@ -167,17 +167,17 @@
     "elemental": "fire",
     "position": "tactical",
     "enemy_block_number": 4,
-    "deploy_cost": 20,
+    "deploy_cost": 23,
     "redeploy_time": 5,
     "hp": 735,
     "defense": 83,
     "range": 3.5,
     "attack": 146,
-    "attack_speed": 1.02,
+    "attack_speed": 0.95,
     "basic_skill": "Rapid Shot",
     "passive_skill": "Ignite",
     "auto_skill": "Piercing Arrow",
-    "combat_power": 1844
+    "combat_power": 1848
   },
   {
     "id": "Warrior_Mystic_4",
@@ -227,17 +227,17 @@
     "elemental": "dark",
     "position": "tactical",
     "enemy_block_number": 3,
-    "deploy_cost": 21,
+    "deploy_cost": 23,
     "redeploy_time": 5,
     "hp": 702,
     "defense": 79,
     "range": 3.2,
     "attack": 132,
-    "attack_speed": 1,
+    "attack_speed": 0.9,
     "basic_skill": "Rain of Arrows",
     "passive_skill": "Shadow Power",
     "auto_skill": "Phantom Shot",
-    "combat_power": 1746
+    "combat_power": 1736
   },
   {
     "id": "Magician_Mystic_2",
@@ -247,7 +247,7 @@
     "elemental": "fire",
     "position": "tactical",
     "enemy_block_number": 4,
-    "deploy_cost": 22,
+    "deploy_cost": 24,
     "redeploy_time": 5,
     "hp": 551,
     "defense": 80,
@@ -333,11 +333,11 @@
     "defense": 67,
     "range": 3.4,
     "attack": 115,
-    "attack_speed": 1.23,
+    "attack_speed": 1.17,
     "basic_skill": "Explosive Arrow",
     "passive_skill": "Guardian Gift",
     "auto_skill": "Cracked Shot",
-    "combat_power": 1635
+    "combat_power": 1650
   },
   {
     "id": "Magician_Novice_1",
@@ -433,11 +433,11 @@
     "defense": 52,
     "range": 3.6,
     "attack": 88,
-    "attack_speed": 1.22,
+    "attack_speed": 1.13,
     "basic_skill": "Volley Fire",
     "passive_skill": "Ember Shield",
     "auto_skill": "Rapid Inferno",
-    "combat_power": 1370
+    "combat_power": 1372
   },
   {
     "id": "Magician_Novice_2",
@@ -567,17 +567,17 @@
     "elemental": "water",
     "position": "tactical",
     "enemy_block_number": 2,
-    "deploy_cost": 15,
+    "deploy_cost": 17,
     "redeploy_time": 5,
     "hp": 589,
     "defense": 64,
     "range": 3.2,
     "attack": 102,
-    "attack_speed": 1.04,
+    "attack_speed": 1.12,
     "basic_skill": "Ricochet Shot",
     "passive_skill": "Ocean Grace",
     "auto_skill": "Tidal Wave Shot",
-    "combat_power": 1501
+    "combat_power": 1567
   },
   {
     "id": "Support_Mystic_1",
@@ -677,7 +677,7 @@
     "basic_skill": "Twin Bolts",
     "passive_skill": "Life Drain",
     "auto_skill": "Shadow Volley",
-    "combat_power": 1482
+    "combat_power": 1515
   },
   {
     "id": "Tanker_Expert_2",
@@ -747,17 +747,17 @@
     "elemental": "wind",
     "position": "tactical",
     "enemy_block_number": 3,
-    "deploy_cost": 20,
+    "deploy_cost": 24,
     "redeploy_time": 5,
     "hp": 671,
     "defense": 77,
     "range": 3.4,
     "attack": 153,
-    "attack_speed": 1.23,
+    "attack_speed": 1.1,
     "basic_skill": "Snipe Shot",
     "passive_skill": "Feather Step",
     "auto_skill": "Gale Barrage",
-    "combat_power": 1869
+    "combat_power": 1854
   },
   {
     "id": "Tanker_Mystic_2",
@@ -817,7 +817,7 @@
     "basic_skill": "Rapid Shot",
     "passive_skill": "Stone Skin",
     "auto_skill": "Piercing Stone",
-    "combat_power": 1802
+    "combat_power": 1837
   },
   {
     "id": "Shooter_Novice_1",
@@ -833,11 +833,11 @@
     "defense": 68,
     "range": 3.2,
     "attack": 114,
-    "attack_speed": 1.06,
+    "attack_speed": 1.15,
     "basic_skill": "Piercing Bullet",
     "passive_skill": "Cyclone Strike",
     "auto_skill": "Piercing Wind",
-    "combat_power": 1573
+    "combat_power": 1645
   },
   {
     "id": "Support_Novice_1",
