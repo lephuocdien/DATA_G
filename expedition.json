@@ -2,7 +2,7 @@
   {
     "id": "expedition_1",
     "status": "active",
-    "title": "Expedition 1",
+    "title": "Support Supply Run",
     "rarity": "common",
     "condition_normal": "supporter",
     "condition_bonus": "",
@@ -22,7 +22,7 @@
   {
     "id": "expedition_2",
     "status": "active",
-    "title": "Expedition 2",
+    "title": "Warrior Patrol",
     "rarity": "common",
     "condition_normal": "warrior",
     "condition_bonus": "",
@@ -42,7 +42,7 @@
   {
     "id": "expedition_3",
     "status": "active",
-    "title": "Expedition 3",
+    "title": "Arcane Study",
     "rarity": "common",
     "condition_normal": "magician",
     "condition_bonus": "",
@@ -62,7 +62,7 @@
   {
     "id": "expedition_4",
     "status": "active",
-    "title": "Expedition 4",
+    "title": "Sharpshooter Watch",
     "rarity": "common",
     "condition_normal": "shooter",
     "condition_bonus": "",
@@ -82,7 +82,7 @@
   {
     "id": "expedition_5",
     "status": "active",
-    "title": "Expedition 5",
+    "title": "Shield Wall Duty",
     "rarity": "common",
     "condition_normal": "tanker",
     "condition_bonus": "",
@@ -102,7 +102,7 @@
   {
     "id": "expedition_6",
     "status": "active",
-    "title": "Expedition 6",
+    "title": "Support Relief Mission",
     "rarity": "uncommon",
     "condition_normal": "supporter",
     "condition_bonus": "",
@@ -122,7 +122,7 @@
   {
     "id": "expedition_7",
     "status": "active",
-    "title": "Expedition 7",
+    "title": "Warrior Vanguard",
     "rarity": "uncommon",
     "condition_normal": "warrior",
     "condition_bonus": "",
@@ -142,7 +142,7 @@
   {
     "id": "expedition_8",
     "status": "active",
-    "title": "Expedition 8",
+    "title": "Mystic Research",
     "rarity": "uncommon",
     "condition_normal": "magician",
     "condition_bonus": "",
@@ -162,7 +162,7 @@
   {
     "id": "expedition_9",
     "status": "active",
-    "title": "Expedition 9",
+    "title": "Precision Hunt",
     "rarity": "uncommon",
     "condition_normal": "shooter",
     "condition_bonus": "",
@@ -182,7 +182,7 @@
   {
     "id": "expedition_10",
     "status": "active",
-    "title": "Expedition 10",
+    "title": "Iron Guard Assignment",
     "rarity": "uncommon",
     "condition_normal": "tanker",
     "condition_bonus": "",
@@ -202,7 +202,7 @@
   {
     "id": "expedition_11",
     "status": "active",
-    "title": "Expedition 11",
+    "title": "Tides of Restoration",
     "rarity": "rare",
     "condition_normal": "supporter",
     "condition_bonus": "water",
@@ -222,7 +222,7 @@
   {
     "id": "expedition_12",
     "status": "inactive",
-    "title": "Expedition 12",
+    "title": "Flames of Aid",
     "rarity": "rare",
     "condition_normal": "supporter",
     "condition_bonus": "fire",
@@ -242,7 +242,7 @@
   {
     "id": "expedition_13",
     "status": "active",
-    "title": "Expedition 13",
+    "title": "Winds of Renewal",
     "rarity": "rare",
     "condition_normal": "supporter",
     "condition_bonus": "wind",
@@ -262,7 +262,7 @@
   {
     "id": "expedition_14",
     "status": "active",
-    "title": "Expedition 14",
+    "title": "Roots of Sanctuary",
     "rarity": "rare",
     "condition_normal": "supporter",
     "condition_bonus": "earth",
@@ -282,7 +282,7 @@
   {
     "id": "expedition_15",
     "status": "inactive",
-    "title": "Expedition 15",
+    "title": "Veil of Salvation",
     "rarity": "rare",
     "condition_normal": "supporter",
     "condition_bonus": "dark",
@@ -302,7 +302,7 @@
   {
     "id": "expedition_16",
     "status": "active",
-    "title": "Expedition 16",
+    "title": "Tidal Warpath",
     "rarity": "rare",
     "condition_normal": "warrior",
     "condition_bonus": "water",
@@ -322,7 +322,7 @@
   {
     "id": "expedition_17",
     "status": "active",
-    "title": "Expedition 17",
+    "title": "Blazing Onslaught",
     "rarity": "rare",
     "condition_normal": "warrior",
     "condition_bonus": "fire",
@@ -342,7 +342,7 @@
   {
     "id": "expedition_18",
     "status": "inactive",
-    "title": "Expedition 18",
+    "title": "Stormblade Charge",
     "rarity": "rare",
     "condition_normal": "warrior",
     "condition_bonus": "wind",
@@ -362,7 +362,7 @@
   {
     "id": "expedition_19",
     "status": "inactive",
-    "title": "Expedition 19",
+    "title": "Stonebound Assault",
     "rarity": "rare",
     "condition_normal": "warrior",
     "condition_bonus": "earth",
@@ -382,7 +382,7 @@
   {
     "id": "expedition_20",
     "status": "active",
-    "title": "Expedition 20",
+    "title": "Shadow Crusade",
     "rarity": "rare",
     "condition_normal": "warrior",
     "condition_bonus": "dark",
@@ -402,7 +402,7 @@
   {
     "id": "expedition_21",
     "status": "inactive",
-    "title": "Expedition 21",
+    "title": "Oceanic Ritual",
     "rarity": "rare",
     "condition_normal": "magician",
     "condition_bonus": "water",
@@ -422,7 +422,7 @@
   {
     "id": "expedition_22",
     "status": "inactive",
-    "title": "Expedition 22",
+    "title": "Infernal Conjuring",
     "rarity": "rare",
     "condition_normal": "magician",
     "condition_bonus": "fire",
@@ -442,7 +442,7 @@
   {
     "id": "expedition_23",
     "status": "active",
-    "title": "Expedition 23",
+    "title": "Tempest Invocation",
     "rarity": "rare",
     "condition_normal": "magician",
     "condition_bonus": "wind",
@@ -462,7 +462,7 @@
   {
     "id": "expedition_24",
     "status": "inactive",
-    "title": "Expedition 24",
+    "title": "Earthen Sigils",
     "rarity": "rare",
     "condition_normal": "magician",
     "condition_bonus": "earth",
@@ -482,7 +482,7 @@
   {
     "id": "expedition_25",
     "status": "active",
-    "title": "Expedition 25",
+    "title": "Umbral Sorcery",
     "rarity": "rare",
     "condition_normal": "magician",
     "condition_bonus": "dark",
@@ -502,7 +502,7 @@
   {
     "id": "expedition_26",
     "status": "active",
-    "title": "Expedition 26",
+    "title": "Tidal Marksmanship",
     "rarity": "rare",
     "condition_normal": "shooter",
     "condition_bonus": "water",
@@ -522,7 +522,7 @@
   {
     "id": "expedition_27",
     "status": "active",
-    "title": "Expedition 27",
+    "title": "Fireline Ambush",
     "rarity": "rare",
     "condition_normal": "shooter",
     "condition_bonus": "fire",
@@ -542,7 +542,7 @@
   {
     "id": "expedition_28",
     "status": "active",
-    "title": "Expedition 28",
+    "title": "Gale Shot",
     "rarity": "rare",
     "condition_normal": "shooter",
     "condition_bonus": "wind",
@@ -562,7 +562,7 @@
   {
     "id": "expedition_29",
     "status": "inactive",
-    "title": "Expedition 29",
+    "title": "Stonepiercer Mission",
     "rarity": "rare",
     "condition_normal": "shooter",
     "condition_bonus": "earth",
@@ -582,7 +582,7 @@
   {
     "id": "expedition_30",
     "status": "inactive",
-    "title": "Expedition 30",
+    "title": "Nightfall Barrage",
     "rarity": "rare",
     "condition_normal": "shooter",
     "condition_bonus": "dark",
@@ -602,7 +602,7 @@
   {
     "id": "expedition_31",
     "status": "inactive",
-    "title": "Expedition 31",
+    "title": "Ocean Bastion",
     "rarity": "rare",
     "condition_normal": "tanker",
     "condition_bonus": "water",
@@ -622,7 +622,7 @@
   {
     "id": "expedition_32",
     "status": "inactive",
-    "title": "Expedition 32",
+    "title": "Flamebound Bulwark",
     "rarity": "rare",
     "condition_normal": "tanker",
     "condition_bonus": "fire",
@@ -642,7 +642,7 @@
   {
     "id": "expedition_33",
     "status": "active",
-    "title": "Expedition 33",
+    "title": "Windward Fortress",
     "rarity": "rare",
     "condition_normal": "tanker",
     "condition_bonus": "wind",
@@ -662,7 +662,7 @@
   {
     "id": "expedition_34",
     "status": "active",
-    "title": "Expedition 34",
+    "title": "Earthen Rampart",
     "rarity": "rare",
     "condition_normal": "tanker",
     "condition_bonus": "earth",
@@ -682,7 +682,7 @@
   {
     "id": "expedition_35",
     "status": "inactive",
-    "title": "Expedition 35",
+    "title": "Darksteel Defense",
     "rarity": "rare",
     "condition_normal": "tanker",
     "condition_bonus": "dark",
@@ -702,7 +702,7 @@
   {
     "id": "expedition_36",
     "status": "active",
-    "title": "Expedition 36",
+    "title": "Covenant of the Deep",
     "rarity": "epic",
     "condition_normal": "supporter",
     "condition_bonus": "water",
@@ -722,7 +722,7 @@
   {
     "id": "expedition_37",
     "status": "inactive",
-    "title": "Expedition 37",
+    "title": "Covenant of the Pyre",
     "rarity": "epic",
     "condition_normal": "supporter",
     "condition_bonus": "fire",
@@ -742,7 +742,7 @@
   {
     "id": "expedition_38",
     "status": "active",
-    "title": "Expedition 38",
+    "title": "Covenant of the Gale",
     "rarity": "epic",
     "condition_normal": "supporter",
     "condition_bonus": "wind",
@@ -762,7 +762,7 @@
   {
     "id": "expedition_39",
     "status": "active",
-    "title": "Expedition 39",
+    "title": "Covenant of the Worldroot",
     "rarity": "epic",
     "condition_normal": "supporter",
     "condition_bonus": "earth",
@@ -782,7 +782,7 @@
   {
     "id": "expedition_40",
     "status": "inactive",
-    "title": "Expedition 40",
+    "title": "Covenant of the Void",
     "rarity": "epic",
     "condition_normal": "supporter",
     "condition_bonus": "dark",
@@ -802,7 +802,7 @@
   {
     "id": "expedition_41",
     "status": "active",
-    "title": "Expedition 41",
+    "title": "Leviathan’s March",
     "rarity": "epic",
     "condition_normal": "warrior",
     "condition_bonus": "water",
@@ -822,7 +822,7 @@
   {
     "id": "expedition_42",
     "status": "active",
-    "title": "Expedition 42",
+    "title": "Phoenix Warpath",
     "rarity": "epic",
     "condition_normal": "warrior",
     "condition_bonus": "fire",
@@ -842,7 +842,7 @@
   {
     "id": "expedition_43",
     "status": "inactive",
-    "title": "Expedition 43",
+    "title": "Tempest Charge",
     "rarity": "epic",
     "condition_normal": "warrior",
     "condition_bonus": "wind",
@@ -862,7 +862,7 @@
   {
     "id": "expedition_44",
     "status": "inactive",
-    "title": "Expedition 44",
+    "title": "Colossus Advance",
     "rarity": "epic",
     "condition_normal": "warrior",
     "condition_bonus": "earth",
@@ -882,7 +882,7 @@
   {
     "id": "expedition_45",
     "status": "active",
-    "title": "Expedition 45",
+    "title": "Dreadlord’s Campaign",
     "rarity": "epic",
     "condition_normal": "warrior",
     "condition_bonus": "dark",
@@ -902,7 +902,7 @@
   {
     "id": "expedition_46",
     "status": "inactive",
-    "title": "Expedition 46",
+    "title": "Oracle of the Tides",
     "rarity": "epic",
     "condition_normal": "magician",
     "condition_bonus": "water",
@@ -922,7 +922,7 @@
   {
     "id": "expedition_47",
     "status": "inactive",
-    "title": "Expedition 47",
+    "title": "Flamebound Oracle",
     "rarity": "epic",
     "condition_normal": "magician",
     "condition_bonus": "fire",
@@ -942,7 +942,7 @@
   {
     "id": "expedition_48",
     "status": "active",
-    "title": "Expedition 48",
+    "title": "Stormseer’s Call",
     "rarity": "epic",
     "condition_normal": "magician",
     "condition_bonus": "wind",
@@ -962,7 +962,7 @@
   {
     "id": "expedition_49",
     "status": "inactive",
-    "title": "Expedition 49",
+    "title": "Runecaller of Stone",
     "rarity": "epic",
     "condition_normal": "magician",
     "condition_bonus": "earth",
@@ -982,7 +982,7 @@
   {
     "id": "expedition_50",
     "status": "active",
-    "title": "Expedition 50",
+    "title": "Voidcaster’s Descent",
     "rarity": "epic",
     "condition_normal": "magician",
     "condition_bonus": "dark",
@@ -1002,7 +1002,7 @@
   {
     "id": "expedition_51",
     "status": "active",
-    "title": "Expedition 51",
+    "title": "Kraken’s Volley",
     "rarity": "epic",
     "condition_normal": "shooter",
     "condition_bonus": "water",
@@ -1022,7 +1022,7 @@
   {
     "id": "expedition_52",
     "status": "active",
-    "title": "Expedition 52",
+    "title": "Hellfire Barrage",
     "rarity": "epic",
     "condition_normal": "shooter",
     "condition_bonus": "fire",
@@ -1042,7 +1042,7 @@
   {
     "id": "expedition_53",
     "status": "active",
-    "title": "Expedition 53",
+    "title": "Skyreaver Strike",
     "rarity": "epic",
     "condition_normal": "shooter",
     "condition_bonus": "wind",
@@ -1062,7 +1062,7 @@
   {
     "id": "expedition_54",
     "status": "inactive",
-    "title": "Expedition 54",
+    "title": "Stonebreaker Salvo",
     "rarity": "epic",
     "condition_normal": "shooter",
     "condition_bonus": "earth",
@@ -1082,7 +1082,7 @@
   {
     "id": "expedition_55",
     "status": "inactive",
-    "title": "Expedition 55",
+    "title": "Shadowrain Assault",
     "rarity": "epic",
     "condition_normal": "shooter",
     "condition_bonus": "dark",
@@ -1102,7 +1102,7 @@
   {
     "id": "expedition_56",
     "status": "inactive",
-    "title": "Expedition 56",
+    "title": "Titan of the Deep",
     "rarity": "epic",
     "condition_normal": "tanker",
     "condition_bonus": "water",
@@ -1122,7 +1122,7 @@
   {
     "id": "expedition_57",
     "status": "inactive",
-    "title": "Expedition 57",
+    "title": "Molten Sentinel",
     "rarity": "epic",
     "condition_normal": "tanker",
     "condition_bonus": "fire",
@@ -1142,7 +1142,7 @@
   {
     "id": "expedition_58",
     "status": "active",
-    "title": "Expedition 58",
+    "title": "Skyward Bastion",
     "rarity": "epic",
     "condition_normal": "tanker",
     "condition_bonus": "wind",
@@ -1162,7 +1162,7 @@
   {
     "id": "expedition_59",
     "status": "active",
-    "title": "Expedition 59",
+    "title": "Worldshield Protocol",
     "rarity": "epic",
     "condition_normal": "tanker",
     "condition_bonus": "earth",
@@ -1182,7 +1182,7 @@
   {
     "id": "expedition_60",
     "status": "inactive",
-    "title": "Expedition 60",
+    "title": "Obsidian Citadel",
     "rarity": "epic",
     "condition_normal": "tanker",
     "condition_bonus": "dark",
@@ -1202,7 +1202,7 @@
   {
     "id": "expedition_61",
     "status": "active",
-    "title": "Expedition 61",
+    "title": "Aegis of the Abyss",
     "rarity": "legendary",
     "condition_normal": "supporter",
     "condition_bonus": "water",
@@ -1222,7 +1222,7 @@
   {
     "id": "expedition_62",
     "status": "inactive",
-    "title": "Expedition 62",
+    "title": "Aegis of Eternal Flame",
     "rarity": "legendary",
     "condition_normal": "supporter",
     "condition_bonus": "fire",
@@ -1242,7 +1242,7 @@
   {
     "id": "expedition_63",
     "status": "active",
-    "title": "Expedition 63",
+    "title": "Aegis of the Skybound",
     "rarity": "legendary",
     "condition_normal": "supporter",
     "condition_bonus": "wind",
@@ -1262,7 +1262,7 @@
   {
     "id": "expedition_64",
     "status": "active",
-    "title": "Expedition 64",
+    "title": "Aegis of the Worldcore",
     "rarity": "legendary",
     "condition_normal": "supporter",
     "condition_bonus": "earth",
@@ -1282,7 +1282,7 @@
   {
     "id": "expedition_65",
     "status": "inactive",
-    "title": "Expedition 65",
+    "title": "Aegis of the Dark Beyond",
     "rarity": "legendary",
     "condition_normal": "supporter",
     "condition_bonus": "dark",
@@ -1302,7 +1302,7 @@
   {
     "id": "expedition_66",
     "status": "active",
-    "title": "Expedition 66",
+    "title": "Wrath of the Leviathan",
     "rarity": "legendary",
     "condition_normal": "warrior",
     "condition_bonus": "water",
@@ -1322,7 +1322,7 @@
   {
     "id": "expedition_67",
     "status": "active",
-    "title": "Expedition 67",
+    "title": "Wrath of the Sunforged",
     "rarity": "legendary",
     "condition_normal": "warrior",
     "condition_bonus": "fire",
@@ -1342,7 +1342,7 @@
   {
     "id": "expedition_68",
     "status": "inactive",
-    "title": "Expedition 68",
+    "title": "Wrath of the Storm King",
     "rarity": "legendary",
     "condition_normal": "warrior",
     "condition_bonus": "wind",
@@ -1362,7 +1362,7 @@
   {
     "id": "expedition_69",
     "status": "inactive",
-    "title": "Expedition 69",
+    "title": "Wrath of the Living Mountain",
     "rarity": "legendary",
     "condition_normal": "warrior",
     "condition_bonus": "earth",
@@ -1382,7 +1382,7 @@
   {
     "id": "expedition_70",
     "status": "active",
-    "title": "Expedition 70",
+    "title": "Wrath of the Void Reaper",
     "rarity": "legendary",
     "condition_normal": "warrior",
     "condition_bonus": "dark",
@@ -1402,7 +1402,7 @@
   {
     "id": "expedition_71",
     "status": "inactive",
-    "title": "Expedition 71",
+    "title": "Chronicle of the Deep Oracle",
     "rarity": "legendary",
     "condition_normal": "magician",
     "condition_bonus": "water",
@@ -1422,7 +1422,7 @@
   {
     "id": "expedition_72",
     "status": "inactive",
-    "title": "Expedition 72",
+    "title": "Chronicle of the Flame Archmage",
     "rarity": "legendary",
     "condition_normal": "magician",
     "condition_bonus": "fire",
@@ -1442,7 +1442,7 @@
   {
     "id": "expedition_73",
     "status": "active",
-    "title": "Expedition 73",
+    "title": "Chronicle of the Tempest Sage",
     "rarity": "legendary",
     "condition_normal": "magician",
     "condition_bonus": "wind",
@@ -1462,7 +1462,7 @@
   {
     "id": "expedition_74",
     "status": "inactive",
-    "title": "Expedition 74",
+    "title": "Chronicle of the Earth Primordial",
     "rarity": "legendary",
     "condition_normal": "magician",
     "condition_bonus": "earth",
@@ -1482,7 +1482,7 @@
   {
     "id": "expedition_75",
     "status": "active",
-    "title": "Expedition 75",
+    "title": "Chronicle of the Umbral Lord",
     "rarity": "legendary",
     "condition_normal": "magician",
     "condition_bonus": "dark",
@@ -1502,7 +1502,7 @@
   {
     "id": "expedition_76",
     "status": "active",
-    "title": "Expedition 76",
+    "title": "Judgment of the Tidal Eclipse",
     "rarity": "legendary",
     "condition_normal": "shooter",
     "condition_bonus": "water",
@@ -1522,7 +1522,7 @@
   {
     "id": "expedition_77",
     "status": "active",
-    "title": "Expedition 77",
+    "title": "Judgment of the Scorching Dawn",
     "rarity": "legendary",
     "condition_normal": "shooter",
     "condition_bonus": "fire",
@@ -1542,7 +1542,7 @@
   {
     "id": "expedition_78",
     "status": "active",
-    "title": "Expedition 78",
+    "title": "Judgment of the Skyfall",
     "rarity": "legendary",
     "condition_normal": "shooter",
     "condition_bonus": "wind",
@@ -1562,7 +1562,7 @@
   {
     "id": "expedition_79",
     "status": "inactive",
-    "title": "Expedition 79",
+    "title": "Judgment of the Stonebreaker",
     "rarity": "legendary",
     "condition_normal": "shooter",
     "condition_bonus": "earth",
@@ -1582,7 +1582,7 @@
   {
     "id": "expedition_80",
     "status": "inactive",
-    "title": "Expedition 80",
+    "title": "Judgment of Endless Night",
     "rarity": "legendary",
     "condition_normal": "shooter",
     "condition_bonus": "dark",
@@ -1602,7 +1602,7 @@
   {
     "id": "expedition_81",
     "status": "inactive",
-    "title": "Expedition 81",
+    "title": "Bastion of the World Serpent",
     "rarity": "legendary",
     "condition_normal": "tanker",
     "condition_bonus": "water",
@@ -1622,7 +1622,7 @@
   {
     "id": "expedition_82",
     "status": "inactive",
-    "title": "Expedition 82",
+    "title": "Bastion of the Inferno Core",
     "rarity": "legendary",
     "condition_normal": "tanker",
     "condition_bonus": "fire",
@@ -1642,7 +1642,7 @@
   {
     "id": "expedition_83",
     "status": "active",
-    "title": "Expedition 83",
+    "title": "Bastion of the Eternal Winds",
     "rarity": "legendary",
     "condition_normal": "tanker",
     "condition_bonus": "wind",
@@ -1662,7 +1662,7 @@
   {
     "id": "expedition_84",
     "status": "active",
-    "title": "Expedition 84",
+    "title": "Bastion of the Ancient Earth",
     "rarity": "legendary",
     "condition_normal": "tanker",
     "condition_bonus": "earth",
@@ -1682,7 +1682,7 @@
   {
     "id": "expedition_85",
     "status": "inactive",
-    "title": "Expedition 85",
+    "title": "Bastion of the Black Dominion",
     "rarity": "legendary",
     "condition_normal": "tanker",
     "condition_bonus": "dark",
