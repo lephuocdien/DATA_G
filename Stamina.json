@@ -1,14 +1,16 @@
 {
   "regen_interval": 15,
   "init_stamina_cap": 50,
-  "stamina_cap_increase_per_level": 2, 
+  "stamina_cap_increase_per_level": 2,
   "bonus_stamina_per_level_up_ratio": 0.1,
-  "bonus_stamina_from_ads": 3,
-  "purchase_stamina_receive": 30,
+  "bonus_stamina_from_ads": 30,
+  "bonus_stamina_ad_limit": 3,
+  "purchase_stamina_receive": 50,
   "purchase_stamina_amount": 10,
   "purchase_stamina_cost_initial": 60,
-  "purchase_stamina_cost_increase": 40
+  "purchase_stamina_cost_increase": 20
 }
+
 
 
 
