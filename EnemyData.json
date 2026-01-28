@@ -337,7 +337,7 @@
     "speed": 1.1,
     "life_point_penalty": 1,
     "combat_power": 651,
-    "normal_skill": "Bone Crusher",
+    "normal_skill": "Fang Cleave",
     "power_skill_1": "",
     "power_skill_2": ""
   },
@@ -1134,4 +1134,5 @@
     "power_skill_2": "Inferno Dive"
   }
 ]
+
 
