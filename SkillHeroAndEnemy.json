@@ -65,7 +65,7 @@
   },
   {
     "Skill Name": "Sigil Blast",
-    "X": 110,
+    "X": 120,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -313,8 +313,8 @@
   },
   {
     "Skill Name": "Ignite",
-    "X": 20,
-    "Y": 10,
+    "X": 10,
+    "Y": 5,
     "Z": "",
     "AoE": 0,
     "cooldown": 0
@@ -457,7 +457,7 @@
   },
   {
     "Skill Name": "Shadow Power",
-    "X": 12,
+    "X": 8,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -841,11 +841,11 @@
   },
   {
     "Skill Name": "Piercing Arrow",
-    "X": 180,
+    "X": 140,
     "Y": 3,
     "Z": "",
     "AoE": 0,
-    "cooldown": 10
+    "cooldown": 15
   },
   {
     "Skill Name": "Aqua Piercer",
@@ -937,7 +937,7 @@
   },
   {
     "Skill Name": "Phantom Shot",
-    "X": 200,
+    "X": 150,
     "Y": 8,
     "Z": "",
     "AoE": 0,
