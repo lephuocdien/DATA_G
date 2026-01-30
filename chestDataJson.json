@@ -56,6 +56,14 @@
     "item_type": "item"
   },
   {
+    "id": "consumable_chest_reward_common",
+    "chance": "0%",
+    "min": 1,
+    "max": 1,
+    "item_code": "skip_ticket",
+    "item_type": "item"
+  },
+  {
     "id": "consumable_chest_reward_uncommon",
     "chance": "100%",
     "min": 2000,
@@ -109,6 +117,14 @@
     "min": 1,
     "max": 1,
     "item_code": "spin_ticket",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_uncommon",
+    "chance": "0%",
+    "min": 1,
+    "max": 1,
+    "item_code": "skip_ticket",
     "item_type": "item"
   },
   {
@@ -168,6 +184,14 @@
     "item_type": "item"
   },
   {
+    "id": "consumable_chest_reward_rare",
+    "chance": "0%",
+    "min": 1,
+    "max": 1,
+    "item_code": "skip_ticket",
+    "item_type": "item"
+  },
+  {
     "id": "consumable_chest_reward_epic",
     "chance": "100%",
     "min": 4000,
@@ -224,6 +248,14 @@
     "item_type": "item"
   },
   {
+    "id": "consumable_chest_reward_epic",
+    "chance": "100%",
+    "min": 1,
+    "max": 1,
+    "item_code": "skip_ticket",
+    "item_type": "item"
+  },
+  {
     "id": "consumable_chest_reward_legendary",
     "chance": "100%",
     "min": 5000,
@@ -277,6 +309,14 @@
     "min": 1,
     "max": 1,
     "item_code": "spin_ticket",
+    "item_type": "item"
+  },
+  {
+    "id": "consumable_chest_reward_legendary",
+    "chance": "100%",
+    "min": 1,
+    "max": 1,
+    "item_code": "skip_ticket",
     "item_type": "item"
   },
   {
