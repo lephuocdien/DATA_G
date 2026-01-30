@@ -1329,7 +1329,7 @@
   },
   {
     "Skill Name": "Roaring Challenge",
-    "X": 100,
+    "X": 25,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -1608,3 +1608,4 @@
     "cooldown": 8
   }
 ]
+
