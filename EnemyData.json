@@ -414,6 +414,60 @@
     "power_skill_2": ""
   },
   {
+    "id": "Walk_Ranged_Normal_5",
+    "name": "Aero Sprinter Water",
+    "type": "walk_ranged",
+    "rank": "normal",
+    "elemental": "water",
+    "hp": 270,
+    "defense": 33,
+    "range": 2.5,
+    "attack": 112,
+    "attack_speed": 0.9,
+    "speed": 1.1,
+    "life_point_penalty": 1,
+    "combat_power": 606,
+    "normal_skill": "Ember Spit",
+    "power_skill_1": "",
+    "power_skill_2": ""
+  },
+  {
+    "id": "Walk_Ranged_Normal_6",
+    "name": "Aero Sprinter Earth",
+    "type": "walk_ranged",
+    "rank": "normal",
+    "elemental": "earth",
+    "hp": 311,
+    "defense": 30,
+    "range": 2.4,
+    "attack": 116,
+    "attack_speed": 1,
+    "speed": 1.2,
+    "life_point_penalty": 1,
+    "combat_power": 645,
+    "normal_skill": "Ember Spit",
+    "power_skill_1": "",
+    "power_skill_2": ""
+  },
+  {
+    "id": "Walk_Ranged_Normal_7",
+    "name": "Aero Sprinter Fire",
+    "type": "walk_ranged",
+    "rank": "normal",
+    "elemental": "fire",
+    "hp": 308,
+    "defense": 38,
+    "range": 2.6,
+    "attack": 114,
+    "attack_speed": 0.8,
+    "speed": 1,
+    "life_point_penalty": 1,
+    "combat_power": 577,
+    "normal_skill": "Ember Spit",
+    "power_skill_1": "",
+    "power_skill_2": ""
+  },
+  {
     "id": "Walk_Melee_Elite_3",
     "name": "Magma Brawler",
     "type": "walk_melee",
@@ -1134,5 +1188,6 @@
     "power_skill_2": "Inferno Dive"
   }
 ]
+
 
 
