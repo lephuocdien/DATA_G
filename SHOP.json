@@ -14,25 +14,25 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "summon_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
           "item_quantity": 1000,
           "item_code": "sc",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 10,
-          "item_code": "hc",
-          "item_promo_quantity": null
-        },
-        {
-          "valid_duration_in_days": null,
-          "item_quantity": 5000,
+          "item_quantity": 1000,
           "item_code": "xp_book",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5000,
+          "item_quantity": 1000,
           "item_code": "skill_book",
           "item_promo_quantity": null
         }
@@ -40,44 +40,6 @@
     },
     "iap_welcome_2": {
       "product_id": "iap_welcome_2",
-      "category": "recommend",
-      "status": "active",
-      "type": "bundle",
-      "price_amount": 2.99,
-      "price_type": "cash",
-      "limit": 1,
-      "reset_limit_interval": "",
-      "promo_price": "",
-      "promo_limit": "",
-      "rewards": [
-        {
-          "valid_duration_in_days": null,
-          "item_quantity": 1000,
-          "item_code": "sc",
-          "item_promo_quantity": null
-        },
-        {
-          "valid_duration_in_days": null,
-          "item_quantity": 10,
-          "item_code": "hc",
-          "item_promo_quantity": null
-        },
-        {
-          "valid_duration_in_days": null,
-          "item_quantity": 5000,
-          "item_code": "xp_book",
-          "item_promo_quantity": null
-        },
-        {
-          "valid_duration_in_days": null,
-          "item_quantity": 5000,
-          "item_code": "skill_book",
-          "item_promo_quantity": null
-        }
-      ]
-    },
-    "iap_welcome_3": {
-      "product_id": "iap_welcome_3",
       "category": "recommend",
       "status": "active",
       "type": "bundle",
@@ -90,32 +52,32 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1000,
+          "item_quantity": 5,
+          "item_code": "summon_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 2000,
           "item_code": "sc",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 10,
-          "item_code": "hc",
-          "item_promo_quantity": null
-        },
-        {
-          "valid_duration_in_days": null,
-          "item_quantity": 5000,
+          "item_quantity": 2000,
           "item_code": "xp_book",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5000,
+          "item_quantity": 2000,
           "item_code": "skill_book",
           "item_promo_quantity": null
         }
       ]
     },
-    "iap_welcome_4": {
-      "product_id": "iap_welcome_4",
+    "iap_welcome_3": {
+      "product_id": "iap_welcome_3",
       "category": "recommend",
       "status": "active",
       "type": "bundle",
@@ -128,14 +90,20 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1000,
-          "item_code": "sc",
+          "item_quantity": 10,
+          "item_code": "summon_ticket",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 10,
-          "item_code": "hc",
+          "item_quantity": 1,
+          "item_code": "skip_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5000,
+          "item_code": "sc",
           "item_promo_quantity": null
         },
         {
@@ -143,10 +111,48 @@
           "item_quantity": 5000,
           "item_code": "xp_book",
           "item_promo_quantity": null
+        }
+      ]
+    },
+    "iap_welcome_4": {
+      "product_id": "iap_welcome_4",
+      "category": "recommend",
+      "status": "active",
+      "type": "bundle",
+      "price_amount": 19.99,
+      "price_type": "cash",
+      "limit": 2,
+      "reset_limit_interval": "",
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 20,
+          "item_code": "summon_ticket",
+          "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5000,
+          "item_quantity": 2,
+          "item_code": "skip_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10000,
+          "item_code": "xp_book",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10000,
           "item_code": "skill_book",
           "item_promo_quantity": null
         }
@@ -157,34 +163,46 @@
       "category": "recommend",
       "status": "active",
       "type": "bundle",
-      "price_amount": 19.99,
+      "price_amount": 39.99,
       "price_type": "cash",
-      "limit": 1,
+      "limit": 2,
       "reset_limit_interval": "",
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1000,
-          "item_code": "sc",
+          "item_quantity": 30,
+          "item_code": "summon_ticket",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 10,
+          "item_quantity": 5,
+          "item_code": "skip_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 2000,
           "item_code": "hc",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5000,
+          "item_quantity": 10000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10000,
           "item_code": "xp_book",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5000,
+          "item_quantity": 10000,
           "item_code": "skill_book",
           "item_promo_quantity": null
         }
@@ -195,34 +213,46 @@
       "category": "recommend",
       "status": "active",
       "type": "bundle",
-      "price_amount": 39.99,
+      "price_amount": 89.99,
       "price_type": "cash",
-      "limit": 1,
+      "limit": 2,
       "reset_limit_interval": "",
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1000,
-          "item_code": "sc",
+          "item_quantity": 40,
+          "item_code": "summon_ticket",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
           "item_quantity": 10,
+          "item_code": "skip_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 4000,
           "item_code": "hc",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5000,
+          "item_quantity": 10000,
+          "item_code": "sc",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 10000,
           "item_code": "xp_book",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5000,
+          "item_quantity": 10000,
           "item_code": "skill_book",
           "item_promo_quantity": null
         }
@@ -293,35 +323,41 @@
       "category": "bundle_shop",
       "status": "active",
       "type": "bundle",
-      "price_amount": 12.49,
+      "price_amount": 9.99,
       "price_type": "cash",
       "limit": 3,
       "reset_limit_interval": 30,
-      "promo_price": 6,
+      "promo_price": 4.99,
       "promo_limit": "",
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1000,
-          "item_code": "sc",
+          "item_quantity": 3,
+          "item_code": "material_all_common_orb",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 10,
-          "item_code": "hc",
+          "item_quantity": 3,
+          "item_code": "material_all_uncommon_orb",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5000,
-          "item_code": "xp_book",
+          "item_quantity": 3,
+          "item_code": "material_all_rare_orb",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5000,
-          "item_code": "skill_book",
+          "item_quantity": 3,
+          "item_code": "material_all_epic_orb",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 3,
+          "item_code": "material_all_legendary_orb",
           "item_promo_quantity": null
         }
       ]
@@ -331,35 +367,41 @@
       "category": "bundle_shop",
       "status": "active",
       "type": "bundle",
-      "price_amount": 24.99,
+      "price_amount": 19.99,
       "price_type": "cash",
       "limit": 3,
       "reset_limit_interval": 30,
-      "promo_price": 12,
+      "promo_price": 9.99,
       "promo_limit": "",
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1000,
-          "item_code": "sc",
+          "item_quantity": 5,
+          "item_code": "summon_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5,
+          "item_code": "skip_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5,
+          "item_code": "material_all_common_orb",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
           "item_quantity": 10,
-          "item_code": "hc",
+          "item_code": "consumable_chest_material_common",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5000,
-          "item_code": "xp_book",
-          "item_promo_quantity": null
-        },
-        {
-          "valid_duration_in_days": null,
-          "item_quantity": 5000,
-          "item_code": "skill_book",
+          "item_quantity": 3,
+          "item_code": "consumable_chest_equipment_common",
           "item_promo_quantity": null
         }
       ]
@@ -369,35 +411,41 @@
       "category": "bundle_shop",
       "status": "active",
       "type": "bundle",
-      "price_amount": 37.49,
+      "price_amount": 29.99,
       "price_type": "cash",
       "limit": 3,
       "reset_limit_interval": 30,
-      "promo_price": 19,
+      "promo_price": 14.99,
       "promo_limit": "",
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1000,
-          "item_code": "sc",
+          "item_quantity": 5,
+          "item_code": "summon_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5,
+          "item_code": "skip_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5,
+          "item_code": "material_all_uncommon_orb",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
           "item_quantity": 10,
-          "item_code": "hc",
+          "item_code": "consumable_chest_material_uncommon",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5000,
-          "item_code": "xp_book",
-          "item_promo_quantity": null
-        },
-        {
-          "valid_duration_in_days": null,
-          "item_quantity": 5000,
-          "item_code": "skill_book",
+          "item_quantity": 3,
+          "item_code": "consumable_chest_equipment_uncommon",
           "item_promo_quantity": null
         }
       ]
@@ -407,35 +455,41 @@
       "category": "bundle_shop",
       "status": "active",
       "type": "bundle",
-      "price_amount": 49.99,
+      "price_amount": 39.99,
       "price_type": "cash",
       "limit": 3,
       "reset_limit_interval": 30,
-      "promo_price": 25,
+      "promo_price": 19.99,
       "promo_limit": "",
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1000,
-          "item_code": "sc",
+          "item_quantity": 5,
+          "item_code": "summon_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5,
+          "item_code": "skip_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5,
+          "item_code": "material_all_rare_orb",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
           "item_quantity": 10,
-          "item_code": "hc",
+          "item_code": "consumable_chest_material_rare",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5000,
-          "item_code": "xp_book",
-          "item_promo_quantity": null
-        },
-        {
-          "valid_duration_in_days": null,
-          "item_quantity": 5000,
-          "item_code": "skill_book",
+          "item_quantity": 3,
+          "item_code": "consumable_chest_equipment_rare",
           "item_promo_quantity": null
         }
       ]
@@ -445,35 +499,41 @@
       "category": "bundle_shop",
       "status": "active",
       "type": "bundle",
-      "price_amount": 62.49,
+      "price_amount": 49.99,
       "price_type": "cash",
       "limit": 3,
       "reset_limit_interval": 30,
-      "promo_price": 31,
+      "promo_price": 24.99,
       "promo_limit": "",
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1000,
-          "item_code": "sc",
+          "item_quantity": 5,
+          "item_code": "summon_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5,
+          "item_code": "skip_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5,
+          "item_code": "material_all_epic_orb",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
           "item_quantity": 10,
-          "item_code": "hc",
+          "item_code": "consumable_chest_material_epic",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5000,
-          "item_code": "xp_book",
-          "item_promo_quantity": null
-        },
-        {
-          "valid_duration_in_days": null,
-          "item_quantity": 5000,
-          "item_code": "skill_book",
+          "item_quantity": 3,
+          "item_code": "consumable_chest_equipment_epic",
           "item_promo_quantity": null
         }
       ]
@@ -483,35 +543,41 @@
       "category": "bundle_shop",
       "status": "active",
       "type": "bundle",
-      "price_amount": 74.99,
+      "price_amount": 59.99,
       "price_type": "cash",
       "limit": 3,
       "reset_limit_interval": 30,
-      "promo_price": 37,
+      "promo_price": 29.99,
       "promo_limit": "",
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1000,
-          "item_code": "sc",
+          "item_quantity": 5,
+          "item_code": "summon_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5,
+          "item_code": "skip_ticket",
+          "item_promo_quantity": null
+        },
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 5,
+          "item_code": "material_all_legendary_orb",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
           "item_quantity": 10,
-          "item_code": "hc",
+          "item_code": "consumable_chest_material_legendary",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5000,
-          "item_code": "xp_book",
-          "item_promo_quantity": null
-        },
-        {
-          "valid_duration_in_days": null,
-          "item_quantity": 5000,
-          "item_code": "skill_book",
+          "item_quantity": 3,
+          "item_code": "consumable_chest_equipment_legendary",
           "item_promo_quantity": null
         }
       ]
@@ -541,7 +607,7 @@
       "category": "gem_market",
       "status": "active",
       "type": "currency",
-      "price_amount": 1.19,
+      "price_amount": 0.99,
       "price_type": "cash",
       "limit": 0,
       "reset_limit_interval": 0,
@@ -550,9 +616,9 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 80,
+          "item_quantity": 120,
           "item_code": "hc",
-          "item_promo_quantity": 160
+          "item_promo_quantity": 240
         }
       ]
     },
@@ -570,9 +636,9 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 200,
+          "item_quantity": 600,
           "item_code": "hc",
-          "item_promo_quantity": 400
+          "item_promo_quantity": 1200
         }
       ]
     },
@@ -590,9 +656,9 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 640,
+          "item_quantity": 1200,
           "item_code": "hc",
-          "item_promo_quantity": 1280
+          "item_promo_quantity": 2400
         }
       ]
     },
@@ -601,7 +667,7 @@
       "category": "gem_market",
       "status": "active",
       "type": "currency",
-      "price_amount": 14.99,
+      "price_amount": 19.99,
       "price_type": "cash",
       "limit": 0,
       "reset_limit_interval": 0,
@@ -610,9 +676,9 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 2000,
+          "item_quantity": 2500,
           "item_code": "hc",
-          "item_promo_quantity": 4000
+          "item_promo_quantity": 5000
         }
       ]
     },
@@ -630,9 +696,9 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 6400,
+          "item_quantity": 5500,
           "item_code": "hc",
-          "item_promo_quantity": 12800
+          "item_promo_quantity": 11000
         }
       ]
     },
@@ -650,9 +716,9 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 12800,
+          "item_quantity": 12500,
           "item_code": "hc",
-          "item_promo_quantity": 25600
+          "item_promo_quantity": 25000
         }
       ]
     },
@@ -690,7 +756,7 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1000,
+          "item_quantity": 2000,
           "item_code": "xp_book",
           "item_promo_quantity": null
         }
@@ -710,7 +776,7 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1000,
+          "item_quantity": 2000,
           "item_code": "skill_book",
           "item_promo_quantity": null
         }
@@ -721,7 +787,7 @@
       "category": "exchange_currency",
       "status": "active",
       "type": "currency",
-      "price_amount": 160,
+      "price_amount": 200,
       "price_type": "hc",
       "limit": 0,
       "reset_limit_interval": 0,
@@ -732,6 +798,26 @@
           "valid_duration_in_days": null,
           "item_quantity": 1,
           "item_code": "summon_ticket",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_skip_ticket_1": {
+      "product_id": "igp_skip_ticket_1",
+      "category": "exchange_currency",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 100,
+      "price_type": "hc",
+      "limit": 10,
+      "reset_limit_interval": 7,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "skip_ticket",
           "item_promo_quantity": null
         }
       ]
@@ -910,7 +996,7 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1000,
+          "item_quantity": 2000,
           "item_code": "xp_book",
           "item_promo_quantity": null
         }
@@ -930,7 +1016,7 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1000,
+          "item_quantity": 2000,
           "item_code": "skill_book",
           "item_promo_quantity": null
         }
@@ -952,6 +1038,26 @@
           "valid_duration_in_days": null,
           "item_quantity": 1,
           "item_code": "summon_ticket",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_skip_ticket_2": {
+      "product_id": "igp_skip_ticket_2",
+      "category": "exchange_support",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 30,
+      "price_type": "summon_pts",
+      "limit": 5,
+      "reset_limit_interval": 14,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "skip_ticket",
           "item_promo_quantity": null
         }
       ]
@@ -1058,7 +1164,7 @@
     },
     "igp_consumable_chest_material_common": {
       "product_id": "igp_consumable_chest_material_common",
-      "category": "exchange_support",
+      "category": "exchange_chest",
       "status": "active",
       "type": "chest",
       "price_amount": 40,
@@ -1078,7 +1184,7 @@
     },
     "igp_consumable_chest_material_uncommon": {
       "product_id": "igp_consumable_chest_material_uncommon",
-      "category": "exchange_support",
+      "category": "exchange_chest",
       "status": "active",
       "type": "chest",
       "price_amount": 80,
@@ -1098,7 +1204,7 @@
     },
     "igp_consumable_chest_material_rare": {
       "product_id": "igp_consumable_chest_material_rare",
-      "category": "exchange_support",
+      "category": "exchange_chest",
       "status": "active",
       "type": "chest",
       "price_amount": 120,
@@ -1118,7 +1224,7 @@
     },
     "igp_consumable_chest_material_epic": {
       "product_id": "igp_consumable_chest_material_epic",
-      "category": "exchange_support",
+      "category": "exchange_chest",
       "status": "active",
       "type": "chest",
       "price_amount": 200,
@@ -1138,7 +1244,7 @@
     },
     "igp_consumable_chest_material_legendary": {
       "product_id": "igp_consumable_chest_material_legendary",
-      "category": "exchange_support",
+      "category": "exchange_chest",
       "status": "active",
       "type": "chest",
       "price_amount": 300,
@@ -1158,7 +1264,7 @@
     },
     "igp_consumable_chest_equipment_common": {
       "product_id": "igp_consumable_chest_equipment_common",
-      "category": "exchange_support",
+      "category": "exchange_chest",
       "status": "active",
       "type": "chest",
       "price_amount": 100,
@@ -1178,7 +1284,7 @@
     },
     "igp_consumable_chest_equipment_uncommon": {
       "product_id": "igp_consumable_chest_equipment_uncommon",
-      "category": "exchange_support",
+      "category": "exchange_chest",
       "status": "active",
       "type": "chest",
       "price_amount": 200,
@@ -1198,7 +1304,7 @@
     },
     "igp_consumable_chest_equipment_rare": {
       "product_id": "igp_consumable_chest_equipment_rare",
-      "category": "exchange_support",
+      "category": "exchange_chest",
       "status": "active",
       "type": "chest",
       "price_amount": 300,
@@ -1218,7 +1324,7 @@
     },
     "igp_consumable_chest_equipment_epic": {
       "product_id": "igp_consumable_chest_equipment_epic",
-      "category": "exchange_support",
+      "category": "exchange_chest",
       "status": "active",
       "type": "chest",
       "price_amount": 500,
@@ -1238,7 +1344,7 @@
     },
     "igp_consumable_chest_equipment_legendary": {
       "product_id": "igp_consumable_chest_equipment_legendary",
-      "category": "exchange_support",
+      "category": "exchange_chest",
       "status": "active",
       "type": "chest",
       "price_amount": 1000,
