@@ -14,7 +14,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 500
+      "cost_quantity": 1000
     }
   },
   {
@@ -27,12 +27,12 @@
       },
       {
         "component_code": "material_warrior_uncommon_1",
-        "component_quantity": 4
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 1000
+      "cost_quantity": 2000
     }
   },
   {
@@ -45,12 +45,12 @@
       },
       {
         "component_code": "material_warrior_rare_1",
-        "component_quantity": 6
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 1500
+      "cost_quantity": 3000
     }
   },
   {
@@ -59,16 +59,16 @@
     "components": [
       {
         "component_code": "material_all_epic_orb",
-        "component_quantity": 1
+        "component_quantity": 2
       },
       {
         "component_code": "material_warrior_epic_1",
-        "component_quantity": 8
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 2000
+      "cost_quantity": 4000
     }
   },
   {
@@ -77,16 +77,16 @@
     "components": [
       {
         "component_code": "material_all_legendary_orb",
-        "component_quantity": 1
+        "component_quantity": 2
       },
       {
         "component_code": "material_warrior_legendary_1",
-        "component_quantity": 10
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 3000
+      "cost_quantity": 5000
     }
   },
   {
@@ -104,7 +104,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 500
+      "cost_quantity": 1000
     }
   },
   {
@@ -117,12 +117,12 @@
       },
       {
         "component_code": "material_magician_uncommon_1",
-        "component_quantity": 4
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 1000
+      "cost_quantity": 2000
     }
   },
   {
@@ -135,12 +135,12 @@
       },
       {
         "component_code": "material_magician_rare_1",
-        "component_quantity": 6
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 1500
+      "cost_quantity": 3000
     }
   },
   {
@@ -149,16 +149,16 @@
     "components": [
       {
         "component_code": "material_all_epic_orb",
-        "component_quantity": 1
+        "component_quantity": 2
       },
       {
         "component_code": "material_magician_epic_1",
-        "component_quantity": 8
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 2000
+      "cost_quantity": 4000
     }
   },
   {
@@ -167,16 +167,16 @@
     "components": [
       {
         "component_code": "material_all_legendary_orb",
-        "component_quantity": 1
+        "component_quantity": 2
       },
       {
         "component_code": "material_magician_legendary_1",
-        "component_quantity": 10
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 3000
+      "cost_quantity": 5000
     }
   },
   {
@@ -194,7 +194,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 500
+      "cost_quantity": 1000
     }
   },
   {
@@ -207,12 +207,12 @@
       },
       {
         "component_code": "material_shooter_uncommon_1",
-        "component_quantity": 4
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 1000
+      "cost_quantity": 2000
     }
   },
   {
@@ -225,12 +225,12 @@
       },
       {
         "component_code": "material_shooter_rare_1",
-        "component_quantity": 6
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 1500
+      "cost_quantity": 3000
     }
   },
   {
@@ -239,16 +239,16 @@
     "components": [
       {
         "component_code": "material_all_epic_orb",
-        "component_quantity": 1
+        "component_quantity": 2
       },
       {
         "component_code": "material_shooter_epic_1",
-        "component_quantity": 8
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 2000
+      "cost_quantity": 4000
     }
   },
   {
@@ -257,16 +257,16 @@
     "components": [
       {
         "component_code": "material_all_legendary_orb",
-        "component_quantity": 1
+        "component_quantity": 2
       },
       {
         "component_code": "material_shooter_legendary_1",
-        "component_quantity": 10
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 3000
+      "cost_quantity": 5000
     }
   },
   {
@@ -284,7 +284,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 500
+      "cost_quantity": 1000
     }
   },
   {
@@ -297,12 +297,12 @@
       },
       {
         "component_code": "material_tanker_uncommon_1",
-        "component_quantity": 4
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 1000
+      "cost_quantity": 2000
     }
   },
   {
@@ -315,12 +315,12 @@
       },
       {
         "component_code": "material_tanker_rare_1",
-        "component_quantity": 6
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 1500
+      "cost_quantity": 3000
     }
   },
   {
@@ -329,16 +329,16 @@
     "components": [
       {
         "component_code": "material_all_epic_orb",
-        "component_quantity": 1
+        "component_quantity": 2
       },
       {
         "component_code": "material_tanker_epic_1",
-        "component_quantity": 8
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 2000
+      "cost_quantity": 4000
     }
   },
   {
@@ -347,16 +347,16 @@
     "components": [
       {
         "component_code": "material_all_legendary_orb",
-        "component_quantity": 1
+        "component_quantity": 2
       },
       {
         "component_code": "material_tanker_legendary_1",
-        "component_quantity": 10
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 3000
+      "cost_quantity": 5000
     }
   },
   {
@@ -374,7 +374,7 @@
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 500
+      "cost_quantity": 1000
     }
   },
   {
@@ -387,12 +387,12 @@
       },
       {
         "component_code": "material_supporter_uncommon_1",
-        "component_quantity": 4
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 1000
+      "cost_quantity": 2000
     }
   },
   {
@@ -405,12 +405,12 @@
       },
       {
         "component_code": "material_supporter_rare_1",
-        "component_quantity": 6
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 1500
+      "cost_quantity": 3000
     }
   },
   {
@@ -419,16 +419,16 @@
     "components": [
       {
         "component_code": "material_all_epic_orb",
-        "component_quantity": 1
+        "component_quantity": 2
       },
       {
         "component_code": "material_supporter_epic_1",
-        "component_quantity": 8
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 2000
+      "cost_quantity": 4000
     }
   },
   {
@@ -437,16 +437,16 @@
     "components": [
       {
         "component_code": "material_all_legendary_orb",
-        "component_quantity": 1
+        "component_quantity": 2
       },
       {
         "component_code": "material_supporter_legendary_1",
-        "component_quantity": 10
+        "component_quantity": 2
       }
     ],
     "cost": {
       "cost_code": "sc",
-      "cost_quantity": 3000
+      "cost_quantity": 5000
     }
   }
 ]
