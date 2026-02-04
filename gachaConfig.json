@@ -10,7 +10,7 @@
     },
     {
       "parameter": "mystic_rate",
-      "value": 2
+      "value": 1.2
     },
     {
       "parameter": "expert_rate",
@@ -22,11 +22,11 @@
     },
     {
       "parameter": "novice_rate",
-      "value": 40
+      "value": 40.4
     },
     {
       "parameter": "novice_power_card_rate",
-      "value": 40
+      "value": 40.4
     },
     {
       "parameter": "valid_elemental",
@@ -52,7 +52,7 @@
     },
     {
       "parameter": "mystic_power_card_rate",
-      "value": 1
+      "value": 0.8
     },
     {
       "parameter": "expert_rate_normal",
@@ -68,11 +68,11 @@
     },
     {
       "parameter": "novice_rate",
-      "value": 40
+      "value": 40.1
     },
     {
       "parameter": "novice_power_card_rate",
-      "value": 40
+      "value": 40.1
     },
     {
       "parameter": "valid_elemental",
@@ -119,11 +119,11 @@
     },
     {
       "parameter": "mystic_rate",
-      "value": 1
+      "value": 0.8
     },
     {
       "parameter": "mystic_power_card_rate",
-      "value": 1
+      "value": 0.8
     },
     {
       "parameter": "expert_rate_1",
@@ -139,11 +139,11 @@
     },
     {
       "parameter": "novice_rate",
-      "value": 40
+      "value": 40.2
     },
     {
       "parameter": "novice_power_card_rate",
-      "value": 40
+      "value": 40.2
     },
     {
       "parameter": "mystic_hero_id",
