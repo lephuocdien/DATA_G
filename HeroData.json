@@ -169,15 +169,15 @@
     "enemy_block_number": 4,
     "deploy_cost": 23,
     "redeploy_time": 5,
-    "hp": 735,
-    "defense": 83,
-    "range": 3.5,
-    "attack": 146,
+    "hp": 702,
+    "defense": 79,
+    "range": 3.2,
+    "attack": 132,
     "attack_speed": 0.95,
     "basic_skill": "Rapid Shot",
     "passive_skill": "Ignite",
     "auto_skill": "Piercing Arrow",
-    "combat_power": 1848
+    "combat_power": 1757
   },
   {
     "id": "Warrior_Mystic_4",
@@ -229,15 +229,15 @@
     "enemy_block_number": 3,
     "deploy_cost": 23,
     "redeploy_time": 5,
-    "hp": 702,
-    "defense": 79,
-    "range": 3.2,
-    "attack": 132,
+    "hp": 735,
+    "defense": 83,
+    "range": 3.5,
+    "attack": 146,
     "attack_speed": 0.9,
     "basic_skill": "Rain of Arrows",
     "passive_skill": "Shadow Power",
     "auto_skill": "Phantom Shot",
-    "combat_power": 1736
+    "combat_power": 1827
   },
   {
     "id": "Magician_Mystic_2",
