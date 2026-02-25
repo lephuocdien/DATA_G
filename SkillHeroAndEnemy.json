@@ -9,7 +9,7 @@
   },
   {
     "Skill Name": "Cleaving Strike",
-    "X": 130,
+    "X": 115,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -25,8 +25,8 @@
   },
   {
     "Skill Name": "Shield Breaker",
-    "X": 120,
-    "Y": 15,
+    "X": 140,
+    "Y": 25,
     "Z": 1,
     "AoE": 0,
     "cooldown": 0
@@ -65,7 +65,7 @@
   },
   {
     "Skill Name": "Sigil Blast",
-    "X": 120,
+    "X": 125,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -73,7 +73,7 @@
   },
   {
     "Skill Name": "Arcane Burst",
-    "X": 105,
+    "X": 115,
     "Y": "",
     "Z": "",
     "AoE": 0.8,
@@ -130,7 +130,7 @@
   {
     "Skill Name": "Rapid Shot",
     "X": 2,
-    "Y": 45,
+    "Y": 55,
     "Z": "",
     "AoE": 0,
     "cooldown": 0
@@ -185,7 +185,7 @@
   },
   {
     "Skill Name": "Rain of Arrows",
-    "X": 40,
+    "X": 50,
     "Y": 3,
     "Z": "",
     "AoE": 1.1,
@@ -257,7 +257,7 @@
   },
   {
     "Skill Name": "Inspire",
-    "X": 30,
+    "X": 40,
     "Y": 0.5,
     "Z": 2,
     "AoE": 0,
@@ -314,7 +314,7 @@
   {
     "Skill Name": "Ignite",
     "X": 10,
-    "Y": 5,
+    "Y": 10,
     "Z": "",
     "AoE": 0,
     "cooldown": 0
@@ -369,7 +369,7 @@
   },
   {
     "Skill Name": "Tidal Shield",
-    "X": 15,
+    "X": 22,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -401,7 +401,7 @@
   },
   {
     "Skill Name": "Earthen Might",
-    "X": 10,
+    "X": 15,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -521,7 +521,7 @@
   },
   {
     "Skill Name": "Scorching Strike",
-    "X": 250,
+    "X": 230,
     "Y": 10,
     "Z": 2,
     "AoE": 1.2,
@@ -545,7 +545,7 @@
   },
   {
     "Skill Name": "Ocean Fury",
-    "X": 240,
+    "X": 280,
     "Y": 22,
     "Z": 3,
     "AoE": 1.2,
@@ -761,7 +761,7 @@
   },
   {
     "Skill Name": "Cyclone Vortex",
-    "X": 135,
+    "X": 145,
     "Y": 2.5,
     "Z": "",
     "AoE": 1.2,
@@ -801,7 +801,7 @@
   },
   {
     "Skill Name": "Phantom Grasp",
-    "X": 30,
+    "X": 38,
     "Y": 15,
     "Z": 4,
     "AoE": 1.3,
@@ -841,7 +841,7 @@
   },
   {
     "Skill Name": "Piercing Arrow",
-    "X": 140,
+    "X": 175,
     "Y": 3,
     "Z": "",
     "AoE": 0,
@@ -857,7 +857,7 @@
   },
   {
     "Skill Name": "Frost Barrage",
-    "X": 145,
+    "X": 155,
     "Y": 50,
     "Z": 3,
     "AoE": 0,
@@ -937,7 +937,7 @@
   },
   {
     "Skill Name": "Phantom Shot",
-    "X": 150,
+    "X": 195,
     "Y": 8,
     "Z": "",
     "AoE": 0,
@@ -1041,7 +1041,7 @@
   },
   {
     "Skill Name": "Rock Fortress",
-    "X": 40,
+    "X": 50,
     "Y": "",
     "Z": 6,
     "AoE": 1.3,
@@ -1089,7 +1089,7 @@
   },
   {
     "Skill Name": "Cyclone Guard",
-    "X": 18,
+    "X": 22,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -1608,5 +1608,3 @@
     "cooldown": 8
   }
 ]
-
-
