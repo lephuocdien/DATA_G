@@ -1075,7 +1075,7 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -1089,7 +1089,7 @@
             "route_id": 2,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -1117,7 +1117,7 @@
             "route_id": 4,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -1131,7 +1131,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -1166,7 +1166,7 @@
             "route_id": 3,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -1201,7 +1201,7 @@
             "route_id": 5,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -1215,7 +1215,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -1229,7 +1229,14 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
+          },
+          {
+            "enemy_id": "Walk_Ranged_Elite_2",
+            "route_id": 0,
+            "start_spawn_time": 1.2,
+            "delay_each_spawn": 1.2,
+            "total_count": 1
           }
         ]
       },
@@ -1257,7 +1264,7 @@
             "route_id": 2,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -1271,7 +1278,7 @@
             "route_id": 4,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
@@ -1341,7 +1348,7 @@
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -1362,7 +1369,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -1376,7 +1383,7 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 8
           }
         ]
       },
@@ -1404,7 +1411,7 @@
             "route_id": 2,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 8
           }
         ]
       },
@@ -1418,14 +1425,14 @@
             "route_id": 4,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 4,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -1467,7 +1474,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -1481,14 +1488,14 @@
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -1533,7 +1540,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -1547,7 +1554,7 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -1561,7 +1568,7 @@
             "route_id": 2,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -1589,7 +1596,7 @@
             "route_id": 4,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -1610,7 +1617,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -1638,7 +1645,7 @@
             "route_id": 3,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -1666,7 +1673,7 @@
             "route_id": 5,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -1687,7 +1694,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -1701,7 +1708,7 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -1729,7 +1736,7 @@
             "route_id": 2,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -1750,7 +1757,7 @@
             "route_id": 4,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           },
           {
             "enemy_id": "Walk_Melee_Normal_6",
@@ -1827,7 +1834,7 @@
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -1848,7 +1855,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -1862,7 +1869,7 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -1890,7 +1897,7 @@
             "route_id": 2,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -1911,14 +1918,14 @@
             "route_id": 4,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Melee_Normal_6",
             "route_id": 4,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           }
         ]
       },
@@ -1981,14 +1988,14 @@
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Melee_Normal_6",
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -2061,7 +2068,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -2075,7 +2082,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -2096,7 +2103,7 @@
             "route_id": 2,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -2110,7 +2117,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -2145,7 +2152,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 6
+            "total_count": 8
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -2166,7 +2173,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 6
+            "total_count": 8
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -2187,7 +2194,7 @@
             "route_id": 2,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -2201,7 +2208,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 8
           }
         ]
       },
@@ -2236,7 +2243,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 8
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -2278,14 +2285,14 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -2348,14 +2355,14 @@
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -2376,7 +2383,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 10
           }
         ]
       },
@@ -2411,7 +2418,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 10
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -2453,14 +2460,14 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -2523,14 +2530,14 @@
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -2589,7 +2596,7 @@
             "route_id": 5,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -2624,7 +2631,7 @@
             "route_id": 2,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 5
           }
         ]
       },
@@ -2652,7 +2659,7 @@
             "route_id": 3,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -2673,7 +2680,7 @@
             "route_id": 6,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -2687,7 +2694,7 @@
             "route_id": 4,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -2736,7 +2743,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 8
           }
         ]
       },
@@ -2792,7 +2799,7 @@
             "route_id": 2,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 8
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -2841,7 +2848,7 @@
             "route_id": 3,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 8
           }
         ]
       },
@@ -2855,7 +2862,7 @@
             "route_id": 6,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -2869,7 +2876,7 @@
             "route_id": 4,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
@@ -2939,7 +2946,14 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
+          },
+          {
+            "enemy_id": "Walk_Ranged_Elite_2",
+            "route_id": 0,
+            "start_spawn_time": 1.2,
+            "delay_each_spawn": 1.2,
+            "total_count": 1
           }
         ]
       },
@@ -2953,7 +2967,7 @@
             "route_id": 6,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -3037,7 +3051,7 @@
             "route_id": 3,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 10
           }
         ]
       },
@@ -3051,7 +3065,7 @@
             "route_id": 6,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -3065,14 +3079,14 @@
             "route_id": 4,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 4,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -3128,14 +3142,21 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
+          },
+          {
+            "enemy_id": "Walk_Ranged_Elite_2",
+            "route_id": 0,
+            "start_spawn_time": 1.2,
+            "delay_each_spawn": 1.2,
+            "total_count": 1
           }
         ]
       },
@@ -3149,7 +3170,7 @@
             "route_id": 6,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -3177,14 +3198,14 @@
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -8498,7 +8519,7 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -8512,7 +8533,7 @@
             "route_id": 2,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -8540,7 +8561,7 @@
             "route_id": 4,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -8554,7 +8575,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -8589,7 +8610,7 @@
             "route_id": 3,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -8624,7 +8645,7 @@
             "route_id": 5,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -8638,7 +8659,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -8652,7 +8673,14 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
+          },
+          {
+            "enemy_id": "Walk_Ranged_Elite_2",
+            "route_id": 0,
+            "start_spawn_time": 1.2,
+            "delay_each_spawn": 1.2,
+            "total_count": 1
           }
         ]
       },
@@ -8680,7 +8708,7 @@
             "route_id": 2,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -8694,7 +8722,7 @@
             "route_id": 4,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
@@ -8764,7 +8792,7 @@
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -8785,7 +8813,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -8799,7 +8827,7 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 8
           }
         ]
       },
@@ -8827,7 +8855,7 @@
             "route_id": 2,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 8
           }
         ]
       },
@@ -8841,14 +8869,14 @@
             "route_id": 4,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 4,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -8890,7 +8918,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -8904,14 +8932,14 @@
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -8956,7 +8984,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -8970,7 +8998,7 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -8984,7 +9012,7 @@
             "route_id": 2,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -9012,7 +9040,7 @@
             "route_id": 4,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9033,7 +9061,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -9061,7 +9089,7 @@
             "route_id": 3,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -9089,7 +9117,7 @@
             "route_id": 5,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9110,7 +9138,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -9124,7 +9152,7 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -9152,7 +9180,7 @@
             "route_id": 2,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9173,7 +9201,7 @@
             "route_id": 4,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           },
           {
             "enemy_id": "Walk_Melee_Normal_6",
@@ -9250,7 +9278,7 @@
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9271,7 +9299,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -9285,7 +9313,7 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -9313,7 +9341,7 @@
             "route_id": 2,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9334,14 +9362,14 @@
             "route_id": 4,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Melee_Normal_6",
             "route_id": 4,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           }
         ]
       },
@@ -9404,14 +9432,14 @@
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Melee_Normal_6",
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9484,7 +9512,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -9498,7 +9526,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9519,7 +9547,7 @@
             "route_id": 2,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -9533,7 +9561,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9568,7 +9596,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 6
+            "total_count": 8
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9589,7 +9617,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 6
+            "total_count": 8
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9610,7 +9638,7 @@
             "route_id": 2,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -9624,7 +9652,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 8
           }
         ]
       },
@@ -9659,7 +9687,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 8
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9701,14 +9729,14 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9771,14 +9799,14 @@
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9799,7 +9827,7 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 10
           }
         ]
       },
@@ -9834,7 +9862,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 10
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9876,14 +9904,14 @@
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 0,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -9946,14 +9974,14 @@
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -10012,7 +10040,7 @@
             "route_id": 5,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -10047,7 +10075,7 @@
             "route_id": 2,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 5
           }
         ]
       },
@@ -10075,7 +10103,7 @@
             "route_id": 3,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -10096,7 +10124,7 @@
             "route_id": 6,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -10110,7 +10138,7 @@
             "route_id": 4,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -10159,7 +10187,7 @@
             "route_id": 1,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 8
           }
         ]
       },
@@ -10215,7 +10243,7 @@
             "route_id": 2,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 8
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -10264,7 +10292,7 @@
             "route_id": 3,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 8
           }
         ]
       },
@@ -10278,7 +10306,7 @@
             "route_id": 6,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -10292,7 +10320,7 @@
             "route_id": 4,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
@@ -10362,7 +10390,14 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
+          },
+          {
+            "enemy_id": "Walk_Ranged_Elite_2",
+            "route_id": 0,
+            "start_spawn_time": 1.2,
+            "delay_each_spawn": 1.2,
+            "total_count": 1
           }
         ]
       },
@@ -10376,7 +10411,7 @@
             "route_id": 6,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -10460,7 +10495,7 @@
             "route_id": 3,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 10
           }
         ]
       },
@@ -10474,7 +10509,7 @@
             "route_id": 6,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -10488,14 +10523,14 @@
             "route_id": 4,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 4,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -10551,14 +10586,21 @@
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 0,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
+          },
+          {
+            "enemy_id": "Walk_Ranged_Elite_2",
+            "route_id": 0,
+            "start_spawn_time": 1.2,
+            "delay_each_spawn": 1.2,
+            "total_count": 1
           }
         ]
       },
@@ -10572,7 +10614,7 @@
             "route_id": 6,
             "start_spawn_time": 2.4,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -10600,14 +10642,14 @@
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Melee_Normal_7",
             "route_id": 1,
             "start_spawn_time": 1.2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           },
           {
             "enemy_id": "Walk_Ranged_Elite_2",
@@ -14597,7 +14639,7 @@
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 2
           }
         ]
       },
@@ -14625,7 +14667,7 @@
             "route_id": 2,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -14667,7 +14709,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 3
           }
         ]
       },
@@ -14681,7 +14723,7 @@
             "route_id": 2,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -14695,7 +14737,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 3
           }
         ]
       },
@@ -14709,7 +14751,7 @@
             "route_id": 0,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 4
           }
         ]
       },
@@ -14737,7 +14779,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 4
           }
         ]
       },
@@ -14751,7 +14793,7 @@
             "route_id": 2,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -14765,7 +14807,7 @@
             "route_id": 0,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 3
           }
         ]
       },
@@ -14779,7 +14821,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 3
           }
         ]
       },
@@ -14793,7 +14835,7 @@
             "route_id": 0,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 4
           }
         ]
       },
@@ -14807,7 +14849,7 @@
             "route_id": 2,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -14821,7 +14863,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 4
           }
         ]
       },
@@ -15303,7 +15345,7 @@
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 4
           }
         ]
       },
@@ -15317,7 +15359,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -15345,7 +15387,7 @@
             "route_id": 2,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 5
           }
         ]
       },
@@ -15359,7 +15401,7 @@
             "route_id": 5,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -15373,7 +15415,7 @@
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 4
           }
         ]
       },
@@ -15387,7 +15429,7 @@
             "route_id": 3,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           }
         ]
       },
@@ -15436,7 +15478,7 @@
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -15450,7 +15492,7 @@
             "route_id": 4,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -15464,7 +15506,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -15492,7 +15534,7 @@
             "route_id": 2,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 8
           }
         ]
       },
@@ -15520,7 +15562,7 @@
             "route_id": 3,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 8
           }
         ]
       },
@@ -15548,7 +15590,7 @@
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -15562,7 +15604,7 @@
             "route_id": 4,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -15576,7 +15618,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 10
           }
         ]
       },
@@ -15590,7 +15632,7 @@
             "route_id": 0,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
           }
         ]
       },
@@ -15604,7 +15646,7 @@
             "route_id": 2,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 10
           }
         ]
       },
@@ -15632,7 +15674,7 @@
             "route_id": 3,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 10
           }
         ]
       },
@@ -15646,7 +15688,7 @@
             "route_id": 1,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
           }
         ]
       }
@@ -22615,7 +22657,7 @@
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 2
           }
         ]
       },
@@ -22639,11 +22681,11 @@
         "enemy_level": 38,
         "spawn_groups": [
           {
-            "enemy_id": "Walk_Ranged_Normal_1",
+            "enemy_id": "Fly_Rush_Normal_2",
             "route_id": 2,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 1
           }
         ]
       },
@@ -22685,7 +22727,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 3
           }
         ]
       },
@@ -22699,7 +22741,7 @@
             "route_id": 2,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -22713,7 +22755,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 3
           }
         ]
       },
@@ -22727,7 +22769,7 @@
             "route_id": 0,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 4
           }
         ]
       },
@@ -22755,7 +22797,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 4
           }
         ]
       },
@@ -22769,7 +22811,7 @@
             "route_id": 2,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -22783,7 +22825,7 @@
             "route_id": 0,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 3
           }
         ]
       },
@@ -22797,7 +22839,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 3
           }
         ]
       },
@@ -22811,7 +22853,7 @@
             "route_id": 0,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 4
           }
         ]
       },
@@ -22825,7 +22867,7 @@
             "route_id": 2,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -22839,7 +22881,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 4
           }
         ]
       },
@@ -23321,7 +23363,7 @@
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 4
           }
         ]
       },
@@ -23335,7 +23377,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -23363,7 +23405,7 @@
             "route_id": 2,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 5
           }
         ]
       },
@@ -23377,7 +23419,7 @@
             "route_id": 5,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -23391,7 +23433,7 @@
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 4
           }
         ]
       },
@@ -23405,7 +23447,7 @@
             "route_id": 3,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 5
           }
         ]
       },
@@ -23454,7 +23496,7 @@
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -23468,7 +23510,7 @@
             "route_id": 4,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -23482,7 +23524,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -23510,7 +23552,7 @@
             "route_id": 2,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 8
           }
         ]
       },
@@ -23538,7 +23580,7 @@
             "route_id": 3,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 8
           }
         ]
       },
@@ -23566,7 +23608,7 @@
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 6
           }
         ]
       },
@@ -23580,7 +23622,7 @@
             "route_id": 4,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -23594,7 +23636,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 5
+            "total_count": 10
           }
         ]
       },
@@ -23608,7 +23650,7 @@
             "route_id": 0,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
           }
         ]
       },
@@ -23622,7 +23664,7 @@
             "route_id": 2,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 10
           }
         ]
       },
@@ -23650,7 +23692,7 @@
             "route_id": 3,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 7
+            "total_count": 10
           }
         ]
       },
@@ -23664,7 +23706,7 @@
             "route_id": 1,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 6
           }
         ]
       }
