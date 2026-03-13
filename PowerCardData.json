@@ -1,8 +1,7 @@
-
 [
   {
     "Power Card Name": "Fire Burst",
-    "X": 500,
+    "X": 750,
     "Y": "",
     "Z": "",
     "AoE": 2,
@@ -20,7 +19,7 @@
   },
   {
     "Power Card Name": "Flame Shield",
-    "X": 500,
+    "X": 800,
     "Y": "",
     "Z": "",
     "AoE": 99,
@@ -56,7 +55,7 @@
   },
   {
     "Power Card Name": "Chain Bolt",
-    "X": 200,
+    "X": 500,
     "Y": 3,
     "Z": "",
     "AoE": 2,
@@ -74,9 +73,9 @@
   },
   {
     "Power Card Name": "Wind Push",
-    "X": 750,
-    "Y": "1",
-    "Z": "0.2",
+    "X": 1000,
+    "Y": 1,
+    "Z": 0.2,
     "AoE": 1,
     "Energy": 8,
     "Rarity": "Mystic"
