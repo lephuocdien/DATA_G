@@ -31,7 +31,7 @@
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 4
           }
         ]
       },
@@ -45,7 +45,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 1
+            "total_count": 2
           }
         ]
       },
@@ -6390,13 +6390,6 @@
         "enemy_level": 20,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Fly_Rush_Normal_7",
             "route_id": 7,
             "start_spawn_time": 2.8,
@@ -6445,13 +6438,6 @@
         "delay_each_wave": 2.4,
         "enemy_level": 20,
         "spawn_groups": [
-          {
-            "enemy_id": "Fly_Attack_Normal_5",
-            "route_id": 8,
-            "start_spawn_time": 1.4,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
-          },
           {
             "enemy_id": "Fly_Attack_Normal_7",
             "route_id": 8,
@@ -6640,13 +6626,6 @@
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
             "total_count": 1
-          },
-          {
-            "enemy_id": "Fly_Rush_Normal_7",
-            "route_id": 8,
-            "start_spawn_time": 1.4,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
           }
         ]
       },
@@ -6761,13 +6740,6 @@
         "enemy_level": 20,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 8,
-            "start_spawn_time": 1.4,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Fly_Rush_Normal_7",
             "route_id": 8,
             "start_spawn_time": 1.4,
@@ -6782,13 +6754,6 @@
         "enemy_level": 20,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Fly_Rush_Normal_5",
             "route_id": 7,
             "start_spawn_time": 2.8,
@@ -6797,13 +6762,6 @@
           },
           {
             "enemy_id": "Fly_Rush_Normal_6",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
-          },
-          {
-            "enemy_id": "Fly_Rush_Normal_7",
             "route_id": 7,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
@@ -6900,13 +6858,6 @@
         "delay_each_wave": 2.4,
         "enemy_level": 20,
         "spawn_groups": [
-          {
-            "enemy_id": "Fly_Rush_Normal_5",
-            "route_id": 8,
-            "start_spawn_time": 1.4,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
-          },
           {
             "enemy_id": "Fly_Rush_Normal_7",
             "route_id": 8,
@@ -7006,13 +6957,6 @@
         "enemy_level": 20,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Attack_Normal_6",
-            "route_id": 6,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Fly_Attack_Normal_7",
             "route_id": 6,
             "start_spawn_time": 2.8,
@@ -7048,28 +6992,7 @@
         "enemy_level": 20,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Fly_Rush_Normal_5",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
-          },
-          {
-            "enemy_id": "Fly_Rush_Normal_6",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
-          },
-          {
-            "enemy_id": "Fly_Rush_Normal_7",
             "route_id": 7,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
@@ -13985,7 +13908,7 @@
             "route_id": 7,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Attack_Normal_5",
@@ -14020,7 +13943,7 @@
             "route_id": 9,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Attack_Normal_7",
@@ -14226,13 +14149,6 @@
         "enemy_level": 37,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Fly_Rush_Normal_5",
             "route_id": 7,
             "start_spawn_time": 2.8,
@@ -14241,13 +14157,6 @@
           },
           {
             "enemy_id": "Fly_Rush_Normal_6",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
-          },
-          {
-            "enemy_id": "Fly_Rush_Normal_7",
             "route_id": 7,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
@@ -14492,13 +14401,6 @@
         "enemy_level": 37,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_3",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
-          },
-          {
             "enemy_id": "Fly_Rush_Normal_5",
             "route_id": 7,
             "start_spawn_time": 2.8,
@@ -14507,13 +14409,6 @@
           },
           {
             "enemy_id": "Fly_Rush_Normal_6",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 1
-          },
-          {
-            "enemy_id": "Fly_Rush_Normal_7",
             "route_id": 7,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
@@ -14623,7 +14518,7 @@
     "sc": 500,
     "hc": 20,
     "xp_book": 400,
-    "material_type": "material_warrior_common_1",
+    "material_type": "material_warrior_rare_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_common",
@@ -14913,7 +14808,7 @@
     "sc": 750,
     "hc": 20,
     "xp_book": 600,
-    "material_type": "material_supporter_common_1",
+    "material_type": "material_supporter_rare_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_common",
@@ -15329,7 +15224,7 @@
     "sc": 1000,
     "hc": 20,
     "xp_book": 800,
-    "material_type": "material_shooter_common_1",
+    "material_type": "material_shooter_rare_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_common",
@@ -15710,7 +15605,7 @@
     "sc": 1250,
     "hc": 20,
     "xp_book": 1000,
-    "material_type": "material_tanker_common_1",
+    "material_type": "material_tanker_rare_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_common",
@@ -16077,7 +15972,7 @@
     "sc": 1500,
     "hc": 20,
     "xp_book": 1200,
-    "material_type": "material_magician_common_1",
+    "material_type": "material_magician_rare_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_common",
@@ -16563,7 +16458,7 @@
     "sc": 1750,
     "hc": 20,
     "xp_book": 1400,
-    "material_type": "material_warrior_uncommon_1",
+    "material_type": "material_warrior_epic_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_uncommon",
@@ -17035,7 +16930,7 @@
     "sc": 2000,
     "hc": 20,
     "xp_book": 1600,
-    "material_type": "material_supporter_uncommon_1",
+    "material_type": "material_supporter_epic_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_uncommon",
@@ -17535,7 +17430,7 @@
     "sc": 2500,
     "hc": 20,
     "xp_book": 2000,
-    "material_type": "material_shooter_uncommon_1",
+    "material_type": "material_shooter_epic_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_uncommon",
@@ -18049,7 +17944,7 @@
     "sc": 2750,
     "hc": 20,
     "xp_book": 2200,
-    "material_type": "material_tanker_uncommon_1",
+    "material_type": "material_tanker_epic_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_uncommon",
@@ -18689,7 +18584,7 @@
     "sc": 3250,
     "hc": 20,
     "xp_book": 2600,
-    "material_type": "material_magician_uncommon_1",
+    "material_type": "material_magician_epic_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_uncommon",
@@ -19252,7 +19147,7 @@
     "sc": 3750,
     "hc": 20,
     "xp_book": 3000,
-    "material_type": "material_warrior_rare_1",
+    "material_type": "material_warrior_epic_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_rare",
@@ -19801,7 +19696,7 @@
     "sc": 4250,
     "hc": 20,
     "xp_book": 3400,
-    "material_type": "material_supporter_rare_1",
+    "material_type": "material_supporter_epic_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_rare",
@@ -20413,7 +20308,7 @@
     "sc": 5000,
     "hc": 20,
     "xp_book": 4000,
-    "material_type": "material_shooter_rare_1",
+    "material_type": "material_shooter_epic_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_rare",
@@ -21004,7 +20899,7 @@
     "sc": 5750,
     "hc": 20,
     "xp_book": 4600,
-    "material_type": "material_tanker_rare_1",
+    "material_type": "material_tanker_epic_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_rare",
@@ -21777,7 +21672,7 @@
     "sc": 6750,
     "hc": 20,
     "xp_book": 5400,
-    "material_type": "material_magician_rare_1",
+    "material_type": "material_magician_epic_1",
     "material_amount": 1,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_rare",
@@ -22634,7 +22529,7 @@
     "sc": 1125,
     "hc": 20,
     "xp_book": 900,
-    "material_type": "material_warrior_uncommon_1",
+    "material_type": "material_warrior_rare_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_uncommon",
@@ -22924,7 +22819,7 @@
     "sc": 1500,
     "hc": 20,
     "xp_book": 1200,
-    "material_type": "material_supporter_uncommon_1",
+    "material_type": "material_supporter_rare_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_uncommon",
@@ -23340,7 +23235,7 @@
     "sc": 1875,
     "hc": 20,
     "xp_book": 1500,
-    "material_type": "material_shooter_uncommon_1",
+    "material_type": "material_shooter_rare_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_uncommon",
@@ -23721,7 +23616,7 @@
     "sc": 2250,
     "hc": 20,
     "xp_book": 1800,
-    "material_type": "material_tanker_uncommon_1",
+    "material_type": "material_tanker_rare_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_uncommon",
@@ -24088,7 +23983,7 @@
     "sc": 2625,
     "hc": 20,
     "xp_book": 2100,
-    "material_type": "material_magician_uncommon_1",
+    "material_type": "material_magician_rare_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_uncommon",
@@ -24574,7 +24469,7 @@
     "sc": 3000,
     "hc": 20,
     "xp_book": 2400,
-    "material_type": "material_warrior_rare_1",
+    "material_type": "material_warrior_epic_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_rare",
@@ -25046,7 +24941,7 @@
     "sc": 3750,
     "hc": 20,
     "xp_book": 3000,
-    "material_type": "material_supporter_rare_1",
+    "material_type": "material_supporter_epic_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_rare",
@@ -25546,7 +25441,7 @@
     "sc": 4125,
     "hc": 20,
     "xp_book": 3300,
-    "material_type": "material_shooter_rare_1",
+    "material_type": "material_shooter_epic_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_rare",
@@ -26060,7 +25955,7 @@
     "sc": 4875,
     "hc": 20,
     "xp_book": 3900,
-    "material_type": "material_tanker_rare_1",
+    "material_type": "material_tanker_epic_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_rare",
@@ -26700,7 +26595,7 @@
     "sc": 6000,
     "hc": 20,
     "xp_book": 4800,
-    "material_type": "material_magician_rare_1",
+    "material_type": "material_magician_epic_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_rare",
@@ -27263,7 +27158,7 @@
     "sc": 7125,
     "hc": 20,
     "xp_book": 5700,
-    "material_type": "material_warrior_epic_1",
+    "material_type": "material_warrior_legendary_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_epic",
@@ -27812,7 +27707,7 @@
     "sc": 8250,
     "hc": 20,
     "xp_book": 6600,
-    "material_type": "material_supporter_epic_1",
+    "material_type": "material_magician_legendary_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_epic",
@@ -28424,7 +28319,7 @@
     "sc": 9750,
     "hc": 20,
     "xp_book": 7800,
-    "material_type": "material_shooter_epic_1",
+    "material_type": "material_shooter_legendary_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_epic",
@@ -29015,7 +28910,7 @@
     "sc": 11625,
     "hc": 20,
     "xp_book": 9300,
-    "material_type": "material_tanker_epic_1",
+    "material_type": "material_tanker_legendary_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_epic",
@@ -29788,7 +29683,7 @@
     "sc": 13875,
     "hc": 20,
     "xp_book": 11100,
-    "material_type": "material_magician_epic_1",
+    "material_type": "material_supporter_legendary_1",
     "material_amount": 2,
     "chest_amount": 1,
     "chest_type": "consumable_chest_reward_epic",
