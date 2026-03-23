@@ -1,7 +1,7 @@
 [
   {
     "Power Card Name": "Fire Burst",
-    "X": 750,
+    "X": 1000,
     "Y": "",
     "Z": "",
     "AoE": 2,
@@ -10,7 +10,7 @@
   },
   {
     "Power Card Name": "Guardian Light",
-    "X": 25,
+    "X": 30,
     "Y": "",
     "Z": "",
     "AoE": 99,
@@ -19,7 +19,7 @@
   },
   {
     "Power Card Name": "Flame Shield",
-    "X": 800,
+    "X": 1000,
     "Y": "",
     "Z": "",
     "AoE": 99,
@@ -28,7 +28,7 @@
   },
   {
     "Power Card Name": "Quick Slash",
-    "X": 1500,
+    "X": 3000,
     "Y": "",
     "Z": "",
     "AoE": 0,
@@ -46,7 +46,7 @@
   },
   {
     "Power Card Name": "Frost Wave",
-    "X": 700,
+    "X": 1800,
     "Y": 70,
     "Z": 3,
     "AoE": 2,
@@ -55,7 +55,7 @@
   },
   {
     "Power Card Name": "Chain Bolt",
-    "X": 500,
+    "X": 3000,
     "Y": 3,
     "Z": "",
     "AoE": 2,
@@ -64,7 +64,7 @@
   },
   {
     "Power Card Name": "Iron Guard",
-    "X": 15,
+    "X": 50,
     "Y": "",
     "Z": 8,
     "AoE": 99,
@@ -73,7 +73,7 @@
   },
   {
     "Power Card Name": "Wind Push",
-    "X": 1000,
+    "X": 2500,
     "Y": 1,
     "Z": 0.2,
     "AoE": 1,
@@ -82,9 +82,9 @@
   },
   {
     "Power Card Name": "Sun Heal",
-    "X": 5,
+    "X": 10,
     "Y": "",
-    "Z": 8,
+    "Z": 6,
     "AoE": 99,
     "Energy": 8,
     "Rarity": "Mystic"
