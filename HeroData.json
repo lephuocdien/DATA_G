@@ -87,7 +87,7 @@
     "elemental": "earth",
     "position": "frontline",
     "enemy_block_number": 10,
-    "deploy_cost": 20,
+    "deploy_cost": 18,
     "redeploy_time": 5,
     "hp": 2022,
     "defense": 166,
