@@ -807,7 +807,7 @@
       "category": "exchange_currency",
       "status": "active",
       "type": "currency",
-      "price_amount": 50,
+      "price_amount": 30,
       "price_type": "hc",
       "limit": 10,
       "reset_limit_interval": 7,
@@ -818,6 +818,26 @@
           "valid_duration_in_days": null,
           "item_quantity": 1,
           "item_code": "skip_ticket",
+          "item_promo_quantity": null
+        }
+      ]
+    },
+    "igp_spin_ticket_1": {
+      "product_id": "igp_spin_ticket_1",
+      "category": "exchange_currency",
+      "status": "active",
+      "type": "currency",
+      "price_amount": 50,
+      "price_type": "hc",
+      "limit": 10,
+      "reset_limit_interval": 1,
+      "promo_price": "",
+      "promo_limit": "",
+      "rewards": [
+        {
+          "valid_duration_in_days": null,
+          "item_quantity": 1,
+          "item_code": "spin_ticket",
           "item_promo_quantity": null
         }
       ]
@@ -990,7 +1010,7 @@
       "price_amount": 20,
       "price_type": "summon_pts",
       "limit": 20,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1010,7 +1030,7 @@
       "price_amount": 20,
       "price_type": "summon_pts",
       "limit": 20,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1030,7 +1050,7 @@
       "price_amount": 50,
       "price_type": "summon_pts",
       "limit": 5,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1050,7 +1070,7 @@
       "price_amount": 30,
       "price_type": "summon_pts",
       "limit": 5,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1070,7 +1090,7 @@
       "price_amount": 20,
       "price_type": "summon_pts",
       "limit": 10,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1090,7 +1110,7 @@
       "price_amount": 40,
       "price_type": "summon_pts",
       "limit": 10,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1110,7 +1130,7 @@
       "price_amount": 60,
       "price_type": "summon_pts",
       "limit": 10,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1130,7 +1150,7 @@
       "price_amount": 80,
       "price_type": "summon_pts",
       "limit": 5,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1150,7 +1170,7 @@
       "price_amount": 100,
       "price_type": "summon_pts",
       "limit": 5,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1170,7 +1190,7 @@
       "price_amount": 40,
       "price_type": "summon_pts",
       "limit": 1,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1190,7 +1210,7 @@
       "price_amount": 80,
       "price_type": "summon_pts",
       "limit": 1,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1210,7 +1230,7 @@
       "price_amount": 120,
       "price_type": "summon_pts",
       "limit": 1,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1230,7 +1250,7 @@
       "price_amount": 200,
       "price_type": "summon_pts",
       "limit": 1,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1250,7 +1270,7 @@
       "price_amount": 300,
       "price_type": "summon_pts",
       "limit": 1,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1270,7 +1290,7 @@
       "price_amount": 100,
       "price_type": "summon_pts",
       "limit": 1,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1290,7 +1310,7 @@
       "price_amount": 200,
       "price_type": "summon_pts",
       "limit": 1,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1310,7 +1330,7 @@
       "price_amount": 300,
       "price_type": "summon_pts",
       "limit": 1,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1330,7 +1350,7 @@
       "price_amount": 500,
       "price_type": "summon_pts",
       "limit": 1,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1350,7 +1370,7 @@
       "price_amount": 1000,
       "price_type": "summon_pts",
       "limit": 1,
-      "reset_limit_interval": 14,
+      "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
