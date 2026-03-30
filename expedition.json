@@ -241,7 +241,7 @@
   },
   {
     "id": "expedition_13",
-    "status": "active",
+    "status": "inactive",
     "title": "Winds of Renewal",
     "rarity": "rare",
     "condition_normal": "supporter",
@@ -741,7 +741,7 @@
   },
   {
     "id": "expedition_38",
-    "status": "active",
+    "status": "inactive",
     "title": "Covenant of the Gale",
     "rarity": "epic",
     "condition_normal": "supporter",
@@ -1241,7 +1241,7 @@
   },
   {
     "id": "expedition_63",
-    "status": "active",
+    "status": "inactive",
     "title": "Aegis of the Skybound",
     "rarity": "legendary",
     "condition_normal": "supporter",
