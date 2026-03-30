@@ -11,7 +11,7 @@
   },
   {
     "star_require": 18,
-    "reward_amount": 4,
+    "reward_amount": 5,
     "reward_type": "skip_ticket"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "star_require": 36,
-    "reward_amount": 4,
+    "reward_amount": 5,
     "reward_type": "skip_ticket"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "star_require": 54,
-    "reward_amount": 4,
+    "reward_amount": 5,
     "reward_type": "skip_ticket"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "star_require": 72,
-    "reward_amount": 4,
+    "reward_amount": 5,
     "reward_type": "skip_ticket"
   },
   {
