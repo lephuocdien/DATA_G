@@ -193,8 +193,8 @@
   },
   {
     "Skill Name": "Iron Wall",
-    "X": 25,
-    "Y": 0.01,
+    "X": 40,
+    "Y": 0.05,
     "Z": 1,
     "AoE": 0,
     "cooldown": 0
