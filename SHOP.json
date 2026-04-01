@@ -190,19 +190,19 @@
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 10000,
+          "item_quantity": 20000,
           "item_code": "sc",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 10000,
+          "item_quantity": 20000,
           "item_code": "xp_book",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 10000,
+          "item_quantity": 20000,
           "item_code": "skill_book",
           "item_promo_quantity": null
         }
@@ -240,19 +240,19 @@
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 10000,
+          "item_quantity": 40000,
           "item_code": "sc",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 10000,
+          "item_quantity": 40000,
           "item_code": "xp_book",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 10000,
+          "item_quantity": 40000,
           "item_code": "skill_book",
           "item_promo_quantity": null
         }
@@ -332,31 +332,31 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 3,
+          "item_quantity": 5,
           "item_code": "material_all_common_orb",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 3,
+          "item_quantity": 5,
           "item_code": "material_all_uncommon_orb",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 3,
+          "item_quantity": 5,
           "item_code": "material_all_rare_orb",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 3,
+          "item_quantity": 5,
           "item_code": "material_all_epic_orb",
           "item_promo_quantity": null
         },
         {
           "valid_duration_in_days": null,
-          "item_quantity": 3,
+          "item_quantity": 5,
           "item_code": "material_all_legendary_orb",
           "item_promo_quantity": null
         }
@@ -616,9 +616,9 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 120,
+          "item_quantity": 60,
           "item_code": "hc",
-          "item_promo_quantity": 240
+          "item_promo_quantity": 120
         }
       ]
     },
@@ -636,9 +636,9 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 600,
+          "item_quantity": 320,
           "item_code": "hc",
-          "item_promo_quantity": 1200
+          "item_promo_quantity": 640
         }
       ]
     },
@@ -656,9 +656,9 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 1200,
+          "item_quantity": 640,
           "item_code": "hc",
-          "item_promo_quantity": 2400
+          "item_promo_quantity": 1280
         }
       ]
     },
@@ -676,9 +676,9 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 2500,
+          "item_quantity": 1280,
           "item_code": "hc",
-          "item_promo_quantity": 5000
+          "item_promo_quantity": 2560
         }
       ]
     },
@@ -696,9 +696,9 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 5500,
+          "item_quantity": 2600,
           "item_code": "hc",
-          "item_promo_quantity": 11000
+          "item_promo_quantity": 5200
         }
       ]
     },
@@ -716,9 +716,9 @@
       "rewards": [
         {
           "valid_duration_in_days": null,
-          "item_quantity": 12500,
+          "item_quantity": 7000,
           "item_code": "hc",
-          "item_promo_quantity": 25000
+          "item_promo_quantity": 14000
         }
       ]
     },
@@ -810,7 +810,7 @@
       "price_amount": 30,
       "price_type": "hc",
       "limit": 10,
-      "reset_limit_interval": 7,
+      "reset_limit_interval": 1,
       "promo_price": "",
       "promo_limit": "",
       "rewards": [
@@ -1089,7 +1089,7 @@
       "type": "material",
       "price_amount": 20,
       "price_type": "summon_pts",
-      "limit": 10,
+      "limit": 15,
       "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
@@ -1109,7 +1109,7 @@
       "type": "material",
       "price_amount": 40,
       "price_type": "summon_pts",
-      "limit": 10,
+      "limit": 15,
       "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
@@ -1129,7 +1129,7 @@
       "type": "material",
       "price_amount": 60,
       "price_type": "summon_pts",
-      "limit": 10,
+      "limit": 15,
       "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
@@ -1149,7 +1149,7 @@
       "type": "material",
       "price_amount": 80,
       "price_type": "summon_pts",
-      "limit": 5,
+      "limit": 15,
       "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
@@ -1169,7 +1169,7 @@
       "type": "material",
       "price_amount": 100,
       "price_type": "summon_pts",
-      "limit": 5,
+      "limit": 15,
       "reset_limit_interval": 7,
       "promo_price": "",
       "promo_limit": "",
