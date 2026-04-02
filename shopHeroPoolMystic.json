@@ -4,6 +4,6 @@
   "rotations": [
     { "label": "Week1", "heroes": ["fragment_Tanker_Mystic_3","fragment_Shooter_Mystic_4"]},
     { "label": "Week2", "heroes": ["fragment_Tanker_Mystic_3", "fragment_Warrior_Mystic_4"]},
-    { "label": "Week3", "heroes": ["fragment_Warrior_Mystic_4","fragment_Shooter_Mystic_4"]},
+    { "label": "Week3", "heroes": ["fragment_Warrior_Mystic_4","fragment_Shooter_Mystic_4"]}
   ]
 }
