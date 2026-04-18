@@ -15,7 +15,7 @@
     "attack": "120%",
     "defense": "120%",
     "sub_stat_unlock": 0,
-    "EXP": 80
+    "EXP": 90
   },
   {
     "level": 3,
@@ -24,7 +24,7 @@
     "attack": "140%",
     "defense": "140%",
     "sub_stat_unlock": 1,
-    "EXP": 80
+    "EXP": 100
   },
   {
     "level": 4,
@@ -33,7 +33,7 @@
     "attack": "160%",
     "defense": "160%",
     "sub_stat_unlock": 0,
-    "EXP": 80
+    "EXP": 110
   },
   {
     "level": 5,
@@ -42,7 +42,7 @@
     "attack": "180%",
     "defense": "180%",
     "sub_stat_unlock": 0,
-    "EXP": 80
+    "EXP": 120
   },
   {
     "level": 6,
@@ -51,7 +51,7 @@
     "attack": "200%",
     "defense": "200%",
     "sub_stat_unlock": 1,
-    "EXP": 80
+    "EXP": 130
   },
   {
     "level": 7,
@@ -60,7 +60,7 @@
     "attack": "220%",
     "defense": "220%",
     "sub_stat_unlock": 0,
-    "EXP": 80
+    "EXP": 140
   },
   {
     "level": 8,
@@ -69,7 +69,7 @@
     "attack": "240%",
     "defense": "240%",
     "sub_stat_unlock": 0,
-    "EXP": 80
+    "EXP": 150
   },
   {
     "level": 9,
@@ -78,7 +78,7 @@
     "attack": "260%",
     "defense": "260%",
     "sub_stat_unlock": 1,
-    "EXP": 80
+    "EXP": 160
   },
   {
     "level": 10,
@@ -87,7 +87,7 @@
     "attack": "280%",
     "defense": "280%",
     "sub_stat_unlock": 0,
-    "EXP": 80
+    "EXP": 170
   },
   {
     "level": 11,
@@ -96,7 +96,7 @@
     "attack": "300%",
     "defense": "300%",
     "sub_stat_unlock": 0,
-    "EXP": 80
+    "EXP": 180
   },
   {
     "level": 12,
@@ -105,7 +105,7 @@
     "attack": "320%",
     "defense": "320%",
     "sub_stat_unlock": 1,
-    "EXP": 80
+    "EXP": 190
   },
   {
     "level": 1,
@@ -123,7 +123,7 @@
     "attack": "120%",
     "defense": "120%",
     "sub_stat_unlock": 0,
-    "EXP": 160
+    "EXP": 170
   },
   {
     "level": 3,
@@ -132,7 +132,7 @@
     "attack": "140%",
     "defense": "140%",
     "sub_stat_unlock": 1,
-    "EXP": 160
+    "EXP": 180
   },
   {
     "level": 4,
@@ -141,7 +141,7 @@
     "attack": "160%",
     "defense": "160%",
     "sub_stat_unlock": 0,
-    "EXP": 160
+    "EXP": 190
   },
   {
     "level": 5,
@@ -150,7 +150,7 @@
     "attack": "180%",
     "defense": "180%",
     "sub_stat_unlock": 0,
-    "EXP": 160
+    "EXP": 200
   },
   {
     "level": 6,
@@ -159,7 +159,7 @@
     "attack": "200%",
     "defense": "200%",
     "sub_stat_unlock": 1,
-    "EXP": 160
+    "EXP": 210
   },
   {
     "level": 7,
@@ -168,7 +168,7 @@
     "attack": "220%",
     "defense": "220%",
     "sub_stat_unlock": 0,
-    "EXP": 160
+    "EXP": 220
   },
   {
     "level": 8,
@@ -177,7 +177,7 @@
     "attack": "240%",
     "defense": "240%",
     "sub_stat_unlock": 0,
-    "EXP": 160
+    "EXP": 230
   },
   {
     "level": 9,
@@ -186,7 +186,7 @@
     "attack": "260%",
     "defense": "260%",
     "sub_stat_unlock": 1,
-    "EXP": 160
+    "EXP": 240
   },
   {
     "level": 10,
@@ -195,7 +195,7 @@
     "attack": "280%",
     "defense": "280%",
     "sub_stat_unlock": 0,
-    "EXP": 160
+    "EXP": 250
   },
   {
     "level": 11,
@@ -204,7 +204,7 @@
     "attack": "300%",
     "defense": "300%",
     "sub_stat_unlock": 0,
-    "EXP": 160
+    "EXP": 260
   },
   {
     "level": 12,
@@ -213,7 +213,7 @@
     "attack": "320%",
     "defense": "320%",
     "sub_stat_unlock": 1,
-    "EXP": 160
+    "EXP": 270
   },
   {
     "level": 1,
@@ -231,7 +231,7 @@
     "attack": "120%",
     "defense": "120%",
     "sub_stat_unlock": 0,
-    "EXP": 240
+    "EXP": 250
   },
   {
     "level": 3,
@@ -240,7 +240,7 @@
     "attack": "140%",
     "defense": "140%",
     "sub_stat_unlock": 1,
-    "EXP": 240
+    "EXP": 260
   },
   {
     "level": 4,
@@ -249,7 +249,7 @@
     "attack": "160%",
     "defense": "160%",
     "sub_stat_unlock": 0,
-    "EXP": 240
+    "EXP": 270
   },
   {
     "level": 5,
@@ -258,7 +258,7 @@
     "attack": "180%",
     "defense": "180%",
     "sub_stat_unlock": 0,
-    "EXP": 240
+    "EXP": 280
   },
   {
     "level": 6,
@@ -267,7 +267,7 @@
     "attack": "200%",
     "defense": "200%",
     "sub_stat_unlock": 1,
-    "EXP": 240
+    "EXP": 290
   },
   {
     "level": 7,
@@ -276,7 +276,7 @@
     "attack": "220%",
     "defense": "220%",
     "sub_stat_unlock": 0,
-    "EXP": 240
+    "EXP": 300
   },
   {
     "level": 8,
@@ -285,7 +285,7 @@
     "attack": "240%",
     "defense": "240%",
     "sub_stat_unlock": 0,
-    "EXP": 240
+    "EXP": 310
   },
   {
     "level": 9,
@@ -294,7 +294,7 @@
     "attack": "260%",
     "defense": "260%",
     "sub_stat_unlock": 1,
-    "EXP": 240
+    "EXP": 320
   },
   {
     "level": 10,
@@ -303,7 +303,7 @@
     "attack": "280%",
     "defense": "280%",
     "sub_stat_unlock": 0,
-    "EXP": 240
+    "EXP": 330
   },
   {
     "level": 11,
@@ -312,7 +312,7 @@
     "attack": "300%",
     "defense": "300%",
     "sub_stat_unlock": 0,
-    "EXP": 240
+    "EXP": 340
   },
   {
     "level": 12,
@@ -321,7 +321,7 @@
     "attack": "320%",
     "defense": "320%",
     "sub_stat_unlock": 1,
-    "EXP": 240
+    "EXP": 350
   },
   {
     "level": 1,
@@ -339,7 +339,7 @@
     "attack": "120%",
     "defense": "120%",
     "sub_stat_unlock": 0,
-    "EXP": 320
+    "EXP": 330
   },
   {
     "level": 3,
@@ -348,7 +348,7 @@
     "attack": "140%",
     "defense": "140%",
     "sub_stat_unlock": 1,
-    "EXP": 320
+    "EXP": 340
   },
   {
     "level": 4,
@@ -357,7 +357,7 @@
     "attack": "160%",
     "defense": "160%",
     "sub_stat_unlock": 0,
-    "EXP": 320
+    "EXP": 350
   },
   {
     "level": 5,
@@ -366,7 +366,7 @@
     "attack": "180%",
     "defense": "180%",
     "sub_stat_unlock": 0,
-    "EXP": 320
+    "EXP": 360
   },
   {
     "level": 6,
@@ -375,7 +375,7 @@
     "attack": "200%",
     "defense": "200%",
     "sub_stat_unlock": 1,
-    "EXP": 320
+    "EXP": 370
   },
   {
     "level": 7,
@@ -384,7 +384,7 @@
     "attack": "220%",
     "defense": "220%",
     "sub_stat_unlock": 0,
-    "EXP": 320
+    "EXP": 380
   },
   {
     "level": 8,
@@ -393,7 +393,7 @@
     "attack": "240%",
     "defense": "240%",
     "sub_stat_unlock": 0,
-    "EXP": 320
+    "EXP": 390
   },
   {
     "level": 9,
@@ -402,7 +402,7 @@
     "attack": "260%",
     "defense": "260%",
     "sub_stat_unlock": 1,
-    "EXP": 320
+    "EXP": 400
   },
   {
     "level": 10,
@@ -411,7 +411,7 @@
     "attack": "280%",
     "defense": "280%",
     "sub_stat_unlock": 0,
-    "EXP": 320
+    "EXP": 410
   },
   {
     "level": 11,
@@ -420,7 +420,7 @@
     "attack": "300%",
     "defense": "300%",
     "sub_stat_unlock": 0,
-    "EXP": 320
+    "EXP": 420
   },
   {
     "level": 12,
@@ -429,7 +429,7 @@
     "attack": "320%",
     "defense": "320%",
     "sub_stat_unlock": 1,
-    "EXP": 320
+    "EXP": 430
   },
   {
     "level": 1,
@@ -447,7 +447,7 @@
     "attack": "120%",
     "defense": "120%",
     "sub_stat_unlock": 0,
-    "EXP": 400
+    "EXP": 410
   },
   {
     "level": 3,
@@ -456,7 +456,7 @@
     "attack": "140%",
     "defense": "140%",
     "sub_stat_unlock": 1,
-    "EXP": 400
+    "EXP": 420
   },
   {
     "level": 4,
@@ -465,7 +465,7 @@
     "attack": "160%",
     "defense": "160%",
     "sub_stat_unlock": 0,
-    "EXP": 400
+    "EXP": 430
   },
   {
     "level": 5,
@@ -474,7 +474,7 @@
     "attack": "180%",
     "defense": "180%",
     "sub_stat_unlock": 0,
-    "EXP": 400
+    "EXP": 440
   },
   {
     "level": 6,
@@ -483,7 +483,7 @@
     "attack": "200%",
     "defense": "200%",
     "sub_stat_unlock": 1,
-    "EXP": 400
+    "EXP": 450
   },
   {
     "level": 7,
@@ -492,7 +492,7 @@
     "attack": "220%",
     "defense": "220%",
     "sub_stat_unlock": 0,
-    "EXP": 400
+    "EXP": 460
   },
   {
     "level": 8,
@@ -501,7 +501,7 @@
     "attack": "240%",
     "defense": "240%",
     "sub_stat_unlock": 0,
-    "EXP": 400
+    "EXP": 470
   },
   {
     "level": 9,
@@ -510,7 +510,7 @@
     "attack": "260%",
     "defense": "260%",
     "sub_stat_unlock": 1,
-    "EXP": 400
+    "EXP": 480
   },
   {
     "level": 10,
@@ -519,7 +519,7 @@
     "attack": "280%",
     "defense": "280%",
     "sub_stat_unlock": 0,
-    "EXP": 400
+    "EXP": 490
   },
   {
     "level": 11,
@@ -528,7 +528,7 @@
     "attack": "300%",
     "defense": "300%",
     "sub_stat_unlock": 0,
-    "EXP": 400
+    "EXP": 500
   },
   {
     "level": 12,
@@ -537,6 +537,6 @@
     "attack": "320%",
     "defense": "320%",
     "sub_stat_unlock": 1,
-    "EXP": 400
+    "EXP": 510
   }
 ]
