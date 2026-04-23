@@ -64,9 +64,9 @@
   },
   {
     "Power Card Name": "Iron Guard",
-    "X": 50,
+    "X": 500,
     "Y": "",
-    "Z": 8,
+    "Z": 12,
     "AoE": 99,
     "Energy": 8,
     "Rarity": "Expert"
