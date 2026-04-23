@@ -93,13 +93,13 @@
   {
     "id": "Iron Guard",
     "star_1": "X",
-    "effect_1": 10,
+    "effect_1": 100,
     "star_2": "Energy",
     "effect_2": 1,
     "star_3": "NumberOfUse",
     "effect_3": 1,
     "star_4": "X",
-    "effect_4": 15,
+    "effect_4": 150,
     "star_5": "Energy",
     "effect_5": 1
   },
