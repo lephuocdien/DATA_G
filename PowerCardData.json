@@ -14,7 +14,7 @@
     "Y": "",
     "Z": "",
     "AoE": 99,
-    "Energy": 8,
+    "Energy": 6,
     "Rarity": "Novice"
   },
   {
@@ -23,8 +23,8 @@
     "Y": "",
     "Z": "",
     "AoE": 99,
-    "Energy": 8,
-    "Rarity": "Novice"
+    "Energy": 7,
+    "Rarity": "Expert"
   },
   {
     "Power Card Name": "Quick Slash",
@@ -66,10 +66,10 @@
     "Power Card Name": "Iron Guard",
     "X": 500,
     "Y": "",
-    "Z": 12,
+    "Z": 16,
     "AoE": 99,
-    "Energy": 8,
-    "Rarity": "Expert"
+    "Energy": 6,
+    "Rarity": "Novice"
   },
   {
     "Power Card Name": "Wind Push",
