@@ -61,7 +61,7 @@
   },
   {
     "id": "Shooter_Expert_3",
-    "name": "Tidal",
+    "name": "Tidas",
     "class": "shooter",
     "rarity": "novice",
     "elemental": "water",
@@ -141,7 +141,7 @@
   },
   {
     "id": "Magician_Mystic_1",
-    "name": "Abyssis",
+    "name": "Obscura",
     "class": "magician",
     "rarity": "mystic",
     "elemental": "dark",
@@ -161,7 +161,7 @@
   },
   {
     "id": "Shooter_Mystic_4",
-    "name": "Blazia",
+    "name": "Skyra",
     "class": "shooter",
     "rarity": "mystic",
     "elemental": "fire",
@@ -521,7 +521,7 @@
   },
   {
     "id": "Support_Mystic_2",
-    "name": "Obscura",
+    "name": "Abyssis",
     "class": "support",
     "rarity": "mystic",
     "elemental": "dark",
@@ -581,7 +581,7 @@
   },
   {
     "id": "Support_Mystic_1",
-    "name": "Skyra",
+    "name": "Edgar",
     "class": "support",
     "rarity": "mystic",
     "elemental": "wind",
