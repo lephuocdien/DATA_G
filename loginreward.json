@@ -6,7 +6,7 @@
   },
   {
     "day": 2,
-    "reward_amount": 1,
+    "reward_amount": 3,
     "reward_type": "consumable_chest_equipment_rare"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "day": 4,
-    "reward_amount": 1,
+    "reward_amount": 2,
     "reward_type": "consumable_chest_equipment_epic"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "day": 7,
-    "reward_amount": 10,
+    "reward_amount": 20,
     "reward_type": "summon_ticket"
   }
 ]
