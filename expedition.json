@@ -541,7 +541,7 @@
   },
   {
     "id": "expedition_28",
-    "status": "active",
+    "status": "inactive",
     "title": "Gale Shot",
     "rarity": "rare",
     "condition_normal": "shooter",
@@ -581,7 +581,7 @@
   },
   {
     "id": "expedition_30",
-    "status": "inactive",
+    "status": "active",
     "title": "Nightfall Barrage",
     "rarity": "rare",
     "condition_normal": "shooter",
@@ -1041,7 +1041,7 @@
   },
   {
     "id": "expedition_53",
-    "status": "active",
+    "status": "inactive",
     "title": "Skyreaver Strike",
     "rarity": "epic",
     "condition_normal": "shooter",
@@ -1081,7 +1081,7 @@
   },
   {
     "id": "expedition_55",
-    "status": "inactive",
+    "status": "active",
     "title": "Shadowrain Assault",
     "rarity": "epic",
     "condition_normal": "shooter",
@@ -1541,7 +1541,7 @@
   },
   {
     "id": "expedition_78",
-    "status": "active",
+    "status": "inactive",
     "title": "Judgment of the Skyfall",
     "rarity": "legendary",
     "condition_normal": "shooter",
@@ -1581,7 +1581,7 @@
   },
   {
     "id": "expedition_80",
-    "status": "inactive",
+    "status": "active",
     "title": "Judgment of Endless Night",
     "rarity": "legendary",
     "condition_normal": "shooter",
