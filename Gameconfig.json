@@ -15,7 +15,7 @@
   "upEqipmentMultiplier": 2,
   "spinCostHc": 50,
   "reshuffleEnergy": 5,
-  "maxSpinPerUser": 10,
+  "maxSpinsPurchasedPerDay": 10,
   "hero_auto_skill_2_unlock": 3,
   "hero_passive_skill_3_unlock": 10,
   "awaken_cost_star_1": 60,
