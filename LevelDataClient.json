@@ -22465,7 +22465,7 @@
             "route_id": 3,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Attack_Boss_1",
@@ -22508,6 +22508,20 @@
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
             "total_count": 3
+          },
+          {
+            "enemy_id": "Walk_Melee_Elite_3",
+            "route_id": 5,
+            "start_spawn_time": 1.4,
+            "delay_each_spawn": 1.2,
+            "total_count": 1
+          },
+          {
+            "enemy_id": "Fly_Attack_Boss_1",
+            "route_id": 5,
+            "start_spawn_time": 1.4,
+            "delay_each_spawn": 1.2,
+            "total_count": 1
           }
         ]
       }
