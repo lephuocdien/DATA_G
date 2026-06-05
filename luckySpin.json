@@ -3,19 +3,19 @@
   "rewards": [
     {
       "slot": 1,
-      "reward_amount": 5000,
+      "reward_amount": 3000,
       "reward_type": "sc",
-      "rate": 50
+      "rate": 30
     },
     {
       "slot": 2,
       "reward_amount": 1,
       "reward_type": "consumable_chest_reward_rare",
-      "rate": 20
+      "rate": 10
     },
     {
       "slot": 3,
-      "reward_amount": 50,
+      "reward_amount": 100,
       "reward_type": "hc",
       "rate": 3
     },
@@ -27,15 +27,15 @@
     },
     {
       "slot": 5,
-      "reward_amount": 5000,
+      "reward_amount": 3000,
       "reward_type": "xp_book",
-      "rate": 10
+      "rate": 25
     },
     {
       "slot": 6,
-      "reward_amount": 5000,
+      "reward_amount": 3000,
       "reward_type": "skill_book",
-      "rate": 10
+      "rate": 25
     },
     {
       "slot": 7,
