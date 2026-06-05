@@ -525,7 +525,7 @@
     "Y": 10,
     "Z": 2,
     "AoE": 1.2,
-    "cooldown": 10
+    "cooldown": 16
   },
   {
     "Skill Name": "Tidal Slash",
