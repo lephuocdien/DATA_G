@@ -2,7 +2,7 @@
   {
     "tier": 1,
     "energy spent": 0,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "sc",
     "paid_reward_amount": 100,
     "paid_reward_type": "hc"
@@ -10,7 +10,7 @@
   {
     "tier": 2,
     "energy spent": 30,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "xp_book",
     "paid_reward_amount": 1,
     "paid_reward_type": "summon_ticket"
@@ -20,7 +20,7 @@
     "energy spent": 60,
     "free_reward_amount": 50,
     "free_reward_type": "hc",
-    "paid_reward_amount": 5000,
+    "paid_reward_amount": 4000,
     "paid_reward_type": "xp_book"
   },
   {
@@ -34,7 +34,7 @@
   {
     "tier": 5,
     "energy spent": 120,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "skill_book",
     "paid_reward_amount": 1,
     "paid_reward_type": "skip_ticket"
@@ -42,7 +42,7 @@
   {
     "tier": 6,
     "energy spent": 150,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "sc",
     "paid_reward_amount": 100,
     "paid_reward_type": "hc"
@@ -60,13 +60,13 @@
     "energy spent": 210,
     "free_reward_amount": 1,
     "free_reward_type": "summon_ticket",
-    "paid_reward_amount": 5000,
+    "paid_reward_amount": 4000,
     "paid_reward_type": "skill_book"
   },
   {
     "tier": 9,
     "energy spent": 240,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "sc",
     "paid_reward_amount": 1,
     "paid_reward_type": "summon_ticket"
@@ -74,7 +74,7 @@
   {
     "tier": 10,
     "energy spent": 270,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "xp_book",
     "paid_reward_amount": 1,
     "paid_reward_type": "consumable_chest_material_epic"
@@ -98,9 +98,9 @@
   {
     "tier": 13,
     "energy spent": 380,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "skill_book",
-    "paid_reward_amount": 5000,
+    "paid_reward_amount": 4000,
     "paid_reward_type": "xp_book"
   },
   {
@@ -130,7 +130,7 @@
   {
     "tier": 17,
     "energy spent": 540,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "sc",
     "paid_reward_amount": 1,
     "paid_reward_type": "summon_ticket"
@@ -138,9 +138,9 @@
   {
     "tier": 18,
     "energy spent": 580,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "xp_book",
-    "paid_reward_amount": 5000,
+    "paid_reward_amount": 4000,
     "paid_reward_type": "skill_book"
   },
   {
@@ -162,7 +162,7 @@
   {
     "tier": 21,
     "energy spent": 700,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "skill_book",
     "paid_reward_amount": 100,
     "paid_reward_type": "hc"
@@ -170,7 +170,7 @@
   {
     "tier": 22,
     "energy spent": 740,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "sc",
     "paid_reward_amount": 1,
     "paid_reward_type": "summon_ticket"
@@ -180,7 +180,7 @@
     "energy spent": 780,
     "free_reward_amount": 1,
     "free_reward_type": "consumable_chest_reward_uncommon",
-    "paid_reward_amount": 5000,
+    "paid_reward_amount": 4000,
     "paid_reward_type": "xp_book"
   },
   {
@@ -194,7 +194,7 @@
   {
     "tier": 25,
     "energy spent": 860,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "sc",
     "paid_reward_amount": 1,
     "paid_reward_type": "skip_ticket"
@@ -202,7 +202,7 @@
   {
     "tier": 26,
     "energy spent": 900,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "xp_book",
     "paid_reward_amount": 100,
     "paid_reward_type": "hc"
@@ -220,13 +220,13 @@
     "energy spent": 980,
     "free_reward_amount": 1,
     "free_reward_type": "consumable_chest_material_rare",
-    "paid_reward_amount": 5000,
+    "paid_reward_amount": 4000,
     "paid_reward_type": "skill_book"
   },
   {
     "tier": 29,
     "energy spent": 1020,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "skill_book",
     "paid_reward_amount": 1,
     "paid_reward_type": "summon_ticket"
@@ -234,7 +234,7 @@
   {
     "tier": 30,
     "energy spent": 1060,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "sc",
     "paid_reward_amount": 1,
     "paid_reward_type": "consumable_chest_material_legendary"
@@ -258,15 +258,15 @@
   {
     "tier": 33,
     "energy spent": 1200,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "sc",
-    "paid_reward_amount": 5000,
+    "paid_reward_amount": 4000,
     "paid_reward_type": "xp_book"
   },
   {
     "tier": 34,
     "energy spent": 1250,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "xp_book",
     "paid_reward_amount": 1,
     "paid_reward_type": "summon_ticket"
@@ -290,7 +290,7 @@
   {
     "tier": 37,
     "energy spent": 1400,
-    "free_reward_amount": 2000,
+    "free_reward_amount": 1500,
     "free_reward_type": "skill_book",
     "paid_reward_amount": 1,
     "paid_reward_type": "summon_ticket"
@@ -300,7 +300,7 @@
     "energy spent": 1450,
     "free_reward_amount": 1,
     "free_reward_type": "skip_ticket",
-    "paid_reward_amount": 5000,
+    "paid_reward_amount": 4000,
     "paid_reward_type": "skill_book"
   },
   {
