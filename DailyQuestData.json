@@ -18,7 +18,7 @@
   {
     "id": "daily_quest_3",
     "condition": "Spend a total of {0} golds",
-    "x": 5000,
+    "x": 3000,
     "reward_amount": 1000,
     "reward_type": "xp_book",
     "redirect_to": "hero_screen"
