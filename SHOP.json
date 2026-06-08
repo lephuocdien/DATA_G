@@ -827,7 +827,7 @@
       "category": "exchange_currency",
       "status": "active",
       "type": "currency",
-      "price_amount": 50,
+      "price_amount": 80,
       "price_type": "hc",
       "limit": 10,
       "reset_limit_interval": 1,
