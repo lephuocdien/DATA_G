@@ -49,7 +49,8 @@
   "power_card_fragment_duplicated": 60,
   "refund_energy_ratio": 0.5,
   "reset_resource_cost": 100,
-  "adsReviveHealthAmount":3
+  "adsReviveHealthAmount":3,
+  "ios_iap_startup_restore_enabled":0
 }
 
 
