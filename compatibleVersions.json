@@ -1,6 +1,6 @@
 {
   "android": {
-    "compatibleClientVersions": ["1.0.0"],
+    "compatibleClientVersions": ["1.0.1"],
     "storeUrl": "https://play.google.com/store/apps/details?id=com.your.package"
   },
   "ios": {
