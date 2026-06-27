@@ -4,7 +4,7 @@
     "storeUrl": "https://play.google.com/store/apps/details?id=com.your.package"
   },
   "ios": {
-    "compatibleClientVersions": ["1.0.1"],
+    "compatibleClientVersions": ["1.0.2"],
     "storeUrl": "https://testflight.apple.com/join/xxxxxxxx"
   }
 }
