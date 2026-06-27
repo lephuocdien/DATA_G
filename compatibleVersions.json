@@ -5,6 +5,6 @@
   },
   "ios": {
     "compatibleClientVersions": ["1.0.2"],
-    "storeUrl": "https://testflight.apple.com/join/xxxxxxxx"
+    "storeUrl": "itms-beta://"
   }
 }
