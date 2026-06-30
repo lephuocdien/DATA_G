@@ -1,0 +1,18 @@
+{
+    "featureSettings": [
+        {
+            "feature": 0,
+            "enabledByDefault": true,
+            "countryOverrides": [
+                {
+                    "countryCode": "de",
+                    "isEnabled": false
+                },
+                {
+                    "countryCode": "us",
+                    "isEnabled": false
+                }
+            ]
+        }
+    ]
+}
