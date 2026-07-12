@@ -1,6 +1,6 @@
 {
   "android": {
-    "compatibleClientVersions": ["1.0.4"],
+    "compatibleClientVersions": ["1.0.5"],
     "storeUrl": "https://play.google.com/store/apps/details?id=com.nexuscelestial.nexusfantasy"
   },
   "ios": {
