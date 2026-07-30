@@ -233,7 +233,7 @@
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 2
           }
         ]
       },
@@ -247,7 +247,7 @@
             "route_id": 1,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 2
           }
         ]
       },
@@ -275,7 +275,7 @@
             "route_id": 2,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 2
           }
         ]
       },
@@ -289,7 +289,7 @@
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 2
           }
         ]
       },
@@ -317,7 +317,7 @@
             "route_id": 1,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 2
           }
         ]
       },
@@ -331,7 +331,7 @@
             "route_id": 0,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 2
           }
         ]
       },
@@ -359,7 +359,7 @@
             "route_id": 2,
             "start_spawn_time": 2,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 3
           }
         ]
       },
@@ -387,7 +387,7 @@
             "route_id": 1,
             "start_spawn_time": 1,
             "delay_each_spawn": 1.2,
-            "total_count": 4
+            "total_count": 3
           }
         ]
       },
