@@ -20380,7 +20380,7 @@
             "route_id": 7,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_9",
@@ -20562,14 +20562,14 @@
             "route_id": 8,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
             "route_id": 8,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -20583,14 +20583,14 @@
             "route_id": 9,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_9",
             "route_id": 9,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -20765,14 +20765,14 @@
             "route_id": 8,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
             "route_id": 8,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -20786,14 +20786,14 @@
             "route_id": 9,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_9",
             "route_id": 9,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -21160,7 +21160,7 @@
             "route_id": 3,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
@@ -21202,7 +21202,7 @@
             "route_id": 4,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -21293,7 +21293,7 @@
             "route_id": 3,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
@@ -21335,7 +21335,7 @@
             "route_id": 5,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -21419,7 +21419,7 @@
             "route_id": 3,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -21454,7 +21454,7 @@
             "route_id": 4,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -21545,7 +21545,7 @@
             "route_id": 3,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 2
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
@@ -21744,7 +21744,7 @@
             "route_id": 7,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
@@ -21842,7 +21842,7 @@
             "route_id": 9,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -21989,14 +21989,14 @@
             "route_id": 8,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
             "route_id": 8,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -22010,14 +22010,14 @@
             "route_id": 6,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_9",
             "route_id": 6,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -22115,14 +22115,14 @@
             "route_id": 8,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
             "route_id": 8,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -22132,32 +22132,18 @@
         "enemy_level": 35,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_2",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 2
-          },
-          {
             "enemy_id": "Fly_Rush_Normal_8",
             "route_id": 7,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_9",
             "route_id": 7,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
-          },
-          {
-            "enemy_id": "Fly_Rush_Normal_10",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -22255,14 +22241,14 @@
             "route_id": 8,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
             "route_id": 8,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -22276,7 +22262,7 @@
             "route_id": 6,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_9",
@@ -22388,7 +22374,7 @@
             "route_id": 8,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -22398,32 +22384,18 @@
         "enemy_level": 35,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_2",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 2
-          },
-          {
             "enemy_id": "Fly_Rush_Normal_8",
             "route_id": 7,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_9",
             "route_id": 7,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
-          },
-          {
-            "enemy_id": "Fly_Rush_Normal_10",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -28405,7 +28377,7 @@
             "route_id": 7,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_9",
@@ -28587,14 +28559,14 @@
             "route_id": 8,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
             "route_id": 8,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -28615,7 +28587,7 @@
             "route_id": 9,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -28790,7 +28762,7 @@
             "route_id": 8,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
@@ -28811,14 +28783,14 @@
             "route_id": 9,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_9",
             "route_id": 9,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -29010,7 +28982,7 @@
             "route_id": 4,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 3
           }
         ]
       },
@@ -29094,7 +29066,7 @@
             "route_id": 3,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 3
           }
         ]
       },
@@ -29185,7 +29157,7 @@
             "route_id": 3,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
@@ -29220,7 +29192,7 @@
             "route_id": 4,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_9",
@@ -29318,7 +29290,7 @@
             "route_id": 3,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 2
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
@@ -29360,7 +29332,7 @@
             "route_id": 5,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -29472,7 +29444,7 @@
             "route_id": 4,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_9",
@@ -29570,14 +29542,14 @@
             "route_id": 3,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 3
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
             "route_id": 3,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -30014,7 +29986,7 @@
             "route_id": 8,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
@@ -30031,18 +30003,11 @@
         "enemy_level": 45,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_2",
-            "route_id": 6,
-            "start_spawn_time": 1.4,
-            "delay_each_spawn": 1.2,
-            "total_count": 2
-          },
-          {
             "enemy_id": "Fly_Rush_Normal_9",
             "route_id": 6,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -30140,7 +30105,7 @@
             "route_id": 8,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
@@ -30157,13 +30122,6 @@
         "enemy_level": 45,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_2",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 2
-          },
-          {
             "enemy_id": "Fly_Rush_Normal_8",
             "route_id": 7,
             "start_spawn_time": 2.8,
@@ -30175,14 +30133,7 @@
             "route_id": 7,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
-            "total_count": 2
-          },
-          {
-            "enemy_id": "Fly_Rush_Normal_10",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -30280,14 +30231,14 @@
             "route_id": 8,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           },
           {
             "enemy_id": "Fly_Rush_Normal_10",
             "route_id": 8,
             "start_spawn_time": 1.4,
             "delay_each_spawn": 1.2,
-            "total_count": 2
+            "total_count": 1
           }
         ]
       },
@@ -30423,13 +30374,6 @@
         "enemy_level": 45,
         "spawn_groups": [
           {
-            "enemy_id": "Fly_Rush_Normal_2",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 2
-          },
-          {
             "enemy_id": "Fly_Rush_Normal_8",
             "route_id": 7,
             "start_spawn_time": 2.8,
@@ -30438,13 +30382,6 @@
           },
           {
             "enemy_id": "Fly_Rush_Normal_9",
-            "route_id": 7,
-            "start_spawn_time": 2.8,
-            "delay_each_spawn": 1.2,
-            "total_count": 2
-          },
-          {
-            "enemy_id": "Fly_Rush_Normal_10",
             "route_id": 7,
             "start_spawn_time": 2.8,
             "delay_each_spawn": 1.2,
